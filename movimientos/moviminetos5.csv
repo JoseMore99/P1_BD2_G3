@@ -1,0 +1,93 @@
+name,types,power,Category,acc,pp,efect
+Acid Spray,Poison,40,special,100,20,Sharply lowers opponent's Special Defense.
+Acrobatics,Flying,55,physical,100,15,Stronger when the user does not have a held item.
+After You,Normal,—,status,—,15,Gives target priority in the next turn.
+Ally Switch,Psychic,—,status,—,15,User switches with opposite teammate.
+Autotomize,Steel,—,status,—,15,Reduces weight and sharply raises Speed.
+Bestow,Normal,—,status,—,15,Gives the user's held item to the target.
+Blue Flare,Fire,130,special,85,5,May burn opponent.
+Bolt Strike,Electric,130,physical,85,5,May paralyze opponent.
+Bulldoze,Ground,60,physical,100,20,Lowers opponent's Speed.
+Chip Away,Normal,70,physical,100,20,Ignores opponent's stat changes.
+Circle Throw,Fighting,60,physical,90,10,"In battles, the opponent switches. In the wild, the Pokémon runs."
+Clear Smog,Poison,50,special,—,15,Removes all of the target's stat changes.
+Coil,Poison,—,status,—,20,"Raises user's Attack, Defense and Accuracy."
+Cotton Guard,Grass,—,status,—,10,Drastically raises user's Defense.
+Dragon Tail,Dragon,60,physical,90,10,"In battles, the opponent switches. In the wild, the Pokémon runs."
+Drill Run,Ground,80,physical,95,10,High critical hit ratio.
+Dual Chop,Dragon,40,physical,90,15,Hits twice in one turn.
+Echoed Voice,Normal,40,special,100,15,Power increases each turn.
+Electro Ball,Electric,—,special,100,10,"The faster the user, the stronger the attack."
+Electroweb,Electric,55,special,95,15,Lowers opponent's Speed.
+Entrainment,Normal,—,status,100,15,Makes target's ability same as user's.
+Fiery Dance,Fire,80,special,100,10,May raise user's Special Attack.
+Final Gambit,Fighting,—,special,100,5,Inflicts damage equal to the user's remaining HP. User faints.
+Fire Pledge,Fire,80,special,100,10,Added effects appear if combined with Grass Pledge or Water Pledge.
+Flame Burst,Fire,70,special,100,15,May also injure nearby Pokémon.
+Flame Charge,Fire,50,physical,100,20,Raises user's Speed.
+Foul Play,Dark,95,physical,100,15,Uses the opponent's Attack stat.
+Freeze Shock,Ice,140,physical,90,5,"Charges on first turn, attacks on second. May paralyze opponent."
+Frost Breath,Ice,60,special,90,10,Always results in a critical hit.
+Fusion Bolt,Electric,100,physical,100,5,Power increases if Fusion Flare is used in the same turn.
+Fusion Flare,Fire,100,special,100,5,Power increases if Fusion Bolt is used in the same turn.
+Gear Grind,Steel,50,physical,85,15,Hits twice in one turn.
+Glaciate,Ice,65,special,95,10,Lowers opponent's Speed.
+Grass Pledge,Grass,80,special,100,10,Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.
+Guard Split,Psychic,—,status,—,10,Averages Defense and Special Defense with the target.
+Head Charge,Normal,120,physical,100,15,User receives recoil damage.
+Heal Pulse,Psychic,—,status,—,10,Restores half the target's max HP.
+Heart Stamp,Psychic,60,physical,100,25,May cause flinching.
+Heat Crash,Fire,—,physical,100,10,"The heavier the user, the stronger the attack."
+Heavy Slam,Steel,—,physical,100,10,"The heavier the user, the stronger the attack."
+Hex,Ghost,65,special,100,10,Inflicts more damage if the target has a status condition.
+Hone Claws,Dark,—,status,—,15,Raises user's Attack and Accuracy.
+Horn Leech,Grass,75,physical,100,10,User recovers half the HP inflicted on opponent.
+Hurricane,Flying,110,special,70,10,May confuse opponent.
+Ice Burn,Ice,140,special,90,5,"Charges on first turn, attacks on second. May burn opponent."
+Icicle Crash,Ice,85,physical,90,10,May cause flinching.
+Incinerate,Fire,60,special,100,15,Destroys the target's held berry.
+Inferno,Fire,100,special,50,5,Burns opponent.
+Leaf Tornado,Grass,65,special,90,10,May lower opponent's Accuracy.
+Low Sweep,Fighting,65,physical,100,20,Lowers opponent's Speed.
+Magic Room,Psychic,—,status,—,10,Suppresses the effects of held items for five turns.
+Night Daze,Dark,85,special,95,10,May lower opponent's Accuracy.
+Power Split,Psychic,—,status,—,10,Averages Attack and Special Attack with the target.
+Psyshock,Psychic,80,special,100,10,"Inflicts damage based on the target's Defense, not Special Defense."
+Psystrike,Psychic,100,special,100,10,"Inflicts damage based on the target's Defense, not Special Defense."
+Quash,Dark,—,status,100,15,Makes the target act last this turn.
+Quick Guard,Fighting,—,status,—,15,Protects the user's team from high-priority moves.
+Quiver Dance,Bug,—,status,—,20,"Raises user's Special Attack, Special Defense and Speed."
+Rage Powder,Bug,—,status,—,20,"Forces attacks to hit user, not team-mates."
+Razor Shell,Water,75,physical,95,10,May lower opponent's Defense.
+Reflect Type,Normal,—,status,—,15,User becomes the target's type.
+Relic Song,Normal,75,special,100,10,May put the target to sleep.
+Retaliate,Normal,70,physical,100,5,Inflicts double damage if a teammate fainted on the last turn.
+Round,Normal,60,special,100,15,Power increases if teammates use it in the same turn.
+Sacred Sword,Fighting,90,physical,100,15,Ignores opponent's stat changes.
+Scald,Water,80,special,100,15,May burn opponent.
+Searing Shot,Fire,100,special,100,5,May burn opponent.
+Secret Sword,Fighting,85,special,100,10,"Inflicts damage based on the target's Defense, not Special Defense."
+Shell Smash,Normal,—,status,—,15,"Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense."
+Shift Gear,Steel,—,status,—,10,Raises user's Attack and sharply raises Speed.
+Simple Beam,Normal,—,status,100,15,Changes target's ability to Simple.
+Sky Drop,Flying,60,physical,100,10,"Takes opponent into the air on first turn, drops them on second turn."
+Sludge Wave,Poison,95,special,100,10,May poison opponent.
+Smack Down,Rock,50,physical,100,15,Makes Flying-type Pokémon vulnerable to Ground moves.
+Snarl,Dark,55,special,95,15,Lowers opponent's Special Attack.
+Soak,Water,—,status,100,20,Changes the target's type to water.
+Steamroller,Bug,65,physical,100,20,May cause flinching.
+Stored Power,Psychic,20,special,100,10,Power increases when user's stats have been raised.
+Storm Throw,Fighting,60,physical,100,10,Always results in a critical hit.
+Struggle Bug,Bug,50,special,100,20,Lowers opponent's Special Attack.
+Synchronoise,Psychic,120,special,100,10,Hits any Pokémon that shares a type with the user.
+Tail Slap,Normal,25,physical,85,10,Hits 2-5 times in one turn.
+Techno Blast,Normal,120,special,100,5,Type depends on the Drive being held.
+Telekinesis,Psychic,—,status,—,15,"Ignores opponent's Evasiveness for three turns, add Ground immunity."
+V-create,Fire,180,physical,95,5,"Lowers user's Defense, Special Defense and Speed."
+Venoshock,Poison,65,special,100,10,Inflicts double damage if the target is poisoned.
+Volt Switch,Electric,70,special,100,20,User must switch out after attacking.
+Water Pledge,Water,80,special,100,10,Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.
+Wide Guard,Rock,—,status,—,10,Protects the user's team from multi-target attacks.
+Wild Charge,Electric,90,physical,100,15,User receives recoil damage.
+Wonder Room,Psychic,—,status,—,10,Swaps every Pokémon's Defense and Special Defense for 5 turns.
+Work Up,Normal,—,status,—,30,Raises user's Attack and Special Attack.

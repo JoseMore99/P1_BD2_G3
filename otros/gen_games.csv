@@ -1,0 +1,39 @@
+generation, name, region
+1,Red,Kanto
+1,FireRed,Kanto
+1,Blue,Kanto
+1,LeafGreen,Kanto
+1,Yellow,Kanto
+1,Let's Go Eevee!,Kanto
+1,Let's Go Pikachu!,Kanto
+2,Silver,Johto
+2,SoulSilver,Johto
+2,Gold,Johto
+2,HeartGold,Johto
+2,Crystal,Johto
+3,Sapphire,Hoenn
+3,Alpha Sapphire,Hoenn
+3,Ruby,Hoenn
+3,Omega Ruby,Hoenn
+3,Emerald,Hoenn
+4,Diamond,Sinnoh
+4,Brilliant Diamond,Sinnoh
+4,Pearl,Sinnoh
+4,Shining Pearl,Sinnoh
+4,Platinum,Sinnoh
+5,Black,Unova
+5,Black2,Unova
+5,White,Unova
+5,White2,Unova
+6,X,Kalos
+6,Y,Kalos
+7,Sun,Alola
+7,Ultra Sun,Alola
+7,Moon,Alola
+7,Ultra Moon,Alola
+8,Sword,Galar
+8,Shield,Galar
+9,Scarlet,Paldea
+9,Voilet,Paldea
+Legend,Arceus,Sinnoh
+Legend,Z-A,Kalos

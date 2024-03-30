@@ -1,0 +1,114 @@
+name,types,power,Category,acc,pp,efect
+Acupressure,Normal,—,status,—,30,Sharply raises a random stat.
+Air Slash,Flying,75,special,95,15,May cause flinching.
+Aqua Jet,Water,40,physical,100,20,User attacks first.
+Aqua Ring,Water,—,status,—,20,Restores a little HP each turn.
+Aqua Tail,Water,90,physical,90,10,
+Assurance,Dark,60,physical,100,10,Power doubles if opponent already took damage in the same turn.
+Attack Order,Bug,90,physical,100,15,High critical hit ratio.
+Aura Sphere,Fighting,80,special,-1,20,Ignores Accuracy and Evasiveness.
+Avalanche,Ice,60,physical,100,10,Power doubles if user took damage first.
+Brave Bird,Flying,120,physical,100,15,User receives recoil damage.
+Brine,Water,65,special,100,10,Power doubles if opponent's HP is less than 50%.
+Bug Bite,Bug,60,physical,100,20,Receives the effect from the opponent's held berry.
+Bug Buzz,Bug,90,special,100,10,May lower opponent's Special Defense.
+Bullet Punch,Steel,40,physical,100,30,User attacks first.
+Captivate,Normal,—,status,100,20,Sharply lowers opponent's Special Attack if opposite gender.
+Charge Beam,Electric,50,special,90,10,May raise user's Special Attack.
+Chatter,Flying,65,special,100,20,Confuses opponent.
+Close Combat,Fighting,120,physical,100,5,Lowers user's Defense and Special Defense.
+Copycat,Normal,—,status,—,20,Copies opponent's last move.
+Cross Poison,Poison,70,physical,100,20,High critical hit ratio. May poison opponent.
+Crush Grip,Normal,—,physical,100,5,More powerful when opponent has higher HP.
+Dark Pulse,Dark,80,special,100,15,May cause flinching.
+Dark Void,Dark,—,status,50,10,Puts all adjacent opponents to sleep.
+Defend Order,Bug,—,status,—,10,Raises user's Defense and Special Defense.
+Defog,Flying,—,status,—,15,Lowers opponent's Evasiveness and clears fog.
+Discharge,Electric,80,special,100,15,May paralyze opponent.
+Double Hit,Normal,35,physical,90,10,Hits twice in one turn.
+Draco Meteor,Dragon,130,special,90,5,Sharply lowers user's Special Attack.
+Dragon Pulse,Dragon,85,special,100,10,
+Dragon Rush,Dragon,100,physical,75,10,May cause flinching.
+Drain Punch,Fighting,75,physical,100,10,User recovers half the HP inflicted on opponent.
+Earth Power,Ground,90,special,100,10,May lower opponent's Special Defense.
+Embargo,Dark,—,status,100,15,Opponent cannot use items.
+Energy Ball,Grass,90,special,100,10,May lower opponent's Special Defense.
+Feint,Normal,30,physical,100,10,Only hits if opponent uses Protect or Detect in the same turn.
+Fire Fang,Fire,65,physical,95,15,May cause flinching and/or burn opponent.
+Flare Blitz,Fire,120,physical,100,15,User receives recoil damage. May burn opponent.
+Flash Cannon,Steel,80,special,100,10,May lower opponent's Special Defense.
+Fling,Dark,—,physical,100,10,Power depends on held item.
+Focus Blast,Fighting,120,special,70,5,May lower opponent's Special Defense.
+Force Palm,Fighting,60,physical,100,10,May paralyze opponent.
+Gastro Acid,Poison,—,status,100,10,Cancels out the effect of the opponent's Ability.
+Giga Impact,Normal,150,physical,90,5,User must recharge next turn.
+Grass Knot,Grass,—,special,100,20,"The heavier the opponent, the stronger the attack."
+Gravity,Psychic,—,status,—,5,Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.
+Guard Swap,Psychic,—,status,—,10,User and opponent swap Defense and Special Defense.
+Gunk Shot,Poison,120,physical,80,5,May poison opponent.
+Gyro Ball,Steel,—,physical,100,5,"The slower the user, the stronger the attack."
+Hammer Arm,Fighting,100,physical,90,10,Lowers user's Speed.
+Head Smash,Rock,150,physical,80,5,User receives recoil damage.
+Heal Block,Psychic,—,status,100,15,Prevents the opponent from restoring HP for 5 turns.
+Heal Order,Bug,—,status,—,10,User recovers half its max HP.
+Healing Wish,Psychic,—,status,—,10,The user faints and the next Pokémon released is fully healed.
+Heart Swap,Psychic,—,status,—,10,Stat changes are swapped with the opponent.
+Ice Fang,Ice,65,physical,95,15,May cause flinching and/or freeze opponent.
+Ice Shard,Ice,40,physical,100,30,User attacks first.
+Iron Head,Steel,80,physical,100,15,May cause flinching.
+Judgment,Normal,100,special,100,10,Type depends on the Arceus Plate being held.
+Last Resort,Normal,140,physical,100,5,Can only be used after all other moves are used.
+Lava Plume,Fire,80,special,100,15,May burn opponent.
+Leaf Storm,Grass,130,special,90,5,Sharply lowers user's Special Attack.
+Lucky Chant,Normal,—,status,—,30,Opponent cannot land critical hits for 5 turns.
+Lunar Dance,Psychic,—,status,—,10,The user faints but the next Pokémon released is fully healed.
+Magma Storm,Fire,100,special,75,5,"Traps opponent, damaging them for 4-5 turns."
+Magnet Bomb,Steel,60,physical,-1,20,Ignores Accuracy and Evasiveness.
+Magnet Rise,Electric,—,status,—,10,User becomes immune to Ground-type moves for 5 turns.
+Me First,Normal,—,status,—,20,User copies the opponent's attack with 1.5× power.
+Metal Burst,Steel,—,physical,100,10,Deals damage equal to 1.5x opponent's attack.
+Miracle Eye,Psychic,—,status,—,40,"Resets opponent's Evasiveness, removes Dark's Psychic immunity."
+Mirror Shot,Steel,65,special,85,10,May lower opponent's Accuracy.
+Mud Bomb,Ground,65,special,85,10,May lower opponent's Accuracy.
+Nasty Plot,Dark,—,status,—,20,Sharply raises user's Special Attack.
+Natural Gift,Normal,—,physical,100,15,Power and type depend on the user's held berry.
+Night Slash,Dark,70,physical,100,15,High critical hit ratio.
+Ominous Wind,Ghost,60,special,100,5,May raise all user's stats at once.
+Payback,Dark,50,physical,100,10,Power doubles if the user was attacked first.
+Pluck,Flying,60,physical,100,20,"If the opponent is holding a berry, its effect is stolen by user."
+Poison Jab,Poison,80,physical,100,20,May poison the opponent.
+Power Gem,Rock,80,special,100,20,
+Power Swap,Psychic,—,status,—,10,User and opponent swap Attack and Special Attack.
+Power Trick,Psychic,—,status,—,10,User's own Attack and Defense switch.
+Power Whip,Grass,120,physical,85,10,
+Psycho Cut,Psychic,70,physical,100,20,High critical hit ratio.
+Psycho Shift,Psychic,—,status,100,10,Transfers user's status condition to the opponent.
+Punishment,Dark,—,physical,100,5,Power increases when opponent's stats have been raised.
+Roar of Time,Dragon,150,special,90,5,User must recharge next turn.
+Rock Climb,Normal,90,physical,85,20,May confuse opponent.
+Rock Polish,Rock,—,status,—,20,Sharply raises user's Speed.
+Rock Wrecker,Rock,150,physical,90,5,User must recharge next turn.
+Roost,Flying,—,status,—,5,User recovers half of its max HP and loses the Flying type temporarily.
+Seed Bomb,Grass,80,physical,100,15,
+Seed Flare,Grass,120,special,85,5,May lower opponent's Special Defense.
+Shadow Claw,Ghost,70,physical,100,15,High critical hit ratio.
+Shadow Force,Ghost,120,physical,100,5,"Disappears on first turn, attacks on second. Can strike through Protect/Detect."
+Shadow Sneak,Ghost,40,physical,100,30,User attacks first.
+Spacial Rend,Dragon,100,special,95,5,High critical hit ratio.
+Stealth Rock,Rock,—,status,—,20,Damages opponent switching into battle.
+Stone Edge,Rock,100,physical,80,5,High critical hit ratio.
+Sucker Punch,Dark,70,physical,100,5,"User attacks first, but only works if opponent is readying an attack."
+Switcheroo,Dark,—,status,100,10,Swaps held items with the opponent.
+Tailwind,Flying,—,status,—,15,Doubles Speed for 4 turns.
+Thunder Fang,Electric,65,physical,95,15,May cause flinching and/or paralyze opponent.
+Toxic Spikes,Poison,—,status,—,20,Poisons opponents when they switch into battle.
+Trick Room,Psychic,—,status,—,5,Slower Pokémon move first in the turn for 5 turns.
+Trump Card,Normal,—,special,-1,5,"The lower the PP, the higher the power."
+U-turn,Bug,70,physical,100,20,User switches out immediately after attacking.
+Vacuum Wave,Fighting,40,special,100,30,User attacks first.
+Wake-Up Slap,Fighting,70,physical,100,10,"Power doubles if opponent is asleep, but wakes it up."
+Wood Hammer,Grass,120,physical,100,15,User receives recoil damage.
+Worry Seed,Grass,—,status,100,10,Changes the opponent's Ability to Insomnia.
+Wring Out,Normal,—,special,100,5,"The higher the opponent's HP, the higher the damage."
+X-Scissor,Bug,80,physical,100,15,
+Zen Headbutt,Psychic,80,physical,90,15,May cause flinching.

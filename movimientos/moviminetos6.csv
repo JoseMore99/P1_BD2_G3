@@ -1,0 +1,63 @@
+name,types,power,Category,acc,pp,efect
+Aromatic Mist,Fairy,—,status,—,20,Raises Special Defense of an ally.
+Baby-Doll Eyes,Fairy,—,status,100,30,Always goes first. Lowers the target's attack.
+Belch,Poison,120,special,90,10,User must have consumed a Berry.
+Boomburst,Normal,140,special,100,10,Hits all adjacent Pokémon.
+Celebrate,Normal,—,status,—,40,The Pokémon congratulates you on your special day. No battle effect.
+Confide,Normal,—,status,—,20,Lowers opponent's Special Attack.
+Crafty Shield,Fairy,—,status,—,10,Protects the Pokémon from status moves.
+Dazzling Gleam,Fairy,80,special,100,10,Hits all adjacent opponents.
+Diamond Storm,Rock,100,physical,95,5,May sharply raise user's Defense.
+Disarming Voice,Fairy,40,special,-1,15,Ignores Accuracy and Evasiveness.
+Dragon Ascent,Flying,120,physical,100,5,Lowers user's Defense and Special Defense.
+Draining Kiss,Fairy,50,special,100,10,User recovers most the HP inflicted on opponent.
+Eerie Impulse,Electric,—,status,100,15,Sharply lowers opponent's Special Attack.
+Electric Terrain,Electric,—,status,—,10,Prevents all Pokémon from falling asleep for 5 turns.
+Electrify,Electric,—,status,—,20,Changes the target's move to Electric type.
+Fairy Lock,Fairy,—,status,—,10,Prevents fleeing in the next turn.
+Fairy Wind,Fairy,40,special,100,30,
+Fell Stinger,Bug,50,physical,100,25,Drastically raises user's Attack if target is KO'd.
+Flower Shield,Fairy,—,status,—,10,Sharply raises Defense of all Grass-type Pokémon on the field.
+Flying Press,Fighting,100,physical,95,10,Deals Fighting and Flying type damage.
+Forest's Curse,Grass,—,status,100,20,Adds Grass type to opponent.
+Freeze-Dry,Ice,70,special,100,20,May freeze opponent. Super-effective against Water types.
+Geomancy,Fairy,—,status,—,10,"Charges on first turn, sharply raises user's Sp. Attack, Sp. Defense and Speed on the second."
+Grassy Terrain,Grass,—,status,—,10,Restores a little HP of all Pokémon for 5 turns. 
+Happy Hour,Normal,—,status,—,30,Doubles prize money from trainer battles.
+Hold Back,Normal,40,physical,100,40,Always leaves opponent with at least 1 HP.
+Hold Hands,Normal,—,status,—,40,Makes the user and an ally very happy.
+Hyperspace Fury,Dark,100,physical,-1,5,Lowers user's Defense. Can strike through Protect/Detect.
+Hyperspace Hole,Psychic,80,special,-1,5,Can strike through Protect/Detect.
+Infestation,Bug,20,special,100,20,"Traps opponent, damaging them for 4-5 turns."
+Ion Deluge,Electric,—,status,—,25,Changes Normal-type moves to Electric-type.
+King's Shield,Steel,—,status,—,10,Protects the user and lowers opponent's Attack on contact.
+Land's Wrath,Ground,90,physical,100,10,
+Light of Ruin,Fairy,140,special,90,5,User receives recoil damage.
+Magnetic Flux,Electric,—,status,—,20,Raises Defense and Sp. Defense of Plus/Minus Pokémon.
+Mat Block,Fighting,—,status,—,10,Protects teammates from damaging moves.
+Misty Terrain,Fairy,—,status,—,10,Protects the field from status conditions for 5 turns.
+Moonblast,Fairy,95,special,100,15,May lower opponent's Special Attack.
+Mystical Fire,Fire,75,special,100,10,Lowers opponent's Special Attack.
+Noble Roar,Normal,—,status,100,30,Lowers opponent's Attack and Special Attack.
+Nuzzle,Electric,20,physical,100,20,Paralyzes opponent.
+Oblivion Wing,Flying,80,special,100,10,User recovers most of the HP inflicted on opponent.
+Origin Pulse,Water,110,special,85,10,Hits all adjacent opponents.
+Parabolic Charge,Electric,65,special,100,20,User recovers half the HP inflicted on opponent.
+Parting Shot,Dark,—,status,100,20,Lowers opponent's Attack and Special Attack then switches out. 
+Petal Blizzard,Grass,90,physical,100,15,Hits all adjacent Pokémon.
+Phantom Force,Ghost,90,physical,100,10,"Disappears on first turn, attacks on second. Can strike through Protect/Detect."
+Play Nice,Normal,—,status,—,20,Lowers opponent's Attack. Always hits.
+Play Rough,Fairy,90,physical,90,10,May lower opponent's Attack.
+Powder,Bug,—,status,100,20,Damages Pokémon using Fire type moves.
+Power-Up Punch,Fighting,40,physical,100,20,Raises Attack.
+Precipice Blades,Ground,120,physical,85,10,Hits all adjacent opponents.
+Rototiller,Ground,—,status,—,10,Raises Attack and Special Attack of Grass-types.
+Spiky Shield,Grass,—,status,—,10,Protects the user and inflicts damage on contact.
+Steam Eruption,Water,110,special,95,5,May burn opponent.
+Sticky Web,Bug,—,status,—,20,Lowers opponent's Speed when switching into battle.
+Thousand Arrows,Ground,90,physical,100,10,Makes Flying-type Pokémon vulnerable to Ground moves.
+Thousand Waves,Ground,90,physical,100,10,Opponent cannot flee or switch.
+Topsy-Turvy,Dark,—,status,—,20,Reverses stat changes of opponent.
+Trick-or-Treat,Ghost,—,status,100,20,Adds Ghost type to opponent.
+Venom Drench,Poison,—,status,100,20,Lowers poisoned opponent's Special Attack and Speed.
+Water Shuriken,Water,15,special,100,20,Hits 2-5 times in one turn.
