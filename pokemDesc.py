@@ -61,7 +61,12 @@ for pokemon in pokemons:
               textos = info_table[20].find_all('td')
             else:
               info=info_table[24].find_all('th')
-              textos = info_table[24].find_all('td')
+              game=[a.text for a in info[0].find_all('span')]
+              if len(game)>0:
+                textos = info_table[24].find_all('td')
+              else:
+                info=info_table[28].find_all('th')
+                textos = info_table[28].find_all('td')
     for i in range(len(info)):
       game=[a.text for a in info[i].find_all('span')]
       All_game = game
