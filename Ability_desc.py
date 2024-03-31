@@ -14,9 +14,6 @@ soup= BeautifulSoup(response.text,'html.parser')
 lista_abil=[]
 lista_url=[]
 # CSV FILE
-csv_file=open('./otros/ability_desc.csv','w',newline='',encoding='utf-8')
-csv_writter=csv.writer(csv_file)
-csv_writter.writerow(['pokedex_id','abilities'])
 
 # find all pokemons
 pokemons_table=soup.find('table',class_='data-table sticky-header block-wide')
@@ -45,7 +42,25 @@ for pokemon in pokemons:
         lista_abil.append(i.text)
         lista_url.append(i["href"])
 
+csv_file=open('./otros/ability_desc.csv','w',newline='',encoding='utf-8')
+csv_writter=csv.writer(csv_file)
+csv_writter.writerow(['ability','language','Deescription'])
+
 print(lista_abil)
-print(lista_url)
-csv_writter.writerow([pokedex_number])
-    
+for j in range(len(lista_url)):
+
+  url='https://pokemondb.net'+lista_url[j]
+  # HTTP request
+  response =requests.get(url)
+  # BeautifulSoup object
+  soup= BeautifulSoup(response.text,'html.parser')
+  info_table=soup.find('table',class_='vitals-table')
+  filas = info_table.find_all('tr')
+  for i in filas:
+    info=i.find_all('th')
+    game=[a.text for a in info[0].find_all('span')]
+    textos = i.find('td')
+    habilidad=lista_abil[j]
+    descr=textos.text
+    csv_writter.writerow([habilidad,game,descr])
+      

@@ -1,7 +1,1334 @@
-pokedex_id,abilities
-0001
-0002
-0003
-0003
-0004
-0005
+ability,language,Deescription
+Overgrow,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Ups GRASS moves in a pinch.
+Overgrow,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Powers up Grass-type moves in a pinch.
+Overgrow,"['Black', 'White', 'Black 2', 'White 2']",Powers up Grass-type moves in a pinch.
+Overgrow,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up Grass-type moves when the Pokémon is in trouble.
+Overgrow,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up Grass-type moves when the Pokémon’s HP is low.
+Overgrow,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up Grass-type moves when the Pokémon’s HP is low.
+Overgrow,"['Scarlet', 'Violet']",Powers up Grass-type moves when the Pokémon’s HP is low.
+Chlorophyll,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Raises SPEED in sunshine.
+Chlorophyll,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Boosts the Pokémon’s Speed in sunshine.
+Chlorophyll,"['Black', 'White', 'Black 2', 'White 2']",Boosts the Pokémon’s Speed in sunshine.
+Chlorophyll,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Pokémon’s Speed stat in sunshine.
+Chlorophyll,"['Sun', 'Moon']",Boosts the Pokémon’s Speed stat in sunshine.
+Chlorophyll,"['Ultra Sun', 'Ultra Moon']",Boosts the Pokémon’s Speed stat in harsh sunlight.
+Chlorophyll,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Speed stat in harsh sunlight.
+Chlorophyll,"['Scarlet', 'Violet']",Boosts the Pokémon’s Speed stat in harsh sunlight.
+Blaze,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Ups FIRE moves in a pinch.
+Blaze,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Powers up Fire-type moves in a pinch.
+Blaze,"['Black', 'White', 'Black 2', 'White 2']",Powers up Fire-type moves in a pinch.
+Blaze,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up Fire-type moves when the Pokémon is in trouble.
+Blaze,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up Fire-type moves when the Pokémon’s HP is low.
+Blaze,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up Fire-type moves when the Pokémon’s HP is low.
+Blaze,"['Scarlet', 'Violet']",Powers up Fire-type moves when the Pokémon’s HP is low.
+Solar Power,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']","Boosts Sp. Atk, but lowers HP in sunshine."
+Solar Power,"['Black', 'White', 'Black 2', 'White 2']","In sunshine, Sp. Atk is boosted but HP decreases."
+Solar Power,"['X', 'Y', 'O.Ruby', 'A.Sapphire']","Boosts the Sp. Atk stat in sunny weather, but HP decreases."
+Solar Power,"['Sun', 'Moon']","Boosts the Sp. Atk stat in sunny weather, but HP decreases every turn."
+Solar Power,"['Ultra Sun', 'Ultra Moon']","Boosts the Sp. Atk stat in harsh sunlight, but HP decreases every turn."
+Solar Power,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Boosts the Sp. Atk stat in harsh sunlight, but HP decreases every turn."
+Solar Power,"['Scarlet', 'Violet']","In harsh sunlight, the Pokémon’s Sp. Atk stat is boosted, but its HP decreases every turn."
+Torrent,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Ups WATER moves in a pinch.
+Torrent,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Powers up Water-type moves in a pinch.
+Torrent,"['Black', 'White', 'Black 2', 'White 2']",Powers up Water-type moves in a pinch.
+Torrent,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up Water-type moves when the Pokémon is in trouble.
+Torrent,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up Water-type moves when the Pokémon’s HP is low.
+Torrent,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up Water-type moves when the Pokémon’s HP is low.
+Torrent,"['Scarlet', 'Violet']",Powers up Water-type moves when the Pokémon’s HP is low.
+Rain Dish,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Slight HP recovery in rain.
+Rain Dish,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon gradually recovers HP in rain.
+Rain Dish,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon gradually regains HP in rain.
+Rain Dish,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon gradually regains HP in rain.
+Rain Dish,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon gradually regains HP in rain.
+Rain Dish,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon gradually regains HP in rain.
+Rain Dish,"['Scarlet', 'Violet']",The Pokémon gradually regains HP in rain.
+Shield Dust,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents added effects.
+Shield Dust,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Blocks the added effects of attacks taken.
+Shield Dust,"['Black', 'White', 'Black 2', 'White 2']",Blocks the added effects of attacks taken.
+Shield Dust,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Blocks the additional effects of attacks taken.
+Shield Dust,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",This Pokémon’s dust blocks the additional effects of attacks taken.
+Shield Dust,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",This Pokémon’s dust blocks the additional effects of attacks taken.
+Shield Dust,"['Scarlet', 'Violet']",Protective dust shields the Pokémon from the additional effects of moves.
+Run Away,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Makes escaping easier.
+Run Away,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Enables sure getaway from wild Pokémon.
+Run Away,"['Black', 'White', 'Black 2', 'White 2']",Enables a sure getaway from wild Pokémon.
+Run Away,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Enables a sure getaway from wild Pokémon.
+Run Away,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Enables a sure getaway from wild Pokémon.
+Run Away,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Enables a sure getaway from wild Pokémon.
+Run Away,"['Scarlet', 'Violet']",Enables a sure getaway from wild Pokémon.
+Shed Skin,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Heals the body by shedding.
+Shed Skin,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon may heal its own status problems.
+Shed Skin,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon may heal its own status problems.
+Shed Skin,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon may heal its own status conditions.
+Shed Skin,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon may heal its own status conditions by shedding its skin.
+Shed Skin,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon may heal its own status conditions by shedding its skin.
+Shed Skin,"['Scarlet', 'Violet']",The Pokémon may cure its own status conditions by shedding its skin.
+Compound Eyes,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Raises accuracy.
+Compound Eyes,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon’s accuracy is boosted.
+Compound Eyes,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon’s accuracy is boosted.
+Compound Eyes,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Pokémon’s accuracy.
+Compound Eyes,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon’s compound eyes boost its accuracy.
+Compound Eyes,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon’s compound eyes boost its accuracy.
+Compound Eyes,"['Scarlet', 'Violet']",The Pokémon’s compound eyes boost its accuracy.
+Tinted Lens,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Powers up “not very effective” moves.
+Tinted Lens,"['Black', 'White', 'Black 2', 'White 2']",Powers up “not very effective” moves.
+Tinted Lens,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up “not very effective” moves.
+Tinted Lens,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon can use “not very effective” moves to deal regular damage. 
+Tinted Lens,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon can use “not very effective” moves to deal regular damage.
+Tinted Lens,"['Scarlet', 'Violet']",The Pokémon can use “not very effective” moves to deal regular damage.
+Swarm,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Ups BUG moves in a pinch.
+Swarm,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Powers up Bug-type moves in a pinch.
+Swarm,"['Black', 'White', 'Black 2', 'White 2']",Powers up Bug-type moves in a pinch.
+Swarm,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up Bug-type moves when the Pokémon is in trouble.
+Swarm,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up Bug-type moves when the Pokémon’s HP is low.
+Swarm,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up Bug-type moves when the Pokémon’s HP is low.
+Swarm,"['Scarlet', 'Violet']",Powers up Bug-type moves when the Pokémon’s HP is low.
+Sniper,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Powers up moves if they become critical hits.
+Sniper,"['Black', 'White', 'Black 2', 'White 2']",Powers up moves if they become critical hits.
+Sniper,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up moves if they become critical hits.
+Sniper,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up moves if they become critical hits when attacking.
+Sniper,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up moves if they become critical hits when attacking.
+Sniper,"['Scarlet', 'Violet']","If the Pokémon’s attack lands a critical hit, the attack is powered up even further."
+Keen Eye,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents loss of accuracy.
+Keen Eye,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents the Pokémon from losing accuracy.
+Keen Eye,"['Black', 'White', 'Black 2', 'White 2']",Prevents other Pokémon from lowering accuracy.
+Keen Eye,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents other Pokémon from lowering accuracy.
+Keen Eye,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Keen eyes prevent other Pokémon from lowering this Pokémon’s accuracy.
+Keen Eye,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Keen eyes prevent other Pokémon from lowering this Pokémon’s accuracy.
+Keen Eye,"['Scarlet', 'Violet']",The Pokémon’s keen eyes prevent its accuracy from being lowered.
+Tangled Feet,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Raises evasion if the Pokémon is confused.
+Tangled Feet,"['Black', 'White', 'Black 2', 'White 2']",Raises evasion if the Pokémon is confused.
+Tangled Feet,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Raises evasion if the Pokémon is confused.
+Tangled Feet,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Raises evasion if the Pokémon is confused.
+Tangled Feet,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Raises evasiveness if the Pokémon is confused.
+Tangled Feet,"['Scarlet', 'Violet']",Boosts the Pokémon’s evasiveness if it is confused.
+Big Pecks,"['Black', 'White', 'Black 2', 'White 2']",Protects the Pokémon from Defense-lowering attacks.
+Big Pecks,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Protects the Pokémon from Defense-lowering attacks.
+Big Pecks,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Protects the Pokémon from Defense-lowering effects.
+Big Pecks,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Protects the Pokémon from Defense-lowering effects.
+Big Pecks,"['Scarlet', 'Violet']",Prevents the Pokémon from having its Defense stat lowered.
+Guts,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Ups ATTACK if suffering.
+Guts,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Boosts Attack if there is a status problem.
+Guts,"['Black', 'White', 'Black 2', 'White 2']",Boosts Attack if there is a status problem.
+Guts,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Attack stat if the Pokémon has a status condition.
+Guts,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.
+Guts,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.
+Guts,"['Scarlet', 'Violet']",It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.
+Hustle,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Trades accuracy for power.
+Hustle,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']","Boosts the Attack stat, but lowers accuracy."
+Hustle,"['Black', 'White', 'Black 2', 'White 2']","Boosts the Attack stat, but lowers accuracy."
+Hustle,"['X', 'Y', 'O.Ruby', 'A.Sapphire']","Boosts the Attack stat, but lowers accuracy."
+Hustle,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Boosts the Attack stat, but lowers accuracy."
+Hustle,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Boosts the Attack stat, but lowers accuracy."
+Hustle,"['Scarlet', 'Violet']",Boosts the Pokémon’s Attack stat but lowers its accuracy.
+Intimidate,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Lowers the foe’s ATTACK.
+Intimidate,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Lowers the foe’s Attack stat.
+Intimidate,"['Black', 'White', 'Black 2', 'White 2']",Lowers the foe’s Attack stat.
+Intimidate,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Lowers the opposing Pokémon’s Attack stat.
+Intimidate,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat."
+Intimidate,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat."
+Intimidate,"['Scarlet', 'Violet']","When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats."
+Unnerve,"['Black', 'White', 'Black 2', 'White 2']",Makes the foe nervous and unable to eat Berries.
+Unnerve,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Unnerves opposing Pokémon and makes them unable to eat Berries.
+Unnerve,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Unnerves opposing Pokémon and makes them unable to eat Berries.
+Unnerve,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Unnerves opposing Pokémon and makes them unable to eat Berries.
+Unnerve,"['Scarlet', 'Violet']",Unnerves opposing Pokémon and makes them unable to eat Berries.
+Static,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Paralyzes on contact.
+Static,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Contact with the Pokémon may cause paralysis.
+Static,"['Black', 'White', 'Black 2', 'White 2']",Contact with the Pokémon may cause paralysis.
+Static,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Contact with the Pokémon may cause paralysis.
+Static,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon is charged with static electricity, so contact with it may cause paralysis."
+Static,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon is charged with static electricity, so contact with it may cause paralysis."
+Static,"['Scarlet', 'Violet']",The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it.
+Lightning Rod,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Draws electrical moves.
+Lightning Rod,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon draws in all Electric-type moves.
+Lightning Rod,"['Black', 'White', 'Black 2', 'White 2']",Draws in all Electric-type moves to up Sp. Attack.
+Lightning Rod,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Draws in all Electric-type moves to boost its Sp. Atk stat.
+Lightning Rod,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves, it boosts its Sp. Atk."
+Lightning Rod,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves, it boosts its Sp. Atk."
+Lightning Rod,"['Scarlet', 'Violet']","The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted."
+Sand Veil,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Ups evasion in a sandstorm.
+Sand Veil,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Boosts the Pokémon’s evasion in a sandstorm.
+Sand Veil,"['Black', 'White', 'Black 2', 'White 2']",Boosts the Pokémon’s evasion in a sandstorm.
+Sand Veil,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Pokémon’s evasion in a sandstorm.
+Sand Veil,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Pokémon’s evasion in a sandstorm.
+Sand Veil,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s evasiveness in a sandstorm.
+Sand Veil,"['Scarlet', 'Violet']",Boosts the Pokémon’s evasiveness in a sandstorm.
+Sand Rush,"['Black', 'White', 'Black 2', 'White 2']",Boosts the Pokémon’s Speed in a sandstorm.
+Sand Rush,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Pokémon’s Speed stat in a sandstorm.
+Sand Rush,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Pokémon’s Speed stat in a sandstorm.
+Sand Rush,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Speed stat in a sandstorm.
+Sand Rush,"['Scarlet', 'Violet']",Boosts the Pokémon’s Speed stat in a sandstorm.
+Poison Point,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Poisons foe on contact.
+Poison Point,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Contact with the Pokémon may poison the foe.
+Poison Point,"['Black', 'White', 'Black 2', 'White 2']",Contact with the Pokémon may poison the attacker.
+Poison Point,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Contact with the Pokémon may poison the attacker.
+Poison Point,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Contact with the Pokémon may poison the attacker.
+Poison Point,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Contact with the Pokémon may poison the attacker.
+Poison Point,"['Scarlet', 'Violet']",Contact with the Pokémon may poison the attacker.
+Rivalry,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Raises Attack if the foe is of the same gender.
+Rivalry,"['Black', 'White', 'Black 2', 'White 2']",Deals more damage to a Pokémon of same gender.
+Rivalry,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Deals more damage to Pokémon of the same gender.
+Rivalry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender."
+Rivalry,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender."
+Rivalry,"['Scarlet', 'Violet']","The Pokémon’s competitive spirit makes it deal more damage to Pokémon of the same gender, but less damage to Pokémon of the opposite gender."
+Sheer Force,"['Black', 'White', 'Black 2', 'White 2']",Removes added effects to increase move damage.
+Sheer Force,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Removes additional effects to increase move damage.
+Sheer Force,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Removes additional effects to increase the power of moves when attacking.
+Sheer Force,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Removes additional effects to increase the power of moves when attacking.
+Sheer Force,"['Scarlet', 'Violet']","Removes any additional effects from the Pokémon’s moves, but increases the moves’ power."
+Cute Charm,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Infatuates on contact.
+Cute Charm,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Contact with the Pokémon may cause infatuation.
+Cute Charm,"['Black', 'White', 'Black 2', 'White 2']",Contact with the Pokémon may cause infatuation.
+Cute Charm,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Contact with the Pokémon may cause infatuation.
+Cute Charm,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Contact with the Pokémon may cause infatuation.
+Cute Charm,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Contact with the Pokémon may cause infatuation.
+Cute Charm,"['Scarlet', 'Violet']",The Pokémon may infatuate attackers that make direct contact with it.
+Magic Guard,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon only takes damage from attacks.
+Magic Guard,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon only takes damage from attacks.
+Magic Guard,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon only takes damage from attacks.
+Magic Guard,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon only takes damage from attacks.
+Magic Guard,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon only takes damage from attacks.
+Magic Guard,"['Scarlet', 'Violet']",The Pokémon only takes damage from attacks.
+Friend Guard,"['Black', 'White', 'Black 2', 'White 2']",Reduces damage done to allies.
+Friend Guard,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Reduces damage done to allies.
+Friend Guard,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Reduces damage done to allies.
+Friend Guard,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Reduces damage done to allies.
+Friend Guard,"['Scarlet', 'Violet']",Reduces damage dealt to allies.
+Unaware,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Ignores any change in ability by the foe.
+Unaware,"['Black', 'White', 'Black 2', 'White 2']",Ignores any stat changes in the Pokémon.
+Unaware,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Ignores the opposing Pokémon’s stat changes.
+Unaware,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","When attacking, the Pokémon ignores the target Pokémon’s stat changes."
+Unaware,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When attacking, the Pokémon ignores the target Pokémon’s stat changes."
+Unaware,"['Scarlet', 'Violet']","When attacking, the Pokémon ignores the target’s stat changes."
+Flash Fire,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Powers up if hit by fire.
+Flash Fire,"['Diamond', 'Pearl', 'Platinum']",Powers up Fire-type moves if hit by a fire move.
+Flash Fire,"['HeartGold', 'SoulSilver']",It powers up Fire-type moves if it’s hit by one.
+Flash Fire,"['Black', 'White', 'Black 2', 'White 2']",It powers up Fire-type moves if it’s hit by one.
+Flash Fire,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up the Pokémon’s Fire-type moves if it’s hit by one.
+Flash Fire,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up the Pokémon’s Fire-type moves if it’s hit by one.
+Flash Fire,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up the Pokémon’s Fire-type moves if it’s hit by one.
+Flash Fire,"['Scarlet', 'Violet']","If hit by a Fire-type move, the Pokémon absorbs the flames and uses them to power up its own Fire-type moves."
+Drought,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Summons sunlight in battle.
+Drought,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon makes it sunny if it is in battle.
+Drought,"['Black', 'White', 'Black 2', 'White 2']",Turns the sunlight harsh if it is in battle.
+Drought,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Turns the sunlight harsh when the Pokémon enters a battle.
+Drought,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Turns the sunlight harsh when the Pokémon enters a battle.
+Drought,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Turns the sunlight harsh when the Pokémon enters a battle.
+Drought,"['Scarlet', 'Violet']",Turns the sunlight harsh when the Pokémon enters a battle.
+Competitive,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Sp. Atk stat when a stat is lowered.
+Competitive,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Sp. Atk stat sharply when a stat is lowered.
+Competitive,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Sp. Atk stat sharply when a stat is lowered.
+Competitive,"['Scarlet', 'Violet']",Boosts the Pokémon’s Sp. Atk stat sharply when its stats are lowered by an opposing Pokémon.
+Frisk,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon can check the foe’s held item.
+Frisk,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon can check a foe’s held item.
+Frisk,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon can check an opposing Pokémon’s held item.
+Frisk,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","When it enters a battle, the Pokémon can check an opposing Pokémon’s held item."
+Frisk,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When it enters a battle, the Pokémon can check an opposing Pokémon’s held item."
+Frisk,"['Scarlet', 'Violet']","When it enters a battle, the Pokémon can check an opposing Pokémon’s held item."
+Inner Focus,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents flinching.
+Inner Focus,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon is protected from flinching.
+Inner Focus,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon is protected from flinching.
+Inner Focus,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Protects the Pokémon from flinching.
+Inner Focus,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon’s intensely focused, and that protects the Pokémon from flinching."
+Inner Focus,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon’s intensely focused, and that protects the Pokémon from flinching."
+Inner Focus,"['Scarlet', 'Violet']",The Pokémon’s intense focus prevents it from flinching or being affected by Intimidate.
+Infiltrator,"['Black', 'White', 'Black 2', 'White 2']",Passes through the foe’s barrier and strikes.
+Infiltrator,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Passes through the opposing Pokémon’s barrier and strikes.
+Infiltrator,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes."
+Infiltrator,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes."
+Infiltrator,"['Scarlet', 'Violet']","The Pokémon’s moves are unaffected by the target’s barriers, substitutes, and the like."
+Stench,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Helps repel wild POKéMON.
+Stench,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The stench helps keep wild Pokémon away.
+Stench,"['Black', 'White', 'Black 2', 'White 2']",The stench may cause the target to flinch.
+Stench,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The stench may cause the target to flinch.
+Stench,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","By releasing stench when attacking, this Pokémon may cause the target to flinch."
+Stench,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","By releasing stench when attacking, this Pokémon may cause the target to flinch."
+Stench,"['Scarlet', 'Violet']","By releasing a stench when attacking, the Pokémon may cause the target to flinch."
+Effect Spore,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Leaves spores on contact.
+Effect Spore,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']","Contact may paralyze, poison, or cause sleep."
+Effect Spore,"['Black', 'White', 'Black 2', 'White 2']",Contact may poison or cause paralysis or sleep.
+Effect Spore,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Contact may poison or cause paralysis or sleep.
+Effect Spore,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker."
+Effect Spore,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker."
+Effect Spore,"['Scarlet', 'Violet']","Contact with the Pokémon may inflict poison, sleep, or paralysis on the attacker."
+Dry Skin,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Reduces HP if it is hot. Water restores HP.
+Dry Skin,"['Black', 'White', 'Black 2', 'White 2']",Reduces HP if it is hot. Water restores HP.
+Dry Skin,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Reduces HP if it’s hot. Water restores HP.
+Dry Skin,"['Sun', 'Moon']","Restores HP in rain or when hit by Water-type moves. Reduces HP in sunshine, and increases the damage received from Fire-type moves."
+Dry Skin,"['Ultra Sun', 'Ultra Moon']","Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."
+Dry Skin,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."
+Dry Skin,"['Scarlet', 'Violet']","Restores the Pokémon’s HP in rain or when it is hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."
+Damp,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents self-destruction.
+Damp,"['Diamond', 'Pearl', 'Platinum']",Prevents combatants from self destructing.
+Damp,"['HeartGold', 'SoulSilver']",Prevents combatants from self-destructing.
+Damp,"['Black', 'White', 'Black 2', 'White 2']",Prevents the use of self-destructing moves.
+Damp,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents the use of self-destructing moves.
+Damp,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Prevents the use of explosive moves such as Self-Destruct by dampening its surroundings.
+Damp,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Prevents the use of explosive moves, such as Self-Destruct, by dampening its surroundings."
+Damp,"['Scarlet', 'Violet']","The Pokémon dampens its surroundings, preventing all Pokémon from using explosive moves such as Self-Destruct."
+Wonder Skin,"['Black', 'White', 'Black 2', 'White 2']",Makes status-changing moves more likely to miss.
+Wonder Skin,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Makes status moves more likely to miss.
+Wonder Skin,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Makes status moves more likely to miss.
+Wonder Skin,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Makes status moves more likely to miss.
+Wonder Skin,"['Scarlet', 'Violet']",Makes status moves more likely to miss the Pokémon.
+Arena Trap,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents fleeing.
+Arena Trap,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents the foe from fleeing.
+Arena Trap,"['Black', 'White', 'Black 2', 'White 2']",Prevents the foe from fleeing.
+Arena Trap,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents opposing Pokémon from fleeing.
+Arena Trap,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Prevents opposing Pokémon from fleeing.
+Arena Trap,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Prevents opposing Pokémon from fleeing.
+Arena Trap,"['Scarlet', 'Violet']",Prevents opposing Pokémon from fleeing from battle.
+Sand Force,"['Black', 'White', 'Black 2', 'White 2']",Boosts certain moves’ power in a sandstorm.
+Sand Force,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts certain moves’ power in a sandstorm.
+Sand Force,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm."
+Sand Force,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm."
+Sand Force,"['Scarlet', 'Violet']","Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm."
+Pickup,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",May pick up items.
+Pickup,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon may pick up items.
+Pickup,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon may pick up items.
+Pickup,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon may pick up items.
+Pickup,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too."
+Pickup,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too."
+Pickup,"['Scarlet', 'Violet']","The Pokémon may pick up an item another Pokémon used during a battle. It may pick up items outside of battle, too."
+Technician,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Powers up the Pokémon’s weaker moves.
+Technician,"['Black', 'White', 'Black 2', 'White 2']",Powers up the Pokémon’s weaker moves.
+Technician,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up the Pokémon’s weaker moves.
+Technician,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up the Pokémon’s weaker moves.
+Technician,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up the Pokémon’s weaker moves.
+Technician,"['Scarlet', 'Violet']",Powers up weak moves so the Pokémon can deal more damage with them.
+Limber,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents paralysis.
+Limber,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon is protected from paralysis.
+Limber,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon is protected from paralysis.
+Limber,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Protects the Pokémon from paralysis.
+Limber,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Its limber body protects the Pokémon from paralysis.
+Limber,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Its limber body protects the Pokémon from paralysis.
+Limber,"['Scarlet', 'Violet']",The Pokémon’s limber body prevents it from being paralyzed.
+Cloud Nine,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Negates weather effects.
+Cloud Nine,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Eliminates the effects of weather.
+Cloud Nine,"['Black', 'White', 'Black 2', 'White 2']",Eliminates the effects of weather.
+Cloud Nine,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Eliminates the effects of weather.
+Cloud Nine,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Eliminates the effects of weather.
+Cloud Nine,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Eliminates the effects of weather.
+Cloud Nine,"['Scarlet', 'Violet']",Eliminates the effects of weather.
+Swift Swim,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Raises SPEED in rain.
+Swift Swim,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Boosts the Pokémon’s Speed in rain.
+Swift Swim,"['Black', 'White', 'Black 2', 'White 2']",Boosts the Pokémon’s Speed in rain.
+Swift Swim,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Pokémon’s Speed stat in rain.
+Swift Swim,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Pokémon’s Speed stat in rain.
+Swift Swim,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Speed stat in rain.
+Swift Swim,"['Scarlet', 'Violet']",Boosts the Pokémon’s Speed stat in rain.
+Vital Spirit,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents sleep.
+Vital Spirit,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents the Pokémon from falling asleep.
+Vital Spirit,"['Black', 'White', 'Black 2', 'White 2']",Prevents the Pokémon from falling asleep.
+Vital Spirit,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents the Pokémon from falling asleep.
+Vital Spirit,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon is full of vitality, and that prevents it from falling asleep."
+Vital Spirit,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon is full of vitality, and that prevents it from falling asleep."
+Vital Spirit,"['Scarlet', 'Violet']","The Pokémon is full of vitality, and that prevents it from falling asleep."
+Anger Point,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Raises Attack upon taking a critical hit.
+Anger Point,"['Black', 'White', 'Black 2', 'White 2']",Maxes Attack after taking a critical hit.
+Anger Point,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Maxes the Attack stat after the Pokémon takes a critical hit.
+Anger Point,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+Anger Point,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+Anger Point,"['Scarlet', 'Violet']","The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+Defiant,"['Black', 'White', 'Black 2', 'White 2']",When its stats are lowered its Attack increases.
+Defiant,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Pokémon’s Attack stat when its stats are lowered.
+Defiant,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Pokémon’s Attack stat sharply when its stats are lowered.
+Defiant,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Attack stat sharply when its stats are lowered.
+Defiant,"['Scarlet', 'Violet']","If the Pokémon has any stat lowered by an opposing Pokémon, its Attack stat will be boosted sharply."
+Justified,"['Black', 'White', 'Black 2', 'White 2']",Raises Attack when hit by a Dark-type move.
+Justified,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Attack stat when it’s hit by a Dark-type move.
+Justified,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice."
+Justified,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice."
+Justified,"['Scarlet', 'Violet']","When the Pokémon is hit by a Dark-type attack, its Attack stat is boosted by its sense of justice."
+Water Absorb,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Changes water into HP.
+Water Absorb,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Restores HP if hit by a Water-type move.
+Water Absorb,"['Black', 'White', 'Black 2', 'White 2']",Restores HP if hit by a Water-type move.
+Water Absorb,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Restores HP if hit by a Water-type move.
+Water Absorb,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Restores HP if hit by a Water-type move, instead of taking damage."
+Water Absorb,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Restores HP if hit by a Water-type move instead of taking damage.
+Water Absorb,"['Scarlet', 'Violet']","If hit by a Water-type move, the Pokémon has its HP restored instead of taking damage."
+Synchronize,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Passes on status problems.
+Synchronize,"['Diamond', 'Pearl', 'Platinum']","Passes on a burn, poison, or paralysis to the foe."
+Synchronize,"['HeartGold', 'SoulSilver']","Passes a burn, poison, or paralysis to the foe."
+Synchronize,"['Black', 'White', 'Black 2', 'White 2']","Passes a burn, poison, or paralysis to the foe."
+Synchronize,"['X', 'Y', 'O.Ruby', 'A.Sapphire']","Passes poison, paralyze, or burn to the Pokémon that inflicted it."
+Synchronize,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The attacker will receive the same status condition if it inflicts a burn, poison, or paralysis to the Pokémon."
+Synchronize,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The attacker will receive the same status condition if it inflicts a burn, poison, or paralysis to the Pokémon."
+Synchronize,"['Scarlet', 'Violet']","If the Pokémon is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition."
+No Guard,"['Diamond', 'Pearl', 'Platinum']",Ensures the Pokémon and its foe’s attacks land.
+No Guard,"['HeartGold', 'SoulSilver']",Ensures both Pokémon’s and foe’s attacks land.
+No Guard,"['Black', 'White', 'Black 2', 'White 2']",Ensures attacks by or against the Pokémon land.
+No Guard,"['X', 'Y']",Ensures attacks by or against the Pokémon land.
+No Guard,"['O.Ruby', 'A.Sapphire']",Ensures that attacks by or against the Pokémon will land.
+No Guard,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.
+No Guard,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.
+No Guard,"['Scarlet', 'Violet']",The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.
+Steadfast,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Raises Speed each time the Pokémon flinches.
+Steadfast,"['Black', 'White', 'Black 2', 'White 2']",Raises Speed each time the Pokémon flinches.
+Steadfast,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Speed stat each time the Pokémon flinches.
+Steadfast,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.
+Steadfast,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.
+Steadfast,"['Scarlet', 'Violet']",The Pokémon’s determination boosts its Speed stat every time it flinches.
+Gluttony,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Encourages the early use of a held Berry.
+Gluttony,"['Black', 'White', 'Black 2', 'White 2']",Encourages the early use of a held Berry.
+Gluttony,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Makes the Pokémon use a held Berry earlier than usual.
+Gluttony,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual."
+Gluttony,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual."
+Gluttony,"['Scarlet', 'Violet']","If the Pokémon is holding a Berry to be eaten when its HP is low, it will instead eat the Berry when its HP drops to half or less."
+Clear Body,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents ability reduction.
+Clear Body,"['Diamond', 'Pearl', 'Platinum']",Prevents the Pokémon’s stats from being lowered.
+Clear Body,"['HeartGold', 'SoulSilver']",Prevents its stats from being lowered.
+Clear Body,"['Black', 'White', 'Black 2', 'White 2']",Prevents other Pokémon from lowering its stats.
+Clear Body,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents other Pokémon from lowering its stats.
+Clear Body,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+Clear Body,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+Clear Body,"['Scarlet', 'Violet']",Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+Liquid Ooze,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Draining causes injury.
+Liquid Ooze,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Inflicts damage on foes using any draining move.
+Liquid Ooze,"['Black', 'White', 'Black 2', 'White 2']",Damages attackers using any draining move.
+Liquid Ooze,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Damages attackers using any draining move.
+Liquid Ooze,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Oozed liquid has strong stench, which damages attackers using any draining move."
+Liquid Ooze,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The oozed liquid has a strong stench, which damages attackers using any draining move."
+Liquid Ooze,"['Scarlet', 'Violet']",The strong stench of the Pokémon’s oozed liquid damages attackers that use HP-draining moves.
+Rock Head,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents recoil damage.
+Rock Head,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Protects the Pokémon from recoil damage.
+Rock Head,"['Black', 'White', 'Black 2', 'White 2']",Protects the Pokémon from recoil damage.
+Rock Head,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Protects the Pokémon from recoil damage.
+Rock Head,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Protects the Pokémon from recoil damage.
+Rock Head,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Protects the Pokémon from recoil damage.
+Rock Head,"['Scarlet', 'Violet']",Protects the Pokémon from recoil damage.
+Sturdy,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Negates 1-hit KO attacks.
+Sturdy,"['Diamond', 'Pearl', 'Platinum']",The Pokémon is protected against 1-hit KO attacks.
+Sturdy,"['HeartGold', 'SoulSilver']",It is protected against 1-hit KO attacks.
+Sturdy,"['Black', 'White', 'Black 2', 'White 2']",It cannot be knocked out with one hit.
+Sturdy,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",It cannot be knocked out with one hit.
+Sturdy,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either."
+Sturdy,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either."
+Sturdy,"['Scarlet', 'Violet']",The Pokémon cannot be knocked out by a single hit as long as its HP is full. One-hit KO moves will also fail to knock it out.
+Flame Body,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Burns the foe on contact.
+Flame Body,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Contact with the Pokémon may burn the foe.
+Flame Body,"['Black', 'White', 'Black 2', 'White 2']",Contact with the Pokémon may burn the attacker.
+Flame Body,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Contact with the Pokémon may burn the attacker.
+Flame Body,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Contact with the Pokémon may burn the attacker.
+Flame Body,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Contact with the Pokémon may burn the attacker.
+Flame Body,"['Scarlet', 'Violet']",Contact with the Pokémon may burn the attacker.
+Oblivious,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents attraction.
+Oblivious,"['Diamond', 'Pearl', 'Platinum']",Prevents the Pokémon from becoming infatuated.
+Oblivious,"['HeartGold', 'SoulSilver']",Prevents it from becoming infatuated.
+Oblivious,"['Black', 'White', 'Black 2', 'White 2']",Prevents it from becoming infatuated.
+Oblivious,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Keeps the Pokémon from being infatuated or falling for taunts.
+Oblivious,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon is oblivious, and that keeps it from being infatuated or falling for taunts."
+Oblivious,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon is oblivious, and that keeps it from being infatuated or falling for taunts."
+Oblivious,"['Scarlet', 'Violet']","The Pokémon is oblivious, keeping it from being infatuated, falling for taunts, or being affected by Intimidate."
+Own Tempo,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents confusion.
+Own Tempo,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents the Pokémon from becoming confused.
+Own Tempo,"['Black', 'White', 'Black 2', 'White 2']",Prevents the Pokémon from becoming confused.
+Own Tempo,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents the Pokémon from becoming confused.
+Own Tempo,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","This Pokémon has its own tempo, and that prevents it from becoming confused."
+Own Tempo,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","This Pokémon has its own tempo, and that prevents it from becoming confused."
+Own Tempo,"['Scarlet', 'Violet']","The Pokémon sticks to its own tempo, preventing it from becoming confused or being affected by Intimidate."
+Regenerator,"['Black', 'White', 'Black 2', 'White 2']",Restores a little HP when withdrawn from battle.
+Regenerator,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Restores a little HP when withdrawn from battle.
+Regenerator,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Restores a little HP when withdrawn from battle.
+Regenerator,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Restores a little HP when withdrawn from battle.
+Regenerator,"['Scarlet', 'Violet']",The Pokémon has a little of its HP restored when withdrawn from battle.
+Magnet Pull,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Traps STEEL-type POKéMON.
+Magnet Pull,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents Steel-type Pokémon from escaping.
+Magnet Pull,"['Black', 'White', 'Black 2', 'White 2']",Prevents Steel-type Pokémon from escaping.
+Magnet Pull,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents Steel-type Pokémon from escaping.
+Magnet Pull,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Prevents Steel-type Pokémon from escaping using its magnetic force.
+Magnet Pull,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Prevents Steel-type Pokémon from escaping using its magnetic force.
+Magnet Pull,"['Scarlet', 'Violet']",Prevents Steel-type Pokémon from fleeing by pulling them in with magnetism.
+Analytic,"['Black', 'White', 'Black 2', 'White 2']",Boosts move power when the Pokémon moves last.
+Analytic,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts move power when the Pokémon moves after the target.
+Analytic,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts move power when the Pokémon moves last.
+Analytic,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts move power when the Pokémon moves last.
+Analytic,"['Scarlet', 'Violet']",Boosts the power of the Pokémon’s move if it is the last to act that turn.
+Early Bird,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Awakens quickly from sleep.
+Early Bird,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon awakens quickly from sleep.
+Early Bird,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon awakens quickly from sleep.
+Early Bird,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon awakens quickly from sleep.
+Early Bird,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon awakens twice as fast as other Pokémon from sleep.
+Early Bird,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon awakens from sleep twice as fast as other Pokémon.
+Early Bird,"['Scarlet', 'Violet']",The Pokémon awakens from sleep twice as fast as other Pokémon.
+Thick Fat,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Heat-and-cold protection.
+Thick Fat,"['Diamond', 'Pearl', 'Platinum']",Raises resistance to Fire- and Ice-type moves.
+Thick Fat,"['HeartGold', 'SoulSilver']",Ups resistance to Fire- and Ice-type moves.
+Thick Fat,"['Black', 'White', 'Black 2', 'White 2']",Ups resistance to Fire- and Ice-type moves.
+Thick Fat,"['X', 'Y']",Boosts resistance to Fire- and Ice-type moves.
+Thick Fat,"['O.Ruby', 'A.Sapphire']",Boosts resistance to Fire- and Ice-type moves.
+Thick Fat,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves."
+Thick Fat,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves."
+Thick Fat,"['Scarlet', 'Violet']","The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves."
+Hydration,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Heals status problems if it is raining.
+Hydration,"['Black', 'White', 'Black 2', 'White 2']",Heals status problems if it is raining.
+Hydration,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Heals status conditions if it’s raining.
+Hydration,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Heals status conditions if it’s raining.
+Hydration,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Heals status conditions if it’s raining.
+Hydration,"['Scarlet', 'Violet']",Cures the Pokémon’s status conditions in rain.
+Ice Body,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon regains HP in a hailstorm.
+Ice Body,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon gradually regains HP in a hailstorm.
+Ice Body,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon gradually regains HP in a hailstorm.
+Ice Body,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon gradually regains HP in a hailstorm.
+Ice Body,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon gradually regains HP in a hailstorm.
+Ice Body,"['Scarlet', 'Violet']",The Pokémon gradually regains HP in snow.
+Sticky Hold,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents item theft.
+Sticky Hold,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Protects the Pokémon from item theft.
+Sticky Hold,"['Black', 'White', 'Black 2', 'White 2']",Protects the Pokémon from item theft.
+Sticky Hold,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Protects the Pokémon from item theft.
+Sticky Hold,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon.
+Sticky Hold,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon.
+Sticky Hold,"['Scarlet', 'Violet']",The Pokémon’s held items cling to its sticky body and cannot be removed by other Pokémon.
+Poison Touch,"['Black', 'White', 'Black 2', 'White 2']",May poison targets when a Pokémon makes contact.
+Poison Touch,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",May poison a target when the Pokémon makes contact.
+Poison Touch,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",May poison a target when the Pokémon makes contact.
+Poison Touch,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",May poison a target when the Pokémon makes contact.
+Poison Touch,"['Scarlet', 'Violet']",May poison a target when the Pokémon makes contact.
+Shell Armor,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Blocks critical hits.
+Shell Armor,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon is protected against critical hits.
+Shell Armor,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon is protected against critical hits.
+Shell Armor,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Protects the Pokémon from critical hits.
+Shell Armor,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A hard shell protects the Pokémon from critical hits.
+Shell Armor,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",A hard shell protects the Pokémon from critical hits.
+Shell Armor,"['Scarlet', 'Violet']",A hard shell protects the Pokémon from critical hits.
+Skill Link,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Increases the frequency of multi-strike moves.
+Skill Link,"['Black', 'White', 'Black 2', 'White 2']",Increases the frequency of multi-strike moves.
+Skill Link,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Increases the number of times multi-strike moves hit.
+Skill Link,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Maximizes the number of times multi-strike moves hit.
+Skill Link,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Maximizes the number of times multistrike moves hit.
+Skill Link,"['Scarlet', 'Violet']",Maximizes the number of times multistrike moves hit.
+Overcoat,"['Black', 'White', 'Black 2', 'White 2']",Protects the Pokémon from damage from weather.
+Overcoat,"['X', 'Y', 'O.Ruby', 'A.Sapphire']","Protects the Pokémon from things like sand, hail, and powder."
+Overcoat,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Protects the Pokémon from things like sand, hail, and powder."
+Overcoat,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Protects the Pokémon from things like sand, hail, and powder."
+Overcoat,"['Scarlet', 'Violet']",The Pokémon takes no damage from sandstorms. It is also protected from the effects of powders and spores.
+Levitate,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Not hit by GROUND attacks.
+Levitate,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Gives full immunity to all Ground-type moves.
+Levitate,"['Black', 'White', 'Black 2', 'White 2']",Gives full immunity to all Ground-type moves.
+Levitate,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Gives full immunity to all Ground-type moves.
+Levitate,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
+Levitate,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
+Levitate,"['Scarlet', 'Violet']","By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
+Cursed Body,"['Black', 'White', 'Black 2', 'White 2']",May disable a move used on the Pokémon.
+Cursed Body,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",May disable a move used on the Pokémon.
+Cursed Body,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",May disable a move used on the Pokémon.
+Cursed Body,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",May disable a move used on the Pokémon.
+Cursed Body,"['Scarlet', 'Violet']",May disable a move that has dealt damage to the Pokémon.
+Weak Armor,"['Black', 'White', 'Black 2', 'White 2']",Physical attacks lower Defense and raise Speed.
+Weak Armor,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Physical attacks lower its Defense stat and raise its Speed stat.
+Weak Armor,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat.
+Weak Armor,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat.
+Weak Armor,"['Scarlet', 'Violet']","The Pokémon’s Defense stat is lowered when it takes damage from physical moves, but its Speed stat is sharply boosted."
+Insomnia,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents sleep.
+Insomnia,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents the Pokémon from falling asleep.
+Insomnia,"['Black', 'White', 'Black 2', 'White 2']",Prevents the Pokémon from falling asleep.
+Insomnia,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents the Pokémon from falling asleep.
+Insomnia,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon is suffering from insomnia and cannot fall asleep.
+Insomnia,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon is suffering from insomnia and cannot fall asleep.
+Insomnia,"['Scarlet', 'Violet']",The Pokémon’s insomnia prevents it from falling asleep.
+Forewarn,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Determines what moves the foe has.
+Forewarn,"['Black', 'White', 'Black 2', 'White 2']",Determines what moves a foe has.
+Forewarn,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Determines what moves an opposing Pokémon has.
+Forewarn,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."
+Forewarn,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."
+Forewarn,"['Scarlet', 'Violet']","When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."
+Hyper Cutter,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents ATTACK reduction.
+Hyper Cutter,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents the Attack stat from being lowered.
+Hyper Cutter,"['Black', 'White', 'Black 2', 'White 2']",Prevents other Pokémon from lowering Attack stat.
+Hyper Cutter,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents other Pokémon from lowering its Attack stat.
+Hyper Cutter,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon’s proud of its powerful pincers. They prevent other Pokémon from lowering its Attack stat.
+Hyper Cutter,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon’s proud of its powerful pincers. They prevent other Pokémon from lowering its Attack stat.
+Hyper Cutter,"['Scarlet', 'Violet']","The Pokémon’s prized, mighty pincers prevent other Pokémon from lowering its Attack stat."
+Soundproof,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Avoids sound-based moves.
+Soundproof,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Gives full immunity to all sound-based moves.
+Soundproof,"['Black', 'White', 'Black 2', 'White 2']",Gives full immunity to all sound-based moves.
+Soundproof,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Gives full immunity to all sound-based moves.
+Soundproof,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Soundproofing of the Pokémon itself gives full immunity to all sound-based moves.
+Soundproof,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Soundproofing gives the Pokémon full immunity to all sound-based moves.
+Soundproof,"['Scarlet', 'Violet']",Soundproofing gives the Pokémon full immunity to all sound-based moves.
+Aftermath,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Damages the foe landing the finishing hit.
+Aftermath,"['Black', 'White', 'Black 2', 'White 2']",Damages the attacker landing the finishing hit.
+Aftermath,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Damages the attacker landing the finishing hit.
+Aftermath,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Damages the attacker if it contacts the Pokémon with a finishing hit.
+Aftermath,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Damages the attacker if it contacts the Pokémon with a finishing hit.
+Aftermath,"['Scarlet', 'Violet']",Damages the attacker if it knocks out the Pokémon with a move that makes direct contact.
+Harvest,"['Black', 'White', 'Black 2', 'White 2']",May create another Berry after one is used.
+Harvest,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",May create another Berry after one is used.
+Harvest,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",May create another Berry after one is used.
+Harvest,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",May create another Berry after one is used.
+Harvest,"['Scarlet', 'Violet']",May create another Berry after one is used.
+Battle Armor,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Blocks critical hits.
+Battle Armor,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon is protected against critical hits.
+Battle Armor,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon is protected against critical hits.
+Battle Armor,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Protects the Pokémon from critical hits.
+Battle Armor,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Hard armor protects the Pokémon from critical hits.
+Battle Armor,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Hard armor protects the Pokémon from critical hits.
+Battle Armor,"['Scarlet', 'Violet']",Hard armor protects the Pokémon from critical hits.
+Reckless,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Powers up moves that have recoil damage.
+Reckless,"['Black', 'White', 'Black 2', 'White 2']",Powers up moves that have recoil damage.
+Reckless,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up moves that have recoil damage.
+Reckless,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up moves that have recoil damage.
+Reckless,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up moves that have recoil damage.
+Reckless,"['Scarlet', 'Violet']",Powers up moves that have recoil damage.
+Unburden,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Raises Speed if a held item is used.
+Unburden,"['Black', 'White', 'Black 2', 'White 2']",Raises Speed if a held item is used.
+Unburden,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Speed stat if its held item is used or lost.
+Unburden,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Speed stat if the Pokémon’s held item is used or lost.
+Unburden,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Speed stat if the Pokémon’s held item is used or lost.
+Unburden,"['Scarlet', 'Violet']",Boosts the Speed stat if the Pokémon’s held item is used or lost.
+Iron Fist,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Boosts the power of punching moves.
+Iron Fist,"['Black', 'White', 'Black 2', 'White 2']",Boosts the power of punching moves.
+Iron Fist,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up punching moves.
+Iron Fist,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up punching moves.
+Iron Fist,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up punching moves.
+Iron Fist,"['Scarlet', 'Violet']",Powers up punching moves.
+Neutralizing Gas,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","If the Pokémon with Neutralizing Gas is in the battle, the effects of all Pokémon’s Abilities will be nullified or will not be triggered."
+Neutralizing Gas,"['Scarlet', 'Violet']","While the Pokémon is in the battle, the effects of all other Pokémon’s Abilities will be nullified or will not be triggered."
+Natural Cure,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Heals upon switching out.
+Natural Cure,"['Diamond', 'Pearl', 'Platinum']",All status problems are healed upon switching out.
+Natural Cure,"['HeartGold', 'SoulSilver']",All status problems heal when it switches out.
+Natural Cure,"['Black', 'White', 'Black 2', 'White 2']",All status problems heal when it switches out.
+Natural Cure,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",All status conditions heal when the Pokémon switches out.
+Natural Cure,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",All status conditions heal when the Pokémon switches out.
+Natural Cure,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",All status conditions heal when the Pokémon switches out.
+Natural Cure,"['Scarlet', 'Violet']",The Pokémon’s status conditions are cured when it switches out.
+Serene Grace,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Promotes added effects.
+Serene Grace,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Boosts the likelihood of added effects appearing.
+Serene Grace,"['Black', 'White', 'Black 2', 'White 2']",Boosts the likelihood of added effects appearing.
+Serene Grace,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the likelihood of additional effects occurring.
+Serene Grace,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the likelihood of additional effects occurring when attacking.
+Serene Grace,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the likelihood of additional effects occurring when attacking.
+Serene Grace,"['Scarlet', 'Violet']",Raises the likelihood of additional effects occurring when the Pokémon uses its moves.
+Healer,"['Black', 'White', 'Black 2', 'White 2']",May heal an ally’s status conditions.
+Healer,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Sometimes heals an ally’s status condition.
+Healer,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Sometimes heals an ally’s status condition.
+Healer,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Sometimes heals an ally’s status condition.
+Healer,"['Scarlet', 'Violet']",Sometimes cures the status conditions of the Pokémon’s allies.
+Leaf Guard,"['Diamond', 'Pearl', 'Platinum']",Prevents status problems in sunny weather.
+Leaf Guard,"['HeartGold', 'SoulSilver']",Prevents problems with status in sunny weather.
+Leaf Guard,"['Black', 'White', 'Black 2', 'White 2']",Prevents problems with status in sunny weather.
+Leaf Guard,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents status conditions in sunny weather.
+Leaf Guard,"['Sun', 'Moon']",Prevents status conditions in sunny weather.
+Leaf Guard,"['Ultra Sun', 'Ultra Moon']",Prevents status conditions in harsh sunlight.
+Leaf Guard,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Prevents status conditions in harsh sunlight.
+Leaf Guard,"['Scarlet', 'Violet']",Prevents status conditions in harsh sunlight.
+Scrappy,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Enables moves to hit Ghost-type foes.
+Scrappy,"['Black', 'White', 'Black 2', 'White 2']",Enables moves to hit Ghost-type Pokémon.
+Scrappy,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Makes Normal- and Fighting-type moves hit Ghost-type Pokémon.
+Scrappy,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.
+Scrappy,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.
+Scrappy,"['Scarlet', 'Violet']",The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves. It is also unaffected by Intimidate.
+Water Veil,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents burns.
+Water Veil,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents the Pokémon from getting a burn.
+Water Veil,"['Black', 'White', 'Black 2', 'White 2']",Prevents the Pokémon from getting a burn.
+Water Veil,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents the Pokémon from getting a burn.
+Water Veil,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn."
+Water Veil,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn."
+Water Veil,"['Scarlet', 'Violet']",The Pokémon’s water veil prevents it from being burned.
+Illuminate,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Encounter rate increases.
+Illuminate,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Raises the likelihood of meeting wild Pokémon.
+Illuminate,"['Black', 'White', 'Black 2', 'White 2']",Raises the likelihood of meeting wild Pokémon.
+Illuminate,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Raises the likelihood of meeting wild Pokémon.
+Illuminate,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.
+Illuminate,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.
+Illuminate,"['Scarlet', 'Violet']",Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.
+Filter,"['Diamond', 'Pearl', 'Platinum']",Powers down supereffective moves.
+Filter,"['HeartGold', 'SoulSilver']",Reduces damage from supereffective attacks.
+Filter,"['Black', 'White', 'Black 2', 'White 2']",Reduces damage from supereffective attacks.
+Filter,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Reduces damage from supereffective attacks.
+Filter,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Reduces the power of supereffective attacks taken.
+Filter,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Reduces the power of supereffective attacks taken.
+Filter,"['Scarlet', 'Violet']",Reduces the power of supereffective attacks that hit the Pokémon.
+Mold Breaker,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Moves can be used regardless of abilities.
+Mold Breaker,"['Black', 'White', 'Black 2', 'White 2']",Moves can be used regardless of Abilities.
+Mold Breaker,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Moves can be used on the target regardless of its Abilities.
+Mold Breaker,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Moves can be used on the target regardless of its Abilities.
+Mold Breaker,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Moves can be used on the target regardless of its Abilities.
+Mold Breaker,"['Scarlet', 'Violet']",The Pokémon’s moves are unimpeded by the Ability of the target.
+Moxie,"['Black', 'White', 'Black 2', 'White 2']",Boosts Attack after knocking out any Pokémon.
+Moxie,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Attack stat after knocking out any Pokémon.
+Moxie,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon."
+Moxie,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon."
+Moxie,"['Scarlet', 'Violet']","When the Pokémon knocks out a target, it shows moxie, which boosts its Attack stat."
+Rattled,"['Black', 'White', 'Black 2', 'White 2']",Some move types scare it and boost its Speed.
+Rattled,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Some move types scare it and boost its Speed stat.
+Rattled,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat."
+Rattled,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat."
+Rattled,"['Scarlet', 'Violet']","The Pokémon gets scared when hit by a Dark-, Ghost-, or Bug-type attack or if intimidated, which boosts its Speed stat."
+Imposter,"['Black', 'White', 'Black 2', 'White 2']",It transforms itself into the Pokémon it is facing.
+Imposter,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon transforms itself into the Pokémon it’s facing.
+Imposter,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon transforms itself into the Pokémon it’s facing.
+Imposter,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon transforms itself into the Pokémon it’s facing.
+Imposter,"['Scarlet', 'Violet']",The Pokémon transforms itself into the Pokémon it’s facing.
+Adaptability,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Powers up moves of the same type.
+Adaptability,"['Black', 'White', 'Black 2', 'White 2']",Powers up moves of the same type.
+Adaptability,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up moves of the same type as the Pokémon.
+Adaptability,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up moves of the same type as the Pokémon.
+Adaptability,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up moves of the same type as the Pokémon.
+Adaptability,"['Scarlet', 'Violet']",Powers up moves of the same type as the Pokémon.
+Anticipation,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Senses the foe’s dangerous moves.
+Anticipation,"['Black', 'White', 'Black 2', 'White 2']",Senses a foe’s dangerous moves.
+Anticipation,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Senses an opposing Pokémon’s dangerous moves.
+Anticipation,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon can sense an opposing Pokémon’s dangerous moves.
+Anticipation,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon can sense an opposing Pokémon’s dangerous moves.
+Anticipation,"['Scarlet', 'Violet']",The Pokémon can sense an opposing Pokémon’s dangerous moves.
+Volt Absorb,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Turns electricity into HP.
+Volt Absorb,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Restores HP if hit by an Electric-type move.
+Volt Absorb,"['Black', 'White', 'Black 2', 'White 2']",Restores HP if hit by an Electric-type move.
+Volt Absorb,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Restores HP if hit by an Electric-type move.
+Volt Absorb,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Restores HP if hit by an Electric-type move, instead of taking damage."
+Volt Absorb,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Restores HP if hit by an Electric-type move instead of taking damage.
+Volt Absorb,"['Scarlet', 'Violet']","If hit by an Electric-type move, the Pokémon has its HP restored instead of taking damage."
+Quick Feet,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Boosts Speed if there is a status problem.
+Quick Feet,"['Black', 'White', 'Black 2', 'White 2']",Boosts Speed if there is a status problem.
+Quick Feet,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Speed stat if the Pokémon has a status condition.
+Quick Feet,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Speed stat if the Pokémon has a status condition.
+Quick Feet,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Speed stat if the Pokémon has a status condition.
+Quick Feet,"['Scarlet', 'Violet']",Boosts the Speed stat if the Pokémon has a status condition.
+Trace,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Copies special ability.
+Trace,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon copies the foe’s ability.
+Trace,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon copies a foe’s Ability.
+Trace,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon copies an opposing Pokémon’s Ability.
+Trace,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability."
+Trace,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability."
+Trace,"['Scarlet', 'Violet']","When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability."
+Download,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Adjusts power according to the foe’s ability.
+Download,"['Black', 'White', 'Black 2', 'White 2']",Adjusts power according to a foe’s defenses.
+Download,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Adjusts power based on an opposing Pokémon’s stats.
+Download,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.
+Download,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.
+Download,"['Scarlet', 'Violet']",The Pokémon compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.
+Pressure,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Raises foe’s PP usage.
+Pressure,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon raises the foe’s PP usage.
+Pressure,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon raises the foe’s PP usage.
+Pressure,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon raises opposing Pokémon’s PP usage.
+Pressure,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","By putting pressure on the opposing Pokémon, it raises their PP usage."
+Pressure,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","By putting pressure on the opposing Pokémon, it raises their PP usage."
+Pressure,"['Scarlet', 'Violet']","Puts other Pokémon under pressure, causing them to expend more PP to use their moves."
+Immunity,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents poisoning.
+Immunity,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents the Pokémon from getting poisoned.
+Immunity,"['Black', 'White', 'Black 2', 'White 2']",Prevents the Pokémon from getting poisoned.
+Immunity,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents the Pokémon from getting poisoned.
+Immunity,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The immune system of the Pokémon prevents it from getting poisoned.
+Immunity,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The immune system of the Pokémon prevents it from getting poisoned.
+Immunity,"['Scarlet', 'Violet']",The Pokémon’s immune system prevents it from being poisoned.
+Snow Cloak,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Raises evasion in a hailstorm.
+Snow Cloak,"['Black', 'White', 'Black 2', 'White 2']",Raises evasion in a hailstorm.
+Snow Cloak,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts evasion in a hailstorm.
+Snow Cloak,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts evasion in a hailstorm.
+Snow Cloak,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts evasiveness in a hailstorm.
+Snow Cloak,"['Scarlet', 'Violet']",Boosts the Pokémon’s evasiveness in snow.
+Marvel Scale,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Ups DEFENSE if suffering.
+Marvel Scale,"['Diamond', 'Pearl', 'Platinum']",Boosts Defense if there is a status problem.
+Marvel Scale,"['HeartGold', 'SoulSilver']",Ups Defense if there is a status problem.
+Marvel Scale,"['Black', 'White', 'Black 2', 'White 2']",Ups Defense if there is a status problem.
+Marvel Scale,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Defense stat if the Pokémon has a status condition.
+Marvel Scale,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon’s marvelous scales boost the Defense stat if it has a status condition.
+Marvel Scale,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon’s marvelous scales boost the Defense stat if it has a status condition.
+Marvel Scale,"['Scarlet', 'Violet']",The Pokémon’s marvelous scales boost its Defense stat if it has a status condition.
+Multiscale,"['Black', 'White', 'Black 2', 'White 2']",Reduces damage when HP is full.
+Multiscale,"['X', 'Y']",Reduces damage the Pokémon takes when its HP is full.
+Multiscale,"['O.Ruby', 'A.Sapphire']",Reduces the damage taken by the Pokémon when its HP is full.
+Multiscale,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Reduces the amount of damage the Pokémon takes when its HP is full.
+Multiscale,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Reduces the amount of damage the Pokémon takes while its HP is full.
+Multiscale,"['Scarlet', 'Violet']",Reduces the amount of damage the Pokémon takes while its HP is full.
+Super Luck,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Heightens the critical-hit ratios of moves.
+Super Luck,"['Black', 'White', 'Black 2', 'White 2']",Heightens the critical-hit ratios of moves.
+Super Luck,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the critical-hit ratios of moves.
+Super Luck,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.
+Super Luck,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.
+Super Luck,"['Scarlet', 'Violet']",The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.
+Magic Bounce,"['Black', 'White', 'Black 2', 'White 2']",Reflects status-changing moves.
+Magic Bounce,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Reflects status moves.
+Magic Bounce,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Reflects status moves, instead of getting hit by them."
+Magic Bounce,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Reflects status moves instead of getting hit by them.
+Magic Bounce,"['Scarlet', 'Violet']",The Pokémon reflects status moves instead of getting hit by them.
+Plus,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Powers up with MINUS.
+Plus,"['Diamond', 'Pearl', 'Platinum']",Boosts Sp. Atk if another Pokémon has Minus.
+Plus,"['HeartGold', 'SoulSilver']",Ups Sp. Atk if another Pokémon has Minus.
+Plus,"['Black', 'White', 'Black 2', 'White 2']",Ups Sp. Atk if another Pokémon has Plus or Minus.
+Plus,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.
+Plus,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+Plus,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+Plus,"['Scarlet', 'Violet']",Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+Huge Power,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Raises ATTACK.
+Huge Power,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Raises the Pokémon’s Attack stat.
+Huge Power,"['Black', 'White', 'Black 2', 'White 2']",Raises the Pokémon’s Attack stat.
+Huge Power,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Pokémon’s Attack stat.
+Huge Power,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Doubles the Pokémon’s Attack stat.
+Huge Power,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Doubles the Pokémon’s Attack stat.
+Huge Power,"['Scarlet', 'Violet']",Doubles the Pokémon’s Attack stat.
+Sap Sipper,"['Black', 'White', 'Black 2', 'White 2']",Boosts Attack when hit by a Grass-type move.
+Sap Sipper,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Attack stat when hit by a Grass-type move.
+Sap Sipper,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Boosts the Attack stat if hit by a Grass-type move, instead of taking damage."
+Sap Sipper,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Attack stat if hit by a Grass-type move instead of taking damage.
+Sap Sipper,"['Scarlet', 'Violet']","The Pokémon takes no damage when hit by Grass-type moves. Instead, its Attack stat is boosted."
+Drizzle,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Summons rain in battle.
+Drizzle,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon makes it rain if it appears in battle.
+Drizzle,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon makes it rain if it appears in battle.
+Drizzle,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon makes it rain when it enters a battle.
+Drizzle,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon makes it rain when it enters a battle.
+Drizzle,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon makes it rain when it enters a battle.
+Drizzle,"['Scarlet', 'Violet']",The Pokémon makes it rain when it enters a battle.
+Speed Boost,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Gradually boosts SPEED.
+Speed Boost,"['Diamond', 'Pearl', 'Platinum']",The Pokémon’s Speed stat is gradually boosted.
+Speed Boost,"['HeartGold', 'SoulSilver']",Its Speed stat is gradually boosted.
+Speed Boost,"['Black', 'White', 'Black 2', 'White 2']",Its Speed stat is gradually boosted.
+Speed Boost,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Its Speed stat is gradually boosted.
+Speed Boost,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Its Speed stat is boosted every turn.
+Speed Boost,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Its Speed stat is boosted every turn.
+Speed Boost,"['Scarlet', 'Violet']",The Pokémon’s Speed stat is boosted every turn.
+Prankster,"['Black', 'White', 'Black 2', 'White 2']",Gives priority to a status move.
+Prankster,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Gives priority to a status move.
+Prankster,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Gives priority to a status move.
+Prankster,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Gives priority to a status move.
+Prankster,"['Scarlet', 'Violet']",Gives priority to the Pokémon’s status moves.
+Shadow Tag,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents the foe’s escape.
+Shadow Tag,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents the foe from escaping.
+Shadow Tag,"['Black', 'White', 'Black 2', 'White 2']",Prevents the foe from escaping.
+Shadow Tag,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents opposing Pokémon from escaping.
+Shadow Tag,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.
+Shadow Tag,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.
+Shadow Tag,"['Scarlet', 'Violet']",The Pokémon steps on the opposing Pokémon’s shadows to prevent them from fleeing or switching out.
+Telepathy,"['Black', 'White', 'Black 2', 'White 2']",Anticipates an ally’s attack and dodges it.
+Telepathy,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Anticipates an ally’s attack and dodges it.
+Telepathy,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Anticipates an ally’s attack and dodges it.
+Telepathy,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Anticipates an ally’s attack and dodges it.
+Telepathy,"['Scarlet', 'Violet']",The Pokémon anticipates and dodges the attacks of its allies.
+Light Metal,"['Black', 'White', 'Black 2', 'White 2']",Halves the Pokémon’s weight.
+Light Metal,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Halves the Pokémon’s weight.
+Light Metal,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Halves the Pokémon’s weight.
+Light Metal,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Halves the Pokémon’s weight.
+Light Metal,"['Scarlet', 'Violet']",Halves the Pokémon’s weight.
+Contrary,"['Black', 'White', 'Black 2', 'White 2']",Makes stat changes have an opposite effect.
+Contrary,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Makes stat changes have an opposite effect.
+Contrary,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Makes stat changes have an opposite effect.
+Contrary,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Makes stat changes have an opposite effect.
+Contrary,"['Scarlet', 'Violet']",Reverses any stat changes affecting the Pokémon so that attempts to boost its stats instead lower them— and attempts to lower its stats will boost them.
+Pickpocket,"['Black', 'White', 'Black 2', 'White 2']",Steals an item when hit by another Pokémon.
+Pickpocket,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Steals an item from an attacker that made direct contact.
+Pickpocket,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Steals an item from an attacker that made direct contact.
+Pickpocket,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Steals an item from an attacker that made direct contact.
+Pickpocket,"['Scarlet', 'Violet']",The Pokémon steals the held item from attackers that make direct contact with it.
+Honey Gather,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon may gather Honey from somewhere.
+Honey Gather,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon may gather Honey from somewhere.
+Honey Gather,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon may gather Honey from somewhere.
+Honey Gather,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon may gather Honey after a battle.
+Honey Gather,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon may gather Honey after a battle.
+Honey Gather,"['Scarlet', 'Violet']",The Pokémon may gather Honey after a battle.
+Magma Armor,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents freezing.
+Magma Armor,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Prevents the Pokémon from becoming frozen.
+Magma Armor,"['Black', 'White', 'Black 2', 'White 2']",Prevents the Pokémon from becoming frozen.
+Magma Armor,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents the Pokémon from becoming frozen.
+Magma Armor,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen."
+Magma Armor,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen."
+Magma Armor,"['Scarlet', 'Violet']",The Pokémon’s hot magma coating prevents it from being frozen.
+Moody,"['Black', 'White', 'Black 2', 'White 2']",Raises one stat and lowers another.
+Moody,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Raises one stat and lowers another.
+Moody,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Raises one stat sharply and lowers another every turn.
+Moody,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Raises one stat sharply and lowers another every turn.
+Moody,"['Scarlet', 'Violet']","Every turn, one of the Pokémon’s stats will be boosted sharply but another stat will be lowered."
+Suction Cups,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Firmly anchors the body.
+Suction Cups,"['Diamond', 'Pearl', 'Platinum']",Negates moves that force switching out.
+Suction Cups,"['HeartGold', 'SoulSilver']",Negates foes’ moves that force switching out.
+Suction Cups,"['Black', 'White', 'Black 2', 'White 2']",Negates all moves that force switching out.
+Suction Cups,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Negates all moves and items that force switching out.
+Suction Cups,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out.
+Suction Cups,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out.
+Suction Cups,"['Scarlet', 'Violet']",The Pokémon uses suction cups to stay in one spot. This protects it from moves and items that would force it to switch out.
+Sand Stream,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Summons a sandstorm.
+Sand Stream,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon summons a sandstorm in battle.
+Sand Stream,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon summons a sandstorm in battle.
+Sand Stream,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon summons a sandstorm in battle.
+Sand Stream,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon summons a sandstorm when it enters a battle.
+Sand Stream,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon summons a sandstorm when it enters a battle.
+Sand Stream,"['Scarlet', 'Violet']",The Pokémon summons a sandstorm when it enters a battle.
+Poison Heal,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Restores HP if the Pokémon is poisoned.
+Poison Heal,"['Black', 'White', 'Black 2', 'White 2']",Restores HP if the Pokémon is poisoned.
+Poison Heal,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Restores HP if the Pokémon is poisoned.
+Poison Heal,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Restores HP if the Pokémon is poisoned, instead of losing HP."
+Poison Heal,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Restores HP if the Pokémon is poisoned instead of losing HP.
+Poison Heal,"['Scarlet', 'Violet']","If poisoned, the Pokémon has its HP restored instead of taking damage."
+Truant,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Moves only every two turns.
+Truant,"['Diamond', 'Pearl', 'Platinum']",The Pokémon can’t attack on consecutive turns.
+Truant,"['HeartGold', 'SoulSilver']",Pokémon can’t attack on consecutive turns.
+Truant,"['Black', 'White', 'Black 2', 'White 2']",Pokémon can’t attack on consecutive turns.
+Truant,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon can’t attack on consecutive turns.
+Truant,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon can’t use a move the following turn if it uses one.
+Truant,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon can’t use a move if it had used a move on the previous turn.
+Truant,"['Scarlet', 'Violet']","Each time the Pokémon uses a move, it spends the next turn loafing around."
+Wonder Guard,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",“Super effective” hits.
+Wonder Guard,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Only supereffective moves will hit.
+Wonder Guard,"['Black', 'White', 'Black 2', 'White 2']",Only supereffective moves will hit.
+Wonder Guard,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Only supereffective moves will hit.
+Wonder Guard,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Its mysterious power only lets supereffective moves hit the Pokémon.
+Wonder Guard,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Its mysterious power only lets supereffective moves hit the Pokémon.
+Wonder Guard,"['Scarlet', 'Violet']",Its mysterious power only lets supereffective moves hit the Pokémon.
+Normalize,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",All the Pokémon’s moves become the Normal type.
+Normalize,"['Black', 'White', 'Black 2', 'White 2']",All the Pokémon’s moves become the Normal type.
+Normalize,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",All the Pokémon’s moves become Normal type.
+Normalize,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.
+Normalize,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.
+Normalize,"['Scarlet', 'Violet']",All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.
+Stall,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon moves after even slower foes.
+Stall,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon moves after all other Pokémon do.
+Stall,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon moves after all other Pokémon do.
+Stall,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon moves after all other Pokémon do.
+Stall,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon moves after all other Pokémon do.
+Stall,"['Scarlet', 'Violet']",The Pokémon is always the last to use its moves.
+Heavy Metal,"['Black', 'White', 'Black 2', 'White 2']",Doubles the Pokémon’s weight.
+Heavy Metal,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Doubles the Pokémon’s weight.
+Heavy Metal,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Doubles the Pokémon’s weight.
+Heavy Metal,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Doubles the Pokémon’s weight.
+Heavy Metal,"['Scarlet', 'Violet']",Doubles the Pokémon’s weight.
+Pure Power,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Raises ATTACK.
+Pure Power,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Boosts the power of physical attacks.
+Pure Power,"['Black', 'White', 'Black 2', 'White 2']",Raises the Pokémon’s Attack stat.
+Pure Power,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Pokémon’s Attack stat.
+Pure Power,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Using its pure power, the Pokémon doubles its Attack stat."
+Pure Power,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Using its pure power, the Pokémon doubles its Attack stat."
+Pure Power,"['Scarlet', 'Violet']","Using its pure power, the Pokémon doubles its Attack stat."
+Minus,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Powers up with PLUS.
+Minus,"['Diamond', 'Pearl', 'Platinum']",Boosts Sp. Atk if another Pokémon has Plus.
+Minus,"['HeartGold', 'SoulSilver']",Ups Sp. Atk if another Pokémon has Plus.
+Minus,"['Black', 'White', 'Black 2', 'White 2']",Ups Sp. Atk if another Pokémon has Plus or Minus.
+Minus,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.
+Minus,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+Minus,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+Minus,"['Scarlet', 'Violet']",Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+Rough Skin,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Hurts to touch.
+Rough Skin,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Inflicts damage to the foe on contact.
+Rough Skin,"['Black', 'White', 'Black 2', 'White 2']",Inflicts damage to the attacker on contact.
+Rough Skin,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Inflicts damage to the attacker on contact.
+Rough Skin,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",This Pokémon inflicts damage with its rough skin to the attacker on contact.
+Rough Skin,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",This Pokémon inflicts damage with its rough skin to the attacker on contact.
+Rough Skin,"['Scarlet', 'Violet']",The Pokémon’s rough skin damages attackers that make direct contact with it.
+Simple,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon is prone to wild stat changes.
+Simple,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon is prone to wild stat changes.
+Simple,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon is prone to wild stat changes.
+Simple,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The stat changes the Pokémon receives are doubled.
+Simple,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The stat changes the Pokémon receives are doubled.
+Simple,"['Scarlet', 'Violet']",Doubles the effects of the Pokémon’s stat changes.
+Solid Rock,"['Diamond', 'Pearl', 'Platinum']",Powers down supereffective moves.
+Solid Rock,"['HeartGold', 'SoulSilver']",Reduces damage from supereffective attacks
+Solid Rock,"['Black', 'White', 'Black 2', 'White 2']",Reduces damage from supereffective attacks.
+Solid Rock,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Reduces damage from supereffective attacks.
+Solid Rock,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Reduces the power of supereffective attacks taken.
+Solid Rock,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Reduces the power of supereffective attacks taken.
+Solid Rock,"['Scarlet', 'Violet']",Reduces the power of supereffective attacks that hit the Pokémon.
+White Smoke,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Prevents ability reduction.
+White Smoke,"['Diamond', 'Pearl', 'Platinum']",Prevents the Pokémon’s stats from being lowered.
+White Smoke,"['HeartGold', 'SoulSilver']",Prevents its stats from being lowered.
+White Smoke,"['Black', 'White', 'Black 2', 'White 2']",Prevents other Pokémon from lowering its stats.
+White Smoke,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents other Pokémon from lowering its stats.
+White Smoke,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats."
+White Smoke,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats."
+White Smoke,"['Scarlet', 'Violet']","The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats."
+Toxic Boost,"['Black', 'White', 'Black 2', 'White 2']",Powers up physical attacks when poisoned.
+Toxic Boost,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up physical attacks when the Pokémon is poisoned.
+Toxic Boost,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up physical attacks when the Pokémon is poisoned.
+Toxic Boost,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up physical attacks when the Pokémon is poisoned.
+Toxic Boost,"['Scarlet', 'Violet']",Powers up physical moves when the Pokémon is poisoned.
+Storm Drain,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon draws in all Water-type moves.
+Storm Drain,"['Black', 'White', 'Black 2', 'White 2']",Draws in all Water-type moves to up Sp. Attack.
+Storm Drain,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Draws in all Water-type moves to boost its Sp. Atk stat.
+Storm Drain,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Draws in all Water-type moves. Instead of being hit by Water-type moves, it boosts its Sp. Atk."
+Storm Drain,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Draws in all Water-type moves. Instead of being hit by Water-type moves, it boosts its Sp. Atk."
+Storm Drain,"['Scarlet', 'Violet']","The Pokémon draws in all Water-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted."
+Forecast,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Changes with the weather.
+Forecast,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",CASTFORM transforms with the weather.
+Forecast,"['Black', 'White', 'Black 2', 'White 2']",Castform transforms with the weather.
+Forecast,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Castform transforms with the weather.
+Forecast,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
+Forecast,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
+Forecast,"['Scarlet', 'Violet']","The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
+Color Change,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Changes type to foe’s move.
+Color Change,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Changes the Pokémon’s type to the foe’s move.
+Color Change,"['Black', 'White', 'Black 2', 'White 2']",Changes the Pokémon’s type to the foe’s move.
+Color Change,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon’s type becomes the type of the move used on it.
+Color Change,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon’s type becomes the type of the move used on it.
+Color Change,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon’s type becomes the type of the move used on it.
+Color Change,"['Scarlet', 'Violet']",The Pokémon’s type becomes the type of the move used on it.
+Protean,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Changes the Pokémon’s type to the type of the move it’s using.
+Protean,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Changes the Pokémon’s type to the type of the move it’s about to use.
+Protean,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Changes the Pokémon’s type to the type of the move it’s about to use.
+Protean,"['Scarlet', 'Violet']",Changes the Pokémon’s type to the type of the move it’s about to use. This works only once each time the Pokémon enters battle.
+Air Lock,"['Ruby', 'Sapphire', 'FireRed', 'LeafGreen', 'Emerald']",Negates weather effects.
+Air Lock,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Eliminates the effects of weather.
+Air Lock,"['Black', 'White', 'Black 2', 'White 2']",Eliminates the effects of weather.
+Air Lock,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Eliminates the effects of weather.
+Air Lock,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Eliminates the effects of weather.
+Air Lock,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Eliminates the effects of weather.
+Air Lock,"['Scarlet', 'Violet']",Eliminates the effects of weather.
+Flower Gift,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Powers up party Pokémon when it is sunny.
+Flower Gift,"['Black', 'White', 'Black 2', 'White 2']",Powers up party Pokémon when it is sunny.
+Flower Gift,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up party Pokémon when it is sunny.
+Flower Gift,"['Sun', 'Moon']",Boosts the Attack and Sp. Def stats of itself and allies when it is sunny.
+Flower Gift,"['Ultra Sun', 'Ultra Moon']",Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight.
+Flower Gift,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight.
+Flower Gift,"['Scarlet', 'Violet']",Boosts the Attack and Sp. Def stats of the Pokémon and its allies in harsh sunlight.
+Flare Boost,"['Black', 'White', 'Black 2', 'White 2']",Powers up special attacks when burned.
+Flare Boost,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up special attacks when the Pokémon is burned.
+Flare Boost,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up special attacks when the Pokémon is burned.
+Flare Boost,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up special attacks when the Pokémon is burned.
+Flare Boost,"['Scarlet', 'Violet']",Powers up special moves when the Pokémon is burned.
+Klutz,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon can’t use any held items.
+Klutz,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon can’t use any held items.
+Klutz,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon can’t use any held items.
+Klutz,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon can’t use any held items.
+Klutz,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon can’t use any held items.
+Klutz,"['Scarlet', 'Violet']",The Pokémon can’t use any held items.
+Heatproof,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Weakens the power of Fire-type moves.
+Heatproof,"['Black', 'White', 'Black 2', 'White 2']",Weakens the power of Fire-type moves.
+Heatproof,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Weakens the power of Fire-type moves.
+Heatproof,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it.
+Heatproof,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it.
+Heatproof,"['Scarlet', 'Violet']",The Pokémon’s heatproof body halves the damage taken from Fire-type moves.
+Snow Warning,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The Pokémon summons a hailstorm in battle.
+Snow Warning,"['Black', 'White', 'Black 2', 'White 2']",The Pokémon summons a hailstorm in battle.
+Snow Warning,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon summons a hailstorm when it enters a battle.
+Snow Warning,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon summons a hailstorm when it enters a battle.
+Snow Warning,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon summons a hailstorm when it enters a battle.
+Snow Warning,"['Scarlet', 'Violet']",The Pokémon makes it snow when it enters a battle.
+Motor Drive,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Raises Speed if hit by an Electric-type move.
+Motor Drive,"['Black', 'White', 'Black 2', 'White 2']",Raises Speed if hit by an Electric-type move.
+Motor Drive,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Speed stat when it’s hit by an Electric-type move.
+Motor Drive,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Boosts its Speed stat if hit by an Electric-type move, instead of taking damage."
+Motor Drive,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts its Speed stat if hit by an Electric-type move instead of taking damage.
+Motor Drive,"['Scarlet', 'Violet']","The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted."
+Sharpness,"['Scarlet', 'Violet']",Powers up slicing moves.
+Slow Start,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Temporarily halves Attack and Speed.
+Slow Start,"['Black', 'White', 'Black 2', 'White 2']",Temporarily halves Attack and Speed.
+Slow Start,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Temporarily halves the Pokémon’s Attack and Speed stats.
+Slow Start,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","For five turns, the Pokémon’s Attack and Speed stats are halved."
+Slow Start,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","For five turns, the Pokémon’s Attack and Speed stats are halved."
+Slow Start,"['Scarlet', 'Violet']","For five turns, the Pokémon’s Attack and Speed stats are halved."
+Bad Dreams,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Reduces a sleeping foe’s HP.
+Bad Dreams,"['Black', 'White', 'Black 2', 'White 2']",Reduces a sleeping foe’s HP.
+Bad Dreams,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Reduces the HP of sleeping opposing Pokémon.
+Bad Dreams,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Reduces the HP of sleeping opposing Pokémon.
+Bad Dreams,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Reduces the HP of sleeping opposing Pokémon.
+Bad Dreams,"['Scarlet', 'Violet']",Damages opposing Pokémon that are asleep.
+Multitype,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Changes type to match the held Plate.
+Multitype,"['Black', 'White', 'Black 2', 'White 2']",Changes type to match the held Plate.
+Multitype,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Changes the Pokémon’s type to match the Plate it holds.
+Multitype,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Changes the Pokémon’s type to match the Plate or Z-Crystal it holds.
+Multitype,"['Sword', 'Shield']",Changes the Pokémon’s type to match the Plate or Z-Crystal it holds.
+Multitype,"['B.Diamond', 'S.Pearl']",Changes the Pokémon’s type to match the Plate it holds.
+Multitype,"['Scarlet', 'Violet']",Changes the Pokémon’s type to match the plate it holds.
+Victory Star,"['Black', 'White', 'Black 2', 'White 2']",Boosts the accuracy of its allies and itself.
+Victory Star,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the accuracy of its allies and itself.
+Victory Star,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the accuracy of its allies and itself.
+Victory Star,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the accuracy of its allies and itself.
+Victory Star,"['Scarlet', 'Violet']",Boosts the accuracy of the Pokémon and its allies.
+Zen Mode,"['Black', 'White', 'Black 2', 'White 2']",Changes the Pokémon’s shape when HP is halved.
+Zen Mode,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Changes the Pokémon’s shape when HP is half or less.
+Zen Mode,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Changes the Pokémon’s shape when HP is half or less.
+Zen Mode,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Changes the Pokémon’s shape when HP is half or less.
+Zen Mode,"['Scarlet', 'Violet']",Changes the Pokémon’s shape when its HP drops to half or less.
+Mummy,"['Black', 'White', 'Black 2', 'White 2']",Contact with this Pokémon spreads this Ability.
+Mummy,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Contact with the Pokémon spreads this Ability.
+Mummy,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Contact with the Pokémon changes the attacker’s Ability to Mummy.
+Mummy,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Contact with the Pokémon changes the attacker’s Ability to Mummy.
+Mummy,"['Scarlet', 'Violet']",Contact with the Pokémon changes the attacker’s Ability to Mummy.
+Defeatist,"['Black', 'White', 'Black 2', 'White 2']",Lowers stats when HP becomes half or less.
+Defeatist,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Lowers stats when HP becomes half or less.
+Defeatist,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Halves the Pokémon’s Attack and Sp. Atk stats when its HP becomes half or less.
+Defeatist,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Halves the Pokémon’s Attack and Sp. Atk stats when its HP becomes half or less.
+Defeatist,"['Scarlet', 'Violet']",Halves the Pokémon’s Attack and Sp. Atk stats when its HP drops to half or less.
+Illusion,"['Black', 'White', 'Black 2', 'White 2']",Comes out disguised as the Pokémon in back.
+Illusion,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Comes out disguised as the Pokémon in the party’s last spot.
+Illusion,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Comes out disguised as the Pokémon in the party’s last spot.
+Illusion,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Comes out disguised as the Pokémon in the party’s last spot.
+Illusion,"['Scarlet', 'Violet']",The Pokémon fools opponents by entering battle disguised as the last Pokémon in its Trainer’s party.
+Iron Barbs,"['Black', 'White', 'Black 2', 'White 2']",Inflicts damage to the Pokémon on contact.
+Iron Barbs,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Inflicts damage to the attacker on contact.
+Iron Barbs,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Inflicts damage to the attacker on contact with iron barbs.
+Iron Barbs,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Inflicts damage on the attacker upon contact with iron barbs.
+Iron Barbs,"['Scarlet', 'Violet']",The Pokémon’s iron barbs damage the attacker if it makes direct contact.
+Slush Rush,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Pokémon’s Speed stat in a hailstorm.
+Slush Rush,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Speed stat in a hailstorm.
+Slush Rush,"['Scarlet', 'Violet']",Boosts the Pokémon’s Speed stat in snow.
+Turboblaze,"['Black', 'White', 'Black 2', 'White 2']",Moves can be used regardless of Abilities.
+Turboblaze,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Moves can be used on the target regardless of its Abilities.
+Turboblaze,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Moves can be used on the target regardless of its Abilities.
+Turboblaze,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Moves can be used on the target regardless of its Abilities.
+Turboblaze,"['Scarlet', 'Violet']",The Pokémon’s moves are unimpeded by the Ability of the target.
+Teravolt,"['Black', 'White', 'Black 2', 'White 2']",Moves can be used regardless of Abilities.
+Teravolt,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Moves can be used on the target regardless of its Abilities.
+Teravolt,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Moves can be used on the target regardless of its Abilities.
+Teravolt,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Moves can be used on the target regardless of its Abilities.
+Teravolt,"['Scarlet', 'Violet']",The Pokémon’s moves are unimpeded by the Ability of the target.
+Bulletproof,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Protects the Pokémon from some ball and bomb moves.
+Bulletproof,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Protects the Pokémon from some ball and bomb moves.
+Bulletproof,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Protects the Pokémon from some ball and bomb moves.
+Bulletproof,"['Scarlet', 'Violet']",Protects the Pokémon from ball and bomb moves.
+Magician,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon steals the held item of a Pokémon it hits with a move.
+Magician,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon steals the held item of a Pokémon it hits with a move.
+Magician,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon steals the held item of a Pokémon it hits with a move.
+Magician,"['Scarlet', 'Violet']",The Pokémon steals the held item from any target it hits with a move.
+Cheek Pouch,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Restores HP as well when the Pokémon eats a Berry.
+Cheek Pouch,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Restores HP as well when the Pokémon eats a Berry.
+Cheek Pouch,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Restores HP as well when the Pokémon eats a Berry.
+Cheek Pouch,"['Scarlet', 'Violet']","The Pokémon’s HP is restored when it eats any Berry, in addition to the Berry’s usual effect."
+Gale Wings,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Gives priority to Flying-type moves.
+Gale Wings,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Gives priority to Flying-type moves when the Pokémon’s HP is full.
+Gale Wings,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Gives priority to Flying-type moves when the Pokémon’s HP is full.
+Gale Wings,"['Scarlet', 'Violet']",Gives priority to the Pokémon’s Flying-type moves while its HP is full.
+Flower Veil,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents lowering of ally Grass-type Pokémon’s stats.
+Flower Veil,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.
+Flower Veil,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.
+Flower Veil,"['Scarlet', 'Violet']",Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.
+Symbiosis,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon can pass an item to an ally.
+Symbiosis,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon passes its item to an ally that has used up an item.
+Symbiosis,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon passes its item to an ally that has used up an item.
+Symbiosis,"['Scarlet', 'Violet']",The Pokémon passes its held item to an ally that has used up an item.
+Grass Pelt,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Boosts the Defense stat in Grassy Terrain.
+Grass Pelt,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Pokémon’s Defense stat in Grassy Terrain.
+Grass Pelt,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Defense stat on Grassy Terrain.
+Grass Pelt,"['Scarlet', 'Violet']",Boosts the Pokémon’s Defense stat on Grassy Terrain.
+Fur Coat,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Halves damage from physical moves.
+Fur Coat,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Halves the damage from physical moves.
+Fur Coat,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Halves the damage from physical moves.
+Fur Coat,"['Scarlet', 'Violet']",Halves the damage from physical moves.
+Stance Change,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon changes form depending on how it battles.
+Stance Change,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon changes its form to Blade Forme when it uses an attack move, and changes to Shield Forme when it uses King’s Shield."
+Stance Change,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield.
+Stance Change,"['Scarlet', 'Violet']",The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield.
+Aroma Veil,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Protects allies from attacks that limit their move choices.
+Aroma Veil,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Protects itself and its allies from attacks that limit their move choices.
+Aroma Veil,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Protects itself and its allies from attacks that limit their move choices.
+Aroma Veil,"['Scarlet', 'Violet']",Protects the Pokémon and its allies from effects that prevent the use of moves.
+Sweet Veil,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Prevents itself and ally Pokémon from falling asleep.
+Sweet Veil,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Prevents itself and ally Pokémon from falling asleep.
+Sweet Veil,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Prevents itself and ally Pokémon from falling asleep.
+Sweet Veil,"['Scarlet', 'Violet']",Prevents the Pokémon and its allies from falling asleep.
+Tough Claws,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up moves that make direct contact.
+Tough Claws,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up moves that make direct contact.
+Tough Claws,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up moves that make direct contact.
+Tough Claws,"['Scarlet', 'Violet']",Powers up moves that make direct contact.
+Mega Launcher,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up aura and pulse moves.
+Mega Launcher,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up aura and pulse moves.
+Mega Launcher,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up aura and pulse moves.
+Mega Launcher,"['Scarlet', 'Violet']",Powers up pulse moves.
+Strong Jaw,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The Pokémon’s strong jaw gives it tremendous biting power.
+Strong Jaw,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon’s strong jaw boosts the power of its biting moves.
+Strong Jaw,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon’s strong jaw boosts the power of its biting moves.
+Strong Jaw,"['Scarlet', 'Violet']",The Pokémon’s strong jaw boosts the power of its biting moves.
+Refrigerate,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Normal-type moves become Ice-type moves.
+Refrigerate,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Normal-type moves become Ice-type moves. The power of those moves is boosted a little.
+Refrigerate,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Normal-type moves become Ice-type moves. The power of those moves is boosted a little.
+Refrigerate,"['Scarlet', 'Violet']",Normal-type moves become Ice-type moves. The power of those moves is boosted a little.
+Pixilate,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Normal-type moves become Fairy-type moves.
+Pixilate,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.
+Pixilate,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.
+Pixilate,"['Scarlet', 'Violet']",Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.
+Gooey,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Contact with the Pokémon lowers the attacker’s Speed stat.
+Gooey,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Contact with the Pokémon lowers the attacker’s Speed stat.
+Gooey,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Contact with the Pokémon lowers the attacker’s Speed stat.
+Gooey,"['Scarlet', 'Violet']",Contact with the Pokémon lowers the attacker’s Speed stat.
+Fairy Aura,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up each Pokémon’s Fairy-type moves.
+Fairy Aura,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up each Pokémon’s Fairy-type moves.
+Fairy Aura,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up each Pokémon’s Fairy-type moves.
+Fairy Aura,"['Scarlet', 'Violet']",Powers up the Fairy-type moves of all Pokémon on the field.
+Dark Aura,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",Powers up each Pokémon’s Dark-type moves.
+Dark Aura,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up each Pokémon’s Dark-type moves.
+Dark Aura,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up each Pokémon’s Dark-type moves.
+Dark Aura,"['Scarlet', 'Violet']",Powers up the Dark-type moves of all Pokémon on the field.
+Aura Break,"['X', 'Y', 'O.Ruby', 'A.Sapphire']",The effects of “Aura” Abilities are reversed.
+Aura Break,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The effects of “Aura” Abilities are reversed to lower the power of affected moves.
+Aura Break,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The effects of “Aura” Abilities are reversed to lower the power of affected moves.
+Aura Break,"['Scarlet', 'Violet']",The effects of “Aura” Abilities are reversed to lower the power of affected moves.
+Power Construct,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme.
+Power Construct,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme.
+Power Construct,"['Scarlet', 'Violet']","Cells gather to aid the Pokémon when its HP drops to half or less, causing it to change into its Complete Forme."
+Long Reach,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon uses its moves without making contact with the target.
+Long Reach,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon uses its moves without making contact with the target.
+Long Reach,"['Scarlet', 'Violet']",The Pokémon uses its moves without making contact with the target.
+Liquid Voice,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",All sound-based moves become Water-type moves.
+Liquid Voice,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",All sound-based moves become Water-type moves.
+Liquid Voice,"['Scarlet', 'Violet']",Sound-based moves become Water-type moves.
+Stakeout,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Doubles the damage dealt to the target’s replacement if the target switches out.
+Stakeout,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Doubles the damage dealt to the target’s replacement if the target switches out.
+Stakeout,"['Scarlet', 'Violet']",Doubles the damage dealt to a target that has just switched into battle.
+Battery,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up ally Pokémon’s special moves.
+Battery,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up ally Pokémon’s special moves.
+Battery,"['Scarlet', 'Violet']",Powers up ally Pokémon’s special moves.
+Dancer,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed."
+Dancer,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed."
+Dancer,"['Scarlet', 'Violet']","Whenever a dance move is used in battle, the Pokémon will copy the user to immediately perform that dance move itself."
+Schooling,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
+Schooling,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
+Schooling,"['Scarlet', 'Violet']","When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
+Merciless,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon’s attacks become critical hits if the target is poisoned.
+Merciless,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon’s attacks become critical hits if the target is poisoned.
+Merciless,"['Scarlet', 'Violet']",The Pokémon’s attacks become critical hits if the target is poisoned.
+Stamina,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Defense stat when hit by an attack.
+Stamina,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Defense stat when hit by an attack.
+Stamina,"['Scarlet', 'Violet']",Boosts the Defense stat when the Pokémon is hit by an attack.
+Water Bubble,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.
+Water Bubble,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.
+Water Bubble,"['Scarlet', 'Violet']",Lowers the power of Fire-type moves that hit the Pokémon and prevents it from being burned.
+Corrosion,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon can poison the target even if it’s a Steel or Poison type.
+Corrosion,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon can poison the target even if it’s a Steel or Poison type.
+Corrosion,"['Scarlet', 'Violet']",The Pokémon can poison the target even if it’s a Steel or Poison type.
+Fluffy,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+Fluffy,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+Fluffy,"['Scarlet', 'Violet']","Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+Queenly Majesty,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves."
+Queenly Majesty,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves."
+Queenly Majesty,"['Scarlet', 'Violet']",The Pokémon’s majesty pressures opponents and makes them unable to use priority moves against the Pokémon or its allies.
+Triage,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Gives priority to a healing move.
+Triage,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Gives priority to a healing move.
+Triage,"['Scarlet', 'Violet']",Gives priority to the Pokémon’s healing moves.
+Receiver,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon copies the Ability of a defeated ally.
+Receiver,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon copies the Ability of a defeated ally.
+Receiver,"['Scarlet', 'Violet']",The Pokémon copies the Ability of a defeated ally.
+Wimp Out,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon cowardly switches out when its HP becomes half or less.
+Wimp Out,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon cowardly switches out when its HP becomes half or less.
+Wimp Out,"['Scarlet', 'Violet']",The Pokémon cowardly switches out when its HP drops to half or less.
+Emergency Exit,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","The Pokémon, sensing danger, switches out when its HP becomes half or less."
+Emergency Exit,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon, sensing danger, switches out when its HP becomes half or less."
+Emergency Exit,"['Scarlet', 'Violet']","The Pokémon, sensing danger, switches out when its HP drops to half or less."
+Water Compaction,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move.
+Water Compaction,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move.
+Water Compaction,"['Scarlet', 'Violet']",Boosts the Defense stat sharply when the Pokémon is hit by a Water-type move.
+Innards Out,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Damages the attacker landing the finishing hit by the amount equal to its last HP.
+Innards Out,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Damages the attacker landing the finishing hit by the amount equal to its last HP.
+Innards Out,"['Scarlet', 'Violet']","When the Pokémon is knocked out, it damages its attacker by the amount equal to the HP it had left before it was hit."
+RKS System,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Changes the Pokémon’s type to match the memory disc it holds.
+RKS System,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Changes the Pokémon’s type to match the memory disc it holds.
+RKS System,"['Scarlet', 'Violet']",Changes the Pokémon’s type to match the memory disc it holds.
+Shields Down,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","When its HP becomes half or less, the Pokémon’s shell breaks and it becomes aggressive."
+Shields Down,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When its HP becomes half or less, the Pokémon’s shell breaks and it becomes aggressive."
+Shields Down,"['Scarlet', 'Violet']","When its HP drops to half or less, the Pokémon’s shell breaks and it becomes aggressive."
+Comatose,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",It’s always drowsing and will never wake up. It can attack without waking up.
+Comatose,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",It’s always drowsing and will never wake up. It can attack without waking up.
+Comatose,"['Scarlet', 'Violet']",The Pokémon is always drowsing and will never wake up. It can attack while in its sleeping state.
+Disguise,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+Disguise,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+Disguise,"['Scarlet', 'Violet']","Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+Dazzling,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Surprises the opposing Pokémon, making it unable to attack using priority moves."
+Dazzling,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","Surprises the opposing Pokémon, making it unable to attack using priority moves."
+Dazzling,"['Scarlet', 'Violet']","The Pokémon dazzles its opponents, making them unable to use priority moves against the Pokémon or its allies."
+Berserk,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less.
+Berserk,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less.
+Berserk,"['Scarlet', 'Violet']",Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to drop to half or less.
+Steelworker,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Powers up Steel-type moves.
+Steelworker,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up Steel-type moves.
+Steelworker,"['Scarlet', 'Violet']",Powers up Steel-type moves.
+Electric Surge,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Turns the ground into Electric Terrain when the Pokémon enters a battle.
+Electric Surge,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Turns the ground into Electric Terrain when the Pokémon enters a battle.
+Electric Surge,"['Scarlet', 'Violet']",Turns the ground into Electric Terrain when the Pokémon enters a battle.
+Psychic Surge,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Turns the ground into Psychic Terrain when the Pokémon enters a battle.
+Psychic Surge,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Turns the ground into Psychic Terrain when the Pokémon enters a battle.
+Psychic Surge,"['Scarlet', 'Violet']",Turns the ground into Psychic Terrain when the Pokémon enters a battle.
+Grassy Surge,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Turns the ground into Grassy Terrain when the Pokémon enters a battle.
+Grassy Surge,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Turns the ground into Grassy Terrain when the Pokémon enters a battle.
+Grassy Surge,"['Scarlet', 'Violet']",Turns the ground into Grassy Terrain when the Pokémon enters a battle.
+Misty Surge,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Turns the ground into Misty Terrain when the Pokémon enters a battle.
+Misty Surge,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Turns the ground into Misty Terrain when the Pokémon enters a battle.
+Misty Surge,"['Scarlet', 'Violet']",Turns the ground into Misty Terrain when the Pokémon enters a battle.
+Full Metal Body,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+Full Metal Body,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+Full Metal Body,"['Scarlet', 'Violet']",Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+Shadow Shield,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Reduces the amount of damage the Pokémon takes while its HP is full.
+Shadow Shield,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Reduces the amount of damage the Pokémon takes while its HP is full.
+Shadow Shield,"['Scarlet', 'Violet']",Reduces the amount of damage the Pokémon takes while its HP is full.
+Beast Boost,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+Beast Boost,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+Beast Boost,"['Scarlet', 'Violet']",Boosts the Pokémon’s most proficient stat every time it knocks out a target.
+Prism Armor,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Reduces the power of supereffective attacks taken.
+Prism Armor,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Reduces the power of supereffective attacks taken.
+Prism Armor,"['Scarlet', 'Violet']",Reduces the power of supereffective attacks that hit the Pokémon.
+Soul-Heart,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Boosts its Sp. Atk stat every time a Pokémon faints.
+Soul-Heart,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts its Sp. Atk stat every time a Pokémon faints.
+Soul-Heart,"['Scarlet', 'Violet']",Boosts the Pokémon’s Sp. Atk stat every time another Pokémon faints.
+Libero,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Changes the Pokémon’s type to the type of the move it’s about to use.
+Libero,"['Scarlet', 'Violet']",Changes the Pokémon’s type to the type of the move it’s about to use. This works only once each time the Pokémon enters battle.
+Mirror Armor,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Bounces back only the stat-lowering effects that the Pokémon receives.
+Mirror Armor,"['Scarlet', 'Violet']",Bounces back only the stat-lowering effects that the Pokémon receives.
+Cotton Down,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When the Pokémon is hit by an attack, it scatters cotton fluff around and lowers the Speed stat of all Pokémon except itself."
+Cotton Down,"['Scarlet', 'Violet']","When the Pokémon is hit by an attack, it scatters cotton fluff around and lowers the Speed stats of all Pokémon except itself."
+Ball Fetch,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
+Ball Fetch,"['Scarlet', 'Violet']","If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
+Steam Engine,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Speed stat drastically if hit by a Fire- or Water-type move.
+Steam Engine,"['Scarlet', 'Violet']",Boosts the Speed stat drastically when the Pokémon is hit by a Fire- or Water-type move.
+Ripen,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Ripens Berries and doubles their effect.
+Ripen,"['Scarlet', 'Violet']",Ripens Berries and doubles their effect.
+Sand Spit,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon creates a sandstorm when it’s hit by an attack.
+Sand Spit,"['Scarlet', 'Violet']",The Pokémon creates a sandstorm when it’s hit by an attack.
+Gulp Missile,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When the Pokémon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack."
+Gulp Missile,"['Scarlet', 'Violet']","When the Pokémon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack."
+Propeller Tail,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.
+Propeller Tail,"['Scarlet', 'Violet']",Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.
+Punk Rock,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves.
+Punk Rock,"['Scarlet', 'Violet']",Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves.
+Steely Spirit,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up ally Pokémon’s Steel-type moves.
+Steely Spirit,"['Scarlet', 'Violet']",Powers up the Steel-type moves of the Pokémon and its allies.
+Perish Body,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle."
+Perish Body,"['Scarlet', 'Violet']","When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle."
+Screen Cleaner,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon."
+Screen Cleaner,"['Scarlet', 'Violet']","When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon."
+Wandering Spirit,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact.
+Wandering Spirit,"['Scarlet', 'Violet']",The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact.
+Ice Scales,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon is protected by ice scales, which halve the damage taken from special moves."
+Ice Scales,"['Scarlet', 'Violet']","The Pokémon is protected by ice scales, which halve the damage taken from special moves."
+Power Spot,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Just being next to the Pokémon powers up moves.
+Power Spot,"['Scarlet', 'Violet']",Just being next to the Pokémon powers up moves.
+Ice Face,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon’s ice head can take a physical attack as a substitute, but the attack also changes the Pokémon’s appearance. The ice will be restored when it hails."
+Ice Face,"['Scarlet', 'Violet']","The Pokémon’s ice head can take a physical attack as a substitute, but the attack also changes the Pokémon’s appearance. The ice will be restored when it snows."
+Hunger Switch,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn."
+Hunger Switch,"['Scarlet', 'Violet']","The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of every turn."
+Stalwart,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.
+Stalwart,"['Scarlet', 'Violet']",Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.
+Intrepid Sword,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Attack stat when the Pokémon enters a battle.
+Intrepid Sword,"['Scarlet', 'Violet']",Boosts the Pokémon’s Attack stat the first time the Pokémon enters a battle.
+Dauntless Shield,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Boosts the Pokémon’s Defense stat when the Pokémon enters a battle.
+Dauntless Shield,"['Scarlet', 'Violet']",Boosts the Pokémon’s Defense stat the first time the Pokémon enters a battle.
+Unseen Fist,"['B.Diamond', 'S.Pearl']","If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself."
+Unseen Fist,"['Scarlet', 'Violet']","If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself."
+Transistor,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up Electric-type moves.
+Transistor,"['Scarlet', 'Violet']",Powers up Electric-type moves.
+Dragon's Maw,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']",Powers up Dragon-type moves.
+Dragon's Maw,"['Scarlet', 'Violet']",Powers up Dragon-type moves.
+Chilling Neigh,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat."
+Chilling Neigh,"['Scarlet', 'Violet']","When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat."
+Grim Neigh,"['Sword', 'Shield', 'B.Diamond', 'S.Pearl']","When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat."
+Grim Neigh,"['Scarlet', 'Violet']","When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat."
+Lingering Aroma,"['Scarlet', 'Violet']",Contact with the Pokémon changes the attacker’s Ability to Lingering Aroma.
+Well-Baked Body,"['Scarlet', 'Violet']","The Pokémon takes no damage when hit by Fire-type moves. Instead, its Defense stat is sharply boosted."
+Seed Sower,"['Scarlet', 'Violet']",Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.
+Purifying Salt,"['Scarlet', 'Violet']",The Pokémon’s pure salt protects it from status conditions and halves the damage taken from Ghost-type moves.
+Electromorphosis,"['Scarlet', 'Violet']","The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses."
+Wind Power,"['Scarlet', 'Violet']","The Pokémon becomes charged when it is hit by a wind move, boosting the power of the next Electric-type move the Pokémon uses."
+Guard Dog,"['Scarlet', 'Violet']",Boosts the Pokémon’s Attack stat if intimidated. Moves and items that would force the Pokémon to switch out also fail to work.
+Wind Rider,"['Scarlet', 'Violet']",Boosts the Pokémon’s Attack stat if Tailwind takes effect or if the Pokémon is hit by a wind move. The Pokémon also takes no damage from wind moves.
+Mycelium Might,"['Scarlet', 'Violet']","The Pokémon will always act more slowly when using status moves, but these moves will be unimpeded by the Ability of the target."
+Anger Shell,"['Scarlet', 'Violet']","When an attack causes its HP to drop to half or less, the Pokémon gets angry. This lowers its Defense and Sp. Def stats but boosts its Attack, Sp. Atk, and Speed stats."
+Opportunist,"['Scarlet', 'Violet']","If an opponent’s stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself."
+Rocky Payload,"['Scarlet', 'Violet']",Powers up Rock-type moves.
+Zero to Hero,"['Scarlet', 'Violet']",The Pokémon transforms into its Hero Form when it switches out.
+Earth Eater,"['Scarlet', 'Violet']","If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage."
+Toxic Debris,"['Scarlet', 'Violet']",Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.
+Costar,"['Scarlet', 'Violet']","When the Pokémon enters a battle, it copies an ally’s stat changes."
+Commander,"['Scarlet', 'Violet']","When the Pokémon enters a battle, it goes inside the mouth of an ally Dondozo if one is on the field. The Pokémon then issues commands from there."
+Cud Chew,"['Scarlet', 'Violet']","When the Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time."
+Armor Tail,"['Scarlet', 'Violet']",The mysterious tail covering the Pokémon’s head makes opponents unable to use priority moves against the Pokémon or its allies.
+Supreme Overlord,"['Scarlet', 'Violet']","When the Pokémon enters a battle, its Attack and Sp. Atk stats are slightly boosted for each of the allies in its party that have already been defeated."
+Protosynthesis,"['Scarlet', 'Violet']",Boosts the Pokémon’s most proficient stat in harsh sunlight or if the Pokémon is holding Booster Energy.
+Quark Drive,"['Scarlet', 'Violet']",Boosts the Pokémon’s most proficient stat on Electric Terrain or if the Pokémon is holding Booster Energy.
+Thermal Exchange,"['Scarlet', 'Violet']",Boosts the Attack stat when the Pokémon is hit by a Fire-type move. The Pokémon also cannot be burned.
+Good as Gold,"['Scarlet', 'Violet']","A body of pure, solid gold gives the Pokémon full immunity to other Pokémon’s status moves."
+Tablets of Ruin,"['Scarlet', 'Violet']",The power of the Pokémon’s ruinous wooden tablets lowers the Attack stats of all Pokémon except itself.
+Sword of Ruin,"['Scarlet', 'Violet']",The power of the Pokémon’s ruinous sword lowers the Defense stats of all Pokémon except itself.
+Vessel of Ruin,"['Scarlet', 'Violet']",The power of the Pokémon’s ruinous vessel lowers the Sp. Atk stats of all Pokémon except itself.
+Beads of Ruin,"['Scarlet', 'Violet']",The power of the Pokémon’s ruinous beads lowers the Sp. Def stats of all Pokémon except itself.
+Orichalcum Pulse,"['Scarlet', 'Violet']",Turns the sunlight harsh when the Pokémon enters a battle. The ancient pulse thrumming through the Pokémon also boosts its Attack stat in harsh sunlight.
+Hadron Engine,"['Scarlet', 'Violet']",Turns the ground into Electric Terrain when the Pokémon enters a battle. The futuristic engine within the Pokémon also boosts its Sp. Atk stat on Electric Terrain.
+Supersweet Syrup,"['Scarlet', 'Violet']","A sickly sweet scent spreads across the field the first time the Pokémon enters a battle, lowering the evasiveness of opposing Pokémon."
+Hospitality,"['Scarlet', 'Violet']","When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP."
+Toxic Chain,"['Scarlet', 'Violet']","Toxic Chain may cause bad poisoning when the Pokémon hits an opponent with a move."
+Tera Shift,"['Scarlet', 'Violet']","When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form."
+Poison Puppeteer,"['Scarlet', 'Violet']",Pokémon poisoned by Pecharunt’s moves will also become confused.
