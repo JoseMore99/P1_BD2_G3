@@ -1,0 +1,814 @@
+name,gen_game
+Route 1,1
+Route 2,1
+Route 3,1
+Route 4,1
+Route 5,1
+Route 6,1
+Route 7,1
+Route 8,1
+Route 9,1
+Route 10,1
+Route 11,1
+Route 12,1
+Route 13,1
+Route 14,1
+Route 15,1
+Route 16,1
+Route 17,1
+Route 18,1
+Route 19,1
+Route 20,1
+Route 21,1
+Route 22,1
+Route 23,1
+Route 24,1
+Route 25,1
+Route 26,1
+Route 27,1
+Route 28,1
+Berry Forest,1
+Bond Bridge,1
+Canyon Entrance,1
+Cape Brink,1
+Celadon City,1
+Cerulean Cave,1
+Cerulean City,1
+Cinnabar Island,1
+Diglett's Cave,1
+Five Island,1
+Five Isle Meadow,1
+Four Island,1
+Fuchsia City,1
+Green Path,1
+Icefall Cave,1
+Indigo Plateau,1
+Kindle Road,1
+Lavender Town,1
+Lost Cave,1
+Memorial Pillar,1
+Mt. Ember,1
+Mt. Moon,1
+Navel Rock,1
+One Island,1
+Outcast Island,1
+Pallet Town,1
+Pattern Bush,1
+Pewter City,1
+Pokémon Mansion,1
+Pokémon Tower,1
+Power Plant,1
+Resort Gorgeous,1
+Roaming Kanto,1
+Rock Tunnel,1
+Ruin Valley,1
+Safari Zone,1
+Saffron City,1
+Seafoam Islands,1
+Sevault Canyon,1
+Silph Co.,1
+Tanoby Ruins,1
+Three Isle Port,1
+Tohjo Falls,1
+Trainer Tower,1
+Treasure Beach,1
+Underground Path 5-6,1
+Vermilion City,1
+Victory Road,1
+Viridian City,1
+Viridian Forest,1
+Water Labyrinth,1
+Water Path,1
+Dotted Hole,1
+Rocket Hideout,1
+Rocket Warehouse,1
+Seven Island,1
+Six Island,1
+SS Anne,1
+Three Island,1
+Three Isle Path,1
+Two Island,1
+Underground Path 7-8,1
+Route 29,2
+Route 30,2
+Route 31,2
+Route 32,2
+Route 33,2
+Route 34,2
+Route 35,2
+Route 36,2
+Route 37,2
+Route 38,2
+Route 39,2
+Route 40,2
+Route 41,2
+Route 42,2
+Route 43,2
+Route 44,2
+Route 45,2
+Route 46,2
+Route 47,2
+Route 48,2
+Azalea Town,2
+Bell Tower,2
+Blackthorn City,2
+Burned Tower,2
+Cherrygrove City,2
+Cianwood City,2
+Cliff Cave,2
+Cliff Edge Gate,2
+Dark Cave,2
+Dragon's Den,2
+Ecruteak City,2
+Embedded Tower,2
+Goldenrod City,2
+Ice Path,2
+Ilex Forest,2
+Lake of Rage,2
+Mt. Mortar,2
+Mt. Silver,2
+National Park,2
+New Bark Town,2
+Olivine City,2
+Roaming Johto,2
+Ruins of Alph,2
+Safari Zone Gate,2
+Sinjoh Ruins,2
+Slowpoke Well,2
+Sprout Tower,2
+Team Rocket HQ,2
+Tin Tower,2
+Union Cave,2
+Violet City,2
+Whirl Islands,2
+Battle Frontier,2
+Bellchime Trail,2
+Frontier Access,2
+Glitter Lighthouse,2
+Goldenrod Radio Tower,2
+Goldenrod Underground,2
+Mahogany Town,2
+Pokéathlon Dome,2
+SS Aqua,2
+Route 101,3
+Route 102,3
+Route 103,3
+Route 104,3
+Route 105,3
+Route 106,3
+Route 107,3
+Route 108,3
+Route 109,3
+Route 110,3
+Route 111,3
+Route 112,3
+Route 113,3
+Route 114,3
+Route 115,3
+Route 116,3
+Route 117,3
+Route 118,3
+Route 119,3
+Route 120,3
+Route 121,3
+Route 122,3
+Route 123,3
+Route 124,3
+Route 125,3
+Route 126,3
+Route 127,3
+Route 128,3
+Route 129,3
+Route 130,3
+Route 131,3
+Route 132,3
+Route 133,3
+Route 134,3
+Abandoned Ship,3
+Altering Cave,3
+Artisan Cave,3
+Battle Resort,3
+Battle Tower,3
+Birth Island,3
+Cave of Origin,3
+Desert Underpass,3
+Dewford Town,3
+Ever Grande City,3
+Faraway Island,3
+Fiery Path,3
+Fortree City,3
+Granite Cave,3
+Jagged Pass,3
+Lilycove City,3
+Littleroot Town,3
+Marine Cave,3
+Meteor Falls,3
+Mirage Island,3
+Mirage Spots,3
+Mirage Tower,3
+Mossdeep City,3
+Mt. Pyre,3
+New Mauville,3
+Pacifidlog Town,3
+Petalburg City,3
+Petalburg Woods,3
+Roaming Hoenn,3
+Rustboro City,3
+Rusturf Tunnel,3
+Safari Zone,3
+Scorched Slab,3
+Sea Mauville,3
+Seafloor Cavern,3
+Sealed Chamber,3
+Shoal Cave,3
+Sky Pillar,3
+Slateport City,3
+Sootopolis City,3
+Southern Island,3
+Team Magma/Aqua Hideout,3
+Terra Cave,3
+Victory Road,3
+Battle Frontier,3
+Fallarbor Town,3
+Lavaridge Town,3
+Mauville City,3
+Mt. Chimney,3
+Oldale Town,3
+SS Tidal,3
+Trainer Hill,3
+Verdanturf Town,3
+Route 201,4
+Route 202,4
+Route 203,4
+Route 204,4
+Route 205,4
+Route 206,4
+Route 207,4
+Route 208,4
+Route 209,4
+Route 210,4
+Route 211,4
+Route 212,4
+Route 213,4
+Route 214,4
+Route 215,4
+Route 216,4
+Route 217,4
+Route 218,4
+Route 219,4
+Route 220,4
+Route 221,4
+Route 222,4
+Route 223,4
+Route 224,4
+Route 225,4
+Route 226,4
+Route 227,4
+Route 228,4
+Route 229,4
+Route 230,4
+Acuity Lakefront,4
+Big Bluff Cavern,4
+Bogsunk Cavern,4
+Canalave City,4
+Celestic Town,4
+Dazzling Cave,4
+Distortion World,4
+Eterna City,4
+Eterna Forest,4
+Floaroma Meadow,4
+Flower Paradise,4
+Fountainspring Cave,4
+Fuego Ironworks,4
+Glacial Cavern,4
+Grassland Cave,4
+Great Marsh,4
+Hall of Origin,4
+Icy Cave,4
+Iron Island,4
+Lake Acuity,4
+Lake Valor,4
+Lake Verity,4
+Lost Tower,4
+Mt. Coronet,4
+Newmoon Island,4
+Old Chateau,4
+Oreburgh City,4
+Oreburgh Gate,4
+Oreburgh Mine,4
+Pastoria City,4
+Pokémon League,4
+Ravaged Path,4
+Resort Area,4
+Riverbank Cave,4
+Roaming Sinnoh,4
+Rocky Cave,4
+Ruin Maniac Tunnel,4
+Sandsear Cave,4
+Sendoff Spring,4
+Snowpoint City,4
+Snowpoint Temple,4
+Solaceon Ruins,4
+Spacious Cave,4
+Spear Pillar,4
+Stargleam Cavern,4
+Stark Mountain,4
+Still-Water Cavern,4
+Sunlit Cavern,4
+Sunyshore City,4
+Swampy Cave,4
+Trophy Garden,4
+Turnback Cave,4
+Twinleaf Town,4
+Typhlo Cavern,4
+Valley Windworks,4
+Valor Lakefront,4
+Veilstone City,4
+Victory Road,4
+Volcanic Cave,4
+Wayward Cave,4
+Whiteout Cave,4
+Amity Square,4
+Battle Frontier,4
+Battle Park,4
+Eterna Galactic Building,4
+Fight Area,4
+Floaroma Town,4
+Fullmoon Island,4
+Galactic Warehouse,4
+Grand Lake Hotel,4
+Grand Underground,4
+Hearthome City,4
+Jubilife City,4
+Pal Park,4
+Pokémon Mansion,4
+Ramanas Park,4
+Sandgem Town,4
+Seabreak Path,4
+Solaceon Town,4
+Survival Area,4
+Veilstone Galactic Building,4
+Verity Lakefront,4
+Route 1,5
+Route 2,5
+Route 3,5
+Route 4,5
+Route 5,5
+Route 6,5
+Route 7,5
+Route 8,5
+Route 9,5
+Route 10,5
+Route 11,5
+Route 12,5
+Route 13,5
+Route 14,5
+Route 15,5
+Route 16,5
+Route 17,5
+Route 18,5
+Route 19,5
+Route 20,5
+Route 21,5
+Route 22,5
+Route 23,5
+Abundant Shrine,5
+Accumula Town,5
+Aspertia City,5
+Castelia City,5
+Castelia Sewers,5
+Celestial Tower,5
+Challenger's Cave,5
+Chargestone Cave,5
+Clay Tunnel,5
+Cold Storage,5
+Desert Resort,5
+Dragonspiral Tower,5
+Dreamyard,5
+Driftveil City,5
+Driftveil Drawbridge,5
+Floccesy Ranch,5
+Giant Chasm,5
+Humilau City,5
+Icirrus City,5
+Liberty Island,5
+Lostlorn Forest,5
+Marvelous Bridge,5
+Mistralton Cave,5
+Moor of Icirrus,5
+N's Castle,5
+Nacrene City,5
+Nature Preserve,5
+Nature Sanctuary,5
+Nuvema Town,5
+P2 Laboratory,5
+Pinwheel Forest,5
+Relic Castle,5
+Relic Passage,5
+Reversal Mountain,5
+Roaming Unova,5
+Seaside Cave,5
+Strange House,5
+Striaton City,5
+Twist Mountain,5
+Undella Bay,5
+Undella Town,5
+Underground Ruins,5
+Victory Road,5
+Village Bridge,5
+Virbank City,5
+Virbank Complex,5
+Wellspring Cave,5
+White Forest,5
+Anville Town,5
+Battle Subway,5
+Black City,5
+Cave of Being,5
+Floccesy Town,5
+Gear Station,5
+High Link,5
+Lacunosa Town,5
+Lentimas Town,5
+Marine Tube,5
+Mistralton City,5
+Nimbasa City,5
+Opelucid City,5
+Plasma Frigate,5
+Pledge Grove,5
+Pokémon League,5
+Pokémon World Tournament,5
+Skyarrow Bridge,5
+Tubeline Bridge,5
+Undersea Ruins,5
+Unity Tower,5
+Route 2,6
+Route 3,6
+Route 4,6
+Route 5,6
+Route 6,6
+Route 7,6
+Route 8,6
+Route 9,6
+Route 10,6
+Route 11,6
+Route 12,6
+Route 13,6
+Route 14,6
+Route 15,6
+Route 16,6
+Route 17,6
+Route 18,6
+Route 19,6
+Route 20,6
+Route 21,6
+Route 22,6
+Ambrette Town,6
+Aquacorde Town,6
+Azure Bay,6
+Camphrier Town,6
+Connecting Cave,6
+Coumarine City,6
+Couriway Town,6
+Cyllage City,6
+Frost Cavern,6
+Geosenge Town,6
+Glittering Cave,6
+Laverre City,6
+Lost Hotel,6
+Lumiose City,6
+Parfum Palace,6
+Pokémon Village,6
+Reflection Cave,6
+Roaming Kalos,6
+Santalune City,6
+Santalune Forest,6
+Sea Spirit's Den,6
+Shalour City,6
+Snowbelle City,6
+Team Flare HQ,6
+Terminus Cave,6
+Tower of Mastery,6
+Unknown Dungeon,6
+Vaniville Town,6
+Victory Road,6
+Route 1,6
+Anistar City,6
+Battle Chateau,6
+Battle Maison,6
+Chamber of Emptiness,6
+Dendemille Town,6
+Flare Cafe,6
+Kalos Power Plant,6
+Kiloude City,6
+Poké Ball Factory,6
+Pokémon League,6
+Route 1,7
+Route 2,7
+Route 3,7
+Route 4,7
+Route 5,7
+Route 6,7
+Route 7,7
+Route 8,7
+Route 9,7
+Route 10,7
+Route 11,7
+Route 12,7
+Route 13,7
+Route 14,7
+Route 15,7
+Route 16,7
+Route 17,7
+Aether Paradise,7
+Akala Outskirts,7
+Altar of the Moone,7
+Altar of the Sunne,7
+Ancient Poni Path,7
+Berry Fields,7
+Blush Mountain,7
+Brooklet Hill,7
+Diglett's Tunnel,7
+Dividing Peak Tunnel,7
+Exeggutor Island,7
+Haina Desert,7
+Hano Beach,7
+Hau'oli Cemetery,7
+Hau'oli City,7
+Heahea Beach,7
+Heahea City,7
+Iki Town,7
+Kala'e Bay,7
+Konikoni City,7
+Lake of the Moone,7
+Lake of the Sunne,7
+Lush Jungle,7
+Mahalo Trail,7
+Malie City,7
+Malie Garden,7
+Melemele Meadow,7
+Melemele Sea,7
+Memorial Hill,7
+Mount Hokulani,7
+Mount Lanakila,7
+Paniola Ranch,7
+Paniola Town,7
+Poké Pelago,7
+Poni Breaker Coast,7
+Poni Coast,7
+Poni Gauntlet,7
+Poni Grove,7
+Poni Meadow,7
+Poni Plains,7
+Poni Wilds,7
+Resolution Cave,7
+Royal Avenue,7
+Ruins of Abundance,7
+Ruins of Conflict,7
+Ruins of Hope,7
+Ruins of Life,7
+Sandy Cave,7
+Seafolk Village,7
+Seaward Cave,7
+Secluded Shore,7
+Tapu Village,7
+Team Rocket's Castle,7
+Ten Carat Hill,7
+Thrifty Megamart,7
+Ula'ula Beach,7
+Ula'ula Meadow,7
+Ultra Megalopolis,7
+Ultra Space,7
+Ultra Space Wilds,7
+Vast Poni Canyon,7
+Verdant Cavern,7
+Wela Volcano Park,7
+Battle Royal Dome,7
+Battle Tree,7
+Big Wave Beach,7
+Hano Grand Resort,7
+Hokulani Observatory,7
+Megalo Tower,7
+Pikachu Valley,7
+Plains Grotto,7
+Po Town,7
+Pokémon League,7
+Poni Beach,7
+Shady House,7
+Route 1,8
+Route 2,8
+Route 3,8
+Route 4,8
+Route 5,8
+Route 6,8
+Route 7,8
+Route 8,8
+Route 9,8
+Route 10,8
+Axew's Eye,8
+Ballimere Lake,8
+Brawlers' Cave,8
+Bridge Field,8
+Challenge Beach,8
+Challenge Road,8
+Courageous Cavern,8
+Dappled Grove,8
+Dusty Bowl,8
+East Lake Axewell,8
+Fields of Honor,8
+Forest of Focus,8
+Frigid Sea,8
+Frostpoint Field,8
+Galar Mine,8
+Galar Mine No. 2,8
+Giant's Bed,8
+Giant's Cap,8
+Giant's Foot,8
+Giant's Mirror,8
+Giant's Seat,8
+Glimwood Tangle,8
+Hammerlocke Hills,8
+Honeycalm Island,8
+Honeycalm Sea,8
+Hulbury,8
+Insular Sea,8
+Lake of Outrage,8
+Lakeside Cave,8
+Loop Lagoon,8
+Motostoke,8
+Motostoke Outskirts,8
+Motostoke Riverbank,8
+North Lake Miloch,8
+Old Cemetery,8
+Path to the Peak,8
+Potbottom Desert,8
+Roaring-Sea Caves,8
+Rolling Fields,8
+Slippery Slope,8
+Slumbering Weald,8
+Snowslide Slope,8
+Soothing Wetlands,8
+South Lake Miloch,8
+Stepping-Stone Sea,8
+Stony Wilderness,8
+Three-Point Pass,8
+Training Lowlands,8
+Tunnel to the Top,8
+Warm-Up Tunnel,8
+Watchtower Ruins,8
+West Lake Axewell,8
+Workout Sea,8
+Ballonlea,8
+Battle Tower,8
+Circhester,8
+Crown Shrine,8
+Dyna Tree Hill,8
+Freezington,8
+Hammerlocke,8
+Iceberg Ruins,8
+Iron Ruins,8
+Master Dojo,8
+Max Lair,8
+Postwick,8
+Rock Peak Ruins,8
+Spikemuth,8
+Split-Decision Ruins,8
+Steamdrift Way,8
+Stow-on-Side,8
+Tower of Darkness,8
+Tower of Waters,8
+Turffield,8
+Wedgehurst,8
+Wyndon,8
+Aipom Hill,Legend
+Ancient Quarry,Legend
+Arena's Approach,Legend
+Aspiration Hill,Legend
+Avalanche Slopes,Legend
+Avalugg's Legacy,Legend
+Bathers' Lagoon,Legend
+Bolderoll Ravine,Legend
+Bolderoll Slope,Legend
+Bonechill Wastes,Legend
+Castaway Shore,Legend
+Celestica Ruins,Legend
+Celestica Trail,Legend
+Clamberclaw Cliffs,Legend
+Cloudcap Pass,Legend
+Cloudpool Ridge,Legend
+Coastlands Camp,Legend
+Cottonsedge Prairie,Legend
+Crossing Slope,Legend
+Deadwood Haunt,Legend
+Deertrack Heights,Legend
+Deertrack Path,Legend
+Diamond Heath,Legend
+Droning Meadow,Legend
+Fabled Spring,Legend
+Firespit Island,Legend
+Floaro Gardens,Legend
+Gapejaw Bog,Legend
+Ginkgo Landing,Legend
+Glacier Terrace,Legend
+Golden Lowlands,Legend
+Grandtree Arena,Legend
+Grueling Grove,Legend
+Heart's Crag,Legend
+Heavenward Lookout,Legend
+Hideaway Bay,Legend
+Holm of Trials,Legend
+Horseshoe Plains,Legend
+Ice Column Chamber,Legend
+Icebound Falls,Legend
+Islespy Shore,Legend
+Jubilife Village,Legend
+Lake Acuity,Legend
+Lake Valor,Legend
+Lake Verity,Legend
+Lonely Spring,Legend
+Lunker's Lair,Legend
+Moonview Arena,Legend
+Nature’s Pantry,Legend
+Obsidian Falls,Legend
+Oreburrow Tunnel,Legend
+Primeval Grotto,Legend
+Ramanas Island,Legend
+Sacred Plaza,Legend
+Sand's Reach,Legend
+Sandgem Flats,Legend
+Scarlet Bog,Legend
+Seagrass Haven,Legend
+Seaside Hollow,Legend
+Shrouded Ruins,Legend
+Sludge Mound,Legend
+Snowfall Hot Spring,Legend
+Snowpoint Temple,Legend
+Sonorous Path,Legend
+Space-Time Distortion,Legend
+Spring Path,Legend
+Stonetooth Rows,Legend
+Temple of Sinnoh,Legend
+The Heartwood,Legend
+Tidewater Dam,Legend
+Tombolo Walk,Legend
+Tranquility Cove,Legend
+Turnback Cave,Legend
+Ursa's Ring,Legend
+Veilstone Cape,Legend
+Wayward Cave,Legend
+Wayward Wood,Legend
+Whiteout Valley,Legend
+Windbreak Stand,Legend
+Windswept Run,Legend
+Worn Bridge,Legend
+Brava Arena,Legend
+Diamond Settlement,Legend
+Heights Camp,Legend
+Icepeak Arena,Legend
+Icepeak Cavern,Legend
+Molten Arena,Legend
+Pearl Settlement,Legend
+Prelude Beach,Legend
+Solaceon Ruins,Legend
+Asado Desert,9
+Cabo Poco,9
+Casseroya Lake,9
+East Paldean Sea,9
+East Province (Area One),9
+East Province (Area Three),9
+East Province (Area Two),9
+Glaseado Mountain,9
+North Paldean Sea,9
+North Province (Area One),9
+North Province (Area Three),9
+North Province (Area Two),9
+Poco Path,9
+Socarrat Trail,9
+South Paldean Sea,9
+South Province (Area Five),9
+South Province (Area Four),9
+South Province (Area One),9
+South Province (Area Six),9
+South Province (Area Three),9
+South Province (Area Two),9
+Tagtree Thicket,9
+The Great Crater of Paldea,9
+The Pokémon League,9
+West Paldean Sea,9
+West Province (Area One),9
+West Province (Area Three),9
+West Province (Area Two),9
+Alfornada,9
+Alfornada Cavern,9
+Artazon,9
+Cascarrafa,9
+Colonnade Hollow,9
+Cortondo,9
+Dalizapa Passage,9
+Inlet Grotto,9
+Levincia,9
+Los Platos,9
+Medali,9
+Mesagoza,9
+Montenevera,9
+Porto Marinada,9
+Zapapico,9
