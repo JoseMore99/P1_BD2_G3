@@ -1,4 +1,4 @@
-generation, name, region
+generation,name,region
 1,Red,Kanto
 1,FireRed,Kanto
 1,Blue,Kanto
@@ -22,9 +22,9 @@ generation, name, region
 4,Shining Pearl,Sinnoh
 4,Platinum,Sinnoh
 5,Black,Unova
-5,Black2,Unova
+5,Black 2,Unova
 5,White,Unova
-5,White2,Unova
+5,White 2,Unova
 6,X,Kalos
 6,Y,Kalos
 7,Sun,Alola
@@ -34,6 +34,6 @@ generation, name, region
 8,Sword,Galar
 8,Shield,Galar
 9,Scarlet,Paldea
-9,Voilet,Paldea
+9,Violet,Paldea
 Legend,Arceus,Hisui
 Legend,Z-A,Kalos

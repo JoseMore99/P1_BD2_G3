@@ -13,9 +13,9 @@ response =requests.get(url)
 soup= BeautifulSoup(response.text,'html.parser')
 
 # CSV FILE
-csv_file=open('./pokemons/pokemon.csv','w',newline='',encoding='utf-8')
+csv_file=open('./pokemons/pokemon_indi.csv','w',newline='',encoding='utf-8')
 csv_writter=csv.writer(csv_file)
-csv_writter.writerow(['pokedex_id','numero nacional','especie','height','weight','nature'])
+csv_writter.writerow(['pokedex_id','name','especie','height','weight','nature'])
 
 # find all pokemons
 pokemons_table=soup.find('table',class_='data-table sticky-header block-wide')
@@ -26,9 +26,12 @@ for pokemon in pokemons:
   cells=pokemon.find_all('td')
   if cells:
     pokedex_number=cells[0].find('span',class_='infocard-cell-data').text
-    name=cells[1].find('a',class_='ent-name')["href"]
-        
-    url='https://pokemondb.net'+name
+    url=cells[1].find('a',class_='ent-name')["href"]
+    name= cells[1].find('a',class_='ent-name').text
+    subname =cells[1].find('small')
+    if subname:
+      name +=f'({subname.text})'
+    url='https://pokemondb.net'+url
 
     # HTTP request
     response =requests.get(url)
@@ -43,5 +46,5 @@ for pokemon in pokemons:
     weight =info[4].find('td').text
     # Write pokemon data on csv file
     csv_writter.writerow([
-    pokedex_number,numero_nacional,especie,height,weight])
+    pokedex_number,name,especie,height,weight])
     
