@@ -28,7 +28,7 @@ Academy Ball,"['Scarlet', 'Violet']","The academy’s standard-issue ball in a r
 Academy Bottle,"['Scarlet', 'Violet']","A bottle emblazoned with the academy’s emblem. It’s light, sturdy, and vacuum insulated, so it’ll keep your hots hot and your colds cold."
 Academy Cup,"['Scarlet', 'Violet']",The academy’s standard-issue cup for picnicking. The careful design of its mouth makes it popular both inside and outside the academy.
 Academy Tablecloth,"['Scarlet', 'Violet']",The academy’s standard-issue tablecloth. It’s made with the latest fiber-processing technology and is so tough that not even a Razor Claw can tear it.
-Adamant Crystal,['Legends: Arceus'],"When used on Dialga, this large, glowing gem wells with power and allows the Pokémon to change form."
+Adamant Crystal,['Arceus'],"When used on Dialga, this large, glowing gem wells with power and allows the Pokémon to change form."
 Adamant Crystal,"['Scarlet', 'Violet']","An item to be held by Dialga. This large, glowing gem wells with power and allows the Pokémon to change form."
 Adamant Mint,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly."
 Adamant Mint,"['Scarlet', 'Violet']","Having a Pokémon smell this mint can make its Attack stat grow stronger. However, its Sp. Atk stat may suffer."
@@ -44,7 +44,7 @@ Adrenaline Orb,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","If h
 Adrenaline Orb,"['Scarlet', 'Violet']",An item to be held by a Pokémon. This orb boosts the Speed stat if the holder is intimidated.
 Aerodactylite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Aerodactyl hold it, and this stone will enable it to Mega Evolve during battle."
 Aerodactylite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Aerodactyl hold it, and this stone will enable it to Mega Evolve during battle."
-Aerodactylite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Aerodactyl to Mega Evolve during battle.
+Aerodactylite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Aerodactyl to Mega Evolve during battle.
 Aerodactylite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Aerodactyl hold it, and this stone will enable it to Mega Evolve during battle."
 Aerodactylite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Aerodactyl hold it, and this stone will enable it to Mega Evolve during battle."
 Aggronite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Aggron hold it, and this stone will enable it to Mega Evolve during battle."
@@ -67,7 +67,7 @@ Air Balloon,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","An item
 Air Balloon,"['Scarlet', 'Violet']","An item to be held by a Pokémon. This balloon makes the holder float in the air. If the holder is hit with an attack, the balloon will burst."
 Alakazite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Alakazam hold it, and this stone will enable it to Mega Evolve during battle."
 Alakazite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Alakazam hold it, and this stone will enable it to Mega Evolve during battle."
-Alakazite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Alakazam to Mega Evolve during battle.
+Alakazite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Alakazam to Mega Evolve during battle.
 Alakazite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Alakazam hold it, and this stone will enable it to Mega Evolve during battle."
 Alakazite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Alakazam hold it, and this stone will enable it to Mega Evolve during battle."
 Alomomola Mucus,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
@@ -96,7 +96,7 @@ Antidote,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A spray-t
 Antidote,"['Black', 'White', 'Black 2', 'White 2']",A spray-type medicine. It lifts the effect of poison from one Pokémon.
 Antidote,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A spray-type medicine for poisoning. It can be used once to lift the effects of being poisoned from a Pokémon.
 Antidote,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A spray-type medicine for poisoning. It can be used once to lift the effects of being poisoned from a Pokémon.
-Antidote,"['L.G. Pikachu', 'L.G. Eevee']",A spray-type medicine for treating poisoning. It can be used to lift the effects of being poisoned from a single Pokémon.
+Antidote,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A spray-type medicine for treating poisoning. It can be used to lift the effects of being poisoned from a single Pokémon.
 Antidote,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A spray-type medicine for treating poisoning. It can be used to lift the effects of being poisoned from a single Pokémon.
 Antidote,"['Scarlet', 'Violet']",A spray-type medicine for treating poisoning. It can be used to lift the effects of being poisoned from a Pokémon.
 Apicot Berry,"['Ruby', 'Sapphire', 'Emerald']",A hold item that raises SP. DEF in a pinch.
@@ -110,7 +110,7 @@ Apicot Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A Berr
 Apicot Berry,"['Scarlet', 'Violet']","If a Pokémon holds one of these Berries, its Sp. Def stat will be boosted should it find itself in a pinch."
 Apple,"['Scarlet', 'Violet']",This very sweet ingredient is sliced thin to make it easy to add into a sandwich.
 Applin Juice,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Apricorn,['Legends: Arceus'],A fruit whose shell can be used to form the capsules of all manner of Poké Balls when crafting them from scratch. Its proper name is actually “Brown Apricorn.”
+Apricorn,['Arceus'],A fruit whose shell can be used to form the capsules of all manner of Poké Balls when crafting them from scratch. Its proper name is actually “Brown Apricorn.”
 Apricorn,"['Scarlet', 'Violet']",A fruit whose shell can be used to form the capsules of all manner of Poké Balls when crafting them from scratch. Its proper name is actually “Brown Apricorn.”
 Armor Fossil,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.
 Armor Fossil,"['Black', 'White', 'Black 2', 'White 2']",A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.
@@ -138,13 +138,13 @@ Audinite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of myste
 Audinite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Audino hold it, and this stone will enable it to Mega Evolve during battle."
 Audinite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Audino hold it, and this stone will enable it to Mega Evolve during battle."
 Auspicious Armor,"['Scarlet', 'Violet']",A peculiar set of armor that can make a certain species of Pokémon evolve. Auspicious wishes live within it.
-Aux Evasion,['Legends: Arceus'],An item that makes moves less likely to strike a Pokémon during a battle. This effect disappears if the Pokémon leaves the battle.
+Aux Evasion,['Arceus'],An item that makes moves less likely to strike a Pokémon during a battle. This effect disappears if the Pokémon leaves the battle.
 Aux Evasion,"['Scarlet', 'Violet']",A recipe for crafting Aux Evasions from scratch. Required materials: 2 bunches of Doppel Bonnets and 1 Candy Truffle.
-Aux Guard,['Legends: Arceus'],An item that sharply boosts the defensive stats of a Pokémon during a battle. These effects disappear if the Pokémon leaves the battle.
+Aux Guard,['Arceus'],An item that sharply boosts the defensive stats of a Pokémon during a battle. These effects disappear if the Pokémon leaves the battle.
 Aux Guard,"['Scarlet', 'Violet']",A recipe for crafting Aux Guards from scratch. Required materials: 2 scraps of Iron Barktongue and 1 Pep-Up Plant.
-Aux Power,['Legends: Arceus'],An item that sharply boosts the offensive stats of a Pokémon during a battle. These effects disappear if the Pokémon leaves the battle.
+Aux Power,['Arceus'],An item that sharply boosts the offensive stats of a Pokémon during a battle. These effects disappear if the Pokémon leaves the battle.
 Aux Power,"['Scarlet', 'Violet']",A recipe for crafting Aux Powers from scratch. Required materials: 2 bunches of Swordcap and 1 Pep-Up Plant.
-Aux Powerguard,['Legends: Arceus'],An item that sharply boosts the offensive and defensive stats of a Pokémon during a battle. These effects disappear if the Pokémon leaves the battle.
+Aux Powerguard,['Arceus'],An item that sharply boosts the offensive and defensive stats of a Pokémon during a battle. These effects disappear if the Pokémon leaves the battle.
 Aux Powerguard,"['Scarlet', 'Violet']",An item that sharply boosts the offensive and defensive stats of a Pokémon in battle. These effects disappear if the Pokémon leaves the battle.
 Avocado,"['Scarlet', 'Violet']","An ingredient with sweet notes—though its flavor is very mild. The avocado’s richness, however, makes it satisfying to eat."
 Awakening,"['Ruby', 'Sapphire', 'Emerald']",Awakens a sleeping POKéMON.
@@ -169,7 +169,7 @@ Bach's Food Tin,"['Scarlet', 'Violet']",One of the many ingredients that can be 
 Bacon,"['Scarlet', 'Violet']","This very salty ingredient has been cooked just shy of charred, making it burst with fragrance and tasty flavor."
 Bagon Scales,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Baguette,"['Scarlet', 'Violet']","A long loaf sliced into top and bottom halves. Its aroma of wheat and its straightforward, salty flavor make it pair well with all kinds of sandwich ingredients."
-Ball of Mud,['Legends: Arceus'],"A ball of mud that has become stiff and hard. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act."
+Ball of Mud,['Arceus'],"A ball of mud that has become stiff and hard. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act."
 Ball of Mud,"['Scarlet', 'Violet']","A ball of mud that has become stiff and hard. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act."
 Balm Mushroom,"['Black', 'White', 'Black 2', 'White 2']",A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.
 Balm Mushroom,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A rare mushroom that gives off a nice fragrance. It can be sold at a high price to shops.
@@ -186,16 +186,16 @@ Barred Cup,"['Scarlet', 'Violet']","A cup that’s as good for using at home as 
 Basculin Fang,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Basil,"['Scarlet', 'Violet']","A very bitter ingredient that’s quite versatile, as herbs go. It’s fragrant and goes well with tomatoes."
 Battle Tablecloth,"['Scarlet', 'Violet']","A garish, eye-catching tablecloth. Putting this on your picnic table will inspire any person or Pokémon who eats there to do their best."
-Beach Glass,"['L.G. Pikachu', 'L.G. Eevee']",A piece of colored glass. Waves have rounded its edges. It’s slightly rough to the touch.
+Beach Glass,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A piece of colored glass. Waves have rounded its edges. It’s slightly rough to the touch.
 Beach Glass,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A piece of colored glass. Waves have rounded its edges. It’s slightly rough to the touch.
 Beach Glass,"['Scarlet', 'Violet']",A piece of colored glass. Waves have rounded its edges. It’s slightly rough to the touch.
-Bean Cake,['Legends: Arceus'],"A cake made by combining beans with a Cake-Lure Base. These cakes are potently effective at attracting fish Pokémon, as well as bird Pokémon and their flying ilk."
+Bean Cake,['Arceus'],"A cake made by combining beans with a Cake-Lure Base. These cakes are potently effective at attracting fish Pokémon, as well as bird Pokémon and their flying ilk."
 Bean Cake,"['Scarlet', 'Violet']",A recipe for crafting Bean Cakes from scratch. Required materials: 1 pod of Plump Beans and 1 Cake-Lure Base.
 Beast Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.
 Beast Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A somewhat different Poké Ball that has a low success rate for catching a Pokémon.
 Beast Ball,"['Scarlet', 'Violet']",A somewhat different Poké Ball that is not very effective when catching Pokémon.
 Beedrillite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Beedrill hold it, and this stone will enable it to Mega Evolve during battle."
-Beedrillite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Beedrill to Mega Evolve during battle.
+Beedrillite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Beedrill to Mega Evolve during battle.
 Beedrillite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Beedrill hold it, and this stone will enable it to Mega Evolve during battle."
 Beedrillite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Beedrill hold it, and this stone will enable it to Mega Evolve during battle."
 Belue Berry,"['Ruby', 'Sapphire', 'Emerald']",POKéBLOCK ingredient. Plant in loamy soil to grow BELUE.
@@ -229,7 +229,7 @@ Big Mushroom,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A lar
 Big Mushroom,"['Black', 'White', 'Black 2', 'White 2']",A large and rare mushroom. It is sought after by collectors.
 Big Mushroom,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A very large and rare mushroom. It’s popular with a certain class of collectors and sought out by them.
 Big Mushroom,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A very large and rare mushroom. It’s popular with a certain class of collectors and sought out by them.
-Big Mushroom,"['L.G. Pikachu', 'L.G. Eevee']",A very large and rare mushroom. A very large and rare mushroom. It’s popular with a certain class of collectors.
+Big Mushroom,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A very large and rare mushroom. A very large and rare mushroom. It’s popular with a certain class of collectors.
 Big Mushroom,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A very large and rare mushroom. It’s popular with a certain class of collectors.
 Big Mushroom,"['Scarlet', 'Violet']",A large and rare mushroom. It’s extremely popular with a certain class of collectors.
 Big Nugget,"['Black', 'White', 'Black 2', 'White 2']",A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.
@@ -243,7 +243,7 @@ Big Pearl,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A quite-
 Big Pearl,"['Black', 'White', 'Black 2', 'White 2']",A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
 Big Pearl,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A rather large pearl that has a very nice silvery sheen. It can be sold to shops for a high price.
 Big Pearl,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A rather large pearl that has a very nice silvery sheen. It can be sold to shops for a high price.
-Big Pearl,"['L.G. Pikachu', 'L.G. Eevee']",A rather large pearl that has a very nice silvery sheen. It can be sold at a high price to shops.
+Big Pearl,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A rather large pearl that has a very nice silvery sheen. It can be sold at a high price to shops.
 Big Pearl,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A rather large pearl that has a very nice silvery sheen. It can be sold at a high price to shops.
 Big Pearl,"['Scarlet', 'Violet']",A rather large pearl that has a nice silvery sheen to it. It can be sold at a high price to shops.
 Big Root,"['Diamond', 'Pearl', 'Platinum']",A Pokémon hold item that boosts the power of HP-stealing moves to let the holder recover more HP.
@@ -265,7 +265,7 @@ Black Apricorn,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A black Apricorn. It
 Black Apricorn,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A black Apricorn. It has a scent beyond one’s experience.
 Black Apricorn,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A black Apricorn. It has a scent beyond one’s experience.
 Black Apricorn,"['Scarlet', 'Violet']",A black Apricorn. It has a smell that cannot be captured in words.
-Black Augurite,['Legends: Arceus'],A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.
+Black Augurite,['Arceus'],A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.
 Black Augurite,"['Scarlet', 'Violet']",A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.
 Black Belt,"['Ruby', 'Sapphire', 'Emerald']",A hold item that boosts FIGHTING-type moves.
 Black Belt,"['FireRed', 'LeafGreen']",An item to be held by a POKéMON. A belt that boosts determination and FIGHTING-type moves.
@@ -298,13 +298,13 @@ Black Sludge,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by 
 Black Sludge,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. It gradually restores HP to Poison-type Pokémon. It damages any other type.
 Black Sludge,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. It gradually restores HP to Poison-type Pokémon. It damages any other type.
 Black Sludge,"['Scarlet', 'Violet']","An item to be held by a Pokémon. If the holder is a Poison type, this sludge will gradually restore its HP. It damages any other type."
-Black Tumblestone,['Legends: Arceus'],"When combined with an Apricorn, this mysterious black stone can draw out the properties required to forge a Heavy Ball."
+Black Tumblestone,['Arceus'],"When combined with an Apricorn, this mysterious black stone can draw out the properties required to forge a Heavy Ball."
 Black Tumblestone,"['Scarlet', 'Violet']","When combined with an Apricorn, this mysterious black stone can draw out the properties required to forge a Heavy Ball."
-Blank Plate,['Legends: Arceus'],"A stone tablet imbued with the essence of normalcy. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Normal type."
+Blank Plate,['Arceus'],"A stone tablet imbued with the essence of normalcy. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Normal type."
 Blank Plate,"['Scarlet', 'Violet']","A stone tablet imbued with the essence of normalcy. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Normal type."
 Blastoisinite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle."
 Blastoisinite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle."
-Blastoisinite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Blastoise to Mega Evolve during battle.
+Blastoisinite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Blastoise to Mega Evolve during battle.
 Blastoisinite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle."
 Blastoisinite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle."
 Blazikenite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Blaziken hold it, and this stone will enable it to Mega Evolve during battle."
@@ -407,7 +407,7 @@ Buginium Z,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",It converts Z-Power into
 Buginium Z,"['Sword', 'Shield']",It converts Z-Power into crystals that upgrade Bug-type moves to Bug-type Z-Moves.
 Buginium Z,"['Brilliant Diamond', 'Shining Pearl']",This is a crystallized form of Z-Power. It upgrades Bug-type moves to Z-Moves.
 Buginium Z,"['Scarlet', 'Violet']",This is a crystallized form of Z-Power. It upgrades Bug-type moves to Z-Moves.
-Bugwort,['Legends: Arceus'],"A wildflower that can be found growing across the Hisui region. It does have medicinal properties, but it is so bitter that no wild Pokémon will eat it."
+Bugwort,['Arceus'],"A wildflower that can be found growing across the Hisui region. It does have medicinal properties, but it is so bitter that no wild Pokémon will eat it."
 Bugwort,"['Scarlet', 'Violet']","A wildflower that can be found growing across the Hisui region. It does have medicinal properties, but it is so bitter that no wild Pokémon will eat it."
 Buizel Fur,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Burn Drive,"['Black', 'White', 'Black 2', 'White 2']",A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.
@@ -421,13 +421,13 @@ Burn Heal,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A spray-
 Burn Heal,"['Black', 'White', 'Black 2', 'White 2']",A spray-type medicine. It heals a single Pokémon that is suffering from a burn.
 Burn Heal,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A spray-type medicine for treating burns. It can be used once to heal a Pokémon suffering from a burn.
 Burn Heal,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A spray-type medicine for treating burns. It can be used once to heal a Pokémon suffering from a burn.
-Burn Heal,"['L.G. Pikachu', 'L.G. Eevee']",A spray-type medicine for treating burns. It can be used to heal a single Pokémon suffering from a burn.
+Burn Heal,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A spray-type medicine for treating burns. It can be used to heal a single Pokémon suffering from a burn.
 Burn Heal,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A spray-type medicine for treating burns. It can be used to heal a single Pokémon suffering from a burn.
 Burn Heal,"['Scarlet', 'Violet']",A spray-type medicine for treating burns. It can be used to cure a Pokémon suffering from a burn.
 Butter,"['Scarlet', 'Violet']",A condiment that unites salty and sweet and also packs a richness that makes bread a delight to eat. The finest butter products are made of 100 percent Moomoo Milk.
 B&W Grass Tablecloth,"['Scarlet', 'Violet']","A tablecloth with a fun, trendy black-and-white design featuring Pokémon that seem poised to leap from the tall grass at any moment."
 Cacnea Needle,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Cake-Lure Base,['Legends: Arceus'],A type of field provision that enhances the flavor of other foods it is mixed with.
+Cake-Lure Base,['Arceus'],A type of field provision that enhances the flavor of other foods it is mixed with.
 Cake-Lure Base,"['Scarlet', 'Violet']",A type of field provision that enhances the flavor of other foods it is mixed with.
 Calcium,"['Ruby', 'Sapphire']",Raises the stat SP. ATK of one POKéMON.
 Calcium,"['FireRed', 'LeafGreen']",A nutritious drink for POKéMON. It raises the base SP. ATK stat of one POKéMON.
@@ -443,7 +443,7 @@ Calm Mint,"['Scarlet', 'Violet']","Having a Pokémon smell this mint can make it
 Cameruptite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Camerupt hold it, and this stone will enable it to Mega Evolve during battle."
 Cameruptite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Camerupt hold it, and this stone will enable it to Mega Evolve during battle."
 Cameruptite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Camerupt hold it, and this stone will enable it to Mega Evolve during battle."
-Candy Truffle,['Legends: Arceus'],A sweet-fleshed truffle that is packed full of mysterious energy. It is one of the materials needed for crafting various items.
+Candy Truffle,['Arceus'],A sweet-fleshed truffle that is packed full of mysterious energy. It is one of the materials needed for crafting various items.
 Candy Truffle,"['Scarlet', 'Violet']",A sweet-fleshed truffle that is packed full of mysterious energy. It is one of the materials needed for crafting various items.
 Capsakid Seed,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Carbos,"['Ruby', 'Sapphire']",Raises the stat SPEED of one POKéMON.
@@ -464,7 +464,7 @@ Casteliacone,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","Castelia City’s spe
 Casteliacone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Castelia City’s specialty, soft-serve ice cream. It can be used once to heal all the status conditions of a Pokémon."
 Casteliacone,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","Castelia City’s specialty, soft-serve ice cream. It can be used once to heal all the status conditions of a Pokémon."
 Casteliacone,"['Scarlet', 'Violet']",Castelia City’s specialty: soft-serve ice cream. It can be used to cure any status condition a Pokémon may have.
-Caster Fern,['Legends: Arceus'],"A fern used for crafting items made to be thrown. When these curled leaves are unfurled, they can serve as nature’s wrapping paper."
+Caster Fern,['Arceus'],"A fern used for crafting items made to be thrown. When these curled leaves are unfurled, they can serve as nature’s wrapping paper."
 Caster Fern,"['Scarlet', 'Violet']","A fern used for crafting items made to be thrown. When these curled leaves are unfurled, they can serve as nature’s wrapping paper."
 Cell Battery,"['Black', 'White', 'Black 2', 'White 2']","A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise."
 Cell Battery,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a Pokémon. It boosts Attack if hit with an Electric-type attack. It can only be used once.
@@ -472,7 +472,7 @@ Cell Battery,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by 
 Cell Battery,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. It boosts Attack if the holder is hit with an Electric-type attack. It can only be used once.
 Cell Battery,"['Scarlet', 'Violet']",An item to be held by a Pokémon. This single-use battery boosts the Attack stat if the holder is damaged by an Electric-type attack.
 Cetoddle Grease,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Chalky Stone,"['L.G. Pikachu', 'L.G. Eevee']",A small whitish stone picked up at the edge of the road.
+Chalky Stone,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A small whitish stone picked up at the edge of the road.
 Chalky Stone,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A small whitish stone picked up at the edge of the road.
 Chalky Stone,"['Scarlet', 'Violet']",A small whitish stone picked up at the edge of the road.
 Charcadet Soot,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
@@ -486,12 +486,12 @@ Charcoal,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to 
 Charcoal,"['Scarlet', 'Violet']",An item to be held by a Pokémon. It’s a combustible fuel that boosts the power of the holder’s Fire-type moves.
 Charizardite X,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle."
 Charizardite X,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle."
-Charizardite X,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Charizard to Mega Evolve during battle.
+Charizardite X,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Charizard to Mega Evolve during battle.
 Charizardite X,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle."
 Charizardite X,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle."
 Charizardite Y,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle."
 Charizardite Y,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle."
-Charizardite Y,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Charizard to Mega Evolve during battle.
+Charizardite Y,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Charizard to Mega Evolve during battle.
 Charizardite Y,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle."
 Charizardite Y,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle."
 Charti Berry,"['Diamond', 'Pearl', 'Platinum']","A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Rock-type attack."
@@ -552,7 +552,7 @@ Choice Band,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a
 Choice Band,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. This curious headband boosts Attack but only allows the use of one move.
 Choice Band,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. This curious headband boosts Attack but only allows the use of one move.
 Choice Band,"['Scarlet', 'Violet']",An item to be held by a Pokémon. This curious headband boosts the holder’s Attack stat but only allows the use of a single move.
-Choice Dumpling,['Legends: Arceus'],A dumpling that will make a Pokémon become fixated on a move in battle. The Pokémon will deal more damage when using that move but will take more damage as well.
+Choice Dumpling,['Arceus'],A dumpling that will make a Pokémon become fixated on a move in battle. The Pokémon will deal more damage when using that move but will take more damage as well.
 Choice Dumpling,"['Scarlet', 'Violet']",A dumpling that will make a Pokémon become fixated on a move in battle. The Pokémon will deal more damage when using that move but will take more damage as well.
 Choice Scarf,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']","An item to be held by a Pokémon. This scarf boosts Speed, but allows the use of only one kind of move."
 Choice Scarf,"['Black', 'White', 'Black 2', 'White 2']","An item to be held by a Pokémon. This scarf boosts Speed, but allows the use of only one of its moves."
@@ -644,11 +644,11 @@ Covert Cloak,"['Scarlet', 'Violet']","An item to be held by a Pokémon. This hoo
 Crabrawler Shell,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Cracked Pot,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious."
 Cracked Pot,"['Scarlet', 'Violet']","A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious."
-Crafting Kit,['Legends: Arceus'],"A kit containing everything you might need for crafting, even when there is no workbench around. However, you can only use the materials you have in your satchel."
+Crafting Kit,['Arceus'],"A kit containing everything you might need for crafting, even when there is no workbench around. However, you can only use the materials you have in your satchel."
 Crafting Kit,"['Scarlet', 'Violet']","A kit containing everything you might need for crafting, even when there is no workbench around. However, you can only use the materials you have in your satchel."
 Cream Cheese,"['Scarlet', 'Violet']","A condiment offering very sweet and very tart flavor. It goes well with more ingredients than you’d expect, making it a convenient go-to."
 Croagunk Poison,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Crunchy Salt,['Legends: Arceus'],"Translucent crystals that are beloved by Pokémon bearing a resemblance to grass, plants, or minerals. They will gather wherever a lump of this salt is thrown."
+Crunchy Salt,['Arceus'],"Translucent crystals that are beloved by Pokémon bearing a resemblance to grass, plants, or minerals. They will gather wherever a lump of this salt is thrown."
 Crunchy Salt,"['Scarlet', 'Violet']","Translucent crystals that are beloved by Pokémon bearing a resemblance to grass, plants, or minerals. They will gather wherever a lump of this salt is thrown."
 Cryogonal Ice,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Cubchoo Fur,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
@@ -697,7 +697,7 @@ Dawn Stone,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A peculiar stone that ca
 Dawn Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A peculiar stone that can make certain species of Pokémon evolve. It sparkles like a glittering eye.
 Dawn Stone,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A peculiar stone that can make certain species of Pokémon evolve. It sparkles like a glittering eye.
 Dawn Stone,"['Scarlet', 'Violet']",A peculiar stone that can make certain species of Pokémon evolve. It sparkles like a glittering eye.
-Dazzling Honey,['Legends: Arceus'],"Honey that sparkles with an amber hue. It is beloved by bug Pokémon and Pokémon with fairylike charms, so they will gather wherever a comb of it is thrown."
+Dazzling Honey,['Arceus'],"Honey that sparkles with an amber hue. It is beloved by bug Pokémon and Pokémon with fairylike charms, so they will gather wherever a comb of it is thrown."
 Dazzling Honey,"['Scarlet', 'Violet']","Honey that sparkles with an amber hue. It is beloved by bug Pokémon and Pokémon with fairylike charms, so they will gather wherever a comb of it is thrown."
 Decidium Z,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",It converts Z-Power into crystals that upgrade Decidueye’s Spirit Shackle to an exclusive Z-Move.
 Decidium Z,"['Sword', 'Shield']",It converts Z-Power into crystals that upgrade Decidueye’s Spirit Shackle to an exclusive Z-Move.
@@ -744,9 +744,9 @@ Dire Hit,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",An item t
 Dire Hit,"['Black', 'White', 'Black 2', 'White 2']",It raises the critical-hit ratio greatly. It can be used only once and wears off if the Pokémon is withdrawn.
 Dire Hit,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item that raises the critical-hit ratio greatly. It can be used only once and wears off if the Pokémon is withdrawn.
 Dire Hit,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item that raises the critical-hit ratio greatly. It can be used only once and wears off if the Pokémon is withdrawn.
-Dire Hit,"['L.G. Pikachu', 'L.G. Eevee']",An item that greatly raises the critical-hit ratio of a Pokémon during a battle. It can be used only once and wears off if the Pokémon is withdrawn.
+Dire Hit,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",An item that greatly raises the critical-hit ratio of a Pokémon during a battle. It can be used only once and wears off if the Pokémon is withdrawn.
 Dire Hit,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item that greatly raises the critical-hit ratio of a Pokémon during a battle. It can be used only once and wears off if the Pokémon is withdrawn.
-Dire Hit,['Legends: Arceus'],An item that sharply boosts the critical-hit ratio of a Pokémon during a battle. This effect disappears if the Pokémon leaves the battle.
+Dire Hit,['Arceus'],An item that sharply boosts the critical-hit ratio of a Pokémon during a battle. This effect disappears if the Pokémon leaves the battle.
 Dire Hit,"['Scarlet', 'Violet']",An item that can be used once to sharply boost the critical-hit ratio of a Pokémon in battle. This effect disappears if the Pokémon leaves the battle.
 Dire Hit 2,"['Black', 'White', 'Black 2', 'White 2']",It can be used many times to raise the critical-hit ratio of one Pokémon. It wears off if the Pokémon is withdrawn.
 Dire Hit 2,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",It can be used many times to raise the critical-hit ratio of one Pokémon. It wears off if the Pokémon is withdrawn.
@@ -758,7 +758,7 @@ Dire Hit 3,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",It can be used many time
 Dire Hit 3,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",It can be used many times to greatly raise a Pokémon’s critical-hit ratio. It wears off if the Pokémon is withdrawn.
 Dire Hit 3,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",It can be used many times to greatly raise a Pokémon’s critical-hit ratio. It wears off if the Pokémon is withdrawn.
 Dire Hit 3,"['Scarlet', 'Violet']",Can be used many times to greatly boost a Pokémon’s critical-hit ratio. These effects disappear if the Pokémon leaves the battle.
-Direshroom,['Legends: Arceus'],"Mushrooms that, when consumed, sharpen the eater’s focus. They make it easier to land critical hits and are one of the materials needed for crafting Dire Hits."
+Direshroom,['Arceus'],"Mushrooms that, when consumed, sharpen the eater’s focus. They make it easier to land critical hits and are one of the materials needed for crafting Dire Hits."
 Direshroom,"['Scarlet', 'Violet']","Mushrooms that, when consumed, sharpen the eater’s focus. They make it easier to land critical hits and are one of the materials needed for crafting Dire Hits."
 Discount Coupon,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",This special coupon allows you to buy items at a discount when you are shopping at a boutique.
 Discount Coupon,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",This special coupon allows you to buy items at a discount when you are shopping at a boutique.
@@ -791,7 +791,7 @@ Dome Fossil,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A fossil from a prehist
 Dome Fossil,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A fossil from a prehistoric Pokémon that once lived in the sea. It could be a shell or carapace.
 Dome Fossil,"['Scarlet', 'Violet']",A fossil from a prehistoric Pokémon that once lived in the sea. It could be a shell or carapace.
 Dondozo Whisker,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Doppel Bonnets,['Legends: Arceus'],"Mushrooms that, when consumed, make the eater feel nimble and agile as a fleeting shadow. They are one of the materials needed for crafting Aux Evasions."
+Doppel Bonnets,['Arceus'],"Mushrooms that, when consumed, make the eater feel nimble and agile as a fleeting shadow. They are one of the materials needed for crafting Aux Evasions."
 Doppel Bonnets,"['Scarlet', 'Violet']","Mushrooms that, when consumed, make the eater feel nimble and agile as a fleeting shadow. They are one of the materials needed for crafting Aux Evasions."
 Douse Drive,"['Black', 'White', 'Black 2', 'White 2']",A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.
 Douse Drive,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A cassette to be held by Genesect. It changes Genesect’s Techno Blast move so it becomes Water type.
@@ -940,7 +940,7 @@ Elixir,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",It restores
 Elixir,"['Black', 'White', 'Black 2', 'White 2']",It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.
 Elixir,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",This medicine can restore 10 PP to each of the moves that have been learned by a Pokémon.
 Elixir,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",This medicine can restore 10 PP to each of the moves that have been learned by a Pokémon.
-Elixir,"['L.G. Pikachu', 'L.G. Eevee']",This medicine can be used to restore 10 PP to each of the moves that have been learned by a Pokémon.
+Elixir,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",This medicine can be used to restore 10 PP to each of the moves that have been learned by a Pokémon.
 Elixir,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",This medicine can be used to restore 10 PP to each of the moves that have been learned by a Pokémon.
 Elixir,"['Scarlet', 'Violet']",A medicine that can be used to restore 10 PP to all four moves that a Pokémon knows.
 Energy Powder,"['Ruby', 'Sapphire', 'Emerald']",A bitter powder that restores HP by 50 points.
@@ -974,7 +974,7 @@ Escape Rope,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']","A lon
 Escape Rope,"['Black', 'White', 'Black 2', 'White 2']","A long, durable rope. Use it to escape instantly from a cave or a dungeon."
 Escape Rope,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A long and durable rope. Use it to escape instantly from a cave or a dungeon.
 Escape Rope,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A long and durable rope. Use it to escape instantly from a cave or a dungeon.
-Escape Rope,"['L.G. Pikachu', 'L.G. Eevee']",A long and durable rope. Use it to escape instantly from locations like caves or dungeons.
+Escape Rope,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A long and durable rope. Use it to escape instantly from locations like caves or dungeons.
 Escape Rope,"['Sword', 'Shield']",A long and durable rope. Use it to escape instantly from locations like caves or dungeons. It can be used any number of times.
 Escape Rope,"['Brilliant Diamond', 'Shining Pearl']",A long and durable rope. Use it to escape instantly from locations like caves or dungeons.
 Escape Rope,"['Scarlet', 'Violet']",A long and durable rope. Use it to escape instantly from locations like caves or dungeons. It can be used any number of times.
@@ -984,7 +984,7 @@ Ether,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",It restores 
 Ether,"['Black', 'White', 'Black 2', 'White 2']",It restores the PP of a Pokémon’s selected move by a maximum of 10 points.
 Ether,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",This medicine can restore 10 PP to a single selected move that has been learned by a Pokémon.
 Ether,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",This medicine can restore 10 PP to a single selected move that has been learned by a Pokémon.
-Ether,"['L.G. Pikachu', 'L.G. Eevee']",This medicine can be used to restore 10 PP to a single selected move that has been learned by a Pokémon.
+Ether,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",This medicine can be used to restore 10 PP to a single selected move that has been learned by a Pokémon.
 Ether,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",This medicine can be used to restore 10 PP to a single selected move that has been learned by a Pokémon.
 Ether,"['Scarlet', 'Violet']",A medicine that can be used to restore 10 PP to a single move that a Pokémon knows.
 Everstone,"['Ruby', 'Sapphire']",A wondrous stone & a hold item that prevents evolution.
@@ -1047,7 +1047,7 @@ Fast Ball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A Poké Ball that makes i
 Fast Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A Poké Ball that makes it easier to catch Pokémon that are usually very quick to run away.
 Fast Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Poké Ball that makes it easier to catch Pokémon that are usually very quick to run away.
 Fast Ball,"['Scarlet', 'Violet']",A somewhat different Poké Ball that is more effective when catching Pokémon that are usually very quick to run away.
-Feather Ball,['Legends: Arceus'],A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.
+Feather Ball,['Arceus'],A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.
 Feather Ball,"['Scarlet', 'Violet']",A recipe for crafting Feather Balls from scratch. Required materials: 1 Apricorn and 1 Sky Tumblestone.
 Festival Ticket,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A ticket that allows you to host a mission in Festival Plaza.
 Festival Ticket,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A ticket that allows you to host a mission in Festival Plaza.
@@ -1075,7 +1075,7 @@ Figy Berry,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","If held by a Pokémon, 
 Figy Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","If held by a Pokémon, it restores the user’s HP in a pinch, but it will cause confusion if the user hates the taste."
 Figy Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","If held by a Pokémon, it restores the user’s HP in a pinch, but it will cause confusion if the user hates the taste."
 Figy Berry,"['Scarlet', 'Violet']","If a Pokémon holds one of these Berries, it will be able to restore some HP should it find itself in a pinch. But it will become confused if it hates the Berry’s taste."
-Fine Remedy,['Legends: Arceus'],"An herbal medicine that can restore 100 HP to a Pokémon, just as a Super Potion does. Yet the bitter taste will make the Pokémon less friendly toward you."
+Fine Remedy,['Arceus'],"An herbal medicine that can restore 100 HP to a Pokémon, just as a Super Potion does. Yet the bitter taste will make the Pokémon less friendly toward you."
 Fine Remedy,"['Scarlet', 'Violet']","An herbal medicine that can restore 100 HP to a Pokémon, just as a Super Potion does. Yet the bitter taste will make the Pokémon less friendly toward you."
 Finizen Mucus,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Finneon Scales,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
@@ -1093,7 +1093,7 @@ Fire Stone,"['FireRed', 'LeafGreen']",A peculiar stone that makes certain specie
 Fire Stone,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.
 Fire Stone,"['Black', 'White', 'Black 2', 'White 2']",A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.
 Fire Stone,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A peculiar stone that can make certain species of Pokémon evolve. The stone has a fiery orange heart.
-Fire Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']",A peculiar stone that can make certain species of Pokémon evolve. The stone has a fiery orange heart.
+Fire Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A peculiar stone that can make certain species of Pokémon evolve. The stone has a fiery orange heart.
 Fire Stone,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A peculiar stone that can make certain species of Pokémon evolve. The stone has a fiery orange heart.
 Fire Stone,"['Scarlet', 'Violet']",A peculiar stone that can make certain species of Pokémon evolve. It has a fiery orange heart.
 Fire Tera Shard,"['Scarlet', 'Violet']","On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters."
@@ -1184,7 +1184,7 @@ Fresh Water,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",Water 
 Fresh Water,"['Black', 'White', 'Black 2', 'White 2']",Water with a high mineral content. It restores the HP of one Pokémon by 50 points.
 Fresh Water,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","Water with a high mineral content. When consumed, it restores 50 HP to an injured Pokémon."
 Fresh Water,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","Water with a high mineral content. When consumed, it restores up to 30 HP to an injured Pokémon."
-Fresh Water,"['L.G. Pikachu', 'L.G. Eevee']",Water with high mineral content. It can be used to restore 30 HP to a single Pokémon.
+Fresh Water,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",Water with high mineral content. It can be used to restore 30 HP to a single Pokémon.
 Fresh Water,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",Water with high mineral content. It can be used to restore 30 HP to a single Pokémon.
 Fresh Water,"['Scarlet', 'Violet']",Water with high mineral content. It can be used to restore 30 HP to a Pokémon.
 Fried Fillet,"['Scarlet', 'Violet']","When used in a sandwich, this very salty and bitter ingredient is at its best paired with sour seasonings."
@@ -1205,7 +1205,7 @@ Full Heal,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A spray-
 Full Heal,"['Black', 'White', 'Black 2', 'White 2']",A spray-type medicine. It heals all the status problems of a single Pokémon.
 Full Heal,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A spray-type medicine that is broadly effective. It can be used once to heal all the status conditions of a Pokémon.
 Full Heal,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A spray-type medicine that is broadly effective. It can be used once to heal all the status conditions of a Pokémon.
-Full Heal,"['L.G. Pikachu', 'L.G. Eevee']",A spray-type medicine that is broadly effective. It can be used once to heal all the status conditions of a single Pokémon.
+Full Heal,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A spray-type medicine that is broadly effective. It can be used once to heal all the status conditions of a single Pokémon.
 Full Heal,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A spray-type medicine that is broadly effective. It can be used to heal all the status conditions of a single Pokémon.
 Full Heal,"['Scarlet', 'Violet']",A spray-type medicine that is broadly effective. It can be used to cure any status condition a Pokémon may have.
 Full Incense,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",An item to be held by a Pokémon. It is an exotic-smelling incense that makes the holder bloated and slow moving.
@@ -1252,7 +1252,7 @@ Gardevoirite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones
 Gastly Gas,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Gengarite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle."
 Gengarite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle."
-Gengarite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Gengar to Mega Evolve during battle.
+Gengarite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Gengar to Mega Evolve during battle.
 Gengarite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle."
 Gengarite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle."
 Genius Feather,"['Black', 'White', 'Black 2', 'White 2']",An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.
@@ -1278,7 +1278,7 @@ Ghostium Z,"['Scarlet', 'Violet']",This is a crystallized form of Z-Power. It up
 Gible Scales,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Gigantamix,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",One of the many ingredients that can be used for cooking at your camp. A mysterious spice. Even a tiny sprinkle is sure to make a curry gigantic.
 Gigantamix,"['Scarlet', 'Violet']",One of the many ingredients that can be used for cooking at your camp. A mysterious spice. Even a tiny sprinkle is sure to make a curry gigantic.
-Gigaton Ball,['Legends: Arceus'],"The ultimate iteration of the Heavy Ball. A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon."
+Gigaton Ball,['Arceus'],"The ultimate iteration of the Heavy Ball. A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon."
 Gigaton Ball,"['Scarlet', 'Violet']","The ultimate iteration of the Heavy Ball. A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon."
 Gimmighoul Coin,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It seems that Gimmighoul treasure and hoard these.
 Girafarig Fur,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
@@ -1291,17 +1291,17 @@ Gold Bottle Cap,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A beautiful bottle 
 Gold Bottle Cap,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A beautiful bottle cap that gives off a golden gleam. Some people are happy to receive one.
 Gold Bottle Cap,"['Scarlet', 'Violet']","A lovely gold bottle cap, which is even rarer than a silver bottle cap. Certain people are delighted to be given one of these."
 Gold Cup,"['Scarlet', 'Violet']","A popular option among hikers. It’s made with titanium, so it doesn’t rust even if it’s used to hold drinks with high sodium content."
-Gold Leaf,"['L.G. Pikachu', 'L.G. Eevee']",A mysterious gold leaf. No trees with this leaf have been found yet.
+Gold Leaf,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A mysterious gold leaf. No trees with this leaf have been found yet.
 Gold Leaf,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A mysterious gold leaf. No trees with this leaf have been found yet.
 Gold Leaf,"['Scarlet', 'Violet']",A mysterious gold leaf. No trees with this leaf have been found yet.
 Gold Pick,"['Scarlet', 'Violet']","A golden pick that oozes class. Using it on a sandwich lends an extravagant air that’ll make you want to eat up, even if you don’t love the fillings."
-Golden Nanab Berry,"['L.G. Pikachu', 'L.G. Eevee']",A Berry that calms wild Pokémon you’re trying to catch drastically when given to them.
+Golden Nanab Berry,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A Berry that calms wild Pokémon you’re trying to catch drastically when given to them.
 Golden Nanab Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Berry that calms wild Pokémon you’re trying to catch drastically when given to them.
 Golden Nanab Berry,"['Scarlet', 'Violet']",A Berry that drastically calms Pokémon you’re trying to catch when given to them.
-Golden Pinap Berry,"['L.G. Pikachu', 'L.G. Eevee']",A Berry that makes you drastically more likely to get an item when given to Pokémon you’re trying to catch.
+Golden Pinap Berry,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A Berry that makes you drastically more likely to get an item when given to Pokémon you’re trying to catch.
 Golden Pinap Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Berry that makes you drastically more likely to get an item when given to Pokémon you’re trying to catch.
 Golden Pinap Berry,"['Scarlet', 'Violet']",A Berry that makes you drastically more likely to get an item when given to Pokémon you’re trying to catch.
-Golden Razz Berry,"['L.G. Pikachu', 'L.G. Eevee']",A Berry that makes it drastically easier to catch Pokémon when given to them.
+Golden Razz Berry,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A Berry that makes it drastically easier to catch Pokémon when given to them.
 Golden Razz Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Berry that makes it drastically easier to catch Pokémon when given to them.
 Golden Razz Berry,"['Scarlet', 'Violet']",A Berry that makes it drastically easier to catch Pokémon when given to them.
 Gooey Mulch,"['Diamond', 'Pearl', 'Platinum']",A plant fertilizer spread on soft soil. It ups the number of times new plants grow where mature plants withered.
@@ -1313,7 +1313,7 @@ Gooey Mulch,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A ferti
 Gooey Mulch,"['Scarlet', 'Violet']","A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect."
 Goomy Goo,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Gothita Eyelash,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Grain Cake,['Legends: Arceus'],A cake made by combining grains with a Cake-Lure Base. These cakes are potently effective at attracting Pokémon that dwell and wander among the fields.
+Grain Cake,['Arceus'],A cake made by combining grains with a Cake-Lure Base. These cakes are potently effective at attracting Pokémon that dwell and wander among the fields.
 Grain Cake,"['Scarlet', 'Violet']",A recipe for crafting Grain Cakes from scratch. Required materials: 1 stalk of Hearty Grains and 1 Cake-Lure Base.
 Grass Gem,"['Black', 'White', 'Black 2', 'White 2']","A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once."
 Grass Gem,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","A gem with an essence of nature. When held, it strengthens the power of a Grass-type move one time."
@@ -1337,9 +1337,9 @@ Great Ball,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']","A good
 Great Ball,"['Black', 'White', 'Black 2', 'White 2']","A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball."
 Great Ball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","A good, high-performance Poké Ball that provides a higher Pokémon catch rate than a standard Poké Ball can."
 Great Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","A good, high-performance Poké Ball that provides a higher Pokémon catch rate than a standard Poké Ball."
-Great Ball,"['L.G. Pikachu', 'L.G. Eevee']","A good, high-performance Poké Ball that provides a higher success rate for catching Pokémon than a standard Poké Ball."
+Great Ball,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']","A good, high-performance Poké Ball that provides a higher success rate for catching Pokémon than a standard Poké Ball."
 Great Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A good, high-performance Poké Ball that provides a higher success rate for catching Pokémon than a standard Poké Ball."
-Great Ball,['Legends: Arceus'],A mysterious ball that provides a higher success rate for catching Pokémon than a standard Poké Ball.
+Great Ball,['Arceus'],A mysterious ball that provides a higher success rate for catching Pokémon than a standard Poké Ball.
 Great Ball,"['Scarlet', 'Violet']","A good, high-performance Poké Ball that provides a higher success rate for catching Pokémon than a standard Poké Ball."
 Greavard Wax,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Green Apricorn,"['HeartGold', 'SoulSilver']","A green Apricorn. It has a mysterious, aromatic scent."
@@ -1387,7 +1387,7 @@ Grip Claw,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a P
 Grip Claw,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. It extends the duration of multi-turn attacks like Bind and Wrap.
 Grip Claw,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","An item to be held by a Pokémon. It extends the duration of multi-turn attacks, such as Bind and Wrap."
 Grip Claw,"['Scarlet', 'Violet']","An item to be held by a Pokémon. When the holder uses moves that deal damage over several turns, such as Bind or Wrap, their effects will last longer than usual."
-Griseous Core,['Legends: Arceus'],"When used on Giratina, this large, glowing gem wells with power and allows the Pokémon to change form."
+Griseous Core,['Arceus'],"When used on Giratina, this large, glowing gem wells with power and allows the Pokémon to change form."
 Griseous Core,"['Scarlet', 'Violet']","An item to be held by Giratina. This large, glowing gem wells with power and allows the Pokémon to change form."
 Griseous Orb,"['Platinum', 'HeartGold', 'SoulSilver']",A glowing orb to be held by GIRATINAlpha  It boosts the power of Dragon- and Ghost-type moves.
 Griseous Orb,"['Black', 'White', 'Black 2', 'White 2']",A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves.
@@ -1395,13 +1395,13 @@ Griseous Orb,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A glowing orb to be he
 Griseous Orb,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves when it is held.
 Griseous Orb,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves when it is held.
 Griseous Orb,"['Scarlet', 'Violet']",A shining gem to be held by Giratina. It boosts the power of Giratina’s Dragon- and Ghost-type moves.
-Grit Dust,['Legends: Arceus'],"Mysterious dust that can raise the effort level for one of a Pokémon’s stats. It can be used to raise effort levels only up to level three, however."
+Grit Dust,['Arceus'],"Mysterious dust that can raise the effort level for one of a Pokémon’s stats. It can be used to raise effort levels only up to level three, however."
 Grit Dust,"['Scarlet', 'Violet']","Mysterious dust that can raise the effort level for one of a Pokémon’s stats. It can be used to raise effort levels only up to level three, however."
-Grit Gravel,['Legends: Arceus'],Mysterious gravel that can raise the effort level for one of a Pokémon’s stats. It can be used only if the effort level is at least level three and no greater than level five.
+Grit Gravel,['Arceus'],Mysterious gravel that can raise the effort level for one of a Pokémon’s stats. It can be used only if the effort level is at least level three and no greater than level five.
 Grit Gravel,"['Scarlet', 'Violet']",Mysterious gravel that can raise the effort level for one of a Pokémon’s stats. It can be used only if the effort level is at least level three and no greater than level five.
-Grit Pebble,['Legends: Arceus'],A mysterious pebble that can raise the effort level for one of a Pokémon’s stats. It can be used only if the effort level is at least level six and no greater than level eight.
+Grit Pebble,['Arceus'],A mysterious pebble that can raise the effort level for one of a Pokémon’s stats. It can be used only if the effort level is at least level six and no greater than level eight.
 Grit Pebble,"['Scarlet', 'Violet']",A mysterious pebble that can raise the effort level for one of a Pokémon’s stats. It can be used only if the effort level is at least level six and no greater than level eight.
-Grit Rock,['Legends: Arceus'],A mysterious rock that can raise the effort level for one of a Pokémon’s stats. It can be used only if the effort level has already reached level nine.
+Grit Rock,['Arceus'],A mysterious rock that can raise the effort level for one of a Pokémon’s stats. It can be used only if the effort level has already reached level nine.
 Grit Rock,"['Scarlet', 'Violet']",A mysterious rock that can raise the effort level for one of a Pokémon’s stats. It can be used only if the effort level has already reached level nine.
 Ground Gem,"['Black', 'White', 'Black 2', 'White 2']","A gem with an essence of land. When held, it strengthens the power of a Ground-type move only once."
 Ground Gem,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","A gem with an essence of land. When held, it strengthens the power of a Ground-type move one time."
@@ -1440,7 +1440,7 @@ Guard Spec.,"['Scarlet', 'Violet']",An item that prevents Pokémon on your side 
 Gulpin Mucus,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Gyaradosite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Gyarados hold it, and this stone will enable it to Mega Evolve during battle."
 Gyaradosite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Gyarados hold it, and this stone will enable it to Mega Evolve during battle."
-Gyaradosite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Gyarados to Mega Evolve during battle.
+Gyaradosite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Gyarados to Mega Evolve during battle.
 Gyaradosite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Gyarados hold it, and this stone will enable it to Mega Evolve during battle."
 Gyaradosite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Gyarados hold it, and this stone will enable it to Mega Evolve during battle."
 Haban Berry,"['Diamond', 'Pearl', 'Platinum']","A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Dragon-type attack."
@@ -1493,10 +1493,10 @@ Heart Scale,"['FireRed', 'LeafGreen']","A pretty, heart-shaped scale that is ext
 Heart Scale,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']","A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow."
 Heart Scale,"['Black', 'White', 'Black 2', 'White 2']","A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow."
 Heart Scale,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","A pretty, heart-shaped scale that is extremely rare. It glows faintly with all of the colors of the rainbow."
-Heart Scale,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']","A pretty, heart-shaped scale that is extremely rare. Some people are happy to receive one."
+Heart Scale,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']","A pretty, heart-shaped scale that is extremely rare. Some people are happy to receive one."
 Heart Scale,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A pretty, heart-shaped scale that is extremely rare. Some people are happy to receive one."
 Heart Scale,"['Scarlet', 'Violet']","A pretty, heart-shaped scale that is extremely rare. Certain people are delighted to be given one of these."
-Hearty Grains,['Legends: Arceus'],Beautiful stalks of rice bursting with life. Pokémon that dwell and wander among the fields love these grains and will gather wherever the stalks are thrown.
+Hearty Grains,['Arceus'],Beautiful stalks of rice bursting with life. Pokémon that dwell and wander among the fields love these grains and will gather wherever the stalks are thrown.
 Hearty Grains,"['Scarlet', 'Violet']",Beautiful stalks of rice bursting with life. Pokémon that dwell and wander among the fields love these grains and will gather wherever the stalks are thrown.
 Heat Rock,"['Diamond', 'Pearl', 'Platinum']",A Pokémon hold item that extends the duration of the move Sunny Day used by the holder.
 Heat Rock,"['HeartGold', 'SoulSilver']",A Pokémon held item that extends the duration of the move Sunny Day used by the holder.
@@ -1510,7 +1510,7 @@ Heavy Ball,"['Black', 'White', 'Black 2', 'White 2']",A Poké Ball for catching 
 Heavy Ball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A Poké Ball that is better than usual at catching very heavy Pokémon.
 Heavy Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A Poké Ball that is better than usual at catching very heavy Pokémon.
 Heavy Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Poké Ball that is better than usual at catching very heavy Pokémon.
-Heavy Ball,['Legends: Arceus'],"A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon."
+Heavy Ball,['Arceus'],"A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon."
 Heavy Ball,"['Scarlet', 'Violet']",A somewhat different Poké Ball that becomes more effective the heavier the Pokémon is.
 Heavy-Duty Boots,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",These boots prevent the effects of traps set on the battlefield.
 Heavy-Duty Boots,"['Scarlet', 'Violet']",An item to be held by a Pokémon. These boots protect the holder from the effects of traps and the like set on the battlefield.
@@ -1578,7 +1578,7 @@ HM07,"['Scarlet', 'Violet']","Diving on the first turn, the user floats up and a
 HM08,"['Ruby', 'Sapphire', 'Emerald']","Dives underwater the 1st turn, then attacks next turn."
 HM08,"['FireRed', 'LeafGreen']",The user dives underwater on the first turn and strikes next turn.
 HM08,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.
-Hometown Muffin,['Legends: Arceus'],"A baked treat made from Berries and other ingredients, which is often eaten in regions such as Galar. It is beloved by a surprising number of Pokémon."
+Hometown Muffin,['Arceus'],"A baked treat made from Berries and other ingredients, which is often eaten in regions such as Galar. It is beloved by a surprising number of Pokémon."
 Hometown Muffin,"['Scarlet', 'Violet']","A baked treat made from Berries and other ingredients, which is often eaten in regions such as Galar. It is beloved by a surprising number of Pokémon."
 Hondew Berry,"['Ruby', 'Sapphire']",POKéBLOCK ingredient. Plant in loamy soil to grow HONDEW.
 Hondew Berry,"['FireRed', 'LeafGreen']",Can be ground up into a powder as an ingredient for medicine.
@@ -1597,13 +1597,13 @@ Honey,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","A sweet honey with a lush ar
 Honey,"['Sword', 'Shield']",A sweet honey collected by Pokémon. It has a lush aroma and can be sold at a low price to shops.
 Honey,"['Brilliant Diamond', 'Shining Pearl']","A sweet honey with a lush aroma that attracts wild Pokémon when it is used in tall grass, in caves, or on special trees."
 Honey,"['Scarlet', 'Violet']",Honey collected thanks to Pokémon’s efforts. It has a sweet aroma and can be sold at a low price to shops.
-Honey Cake,['Legends: Arceus'],A cake made by combining honey with a Cake-Lure Base. These cakes are potently effective at attracting bug Pokémon and also those with fairylike charms.
+Honey Cake,['Arceus'],A cake made by combining honey with a Cake-Lure Base. These cakes are potently effective at attracting bug Pokémon and also those with fairylike charms.
 Honey Cake,"['Scarlet', 'Violet']",A recipe for crafting Honey Cakes from scratch. Required materials: 1 comb of Dazzling Honey and 1 Cake-Lure Base.
 Honor Of Kalos,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A precious symbol that is awarded only to an individual who has done great things for the Kalos region.
 Honor Of Kalos,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A precious symbol that is awarded only to an individual who has done great things for the Kalos region.
 Honor Of Kalos,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A precious symbol that is awarded only to an individual who has done great things for the Kalos region.
 Honor Of Kalos,"['Scarlet', 'Violet']",A precious symbol that is awarded to individuals who have done great things for the Kalos region.
-Hopo Berry,['Legends: Arceus'],"A Berry that can be fed to a Pokémon to restore its PP. If a wild Pokémon eats one of these Berries, that Pokémon’s reactions will be dulled."
+Hopo Berry,['Arceus'],"A Berry that can be fed to a Pokémon to restore its PP. If a wild Pokémon eats one of these Berries, that Pokémon’s reactions will be dulled."
 Hopo Berry,"['Scarlet', 'Violet']","A Berry that can be fed to a Pokémon to restore its PP. If a wild Pokémon eats one of these Berries, that Pokémon’s reactions will be dulled."
 Hoppip Leaf,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Horseradish,"['Scarlet', 'Violet']",A very spicy condiment. Its distinctive sharp sizzle in your sinuses makes it a good match for rich fillings.
@@ -1649,13 +1649,13 @@ Ice Heal,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A spray-t
 Ice Heal,"['Black', 'White', 'Black 2', 'White 2']",A spray-type medicine. It defrosts a Pokémon that has been frozen solid.
 Ice Heal,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A spray-type medicine for freezing. It can be used once to defrost a Pokémon that has been frozen solid.
 Ice Heal,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A spray-type medicine for freezing. It can be used once to defrost a Pokémon that has been frozen solid.
-Ice Heal,"['L.G. Pikachu', 'L.G. Eevee']",A spray-type medicine for treating freezing. It can be used to thaw out a single Pokémon that has been frozen solid.
+Ice Heal,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A spray-type medicine for treating freezing. It can be used to thaw out a single Pokémon that has been frozen solid.
 Ice Heal,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A spray-type medicine for treating freezing. It can be used to thaw out a single Pokémon that has been frozen solid.
 Ice Heal,"['Scarlet', 'Violet']",A spray-type medicine for treating freezing. It can be used to thaw out a Pokémon that has been frozen solid.
 Ice Memory,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A memory disc that contains Ice-type data. It changes the type of the holder if held by a certain species of Pokémon.
 Ice Memory,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A memory disc that contains Ice-type data. It changes the type of the holder if held by a certain species of Pokémon.
 Ice Memory,"['Scarlet', 'Violet']",A memory disc that contains Ice-type data. It changes the type of the holder if held by a certain species of Pokémon.
-Ice Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']",A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.
+Ice Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.
 Ice Stone,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.
 Ice Stone,"['Scarlet', 'Violet']",A peculiar stone that can make certain species of Pokémon evolve. It has a snowflake pattern in it.
 Ice Tera Shard,"['Scarlet', 'Violet']","On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters."
@@ -1715,9 +1715,9 @@ Iron Ball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a P
 Iron Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. It lowers Speed and allows Ground-type moves to hit Flying-type and levitating holders.
 Iron Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. It lowers Speed and allows Ground-type moves to hit Flying types and holders that are levitating.
 Iron Ball,"['Scarlet', 'Violet']",An item to be held by a Pokémon. It lowers the holder’s Speed stat and makes the holder vulnerable to Ground- type moves even if it is a Flying type or is levitating.
-Iron Barktongue,['Legends: Arceus'],"Mushrooms that, when consumed, make the body of the eater grow tougher. They boost endurance and are one of the materials needed for crafting Aux Guards."
+Iron Barktongue,['Arceus'],"Mushrooms that, when consumed, make the body of the eater grow tougher. They boost endurance and are one of the materials needed for crafting Aux Guards."
 Iron Barktongue,"['Scarlet', 'Violet']","Mushrooms that, when consumed, make the body of the eater grow tougher. They boost endurance and are one of the materials needed for crafting Aux Guards."
-Iron Chunk,['Legends: Arceus'],"A naturally occurring hunk of iron. Such ore is needed to make the requisite parts of numerous Poké Ball varieties, such as the clasp that holds the ball shut."
+Iron Chunk,['Arceus'],"A naturally occurring hunk of iron. Such ore is needed to make the requisite parts of numerous Poké Ball varieties, such as the clasp that holds the ball shut."
 Iron Chunk,"['Scarlet', 'Violet']","A naturally occurring hunk of iron. Such ore is needed to make the requisite parts of numerous Poké Ball varieties, such as the clasp that holds the ball shut."
 Iron Plate,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",An item to be held by a Pokémon. It is a stone tablet that boosts the power of Steel-type moves.
 Iron Plate,"['Black', 'White', 'Black 2', 'White 2']",An item to be held by a Pokémon. It is a stone tablet that boosts the power of Steel-type moves.
@@ -1744,17 +1744,17 @@ Jaboca Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A Berr
 Jaboca Berry,"['Scarlet', 'Violet']","If a Pokémon holding this Berry is hit with a physical move, the attacker will also take damage."
 Jalapeño,"['Scarlet', 'Violet']",A very spicy ingredient—so spicy as to leave no room for ambivalence about it. You either like it or you don’t.
 Jam,"['Scarlet', 'Violet']","A condiment that’s very sweet and likewise very sour. Take care when adding it to sandwiches, as the sweet side can overwhelm."
-Jet Ball,['Legends: Arceus'],The ultimate iteration of the Feather Ball. A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.
+Jet Ball,['Arceus'],The ultimate iteration of the Feather Ball. A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.
 Jet Ball,"['Scarlet', 'Violet']",The ultimate iteration of the Feather Ball. A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.
 Johto Slate,"['Brilliant Diamond', 'Shining Pearl']",A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Johto Room at Ramanas Park.
 Johto Slate,"['Scarlet', 'Violet']",A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Johto Room at Ramanas Park.
 Jolly Mint,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Atk will grow more slowly."
 Jolly Mint,"['Scarlet', 'Violet']","Having a Pokémon smell this mint can make its Speed stat grow stronger. However, its Sp. Atk stat may suffer."
-Jubilife Muffin,['Legends: Arceus'],A hidden gem gaining popularity in Jubilife Village and beloved by Pokémon. This sweet treat can be fed to a Pokémon to cure any status conditions it may have.
+Jubilife Muffin,['Arceus'],A hidden gem gaining popularity in Jubilife Village and beloved by Pokémon. This sweet treat can be fed to a Pokémon to cure any status conditions it may have.
 Jubilife Muffin,"['Scarlet', 'Violet']",A hidden gem gaining popularity in Jubilife Village and beloved by Pokémon. This sweet treat can be fed to a Pokémon to cure any status condition it may have.
 Kangaskhanite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Kangaskhan hold it, and this stone will enable it to Mega Evolve during battle."
 Kangaskhanite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Kangaskhan hold it, and this stone will enable it to Mega Evolve during battle."
-Kangaskhanite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Kangaskhan to Mega Evolve during battle.
+Kangaskhanite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Kangaskhan to Mega Evolve during battle.
 Kangaskhanite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Kangaskhan hold it, and this stone will enable it to Mega Evolve during battle."
 Kangaskhanite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Kangaskhan hold it, and this stone will enable it to Mega Evolve during battle."
 Kanto Slate,"['Brilliant Diamond', 'Shining Pearl']",A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Kanto Room at Ramanas Park.
@@ -1788,7 +1788,7 @@ Kelpsy Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A Berry to be consumed
 Kelpsy Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its Attack base points.
 Kelpsy Berry,"['Scarlet', 'Violet']","If a Pokémon is fed this Berry, it will grow more friendly, but it will lose base points for its Attack stat."
 Ketchup,"['Scarlet', 'Violet']","A condiment with very salty and tart flavor. While a number of other ingredients go into its signature flavor, the noble tomato is its heart and soul."
-King's Leaf,['Legends: Arceus'],"The king of herbs, glittering and brilliant. Combining this herb with other materials needed to make medicines will boost their efficacy."
+King's Leaf,['Arceus'],"The king of herbs, glittering and brilliant. Combining this herb with other materials needed to make medicines will boost their efficacy."
 King's Leaf,"['Scarlet', 'Violet']","The king of herbs, glittering and brilliant. Combining this herb with other materials needed to make medicines will boost their efficacy."
 King's Rock,"['Ruby', 'Sapphire', 'Emerald']",A hold item that may cause flinching when the foe is hit.
 King's Rock,"['FireRed', 'LeafGreen']",An item to be held by a POKéMON. It may cause the foe to flinch upon taking damage.
@@ -1853,10 +1853,10 @@ Lax Incense,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item 
 Lax Incense,"['Scarlet', 'Violet']",An item to be held by a Pokémon. The curious aroma of this incense may cause moves to miss its holder.
 Lax Mint,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Def will grow more slowly."
 Lax Mint,"['Scarlet', 'Violet']","Having a Pokémon smell this mint can make its Defense stat grow stronger. However, its Sp. Def stat may suffer."
-Leaden Ball,['Legends: Arceus'],"An improvement on the original Heavy Ball design. A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon."
+Leaden Ball,['Arceus'],"An improvement on the original Heavy Ball design. A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon."
 Leaden Ball,"['Scarlet', 'Violet']","An improvement on the original Heavy Ball design. A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon."
 Leader's Crest,"['Scarlet', 'Violet']",A shard of what appears to be an old blade of some sort. It is held only by Bisharp that head up a group of Pawniard.
-Leaf Letter,"['L.G. Pikachu', 'L.G. Eevee']",A letter written on a leaf. Something is written using Pikachu’s/Eevee’s footprints.
+Leaf Letter,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A letter written on a leaf. Something is written using Pikachu’s/Eevee’s footprints.
 Leaf Letter,"['Brilliant Diamond', 'Shining Pearl']",A letter written on a leaf. Something is written using Pikachu’s footprints.
 Leaf Letter,"['Scarlet', 'Violet']",A letter written on a leaf. Something is written using Pikachu’s footprints.
 Leaf Stone,"['Ruby', 'Sapphire', 'Emerald']",Makes certain species of POKéMON evolve.
@@ -1864,7 +1864,7 @@ Leaf Stone,"['FireRed', 'LeafGreen']",A peculiar stone that makes certain specie
 Leaf Stone,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern.
 Leaf Stone,"['Black', 'White', 'Black 2', 'White 2']",A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern.
 Leaf Stone,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern.
-Leaf Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']",A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern.
+Leaf Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern.
 Leaf Stone,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern.
 Leaf Stone,"['Scarlet', 'Violet']",A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern.
 Leafy Tablecloth,"['Scarlet', 'Violet']",A botanically themed tablecloth featuring Grass-type Pokémon. Can you find the Pokémon that doesn’t quite fit in?
@@ -1886,7 +1886,7 @@ Leftovers,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a P
 Leftovers,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. The holder’s HP is slowly but steadily restored throughout every battle.
 Leftovers,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. The holder’s HP is slowly but steadily restored throughout every battle.
 Leftovers,"['Scarlet', 'Violet']",An item to be held by a Pokémon. The holder’s HP is slowly but steadily restored throughout a battle.
-Legend Plate,['Legends: Arceus'],"A stone tablet imbued with the essence of all creation. When used on a certain Pokémon, it allows that Pokémon to gain the power of every type there is."
+Legend Plate,['Arceus'],"A stone tablet imbued with the essence of all creation. When used on a certain Pokémon, it allows that Pokémon to gain the power of every type there is."
 Legend Plate,"['Scarlet', 'Violet']","A stone tablet imbued with the essence of all creation. When used on a certain Pokémon, it allows that Pokémon to gain the power of every type there is."
 Lemonade,"['Ruby', 'Sapphire', 'Emerald']",A very sweet drink that restores HP by 80 points.
 Lemonade,"['FireRed', 'LeafGreen']",A very sweet drink. It restores the HP of one POKéMON by 80 points.
@@ -1894,7 +1894,7 @@ Lemonade,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A very sw
 Lemonade,"['Black', 'White', 'Black 2', 'White 2']",A very sweet drink. It restores the HP of one Pokémon by 80 points.
 Lemonade,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","A very sweet and refreshing drink. When consumed, it restores 80 HP to an injured Pokémon."
 Lemonade,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","A very sweet and refreshing drink. When consumed, it restores up to 70 HP to an injured Pokémon."
-Lemonade,"['L.G. Pikachu', 'L.G. Eevee']",A very sweet and refreshing drink. It can be used to restore 70 HP to a single Pokémon.
+Lemonade,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A very sweet and refreshing drink. It can be used to restore 70 HP to a single Pokémon.
 Lemonade,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A very sweet and refreshing drink. It can be used to restore 70 HP to a single Pokémon.
 Lemonade,"['Scarlet', 'Violet']",A very sweet and refreshing drink. It can be used to restore 70 HP to a Pokémon.
 Leppa Berry,"['Ruby', 'Sapphire', 'Emerald']",A hold item that restores 10 PP in battle.
@@ -1945,11 +1945,11 @@ Light Clay,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a 
 Light Clay,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. Protective moves like Light Screen and Reflect will be effective longer.
 Light Clay,"['Scarlet', 'Violet']","An item to be held by a Pokémon. When the holder uses protective moves like Light Screen or Reflect, their effects will last longer than usual."
 Lilac Tablecloth,"['Scarlet', 'Violet']","A light purple tablecloth. It’s smooth and pleasant to the touch, and dishes can be placed on it with hardly a sound."
-Linking Cord,['Legends: Arceus'],A string exuding a mysterious energy that makes you feel a strange sense of connection. It’s loved by certain Pokémon.
+Linking Cord,['Arceus'],A string exuding a mysterious energy that makes you feel a strange sense of connection. It’s loved by certain Pokémon.
 Linking Cord,"['Scarlet', 'Violet']",A string exuding a mysterious energy that makes you feel a strange sense of connection. It’s loved by certain Pokémon.
 Litleo Tuft,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Loaded Dice,"['Scarlet', 'Violet']","An item to be held by a Pokémon. This loaded dice always rolls a good number, and holding one can ensure that the holder’s multistrike moves hit more times."
-Lone Earring,"['L.G. Pikachu', 'L.G. Eevee']",A single earring that somebody dropped.
+Lone Earring,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A single earring that somebody dropped.
 Lone Earring,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A single earring that somebody dropped.
 Lone Earring,"['Scarlet', 'Violet']",A single earring that somebody dropped.
 Lonely Mint,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly."
@@ -1961,7 +1961,7 @@ Looker Ticket,"['Scarlet', 'Violet']",A ticket that was handmade by Looker. It�
 Lopunnite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Lopunny hold it, and this stone will enable it to Mega Evolve during battle."
 Lopunnite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Lopunny hold it, and this stone will enable it to Mega Evolve during battle."
 Lopunnite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Lopunny hold it, and this stone will enable it to Mega Evolve during battle."
-Lost Satchel,['Legends: Arceus'],A satchel that someone dropped.
+Lost Satchel,['Arceus'],A satchel that someone dropped.
 Lost Satchel,"['Scarlet', 'Violet']",A satchel that someone dropped.
 Love Ball,"['HeartGold', 'SoulSilver']",Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.
 Love Ball,"['Black', 'White', 'Black 2', 'White 2']",Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.
@@ -2019,7 +2019,7 @@ Lunalium Z,"['Ultra Sun', 'Ultra Moon']",It converts Z-Power into crystals that 
 Lunalium Z,"['Sword', 'Shield']",It converts Z-Power into crystals that upgrade Lunala’s Moongeist Beam to an exclusive Z-Move.
 Lunalium Z,"['Brilliant Diamond', 'Shining Pearl']",This is a crystallized form of Z-Power. It upgrades Lunala’s Moongeist Beam to a Z-Move.
 Lunalium Z,"['Scarlet', 'Violet']",This is a crystallized form of Z-Power. It upgrades Lunala’s Moongeist Beam to a Z-Move.
-Lure,"['L.G. Pikachu', 'L.G. Eevee']",A glass bottle of perfume that makes rare Pokémon more likely to appear.
+Lure,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A glass bottle of perfume that makes rare Pokémon more likely to appear.
 Lure,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A glass bottle of perfume that makes rare Pokémon more likely to appear.
 Lure,"['Scarlet', 'Violet']",A bottle of perfume that makes rare Pokémon more likely to appear for a short time when sprayed about.
 Lure Ball,"['HeartGold', 'SoulSilver']",A Poké Ball for catching Pokémon hooked by a Rod when fishing.
@@ -2029,7 +2029,7 @@ Lure Ball,"['Sun', 'Moon']",A Poké Ball that is good for catching Pokémon that
 Lure Ball,"['Ultra Sun', 'Ultra Moon']",A Poké Ball that is good for catching Pokémon that you reel in with a rod while out fishing.
 Lure Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Poké Ball that is good for catching Pokémon that you reel in with a rod while out fishing.
 Lure Ball,"['Scarlet', 'Violet']",A somewhat different Poké Ball that is more effective when catching Pokémon in or on the water.
-Lustrous Globe,['Legends: Arceus'],"When used on Palkia, this large, glowing orb wells with power and allows the Pokémon to change form."
+Lustrous Globe,['Arceus'],"When used on Palkia, this large, glowing orb wells with power and allows the Pokémon to change form."
 Lustrous Globe,"['Scarlet', 'Violet']","An item to be held by Palkia. This large, glowing orb wells with power and allows the Pokémon to change form."
 Lustrous Orb,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A beautifully glowing orb to be held by PALKIAlpha  It boosts the power of Dragon- and Water-type moves.
 Lustrous Orb,"['Black', 'White', 'Black 2', 'White 2']",A beautifully glowing orb to be held by Palkia. It boosts the power of Dragon- and Water-type moves.
@@ -2106,14 +2106,14 @@ Maranga Berry,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","If held by a Pokémo
 Maranga Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","If held by a Pokémon, this Berry will increase the holder’s Sp. Def if it’s hit with a special move."
 Maranga Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","If held by a Pokémon, this Berry will increase the holder’s Sp. Def if it’s hit with a special move."
 Maranga Berry,"['Scarlet', 'Violet']","If a Pokémon holding this Berry is hit with a special move, the holder’s Sp. Def stat will be boosted."
-Marble,"['L.G. Pikachu', 'L.G. Eevee']",A round glass marble. You can see colored glass inside the transparent marble.
+Marble,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A round glass marble. You can see colored glass inside the transparent marble.
 Marble,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A round glass marble. You can see colored glass inside the transparent marble.
 Marble,"['Scarlet', 'Violet']",A round glass marble. You can see colored glass inside the transparent marble.
 Mareanie Spike,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Mareep Wool,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Marill Ball,"['Scarlet', 'Violet']",A Marill-themed ball. It’s soft and springy. Make sure you haven’t mistaken a real Marill for this ball before throwing.
 Marmalade,"['Scarlet', 'Violet']","A condiment with sour and bitter notes. It’s surprisingly useful, as it makes a nice counterpoint to oilier foods."
-Marsh Balm,['Legends: Arceus'],"A mysterious balm that gives off a soothing scent. It can be used to help calm the frenzy of the Lady of the Ridge, Lilligant."
+Marsh Balm,['Arceus'],"A mysterious balm that gives off a soothing scent. It can be used to help calm the frenzy of the Lady of the Ridge, Lilligant."
 Marsh Balm,"['Scarlet', 'Violet']","A mysterious balm that gives off a soothing scent. It can be used to help calm the frenzy of the Lady of the Ridge, Lilligant."
 Marshadium Z,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",It converts Z-Power into crystals that upgrade Marshadow’s Spectral Thief to an exclusive Z-Move.
 Marshadium Z,"['Sword', 'Shield']",It converts Z-Power into crystals that upgrade Marshadow’s Spectral Thief to an exclusive Z-Move.
@@ -2125,7 +2125,7 @@ Master Ball,"['FireRed', 'LeafGreen']",The best BALL with the ultimate performan
 Master Ball,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
 Master Ball,"['Black', 'White', 'Black 2', 'White 2']",The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
 Master Ball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail."
-Master Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']","The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail."
+Master Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']","The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail."
 Master Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail."
 Master Ball,"['Scarlet', 'Violet']","The very best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail."
 Mawilite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Mawile hold it, and this stone will enable it to Mega Evolve during battle."
@@ -2138,7 +2138,7 @@ Max Elixir,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",It full
 Max Elixir,"['Black', 'White', 'Black 2', 'White 2']",It fully restores the PP of all the moves learned by the targeted Pokémon.
 Max Elixir,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",This medicine can fully restore the PP of all of the moves that have been learned by a Pokémon.
 Max Elixir,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",This medicine can fully restore the PP of all of the moves that have been learned by a Pokémon.
-Max Elixir,"['L.G. Pikachu', 'L.G. Eevee']",This medicine can be used to fully restore the PP of all of the moves that have been learned by a Pokémon.
+Max Elixir,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",This medicine can be used to fully restore the PP of all of the moves that have been learned by a Pokémon.
 Max Elixir,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",This medicine can be used to fully restore the PP of all of the moves that have been learned by a Pokémon.
 Max Elixir,"['Scarlet', 'Violet']",A medicine that can be used to fully restore the max PP of all four moves that a Pokémon knows.
 Max Ether,"['Ruby', 'Sapphire', 'Emerald']",Fully restores the PP of a selected move.
@@ -2147,12 +2147,12 @@ Max Ether,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",It fully
 Max Ether,"['Black', 'White', 'Black 2', 'White 2']",It fully restores the PP of a single selected move that has been learned by the target Pokémon.
 Max Ether,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",This medicine can fully restore the PP of a single selected move that has been learned by a Pokémon.
 Max Ether,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",This medicine can fully restore the PP of a single selected move that has been learned by a Pokémon.
-Max Ether,"['L.G. Pikachu', 'L.G. Eevee']",This medicine can be used to fully restore the PP of a single selected move that has been learned by a Pokémon.
+Max Ether,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",This medicine can be used to fully restore the PP of a single selected move that has been learned by a Pokémon.
 Max Ether,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",This medicine can be used to fully restore the PP of a single selected move that has been learned by a Pokémon.
 Max Ether,"['Scarlet', 'Violet']",A medicine that can be used to fully restore the max PP of a single move that a Pokémon knows.
 Max Honey,"['Brilliant Diamond', 'Shining Pearl']",Honey that Dynamax Vespiquen produces. Adding this honey to Max Soup makes the taste very smooth. It also has the same effect as a Max Revive.
 Max Honey,"['Scarlet', 'Violet']",Honey that Dynamax Vespiquen produces. Adding this honey to Max Soup makes the taste very smooth. It also has the same effect as a Max Revive.
-Max Lure,"['L.G. Pikachu', 'L.G. Eevee']",A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Super Lure.
+Max Lure,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Super Lure.
 Max Lure,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Super Lure.
 Max Lure,"['Scarlet', 'Violet']",A bottle of perfume that makes rare Pokémon more likely to appear when sprayed about. Its effect lasts longer than that of a Super Lure.
 Max Mushrooms,"['Brilliant Diamond', 'Shining Pearl']",Mushrooms that have the power of changing Dynamax forms. They boost all stats of a Pokémon during battle.
@@ -2163,7 +2163,7 @@ Max Potion,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A spray
 Max Potion,"['Black', 'White', 'Black 2', 'White 2']",A spray-type medicine for wounds. It completely restores the HP of a single Pokémon.
 Max Potion,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A spray-type medicine for treating wounds. It will completely restore the max HP of a single Pokémon.
 Max Potion,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A spray-type medicine for treating wounds. It will completely restore the max HP of a single Pokémon.
-Max Potion,"['L.G. Pikachu', 'L.G. Eevee']",A spray-type medicine for treating wounds. It can be used to completely restore the max HP of a single Pokémon.
+Max Potion,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A spray-type medicine for treating wounds. It can be used to completely restore the max HP of a single Pokémon.
 Max Potion,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A spray-type medicine for treating wounds. It can be used to completely restore the max HP of a single Pokémon.
 Max Potion,"['Scarlet', 'Violet']",A spray-type medicine for treating wounds. It can be used to fully restore the max HP of a Pokémon.
 Max Repel,"['Ruby', 'Sapphire', 'Emerald']",Repels weak wild POKéMON for 250 steps.
@@ -2172,7 +2172,7 @@ Max Repel,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",An item 
 Max Repel,"['Black', 'White', 'Black 2', 'White 2']",An item that prevents weak wild Pokémon from appearing for 250 steps after its use.
 Max Repel,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item that prevents any low-level wild Pokémon from jumping out at you for 250 steps after its use.
 Max Repel,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item that prevents any low-level wild Pokémon from jumping out at you for a while. It lasts longer than Super Repel.
-Max Repel,"['L.G. Pikachu', 'L.G. Eevee']",An item that drives away wild Pokémon so you won’t encounter them. It lasts longer than a Super Repel.
+Max Repel,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",An item that drives away wild Pokémon so you won’t encounter them. It lasts longer than a Super Repel.
 Max Repel,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item that prevents any low-level wild Pokémon from jumping out at you for a while. It lasts longer than Super Repel.
 Max Repel,"['Scarlet', 'Violet']",An item that prevents low-level wild Pokémon from jumping out at you for a time. It lasts longer than Super Repel.
 Max Revive,"['Ruby', 'Sapphire', 'Emerald']",Revives a fainted POKéMON with all its HP.
@@ -2181,7 +2181,7 @@ Max Revive,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A medic
 Max Revive,"['Black', 'White', 'Black 2', 'White 2']",A medicine that revives a fainted Pokémon. It fully restores the Pokémon’s HP.
 Max Revive,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A medicine that can revive fainted Pokémon. It also fully restores a fainted Pokémon’s maximum HP.
 Max Revive,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A medicine that can revive fainted Pokémon. It also fully restores a fainted Pokémon’s maximum HP.
-Max Revive,"['L.G. Pikachu', 'L.G. Eevee']",A medicine that can be used to revive a single Pokémon that has fainted. It also fully restores the Pokémon’s max HP.
+Max Revive,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A medicine that can be used to revive a single Pokémon that has fainted. It also fully restores the Pokémon’s max HP.
 Max Revive,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A medicine that can be used to revive a single Pokémon that has fainted. It also fully restores the Pokémon’s max HP.
 Max Revive,"['Scarlet', 'Violet']",A medicine that can be used to revive a Pokémon that has fainted. It also fully restores the Pokémon’s max HP.
 Mayonnaise,"['Scarlet', 'Violet']",A condiment that packs a very tart punch yet pairs well with various ingredients.
@@ -2195,7 +2195,7 @@ Medichamite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mys
 Medichamite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Medicham hold it, and this stone will enable it to Mega Evolve during battle."
 Medichamite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Medicham hold it, and this stone will enable it to Mega Evolve during battle."
 Medichamite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Medicham hold it, and this stone will enable it to Mega Evolve during battle."
-Medicinal Leek,['Legends: Arceus'],Required for crafting medicinal compounds. This vegetable is found growing across the Hisui region and is also known as the wayfarer’s friend.
+Medicinal Leek,['Arceus'],Required for crafting medicinal compounds. This vegetable is found growing across the Hisui region and is also known as the wayfarer’s friend.
 Medicinal Leek,"['Scarlet', 'Violet']",Required for crafting medicinal compounds. This vegetable is found growing across the Hisui region and is also known as the wayfarer’s friend.
 Meditite Sweat,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Mental Herb,"['Ruby', 'Sapphire', 'Emerald']",A hold item that snaps POKéMON out of infatuation.
@@ -2240,12 +2240,12 @@ Mewnium Z,"['Brilliant Diamond', 'Shining Pearl']",This is a crystallized form o
 Mewnium Z,"['Scarlet', 'Violet']",This is a crystallized form of Z-Power. It upgrades Mew’s Psychic to a Z-Move.
 Mewtwonite X,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle."
 Mewtwonite X,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle."
-Mewtwonite X,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Mewtwo to Mega Evolve during battle.
+Mewtwonite X,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Mewtwo to Mega Evolve during battle.
 Mewtwonite X,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle."
 Mewtwonite X,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle."
 Mewtwonite Y,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle."
 Mewtwonite Y,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle."
-Mewtwonite Y,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Mewtwo to Mega Evolve during battle.
+Mewtwonite Y,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Mewtwo to Mega Evolve during battle.
 Mewtwonite Y,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle."
 Mewtwonite Y,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle."
 Micle Berry,"['Diamond', 'Pearl', 'Platinum']","A Poffin ingredient. If held by a Pokémon, it raises the accuracy of a move just once in a pinch."
@@ -2315,7 +2315,7 @@ Moon Stone,"['FireRed', 'LeafGreen']",A peculiar stone that makes certain specie
 Moon Stone,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.
 Moon Stone,"['Black', 'White', 'Black 2', 'White 2']",A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.
 Moon Stone,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky.
-Moon Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']",A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky.
+Moon Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky.
 Moon Stone,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky.
 Moon Stone,"['Scarlet', 'Violet']",A peculiar stone that can make certain species of Pokémon evolve. It is dark like the night sky.
 Mudbray Mud,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
@@ -2329,7 +2329,7 @@ Muscle Band,"['Scarlet', 'Violet']","An item to be held by a Pokémon. This head
 Muscle Feather,"['Black', 'White', 'Black 2', 'White 2']",An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.
 Muscle Feather,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.
 Muscle Feather,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.
-Mushroom Cake,['Legends: Arceus'],"A cake made by combining mushrooms with a Cake-Lure Base. These cakes are potently effective at attracting the more monstrous Pokémon, as well as dragon Pokémon."
+Mushroom Cake,['Arceus'],"A cake made by combining mushrooms with a Cake-Lure Base. These cakes are potently effective at attracting the more monstrous Pokémon, as well as dragon Pokémon."
 Mushroom Cake,"['Scarlet', 'Violet']",A recipe for crafting Mushroom Cakes from scratch. Required materials: 1 Springy Mushroom and 1 Cake-Lure Base.
 Mustard,"['Scarlet', 'Violet']",A very spicy condiment that’s indispensable when bread is on the table. It pairs tremendously with ketchup.
 Mysterious Shard L,"['Brilliant Diamond', 'Shining Pearl']","A large shard that emanates an enigmatic power. Inside the shard, you can see a pattern that looks like Ramanas roses."
@@ -2354,7 +2354,7 @@ Nanab Berry,"['HeartGold', 'SoulSilver']","In the Sinnoh region, they like to ma
 Nanab Berry,"['Black', 'White', 'Black 2', 'White 2']",A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 Nanab Berry,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A Berry to be used in cooking. This Berry is very rare and hard to obtain in the Unova region.
 Nanab Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Used to make Pokéblocks that will enhance your Cuteness. Its pink flesh is sweet when eaten.
-Nanab Berry,"['L.G. Pikachu', 'L.G. Eevee']",A Berry that calms wild Pokémon you’re trying to catch slightly when given to them.
+Nanab Berry,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A Berry that calms wild Pokémon you’re trying to catch slightly when given to them.
 Nanab Berry,"['Sword', 'Shield']",Used to make Pokéblocks that will enhance your Cuteness. Its pink flesh is sweet when eaten.
 Nanab Berry,"['Brilliant Diamond', 'Shining Pearl']",A Poffin ingredient. Bury it in soft soil to grow a Nanab Berry plant.
 Nanab Berry,"['Scarlet', 'Violet']",Used to make Pokéblocks that will enhance Cuteness. Its pink flesh is sweet if eaten.
@@ -2466,9 +2466,9 @@ Oran Berry,"['Scarlet', 'Violet']","If a Pokémon holds one of these Berries, it
 Orange Dish,"['Scarlet', 'Violet']",A dish for picnics. Comes in plenty of colors to choose from based on the food or the mood. The orange variety is the most popular of all.
 Oranguru Fur,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Oricorio Feather,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Origin Ball,['Legends: Arceus'],A singular and irreplicable Poké Ball that can be used to catch the frenzied Pokémon raging at the Temple of Sinnoh.
+Origin Ball,['Arceus'],A singular and irreplicable Poké Ball that can be used to catch the frenzied Pokémon raging at the Temple of Sinnoh.
 Origin Ball,"['Scarlet', 'Violet']",A singular and irreplicable Poké Ball that can be used to catch the frenzied Pokémon raging at the Temple of Sinnoh.
-Origin Ore,['Legends: Arceus'],"An ore of mysterious power, spoken of in ancient myths and said to contain the power of almighty Sinnoh itself."
+Origin Ore,['Arceus'],"An ore of mysterious power, spoken of in ancient myths and said to contain the power of almighty Sinnoh itself."
 Origin Ore,"['Scarlet', 'Violet']","An ore of mysterious power, spoken of in ancient myths and said to contain the power of almighty Sinnoh itself."
 Orthworm Tarnish,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Oval Charm,"['Black 2', 'White 2']",An oval charm said to increase the chance of Eggs being found at the Day Care.
@@ -2503,7 +2503,7 @@ Paralyze Heal,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A sp
 Paralyze Heal,"['Black', 'White', 'Black 2', 'White 2']",A spray-type medicine. It eliminates paralysis from a single Pokémon.
 Paralyze Heal,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A spray-type medicine for paralysis. It can be used once to free a Pokémon that has been paralyzed.
 Paralyze Heal,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A spray-type medicine for paralysis. It can be used once to free a Pokémon that has been paralyzed.
-Paralyze Heal,"['L.G. Pikachu', 'L.G. Eevee']",A spray-type medicine for treating paralysis. It can be used to free a single Pokémon that has been paralyzed.
+Paralyze Heal,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A spray-type medicine for treating paralysis. It can be used to free a single Pokémon that has been paralyzed.
 Paralyze Heal,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A spray-type medicine for treating paralysis. It can be used to free a single Pokémon that has been paralyzed.
 Paralyze Heal,"['Scarlet', 'Violet']",A spray-type medicine for treating paralysis. It can be used to free a Pokémon that has been paralyzed.
 Parasol Pick,"['Scarlet', 'Violet']","Some complain that the parasol part of this pick is hard to hold on to, so your fingers get messy. Still, it’s fun to twirl this all around after you’ve eaten."
@@ -2548,7 +2548,7 @@ Pearl,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A somewhat-s
 Pearl,"['Black', 'White', 'Black 2', 'White 2']",A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.
 Pearl,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A rather small pearl that has a very nice silvery sheen to it. It can be sold cheaply to shops.
 Pearl,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A rather small pearl that has a very nice silvery sheen to it. It can be sold cheaply to shops.
-Pearl,"['L.G. Pikachu', 'L.G. Eevee']",A rather small pearl that has a very nice silvery sheen to it. It can be sold at a low price to shops.
+Pearl,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A rather small pearl that has a very nice silvery sheen to it. It can be sold at a low price to shops.
 Pearl,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A rather small pearl that has a very nice silvery sheen to it. It can be sold at a low price to shops.
 Pearl,"['Scarlet', 'Violet']",A rather small pearl that has a nice silvery sheen to it. It can be sold at a low price to shops.
 Pearl String,"['Black', 'White']",Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price.
@@ -2557,7 +2557,7 @@ Pearl String,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",Very large pearls that
 Pearl String,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Very large pearls that sparkle in a pretty silver color. They can be sold at a high price to shops.
 Pearl String,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",Very large pearls that sparkle in a pretty silver color. They can be sold at a high price to shops.
 Pearl String,"['Scarlet', 'Violet']",Very large pearls that have a nice silvery sheen to them. They can be sold at a high price to shops.
-Peat Block,['Legends: Arceus'],A block of muddy material that can be used as fuel for burning when it is dried. It’s loved by a certain Pokémon.
+Peat Block,['Arceus'],A block of muddy material that can be used as fuel for burning when it is dried. It’s loved by a certain Pokémon.
 Peat Block,"['Scarlet', 'Violet']",A block of muddy material that can be used as fuel for burning when it is dried. It’s loved by a certain Pokémon.
 Pecha Berry,"['Ruby', 'Sapphire', 'Emerald']",A hold item that heals poisoning in battle.
 Pecha Berry,"['FireRed', 'LeafGreen']","When held by a POKéMON, it will be used in battle to cure poison."
@@ -2568,7 +2568,7 @@ Pecha Berry,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","A Berry to be consumed
 Pecha Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from poisoning on its own in battle."
 Pecha Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from poisoning on its own in battle."
 Pecha Berry,"['Scarlet', 'Violet']","If a Pokémon holds one of these Berries, it will be able to lift the effects of being poisoned from itself."
-Pep-Up Plant,['Legends: Arceus'],Extremely spicy but also highly nutritious. This herb is used as a material for crafting items that can restore PP to Pokémon or boost their stats.
+Pep-Up Plant,['Arceus'],Extremely spicy but also highly nutritious. This herb is used as a material for crafting items that can restore PP to Pokémon or boost their stats.
 Pep-Up Plant,"['Scarlet', 'Violet']",Extremely spicy but also highly nutritious. This herb is used as a material for crafting items that can restore PP to Pokémon or boost their stats.
 Pepper,"['Scarlet', 'Violet']",A seasoning packing very spicy flavor. It goes nicely with oilier foods and works especially well when you add just a pinch for a hint of flavor.
 Permit,"['Black 2', 'White 2']",A permit needed to enter the Nature Preserve. Only a few know about this place.
@@ -2595,7 +2595,7 @@ Petaya Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","A Berry to be consume
 Petaya Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A Berry to be consumed by Pokémon. If a Pokémon holds one, its Sp. Atk stat will increase when it’s in a pinch."
 Petaya Berry,"['Scarlet', 'Violet']","If a Pokémon holds one of these Berries, its Sp. Atk stat will be boosted should it find itself in a pinch."
 Petilil Leaf,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Pewter Crunchies,"['L.G. Pikachu', 'L.G. Eevee']",Pewter City’s famous crunchy snack. They can be used to heal all status conditions of a single Pokémon.
+Pewter Crunchies,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",Pewter City’s famous crunchy snack. They can be used to heal all status conditions of a single Pokémon.
 Pewter Crunchies,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",Pewter City’s famous crunchy snack. They can be used to heal all status conditions of a single Pokémon.
 Pewter Crunchies,"['Scarlet', 'Violet']",Pewter City’s famous crunchy snack. They can be used to cure any status condition a Pokémon may have.
 Phanpy Nail,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
@@ -2603,7 +2603,7 @@ Pichu Fur,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. I
 Pickle,"['Scarlet', 'Violet']",This very sour ingredient is made by pickling veggies in a flavorful brine made from spices and vinegar.
 Picnic Set,"['Scarlet', 'Violet']",A roomy basket packed with all sorts of things for use when enjoying picnicking with your Pokémon.
 Pidgeotite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Pidgeot hold it, and this stone will enable it to Mega Evolve during battle."
-Pidgeotite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Pidgeot to Mega Evolve during battle.
+Pidgeotite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Pidgeot to Mega Evolve during battle.
 Pidgeotite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Pidgeot hold it, and this stone will enable it to Mega Evolve during battle."
 Pidgeotite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Pidgeot hold it, and this stone will enable it to Mega Evolve during battle."
 Pika-Pika Pick,"['Scarlet', 'Violet']","A Pick-achu, as it were, sporting Pikachu’s usual expression. It’s easy to grab by the ears, which is part of why it’s so popular."
@@ -2622,7 +2622,7 @@ Pinap Berry,"['HeartGold', 'SoulSilver']","In the Sinnoh region, they like to ma
 Pinap Berry,"['Black', 'White', 'Black 2', 'White 2']",A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 Pinap Berry,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A Berry to be used in cooking. This Berry is very rare and hard to obtain in the Unova region.
 Pinap Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Used to make Pokéblocks that will enhance your Toughness. Its yellow flesh is sour when eaten.
-Pinap Berry,"['L.G. Pikachu', 'L.G. Eevee']",A Berry that makes you slightly more likely to get an item when it’s given to Pokémon you’re trying to catch.
+Pinap Berry,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A Berry that makes you slightly more likely to get an item when it’s given to Pokémon you’re trying to catch.
 Pinap Berry,"['Sword', 'Shield']",Used to make Pokéblocks that will enhance your Toughness. Its yellow flesh is sour when eaten.
 Pinap Berry,"['Brilliant Diamond', 'Shining Pearl']",A Poffin ingredient. Bury it in soft soil to grow a Pinap Berry plant.
 Pinap Berry,"['Scarlet', 'Violet']",Used to make Pokéblocks that will enhance Toughness. Its yellow flesh is sour if eaten.
@@ -2653,7 +2653,7 @@ Pink Scarf,"['Scarlet', 'Violet']","When a Pokémon holds this during a contest,
 Pink Tablecloth,"['Scarlet', 'Violet']","A simple pink tablecloth. It’s smooth and pleasant to the touch, and dishes can be placed on it with hardly a sound."
 Pinsirite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Pinsir hold it, and this stone will enable it to Mega Evolve during battle."
 Pinsirite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Pinsir hold it, and this stone will enable it to Mega Evolve during battle."
-Pinsirite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Pinsir to Mega Evolve during battle.
+Pinsirite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Pinsir to Mega Evolve during battle.
 Pinsirite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Pinsir hold it, and this stone will enable it to Mega Evolve during battle."
 Pinsirite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Pinsir hold it, and this stone will enable it to Mega Evolve during battle."
 Pixie Plate,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fairy-type moves.
@@ -2673,7 +2673,7 @@ Plume Fossil,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A fossil from a prehis
 Plume Fossil,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A fossil from a prehistoric Pokémon that once lived in the sky. It looks as if it could come from part of its wing.
 Plume Fossil,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A fossil from a prehistoric Pokémon that once lived in the sky. It looks as if it could come from part of its wing.
 Plume Fossil,"['Scarlet', 'Violet']",A fossil from a prehistoric Pokémon said to be an ancestor to modern bird Pokémon. It looks as if it could have come from part of some creature’s wing.
-Plump Beans,['Legends: Arceus'],"Large, juicy beans that grow in pods. These beans are beloved by fish Pokémon, as well as bird Pokémon and their flying ilk, so throw one and they will gather around."
+Plump Beans,['Arceus'],"Large, juicy beans that grow in pods. These beans are beloved by fish Pokémon, as well as bird Pokémon and their flying ilk, so throw one and they will gather around."
 Plump Beans,"['Scarlet', 'Violet']","Large, juicy beans that grow in pods. These beans are beloved by fish Pokémon, as well as bird Pokémon and their flying ilk, so throw one and they will gather around."
 Poison Barb,"['Ruby', 'Sapphire', 'Emerald']",A hold item that raises the power of POISON-type moves.
 Poison Barb,"['FireRed', 'LeafGreen']","An item to be held by a POKéMON. A small, poisonous barb that boosts the power of POISON-type moves."
@@ -2701,9 +2701,9 @@ Poké Ball,"['FireRed', 'LeafGreen']",A BALL thrown to catch a wild POKéMON. It
 Poké Ball,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
 Poké Ball,"['Black', 'White', 'Black 2', 'White 2']",A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
 Poké Ball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","A device for catching wild Pokémon. It’s thrown like a ball at a Pokémon, comfortably encapsulating its target."
-Poké Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']","A device for catching wild Pokémon. It’s thrown like a ball at a Pokémon, comfortably encapsulating its target."
+Poké Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']","A device for catching wild Pokémon. It’s thrown like a ball at a Pokémon, comfortably encapsulating its target."
 Poké Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A device for catching wild Pokémon. It’s thrown like a ball at a Pokémon, comfortably encapsulating its target."
-Poké Ball,['Legends: Arceus'],A mysterious ball that can be thrown at wild Pokémon in order to catch them. These balls can be crafted by hand if you gather the necessary materials.
+Poké Ball,['Arceus'],A mysterious ball that can be thrown at wild Pokémon in order to catch them. These balls can be crafted by hand if you gather the necessary materials.
 Poké Ball,"['Scarlet', 'Violet']","A device for catching wild Pokémon. It’s thrown like a ball at a Pokémon, comfortably encapsulating its target."
 Poké Doll,"['Ruby', 'Sapphire', 'Emerald']",Use to flee from any battle with a wild POKéMON.
 Poké Doll,"['FireRed', 'LeafGreen']",An attractive doll. Use it to flee from any battle with a wild POKéMON.
@@ -2718,7 +2718,7 @@ Poké Toy,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A toy that attracts the a
 Poké Toy,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A toy that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.
 Poké Toy,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A toy that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.
 Poké Toy,"['Scarlet', 'Violet']",A toy that attracts the attention of Pokémon. It guarantees escape from any battle with wild Pokémon.
-Polished Mud Ball,"['L.G. Pikachu', 'L.G. Eevee']",A ball made of mud. It had been polished for such a long time that the surface is very shiny.
+Polished Mud Ball,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A ball made of mud. It had been polished for such a long time that the surface is very shiny.
 Polished Mud Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A ball made of mud. It had been polished for such a long time that the surface is very shiny.
 Polished Mud Ball,"['Scarlet', 'Violet']",A ball made of mud. It had been polished for such a long time that the surface is very shiny.
 Polka-Dot Bottle,"['Scarlet', 'Violet']","A polka-dot-patterned bottle that’s small, light, and even comes with a cup. The detachable strap makes it handy for walking around with."
@@ -2734,7 +2734,7 @@ Pomeg Berry,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A Berry to be consumed 
 Pomeg Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its base HP.
 Pomeg Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its HP base points.
 Pomeg Berry,"['Scarlet', 'Violet']","If a Pokémon is fed this Berry, it will grow more friendly, but it will lose base points for its HP stat."
-Pop Pod,['Legends: Arceus'],"A sea vegetable used for crafting Scatter Bangs. If you wrap it up so that the air has no way to escape, then deal it a sharp blow, it produces a loud popping noise."
+Pop Pod,['Arceus'],"A sea vegetable used for crafting Scatter Bangs. If you wrap it up so that the air has no way to escape, then deal it a sharp blow, it produces a loud popping noise."
 Pop Pod,"['Scarlet', 'Violet']","A sea vegetable used for crafting Scatter Bangs. If you wrap it up so that the air has no way to escape, then deal it a sharp blow, it produces a loud popping noise."
 Potato Salad,"['Scarlet', 'Violet']",This very tart ingredient—a soft salad that’s all about potatoes—pairs tremendously well with bread.
 Potato Tortilla,"['Scarlet', 'Violet']",A very salty ingredient and a popular dish in Paldea. It’s undeniably filling.
@@ -2804,7 +2804,7 @@ PP Max,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",It maximall
 PP Max,"['Black', 'White', 'Black 2', 'White 2']",It maximally raises the top PP of a selected move that has been learned by the target Pokémon.
 PP Max,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A medicine that can optimally raise the maximum PP of a single move that has been learned by the target Pokémon.
 PP Max,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A medicine that can optimally raise the maximum PP of a single move that has been learned by the target Pokémon.
-PP Max,"['L.G. Pikachu', 'L.G. Eevee']",A medicine that optimally raises the maximum PP of a single selected move that has been learned by a Pokémon.
+PP Max,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A medicine that optimally raises the maximum PP of a single selected move that has been learned by a Pokémon.
 PP Max,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A medicine that optimally raises the max PP of a single selected move that has been learned by a Pokémon.
 PP Max,"['Scarlet', 'Violet']",A medicine that can be used to raise the max PP of a single move that a Pokémon knows as high as it can possibly go.
 PP Up,"['Ruby', 'Sapphire', 'Emerald']",Raises the maximum PP of a selected move.
@@ -2813,7 +2813,7 @@ PP Up,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",It slightly 
 PP Up,"['Black', 'White', 'Black 2', 'White 2']",It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.
 PP Up,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A medicine that can slightly raise the maximum PP of a single move that has been learned by the target Pokémon.
 PP Up,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A medicine that can slightly raise the maximum PP of a single move that has been learned by the target Pokémon.
-PP Up,"['L.G. Pikachu', 'L.G. Eevee']",A medicine that slightly raises the maximum PP of a single selected move that has been learned by a Pokémon.
+PP Up,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A medicine that slightly raises the maximum PP of a single selected move that has been learned by a Pokémon.
 PP Up,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A medicine that slightly raises the max PP of a single selected move that has been learned by a Pokémon.
 PP Up,"['Scarlet', 'Violet']",A medicine that can be used to slightly raise the max PP of a single move that a Pokémon knows.
 Precooked Burger,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of the many ingredients that can be used for cooking at your camp. If you’re unsure about what to cook, you can’t go wrong with some burger."
@@ -2823,12 +2823,12 @@ Premier Ball,"['FireRed', 'LeafGreen']",A rare BALL that has been specially made
 Premier Ball,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
 Premier Ball,"['Black', 'White', 'Black 2', 'White 2']",A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
 Premier Ball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A somewhat rare Poké Ball that was made as a commemorative item used to celebrate an event of some sort.
-Premier Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']",A somewhat rare Poké Ball that was made as a commemorative item used to celebrate an event of some sort.
+Premier Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A somewhat rare Poké Ball that was made as a commemorative item used to celebrate an event of some sort.
 Premier Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A somewhat rare Poké Ball that was made as a commemorative item used to celebrate an event of some sort.
 Premier Ball,"['Scarlet', 'Violet']",A somewhat rare Poké Ball made to commemorate a special occasion of some sort.
 Pretty Feather,"['Black', 'White', 'Black 2', 'White 2']","Though this feather is beautiful, it’s just a regular feather and has no effect on Pokémon."
 Pretty Feather,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","Though this feather is beautiful, it’s just a regular feather and has no effect on Pokémon."
-Pretty Feather,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']","Though this feather is beautiful, it’s just a regular feather and has no effect on Pokémon."
+Pretty Feather,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']","Though this feather is beautiful, it’s just a regular feather and has no effect on Pokémon."
 Primarium Z,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",It converts Z-Power into crystals that upgrade Primarina’s Sparkling Aria to an exclusive Z-Move.
 Primarium Z,"['Sword', 'Shield']",It converts Z-Power into crystals that upgrade Primarina’s Sparkling Aria to an exclusive Z-Move.
 Primarium Z,"['Brilliant Diamond', 'Shining Pearl']",This is a crystallized form of Z-Power. It upgrades Primarina’s Sparkling Aria to a Z-Move.
@@ -2995,7 +2995,7 @@ Razz Berry,"['HeartGold', 'SoulSilver']","In the Sinnoh region, they like to mak
 Razz Berry,"['Black', 'White', 'Black 2', 'White 2']",A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 Razz Berry,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A Berry to be used in cooking. This Berry is very rare and hard to obtain in the Unova region.
 Razz Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Used to make Pokéblocks that will enhance your Coolness. Its red flesh is spicy when eaten.
-Razz Berry,"['L.G. Pikachu', 'L.G. Eevee']",A Berry that makes it slightly easier to catch Pokémon when given to them.
+Razz Berry,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A Berry that makes it slightly easier to catch Pokémon when given to them.
 Razz Berry,"['Sword', 'Shield']",Used to make Pokéblocks that will enhance your Coolness. Its red flesh is spicy when eaten.
 Razz Berry,"['Brilliant Diamond', 'Shining Pearl']",A Poffin ingredient. Bury it in soft soil to grow a Razz Berry plant.
 Razz Berry,"['Scarlet', 'Violet']",Used to make Pokéblocks that will enhance Coolness. Its red flesh is spicy if eaten.
@@ -3088,7 +3088,7 @@ Relic Vase,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","A fragile vase made by 
 Relic Vase,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A fragile vase made by an ancient civilization about three thousand years ago.
 Relic Vase,"['Scarlet', 'Violet']",A vase made by an ancient civilization about three thousand years ago.
 Rellor Mud,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Remedy,['Legends: Arceus'],"An herbal medicine that can restore 60 HP to a Pokémon, just as a Potion does. Yet the bitter taste will make the Pokémon less friendly toward you."
+Remedy,['Arceus'],"An herbal medicine that can restore 60 HP to a Pokémon, just as a Potion does. Yet the bitter taste will make the Pokémon less friendly toward you."
 Remedy,"['Scarlet', 'Violet']","An herbal medicine that can restore 60 HP to a Pokémon, just as a Potion does. Yet the bitter taste will make the Pokémon less friendly toward you."
 Repeat Ball,"['Ruby', 'Sapphire', 'Emerald']",A BALL that works better on POKéMON caught before.
 Repeat Ball,"['FireRed', 'LeafGreen']",A somewhat different BALL that works especially well on POKéMON caught before.
@@ -3104,7 +3104,7 @@ Repel,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",An item that
 Repel,"['Black', 'White', 'Black 2', 'White 2']",An item that prevents weak wild Pokémon from appearing for 100 steps after its use.
 Repel,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item that prevents any low-level wild Pokémon from jumping out at you for 100 steps after its use.
 Repel,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item that prevents any low-level wild Pokémon from jumping out at you for a while.
-Repel,"['L.G. Pikachu', 'L.G. Eevee']",An item that drives away wild Pokémon so you won’t encounter them for a short time.
+Repel,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",An item that drives away wild Pokémon so you won’t encounter them for a short time.
 Repel,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item that prevents any low-level wild Pokémon from jumping out at you for a while.
 Repel,"['Scarlet', 'Violet']",An item that prevents low-level wild Pokémon from jumping out at you for a short time.
 Reset Urge,"['Black', 'White', 'Black 2', 'White 2']","When used, it restores any stat changes of an ally Pokémon."
@@ -3134,7 +3134,7 @@ Revive,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A medicine 
 Revive,"['Black', 'White', 'Black 2', 'White 2']",A medicine that revives a fainted Pokémon. It restores half the Pokémon’s maximum HP.
 Revive,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon’s maximum HP.
 Revive,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon’s maximum HP.
-Revive,"['L.G. Pikachu', 'L.G. Eevee']",A medicine that can be used to revive a single Pokémon that has fainted. It also restores half of the Pokémon’s max HP.
+Revive,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A medicine that can be used to revive a single Pokémon that has fainted. It also restores half of the Pokémon’s max HP.
 Revive,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A medicine that can be used to revive a single Pokémon that has fainted. It also restores half of the Pokémon’s max HP.
 Revive,"['Scarlet', 'Violet']",A medicine that can be used to revive a Pokémon that has fainted. It also restores half the Pokémon’s max HP.
 Ribbon Sweet,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A ribbon-shaped sweet. When a Milcery holds this, it spins around happily."
@@ -3291,10 +3291,10 @@ Salamencite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of 
 Salamencite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Salamence hold it, and this stone will enable it to Mega Evolve during battle."
 Salandit Gas,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Salt,"['Scarlet', 'Violet']","A very salty seasoning, unsurprisingly. People quite like the grains of salt that can be gathered from the footprints of particularly jagged Naclstack."
-Salt Cake,['Legends: Arceus'],"A cake made by combining salt with a Cake-Lure Base. These cakes are potently effective at attracting Pokémon that bear a resemblance to grass, plants, or minerals."
+Salt Cake,['Arceus'],"A cake made by combining salt with a Cake-Lure Base. These cakes are potently effective at attracting Pokémon that bear a resemblance to grass, plants, or minerals."
 Salt Cake,"['Scarlet', 'Violet']",A recipe for crafting Salt Cakes from scratch. Required materials: 1 hunk of Crunchy Salt and 1 Cake-Lure Base.
 Salty Herba Mystica,"['Scarlet', 'Violet']",One of the condiments spoken of as legends. Its mellow saltiness is said to be tremendously effective when it comes to promoting health.
-Sand Radish,['Legends: Arceus'],"This bitter root, originally native to sandy beaches, can now be raised even in frozen soil. It is pickled to make a sweet and spicy treat known as Twice-Spiced Radishes."
+Sand Radish,['Arceus'],"This bitter root, originally native to sandy beaches, can now be raised even in frozen soil. It is pickled to make a sweet and spicy treat known as Twice-Spiced Radishes."
 Sand Radish,"['Scarlet', 'Violet']","This bitter root, originally native to sandy beaches, can now be raised even in frozen soil. It is pickled to make a sweet and spicy treat known as Twice-Spiced Radishes."
 Sandile Claw,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Sandwich,"['Scarlet', 'Violet']","A dish made by sandwiching vegetables, meat, or other ingredients between two pieces of bread. It makes a fantastic meal when out on a picnic."
@@ -3304,7 +3304,7 @@ Sassy Mint,"['Scarlet', 'Violet']","Having a Pokémon smell this mint can make i
 Sausages,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",One of the many ingredients that can be used for cooking at your camp. These sausages should be boiled before eating.
 Sausages,"['Scarlet', 'Violet']",One of the many ingredients that can be used for cooking at your camp. These sausages should be boiled before eating.
 Scarlet Book,"['Scarlet', 'Violet']","A record of the expedition that the author, Heath, went on within the Great Crater of Paldea. The book has the name “Sada” written on it in clumsy handwriting."
-Scatter Bang,['Legends: Arceus'],"When thrown at the ground, these balls produce a loud noise and scare off weak Pokémon in the area, sending them running."
+Scatter Bang,['Arceus'],"When thrown at the ground, these balls produce a loud noise and scare off weak Pokémon in the area, sending them running."
 Scatter Bang,"['Scarlet', 'Violet']",A recipe for crafting Scatter Bangs from scratch. Required materials: 1 Pop Pod and 1 Caster Fern leaf.
 Scatterbug Powder,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Sceptilite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Sceptile hold it, and this stone will enable it to Mega Evolve during battle."
@@ -3334,7 +3334,7 @@ Sea Incense,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a
 Sea Incense,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. This incense has a curious aroma that boosts the power of Water-type moves.
 Sea Incense,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. This incense has a curious aroma that boosts the power of Water-type moves.
 Sea Incense,"['Scarlet', 'Violet']",An item to be held by a Pokémon. This incense has a curious aroma that boosts the power of the holder’s Water-type moves.
-Seed of Mastery,['Legends: Arceus'],A rare seed that can be given to the captain of the Security Corps to have a Pokémon master a move so it can be used in the agile style or strong style.
+Seed of Mastery,['Arceus'],A rare seed that can be given to the captain of the Security Corps to have a Pokémon master a move so it can be used in the agile style or strong style.
 Seed of Mastery,"['Scarlet', 'Violet']",A rare seed that can be given to the captain of the Security Corps to have a Pokémon master a move so it can be used in the agile style or strong style.
 Serious Mint,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","When a Pokémon smells this mint, all of its stats will grow at an equal rate."
 Serious Mint,"['Scarlet', 'Violet']","Having a Pokémon smell this mint will cause its Attack, Defense, Sp. Atk, Sp. Def, and Speed stats to grow at an equal rate."
@@ -3342,7 +3342,7 @@ Seviper Fang,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon
 Shaderoot Carrot,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",Produce that the King of Bountiful Harvests’ beloved steed likes to eat. It grew in a gloomy field.
 Shaderoot Carrot,"['Scarlet', 'Violet']",Produce that the King of Bountiful Harvests’ beloved steed likes to eat. It grew in a gloomy field.
 Shalour Sable,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",Shalour City’s famous shortbread. It can be used once to heal all the status conditions of a Pokémon.
-Shalour Sable,"['L.G. Pikachu', 'L.G. Eevee']",The Kalos region’s famous shortbread. It can be used to heal all the status conditions of a single Pokémon.
+Shalour Sable,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",The Kalos region’s famous shortbread. It can be used to heal all the status conditions of a single Pokémon.
 Shalour Sable,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",Shalour City’s famous shortbread. It can be used once to heal all the status conditions of a Pokémon.
 Shalour Sable,"['Scarlet', 'Violet']",Shalour City’s famous shortbread. It can be used to cure any status condition a Pokémon may have.
 Sharp Beak,"['Ruby', 'Sapphire', 'Emerald']",A hold item that raises the power of FLYING-type moves.
@@ -3427,14 +3427,14 @@ Silk Scarf,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item t
 Silk Scarf,"['Scarlet', 'Violet']",An item to be held by a Pokémon. It’s a sumptuous scarf that boosts the power of the holder’s Normal-type moves.
 Silver Bottle,"['Scarlet', 'Violet']","A popular option among hikers. It’s made with titanium, so it doesn’t rust even if it’s used to hold drinks with high sodium content."
 Silver Cup,"['Scarlet', 'Violet']","A popular option among hikers. It’s made with titanium, so it doesn’t rust even if it’s used to hold drinks with high sodium content."
-Silver Leaf,"['L.G. Pikachu', 'L.G. Eevee']",A mysterious silver leaf. No trees with this leaf have been found yet.
+Silver Leaf,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A mysterious silver leaf. No trees with this leaf have been found yet.
 Silver Leaf,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A mysterious silver leaf. No trees with this leaf have been found yet.
 Silver Leaf,"['Scarlet', 'Violet']",A mysterious silver leaf. No trees with this leaf have been found yet.
-Silver Nanab Berry,"['L.G. Pikachu', 'L.G. Eevee']",A Berry that calms wild Pokémon you’re trying to catch when given to them.
+Silver Nanab Berry,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A Berry that calms wild Pokémon you’re trying to catch when given to them.
 Silver Nanab Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Berry that calms wild Pokémon you’re trying to catch when given to them.
 Silver Nanab Berry,"['Scarlet', 'Violet']",A Berry that calms Pokémon you’re trying to catch when given to them.
 Silver Pick,"['Scarlet', 'Violet']","A silver pick that oozes class. Using it on a sandwich lends an extravagant air that’ll make you want to eat up, even if you don’t love the fillings."
-Silver Pinap Berry,"['L.G. Pikachu', 'L.G. Eevee']",A Berry that makes you more likely to get an item when given to Pokémon you’re trying to catch.
+Silver Pinap Berry,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A Berry that makes you more likely to get an item when given to Pokémon you’re trying to catch.
 Silver Pinap Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Berry that makes you more likely to get an item when given to Pokémon you’re trying to catch.
 Silver Pinap Berry,"['Scarlet', 'Violet']",A Berry that makes you more likely to get an item when given to Pokémon you’re trying to catch.
 Silver Powder,"['Ruby', 'Sapphire', 'Emerald']",A hold item that raises the power of BUG-type moves.
@@ -3446,7 +3446,7 @@ Silver Powder,"['Sun', 'Moon']","An item to be held by a Pokémon. It’s a shin
 Silver Powder,"['Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. It’s a shiny silver powder that will boost the power of Bug-type moves.
 Silver Powder,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. It’s a shiny silver powder that will boost the power of Bug-type moves.
 Silver Powder,"['Scarlet', 'Violet']",An item to be held by a Pokémon. It’s a shiny silver powder that boosts the power of the holder’s Bug-type moves.
-Silver Razz Berry,"['L.G. Pikachu', 'L.G. Eevee']",A Berry that makes it easier to catch Pokémon when given to them.
+Silver Razz Berry,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A Berry that makes it easier to catch Pokémon when given to them.
 Silver Razz Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A Berry that makes it easier to catch Pokémon when given to them.
 Silver Razz Berry,"['Scarlet', 'Violet']",A Berry that makes it easier to catch Pokémon when given to them.
 Sinistea Chip,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
@@ -3474,16 +3474,16 @@ Sky Plate,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a P
 Sky Plate,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Flying-type moves.
 Sky Plate,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Flying-type moves.
 Sky Plate,"['Scarlet', 'Violet']",An item to be held by a Pokémon. This stone tablet is imbued with the essence of flight and boosts the power of the holder’s Flying-type moves.
-Sky Tumblestone,['Legends: Arceus'],"When combined with an Apricorn, this mysterious sky-blue stone can draw out the properties required to forge a Feather Ball."
+Sky Tumblestone,['Arceus'],"When combined with an Apricorn, this mysterious sky-blue stone can draw out the properties required to forge a Feather Ball."
 Sky Tumblestone,"['Scarlet', 'Violet']","When combined with an Apricorn, this mysterious sky-blue stone can draw out the properties required to forge a Feather Ball."
 Slakoth Fur,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Slowbronite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Slowbro hold it, and this stone will enable it to Mega Evolve during battle."
-Slowbronite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Slowbro to Mega Evolve during battle.
+Slowbronite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Slowbro to Mega Evolve during battle.
 Slowbronite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Slowbro hold it, and this stone will enable it to Mega Evolve during battle."
 Slowbronite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Slowbro hold it, and this stone will enable it to Mega Evolve during battle."
 Slowpoke Claw,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Slowpoke Cup,"['Scarlet', 'Violet']","A cup for big-time Pokémon fans. Kids will happily drink out of it, making it a boon to parents."
-Small Bouquet,"['L.G. Pikachu', 'L.G. Eevee']",A small bouquet that was made with heart and soul for a single Trainer.
+Small Bouquet,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A small bouquet that was made with heart and soul for a single Trainer.
 Small Bouquet,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A small bouquet that was made with heart and soul for a single Trainer.
 Small Bouquet,"['Scarlet', 'Violet']",A small bouquet that was made with heart and soul for a single Trainer.
 Smart Candy,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Sp. Atk stat."
@@ -3502,7 +3502,7 @@ Smoke Ball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a 
 Smoke Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon encounter without fail.
 Smoke Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon encounter without fail.
 Smoke Ball,"['Scarlet', 'Violet']",An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon encounter without fail.
-Smoke Bomb,['Legends: Arceus'],"When thrown at the ground, these balls produce a cloud of fine powder that will reduce visibility in the area and keep wild Pokémon from noticing you."
+Smoke Bomb,['Arceus'],"When thrown at the ground, these balls produce a cloud of fine powder that will reduce visibility in the area and keep wild Pokémon from noticing you."
 Smoke Bomb,"['Scarlet', 'Violet']",A recipe for crafting Smoke Bombs from scratch. Required materials: 1 Caster Fern leaf and 1 Sootfoot Root.
 Smoke-Poke Tail,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of the many ingredients that can be used for cooking at your camp. When a Slowpoke’s tail falls off, it grows back quickly."
 Smoke-Poke Tail,"['Scarlet', 'Violet']","One of the many ingredients that can be used for cooking at your camp. When a Slowpoke’s tail falls off, it grows back quickly."
@@ -3526,7 +3526,7 @@ Snover Berries,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokém
 Snowball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a Pokémon. It boosts Attack if hit with an Ice-type attack. It can only be used once.
 Snowball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. It boosts Attack if hit with an Ice-type attack. It can only be used once.
 Snowball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. It boosts Attack if the holder is hit with an Ice-type attack. It can only be used once.
-Snowball,['Legends: Arceus'],"A hard ball made of compressed snow. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act."
+Snowball,['Arceus'],"A hard ball made of compressed snow. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act."
 Snowball,"['Scarlet', 'Violet']",An item to be held by a Pokémon. This single-use ball of snow boosts the Attack stat if the holder is damaged by an Ice-type move.
 Soda Pop,"['Ruby', 'Sapphire', 'Emerald']",A fizzy soda drink that restores HP by 60 points.
 Soda Pop,"['FireRed', 'LeafGreen']",A fizzy soda drink. It restores the HP of one POKéMON by 60 points.
@@ -3534,7 +3534,7 @@ Soda Pop,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A fizzy s
 Soda Pop,"['Black', 'White', 'Black 2', 'White 2']",A fizzy soda drink. It restores the HP of one Pokémon by 60 points.
 Soda Pop,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","A highly carbonated soda drink. When consumed, it restores 60 HP to an injured Pokémon."
 Soda Pop,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","A highly carbonated soda drink. When consumed, it restores up to 50 HP to an injured Pokémon."
-Soda Pop,"['L.G. Pikachu', 'L.G. Eevee']",A highly carbonated soda drink. It can be used to restore 50 HP to a single Pokémon.
+Soda Pop,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A highly carbonated soda drink. It can be used to restore 50 HP to a single Pokémon.
 Soda Pop,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A highly carbonated soda drink. It can be used to restore 50 HP to a single Pokémon.
 Soda Pop,"['Scarlet', 'Violet']",A highly carbonated soda drink. It can be used to restore 50 HP to a Pokémon.
 Soft Sand,"['Ruby', 'Sapphire', 'Emerald']",A hold item that raises the power of GROUND-type moves.
@@ -3549,7 +3549,7 @@ Solganium Z,"['Ultra Sun', 'Ultra Moon']",It converts Z-Power into crystals that
 Solganium Z,"['Sword', 'Shield']",It converts Z-Power into crystals that upgrade Solgaleo’s Sunsteel Strike to an exclusive Z-Move.
 Solganium Z,"['Brilliant Diamond', 'Shining Pearl']",This is a crystallized form of Z-Power. It upgrades Solgaleo’s Sunsteel Strike to a Z-Move.
 Solganium Z,"['Scarlet', 'Violet']",This is a crystallized form of Z-Power. It upgrades Solgaleo’s Sunsteel Strike to a Z-Move.
-Sootfoot Root,['Legends: Arceus'],"A tuber used for crafting Smoke Bombs. It can be mashed for use in cooking, but it can also be dried and ground to produce a fine powder."
+Sootfoot Root,['Arceus'],"A tuber used for crafting Smoke Bombs. It can be mashed for use in cooking, but it can also be dried and ground to produce a fine powder."
 Sootfoot Root,"['Scarlet', 'Violet']","A tuber used for crafting Smoke Bombs. It can be mashed for use in cooking, but it can also be dried and ground to produce a fine powder."
 Soothe Bell,"['Ruby', 'Sapphire', 'Emerald']",A hold item that calms spirits and fosters friendship.
 Soothe Bell,"['FireRed', 'LeafGreen']",An item to be held by a POKéMON. A bell with a comforting chime that makes the holder calm and friendly.
@@ -3599,7 +3599,7 @@ Splash Plate,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by 
 Splash Plate,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Water-type moves.
 Splash Plate,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Water-type moves.
 Splash Plate,"['Scarlet', 'Violet']",An item to be held by a Pokémon. This stone tablet is imbued with the essence of water and boosts the power of the holder’s Water-type moves.
-Spoiled Apricorn,['Legends: Arceus'],"An Apricorn that’s had its insides eaten. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act."
+Spoiled Apricorn,['Arceus'],"An Apricorn that’s had its insides eaten. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act."
 Spoiled Apricorn,"['Scarlet', 'Violet']","An Apricorn that’s had its insides eaten. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act."
 Spoink Pearl,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Spooky Plate,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ghost-type moves.
@@ -3615,7 +3615,7 @@ Sport Ball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A special Poké Ball tha
 Sport Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A special Poké Ball that is used during the Bug-Catching Contest.
 Sport Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A special Poké Ball that is used during the Bug-Catching Contest.
 Sport Ball,"['Scarlet', 'Violet']",A special Poké Ball that was used during the Bug-Catching Contest in the Johto region.
-Springy Mushroom,['Legends: Arceus'],"A large and well-ripened mushroom. It is beloved by the more monstrous Pokémon, as well as dragon Pokémon, so they will gather wherever one is thrown."
+Springy Mushroom,['Arceus'],"A large and well-ripened mushroom. It is beloved by the more monstrous Pokémon, as well as dragon Pokémon, so they will gather wherever one is thrown."
 Springy Mushroom,"['Scarlet', 'Violet']","A large and well-ripened mushroom. It is beloved by the more monstrous Pokémon, as well as dragon Pokémon, so they will gather wherever one is thrown."
 Sprinklotad,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","A watering can shaped like a Lotad. It helps promote the healthy growth of any Berries planted in good, soft soil."
 Sprinklotad,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","A watering can shaped like a Lotad. It helps promote the healthy growth of any Berries planted in good, soft soil."
@@ -3638,7 +3638,7 @@ Star Piece,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A shard
 Star Piece,"['Black', 'White', 'Black 2', 'White 2']",A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.
 Star Piece,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A small shard of a beautiful gem that demonstrates a distinctly red sparkle. It can be sold at a high price to shops.
 Star Piece,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A small shard of a beautiful gem that demonstrates a distinctly red sparkle. It can be sold at a high price to shops.
-Star Piece,"['L.G. Pikachu', 'L.G. Eevee']",A small shard of a beautiful gem that gives off a distinctly red sparkle. It can be sold at a high price to shops.
+Star Piece,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A small shard of a beautiful gem that gives off a distinctly red sparkle. It can be sold at a high price to shops.
 Star Piece,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A small shard of a beautiful gem that gives off a distinctly red sparkle. It can be sold at a high price to shops.
 Star Piece,"['Scarlet', 'Violet']",A small shard of a beautiful gem that gives off a distinctly red sparkle. It can be sold at a high price to shops.
 Star Sweet,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A star-shaped sweet. When a Milcery holds this, it spins around happily."
@@ -3661,7 +3661,7 @@ Starf Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","A Berry to be consumed
 Starf Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A Berry to be consumed by Pokémon. If a Pokémon holds one, one of its stats will sharply increase when it’s in a pinch."
 Starf Berry,"['Scarlet', 'Violet']","If a Pokémon holds one of these Berries, one of its stats will be sharply boosted should it find itself in a pinch."
 Starly Feather,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Stealth Spray,['Legends: Arceus'],"When used in the field, this spray muffles the sound of your footsteps and makes wild Pokémon less likely to notice you for a short time."
+Stealth Spray,['Arceus'],"When used in the field, this spray muffles the sound of your footsteps and makes wild Pokémon less likely to notice you for a short time."
 Stealth Spray,"['Scarlet', 'Violet']",A recipe for crafting Stealth Sprays from scratch. Required materials: 1 Hopo Berry and 3 Bugwort blooms.
 Steel Bottle (B),"['Scarlet', 'Violet']","A go-to bottle sometimes used while camping. The stainless steel keeps the temperature inside steady, making it great for keeping drinks hot or cold."
 Steel Bottle (R),"['Scarlet', 'Violet']","A go-to bottle sometimes used while camping. The stainless steel keeps the temperature inside steady, making it great for keeping drinks hot or cold."
@@ -3689,7 +3689,7 @@ Sticky Barb,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item to be held by a
 Sticky Barb,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item to be held by a Pokémon. It damages the holder every turn and may latch on to Pokémon that touch the holder.
 Sticky Barb,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item to be held by a Pokémon. It damages the holder every turn and may latch on to Pokémon that touch the holder.
 Sticky Barb,"['Scarlet', 'Violet']",An item to be held by a Pokémon. It damages the holder every turn and may latch on to Pokémon that make direct contact with the holder.
-Sticky Glob,['Legends: Arceus'],"A ball of some kind of sticky substance. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act."
+Sticky Glob,['Arceus'],"A ball of some kind of sticky substance. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act."
 Sticky Glob,"['Scarlet', 'Violet']","A recipe for crafting Sticky Globs from scratch. Required materials: 1 Spoiled Apricorn, 1 Ball of Mud, and 1 Caster Fern leaf."
 Stone Plate,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",An item to be held by a Pokémon. It is a stone tablet that boosts the power of Rock-type moves.
 Stone Plate,"['Black', 'White', 'Black 2', 'White 2']",An item to be held by a Pokémon. It is a stone tablet that boosts the power of Rock-type moves.
@@ -3716,7 +3716,7 @@ Stratospheric Slate,"['Scarlet', 'Violet']",A slate overflowing with enigmatic e
 Strawberry,"['Scarlet', 'Violet']","A very tart and sweet ingredient, popular for its ability to make a sandwich visually striking."
 Strawberry Sweet,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily."
 Strawberry Sweet,"['Scarlet', 'Violet']","A strawberry-shaped sweet. When a Milcery holds this, it spins around happily."
-Stretchy Spring,"['L.G. Pikachu', 'L.G. Eevee']","A thin small spring. It’s totally stretched out, and what it’s used for is unknown."
+Stretchy Spring,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']","A thin small spring. It’s totally stretched out, and what it’s used for is unknown."
 Stretchy Spring,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","A thin small spring. It’s totally stretched out, and what it’s used for is unknown."
 Stretchy Spring,"['Scarlet', 'Violet']","A thin small spring. It’s totally stretched out, and what it’s used for is unknown."
 Striped Bottle,"['Scarlet', 'Violet']","A striped bottle that’s small, light, and even comes with a cup. The detachable strap makes it handy for walking around with."
@@ -3734,7 +3734,7 @@ Sun Stone,"['Scarlet', 'Violet']",A peculiar stone that can make certain species
 Sunkern Leaf,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Sunrise Flower Pick,"['Scarlet', 'Violet']",A flower pick designed to evoke a glorious sunrise. It’s part of a line of “sky-flower” picks. Using a few is guaranteed to boost that special picnic spirit.
 Sunset Flower Pick,"['Scarlet', 'Violet']",A flower pick designed to evoke a blazing sunset. It’s part of a line of “sky-flower” picks. Using a few is guaranteed to boost that special picnic spirit.
-Super Lure,"['L.G. Pikachu', 'L.G. Eevee']",A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Lure.
+Super Lure,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Lure.
 Super Lure,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Lure.
 Super Lure,"['Scarlet', 'Violet']",A bottle of perfume that makes rare Pokémon more likely to appear when sprayed about. Its effect lasts longer than that of a Lure.
 Super Potion,"['Ruby', 'Sapphire', 'Emerald']",Restores the HP of a POKéMON by 50 points.
@@ -3751,7 +3751,7 @@ Super Repel,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",An ite
 Super Repel,"['Black', 'White', 'Black 2', 'White 2']",An item that prevents weak wild Pokémon from appearing for 200 steps after its use.
 Super Repel,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item that prevents any low-level wild Pokémon from jumping out at you for 200 steps after its use.
 Super Repel,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item that prevents any low-level wild Pokémon from jumping out at you for a while. It lasts longer than Repel.
-Super Repel,"['L.G. Pikachu', 'L.G. Eevee']",An item that drives away wild Pokémon so you won’t encounter them. It lasts longer than a Repel.
+Super Repel,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",An item that drives away wild Pokémon so you won’t encounter them. It lasts longer than a Repel.
 Super Repel,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item that prevents any low-level wild Pokémon from jumping out at you for a while. It lasts longer than Repel.
 Super Repel,"['Scarlet', 'Violet']",An item that prevents low-level wild Pokémon from jumping out at you for a time. It lasts longer than Repel.
 Surskit Syrup,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
@@ -3759,7 +3759,7 @@ Swablu Fluff,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon
 Swampertite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Swampert hold it, and this stone will enable it to Mega Evolve during battle."
 Swampertite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Swampert hold it, and this stone will enable it to Mega Evolve during battle."
 Swampertite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Swampert hold it, and this stone will enable it to Mega Evolve during battle."
-Swap Snack,['Legends: Arceus'],"When eaten, this curious snack temporarily swaps a Pokémon’s offensive stats with its defensive stats."
+Swap Snack,['Arceus'],"When eaten, this curious snack temporarily swaps a Pokémon’s offensive stats with its defensive stats."
 Swap Snack,"['Scarlet', 'Violet']","When eaten, this curious snack temporarily swaps a Pokémon’s offensive stats with its defensive stats."
 Sweet Apple,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally sweet.
 Sweet Apple,"['Scarlet', 'Violet']",A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally sweet.
@@ -3773,7 +3773,7 @@ Sweet Herba Mystica,"['Scarlet', 'Violet']",A legendary condiment told of only i
 Swift Feather,"['Black', 'White', 'Black 2', 'White 2']",An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.
 Swift Feather,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.
 Swift Feather,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.
-Swordcap,['Legends: Arceus'],"Mushrooms that, when consumed, cause the muscles to swell. They imbue the eater with strength and are one of the materials needed for crafting Aux Powers."
+Swordcap,['Arceus'],"Mushrooms that, when consumed, cause the muscles to swell. They imbue the eater with strength and are one of the materials needed for crafting Aux Powers."
 Swordcap,"['Scarlet', 'Violet']","Mushrooms that, when consumed, cause the muscles to swell. They imbue the eater with strength and are one of the materials needed for crafting Aux Powers."
 Tadbulb Mucus,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Tamato Berry,"['Ruby', 'Sapphire']",POKéBLOCK ingredient. Plant in loamy soil to grow TAMATOmega 
@@ -3826,7 +3826,7 @@ Thunder Stone,"['FireRed', 'LeafGreen']",A peculiar stone that makes certain spe
 Thunder Stone,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.
 Thunder Stone,"['Black', 'White', 'Black 2', 'White 2']",A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.
 Thunder Stone,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern.
-Thunder Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']",A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern.
+Thunder Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern.
 Thunder Stone,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern.
 Thunder Stone,"['Scarlet', 'Violet']",A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern.
 Timer Ball,"['Ruby', 'Sapphire']",More effective as more turns are taken in battle.
@@ -3851,7 +3851,7 @@ Tiny Mushroom,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",A sm
 Tiny Mushroom,"['Black', 'White', 'Black 2', 'White 2']",A small and rare mushroom. It is sought after by collectors.
 Tiny Mushroom,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A very small and rare mushroom. It’s popular with a certain class of collectors and sought out by them.
 Tiny Mushroom,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']",A very small and rare mushroom. It’s popular with a certain class of collectors and sought out by them.
-Tiny Mushroom,"['L.G. Pikachu', 'L.G. Eevee']",A very small and rare mushroom. It’s popular with a certain class of collectors.
+Tiny Mushroom,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A very small and rare mushroom. It’s popular with a certain class of collectors.
 Tiny Mushroom,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A very small and rare mushroom. It’s popular with a certain class of collectors.
 Tiny Mushroom,"['Scarlet', 'Violet']",A small and rare mushroom. It’s quite popular with a certain class of collectors.
 TM00,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",The target is slugged by a punch thrown with muscle-packed power.
@@ -5414,13 +5414,13 @@ TR98,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",The user slams 
 TR98,"['Scarlet', 'Violet']",The user slams into the target using a full-force blast of water. This may also lower the target’s Defense stat.
 TR99,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","The user attacks by slamming its body into the target. The higher the user’s Defense, the more damage it can inflict on the target."
 TR99,"['Scarlet', 'Violet']","The user attacks by slamming its body into the target. The higher the user’s Defense, the more damage it can inflict on the target."
-Tropical Shell,"['L.G. Pikachu', 'L.G. Eevee']",A beautiful white shell that may have drifted from a sea in a warm region.
+Tropical Shell,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A beautiful white shell that may have drifted from a sea in a warm region.
 Tropical Shell,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A beautiful white shell that may have drifted from a sea in a warm region.
 Tropical Shell,"['Scarlet', 'Violet']",A beautiful white shell that may have drifted from a sea in a warm region.
 Tropius Leaf,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
-Tumblestone,['Legends: Arceus'],"When combined with an Apricorn, this mysterious, tumbled stone can draw out the properties required to forge a Poké Ball."
+Tumblestone,['Arceus'],"When combined with an Apricorn, this mysterious, tumbled stone can draw out the properties required to forge a Poké Ball."
 Tumblestone,"['Scarlet', 'Violet']","When combined with an Apricorn, this mysterious tumbled stone can draw out the properties required to forge a Poké Ball."
-Twice-Spiced Radish,['Legends: Arceus'],"These pickled vegetables prime a Pokémon for battle. The Pokémon takes a hard-hitting stance, which boosts the power of the Pokémon’s moves by 50 percent."
+Twice-Spiced Radish,['Arceus'],"These pickled vegetables prime a Pokémon for battle. The Pokémon takes a hard-hitting stance, which boosts the power of the Pokémon’s moves by 50 percent."
 Twice-Spiced Radish,"['Scarlet', 'Violet']","These pickled vegetables prime a Pokémon for battle. The Pokémon takes a hard-hitting stance, which boosts the damage dealt by its moves by 50 percent."
 Twisted Spoon,"['Ruby', 'Sapphire', 'Emerald']",A hold item that boosts PSYCHIC-type moves.
 Twisted Spoon,"['FireRed', 'LeafGreen']",An item to be held by a POKéMON. A spoon imbued with telekinetic power boosts PSYCHIC-type moves.
@@ -5440,9 +5440,9 @@ Ultra Ball,"['FireRed', 'LeafGreen']",A very high-grade BALL that offers a highe
 Ultra Ball,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']",An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.
 Ultra Ball,"['Black', 'White', 'Black 2', 'White 2']",An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.
 Ultra Ball,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.
-Ultra Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']",An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.
+Ultra Ball,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.
 Ultra Ball,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.
-Ultra Ball,['Legends: Arceus'],A mysterious ball that provides an even higher success rate for catching Pokémon than a Great Ball does.
+Ultra Ball,['Arceus'],A mysterious ball that provides an even higher success rate for catching Pokémon than a Great Ball does.
 Ultra Ball,"['Scarlet', 'Violet']",An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.
 Ultranecrozium Z,"['Ultra Sun', 'Ultra Moon']",It’s a crystal that turns Necrozma fused with Solgaleo or Lunala into a new form.
 Ultranecrozium Z,"['Sword', 'Shield']",It’s a crystal that turns Necrozma fused with Solgaleo or Lunala into a new form.
@@ -5464,12 +5464,12 @@ Veluza Fillet,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémo
 Venonat Fang,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Venusaurite,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","One variety of the mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle."
 Venusaurite,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","One of a variety of mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle."
-Venusaurite,"['L.G. Pikachu', 'L.G. Eevee']",One of a variety of mysterious Mega Stones. This stone will enable Venusaur to Mega Evolve during battle.
+Venusaurite,"['Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",One of a variety of mysterious Mega Stones. This stone will enable Venusaur to Mega Evolve during battle.
 Venusaurite,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","One of a variety of mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle."
 Venusaurite,"['Scarlet', 'Violet']","One of a variety of mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle."
 Vinegar,"['Scarlet', 'Violet']",A very sour condiment. Vinegars derived from grapes are popular in Paldea. Highly effective when used to add just a light note of flavor.
 Violet Book,"['Scarlet', 'Violet']","A record of the expedition that the author, Heath, went on within the Great Crater of Paldea. The book has the name “Turo” written on it in clumsy handwriting."
-Vivichoke,['Legends: Arceus'],Also called a morning-dew bud. It is used as a material for crafting items that can restore vitality to a Pokémon that has fainted.
+Vivichoke,['Arceus'],Also called a morning-dew bud. It is used as a material for crafting items that can restore vitality to a Pokémon that has fainted.
 Vivichoke,"['Scarlet', 'Violet']",Also called a morning-dew bud. It is used as a material for crafting items that can restore vitality to a Pokémon that has fainted.
 Voltorb Sparks,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Wacan Berry,"['Diamond', 'Pearl', 'Platinum']","A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Electric-type attack."
@@ -5493,7 +5493,7 @@ Water Stone,"['FireRed', 'LeafGreen']",A peculiar stone that makes certain speci
 Water Stone,"['Diamond', 'Pearl', 'Platinum', 'HeartGold', 'SoulSilver']","A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue."
 Water Stone,"['Black', 'White', 'Black 2', 'White 2']","A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue."
 Water Stone,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']",A peculiar stone that can make certain species of Pokémon evolve. It is the blue of a pool of clear water.
-Water Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'L.G. Pikachu', 'L.G. Eevee']",A peculiar stone that can make certain species of Pokémon evolve. It is the blue of a pool of clear water.
+Water Stone,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon', 'Let\'s Go Pikachu!', 'Let\'s Go Eevee!']",A peculiar stone that can make certain species of Pokémon evolve. It is the blue of a pool of clear water.
 Water Stone,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",A peculiar stone that can make certain species of Pokémon evolve. It is the blue of a pool of clear water.
 Water Stone,"['Scarlet', 'Violet']",A peculiar stone that can make certain species of Pokémon evolve. It is the clear blue of a deep pool.
 Water Tera Shard,"['Scarlet', 'Violet']","On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters."
@@ -5578,7 +5578,7 @@ Wiki Berry,"['X', 'Y', 'Omega Ruby', 'Alpha Sapphire']","If held by a Pokémon, 
 Wiki Berry,"['Sun', 'Moon', 'Ultra Sun', 'Ultra Moon']","If held by a Pokémon, it restores the user’s HP in a pinch, but it will cause confusion if the user hates the taste."
 Wiki Berry,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']","If held by a Pokémon, it restores the user’s HP in a pinch, but it will cause confusion if the user hates the taste."
 Wiki Berry,"['Scarlet', 'Violet']","If a Pokémon holds one of these Berries, it will be able to restore some HP should it find itself in a pinch. But it will become confused if it hates the Berry’s taste."
-Wing Ball,['Legends: Arceus'],An improvement on the original Feather Ball design. A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.
+Wing Ball,['Arceus'],An improvement on the original Feather Ball design. A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.
 Wing Ball,"['Scarlet', 'Violet']",An improvement on the original Feather Ball design. A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.
 Wingull Feather,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 Winking Pika Pick,"['Scarlet', 'Violet']","A Pick-achu, if you will, sporting Pikachu’s winking face. It’s easy to grab by the ears, which is part of why it’s so popular."
@@ -5590,7 +5590,7 @@ Wise Glasses,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",An item
 Wise Glasses,"['Scarlet', 'Violet']",An item to be held by a Pokémon. This thick pair of glasses slightly boosts the power of the holder’s special moves.
 Wishing Piece,"['Sword', 'Shield', 'Brilliant Diamond', 'Shining Pearl']",Throw one into a Pokémon Den to attract a wild Dynamax Pokémon.
 Wishing Piece,"['Scarlet', 'Violet']",Throw one into a Pokémon Den to attract a wild Dynamax Pokémon.
-Wood,['Legends: Arceus'],"A handy log of wood that can be used for anything, from crafting common goods needed for daily living to producing works of art."
+Wood,['Arceus'],"A handy log of wood that can be used for anything, from crafting common goods needed for daily living to producing works of art."
 Wood,"['Scarlet', 'Violet']","A handy log of wood that can be used for anything, from crafting common goods needed for daily living to producing works of art."
 Wooper Slime,"['Scarlet', 'Violet']",Material accidentally dropped by a Pokémon. It can be used to make TMs.
 X Accuracy,"['Ruby', 'Sapphire', 'Emerald']",Raises accuracy of attack moves during one battle.
