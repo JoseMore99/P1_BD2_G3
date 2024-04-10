@@ -5,7 +5,7 @@ import csv
 
 # web scrapping page url
 # CSV FILE
-csv_file=open('./evoluciones/evos.csv','w',newline='',encoding='utf-8')
+csv_file=open('./evoluciones/evos2.csv','w',newline='',encoding='utf-8')
 csv_writter=csv.writer(csv_file)
 csv_writter.writerow(['Evolving_from','Evolving_to','level','item','description','type'])
 enlistados=[]
@@ -29,7 +29,13 @@ for item in items:
   cells=item.find_all('td')
   if cells:
     actual=cells[0].find('a',class_='ent-name').text
+    subname =cells[0].find('small')
+    if subname:
+      actual +=f'({subname.text})'
     evolucion=cells[2].find('a',class_='ent-name').text
+    subname2 =cells[2].find('small')
+    if subname2:
+      evolucion +=f'({subname2.text})'
     nivel=cells[3].text
     desc=cells[4].text
 
@@ -60,7 +66,13 @@ for item in items:
   cells=item.find_all('td')
   if cells:
     actual=cells[0].find('a',class_='ent-name').text
+    subname =cells[0].find('small')
+    if subname:
+      actual +=f'({subname.text})'
     evolucion=cells[2].find('a',class_='ent-name').text
+    subname2 =cells[2].find('small')
+    if subname2:
+      evolucion +=f'({subname2.text})'
     item=cells[3].find('a').text
     desc=cells[3].text
 
@@ -91,7 +103,13 @@ for item in items:
   cells=item.find_all('td')
   if cells:
     actual=cells[0].find('a',class_='ent-name').text
+    subname =cells[0].find('small')
+    if subname:
+      actual +=f'({subname.text})'
     evolucion=cells[2].find('a',class_='ent-name').text
+    subname2 =cells[2].find('small')
+    if subname2:
+      evolucion +=f'({subname2.text})'
     try:
       item=cells[3].find('a').text
     except:
@@ -126,7 +144,13 @@ for item in items:
   cells=item.find_all('td')
   if cells:
     actual=cells[0].find('a',class_='ent-name').text
+    subname =cells[0].find('small')
+    if subname:
+      actual +=f'({subname.text})'
     evolucion=cells[2].find('a',class_='ent-name').text
+    subname2 =cells[2].find('small')
+    if subname2:
+      evolucion +=f'({subname2.text})'
     desc=cells[3].text
 
     # Print item data
@@ -158,7 +182,13 @@ for item in items:
   cells=item.find_all('td')
   if cells:
     actual=cells[0].find('a',class_='ent-name').text
+    subname =cells[0].find('small')
+    if subname:
+      actual +=f'({subname.text})'
     evolucion=cells[2].find('a',class_='ent-name').text
+    subname2 =cells[2].find('small')
+    if subname2:
+      evolucion +=f'({subname2.text})'
     desc=cells[4].text
     try:
       item=cells[4].find('a').text

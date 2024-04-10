@@ -24,8 +24,8 @@ Medicham,Medicham(Mega Medicham),Medichamite,MegaEvolution
 Manectric,Manectric(Mega Manectric),Manectite,MegaEvolution
 Banette,Banette(Mega Banette),Banettite,MegaEvolution
 Absol,Absol(Mega Absol),Absolite,MegaEvolution
-Latias*,Latias*(Mega Latias*),Latiasite,MegaEvolution
-Latios*,Latios*(Mega Latios*),Latiosite,MegaEvolution
+Latias,Latias(Mega Latias),Latiasite,MegaEvolution
+Latios,Latios(Mega Latios),Latiosite,MegaEvolution
 Garchomp,Garchomp(Mega Garchomp),Garchompite,MegaEvolution
 Lucario,Lucario(Mega Lucario),Lucarionite,MegaEvolution
 Abomasnow,Abomasnow(Mega Abomasnow),Abomasite,MegaEvolution
@@ -42,7 +42,7 @@ Altaria,Altaria(Mega Altaria),Altarianite,MegaEvolution
 Glalie,Glalie(Mega Glalie),Glalitite,MegaEvolution
 Salamence,Salamence(Mega Salamence),Salamencite,MegaEvolution
 Metagross,Metagross(Mega Metagross),Metagrossite,MegaEvolution
-Rayquaza,Rayquaza(Mega Rayquaza),"None; after Rayquaza swallows the Meteorite during the Delta Episode storyline, any Rayquaza knowing Dragon Ascent can Mega Evolve.",MegaEvolution
+Rayquaza,Rayquaza(Mega Rayquaza),nulo,"after Rayquaza swallows the Meteorite during the Delta Episode storyline, any Rayquaza knowing Dragon Ascent can Mega Evolve."
 Lopunny,Lopunny(Mega Lopunny),Lopunnite,MegaEvolution
 Gallade,Gallade(Mega Gallade),Galladite,MegaEvolution
 Audino,Audino(Mega Audino),Audinite,MegaEvolution

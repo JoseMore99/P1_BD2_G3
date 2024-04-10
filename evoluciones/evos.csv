@@ -1,377 +1,377 @@
 Evolving_from,Evolving_to,level,item,description,type
-Bulbasaur,Ivysaur,16,null,,level
-Ivysaur,Venusaur,32,null,,level
-Charmander,Charmeleon,16,null,,level
-Charmeleon,Charizard,36,null,,level
-Squirtle,Wartortle,16,null,,level
-Wartortle,Blastoise,36,null,,level
-Caterpie,Metapod,7,null,,level
-Metapod,Butterfree,10,null,,level
-Weedle,Kakuna,7,null,,level
-Kakuna,Beedrill,10,null,,level
-Pidgey,Pidgeotto,18,null,,level
-Pidgeotto,Pidgeot,36,null,,level
-Rattata,Raticate,20,null,,level
-Rattata,Raticate,20,null,Nighttime,level
-Spearow,Fearow,20,null,,level
-Ekans,Arbok,22,null,,level
-Sandshrew,Sandslash,22,null,,level
-Nidoran♀,Nidorina,16,null,,level
-Nidoran♂,Nidorino,16,null,,level
-Zubat,Golbat,22,null,,level
-Oddish,Gloom,21,null,,level
-Paras,Parasect,24,null,,level
-Venonat,Venomoth,31,null,,level
-Diglett,Dugtrio,26,null,,level
-Diglett,Dugtrio,26,null,,level
-Meowth,Persian,28,null,,level
-Meowth,Perrserker,28,null,,level
-Psyduck,Golduck,33,null,,level
-Mankey,Primeape,28,null,,level
-Poliwag,Poliwhirl,25,null,,level
-Abra,Kadabra,16,null,,level
-Machop,Machoke,28,null,,level
-Bellsprout,Weepinbell,21,null,,level
-Tentacool,Tentacruel,30,null,,level
-Geodude,Graveler,25,null,,level
-Geodude,Graveler,25,null,,level
-Ponyta,Rapidash,40,null,,level
-Ponyta,Rapidash,40,null,,level
-Slowpoke,Slowbro,37,null,,level
-Magnemite,Magneton,30,null,,level
-Doduo,Dodrio,31,null,,level
-Seel,Dewgong,34,null,,level
-Grimer,Muk,38,null,,level
-Grimer,Muk,38,null,,level
-Gastly,Haunter,25,null,,level
-Drowzee,Hypno,26,null,,level
-Krabby,Kingler,28,null,,level
-Voltorb,Electrode,30,null,,level
-Cubone,Marowak,28,null,outside Alola,level
-Cubone,Marowak,28,null,"Nighttime, in Alola",level
-Tyrogue,Hitmonlee,20,null,Attack > Defense,level
-Tyrogue,Hitmonchan,20,null,Attack < Defense,level
-Tyrogue,Hitmontop,20,null,Attack = Defense,level
-Koffing,Weezing,35,null,outside Galar,level
-Koffing,Weezing,35,null,in Galar,level
-Rhyhorn,Rhydon,42,null,,level
-Horsea,Seadra,32,null,,level
-Goldeen,Seaking,33,null,,level
-Mr. Mime,Mr. Rime,42,null,,level
-Smoochum,Jynx,30,null,,level
-Elekid,Electabuzz,30,null,,level
-Magby,Magmar,30,null,,level
-Magikarp,Gyarados,20,null,,level
-Omanyte,Omastar,40,null,,level
-Kabuto,Kabutops,40,null,,level
-Dratini,Dragonair,30,null,,level
-Dragonair,Dragonite,55,null,,level
-Chikorita,Bayleef,16,null,,level
-Bayleef,Meganium,32,null,,level
-Cyndaquil,Quilava,14,null,or Level 17 in Legends: Arceus,level
-Quilava,Typhlosion,36,null,,level
-Quilava,Typhlosion,36,null,in Legends: Arceus,level
-Totodile,Croconaw,18,null,,level
-Croconaw,Feraligatr,30,null,,level
-Sentret,Furret,15,null,,level
-Hoothoot,Noctowl,20,null,,level
-Ledyba,Ledian,18,null,,level
-Spinarak,Ariados,22,null,,level
-Chinchou,Lanturn,27,null,,level
-Natu,Xatu,25,null,,level
-Mareep,Flaaffy,15,null,,level
-Flaaffy,Ampharos,30,null,,level
-Marill,Azumarill,18,null,,level
-Hoppip,Skiploom,18,null,,level
-Skiploom,Jumpluff,27,null,,level
-Wooper,Quagsire,20,null,,level
-Wooper,Clodsire,20,null,,level
-Wynaut,Wobbuffet,15,null,,level
-Pineco,Forretress,31,null,,level
-Snubbull,Granbull,23,null,,level
-Teddiursa,Ursaring,30,null,,level
-Slugma,Magcargo,38,null,,level
-Swinub,Piloswine,33,null,,level
-Remoraid,Octillery,25,null,,level
-Houndour,Houndoom,24,null,,level
-Phanpy,Donphan,25,null,,level
-Larvitar,Pupitar,30,null,,level
-Pupitar,Tyranitar,55,null,,level
-Treecko,Grovyle,16,null,,level
-Grovyle,Sceptile,36,null,,level
-Torchic,Combusken,16,null,,level
-Combusken,Blaziken,36,null,,level
-Mudkip,Marshtomp,16,null,,level
-Marshtomp,Swampert,36,null,,level
-Poochyena,Mightyena,18,null,,level
-Zigzagoon,Linoone,20,null,,level
-Zigzagoon,Linoone,20,null,,level
-Linoone,Obstagoon,35,null,Nighttime,level
-Wurmple,Silcoon,7,null,random based on personality,level
-Silcoon,Beautifly,10,null,,level
-Wurmple,Cascoon,7,null,random based on personality,level
-Cascoon,Dustox,10,null,,level
-Lotad,Lombre,14,null,,level
-Seedot,Nuzleaf,14,null,,level
-Taillow,Swellow,22,null,,level
-Wingull,Pelipper,25,null,,level
-Ralts,Kirlia,20,null,,level
-Kirlia,Gardevoir,30,null,,level
-Surskit,Masquerain,22,null,,level
-Shroomish,Breloom,23,null,,level
-Slakoth,Vigoroth,18,null,,level
-Vigoroth,Slaking,36,null,,level
-Nincada,Ninjask,20,null,,level
-Nincada,Shedinja,20,null,"empty spot in party, Pokéball in bag",level
-Whismur,Loudred,20,null,,level
-Loudred,Exploud,40,null,,level
-Makuhita,Hariyama,24,null,,level
-Aron,Lairon,32,null,,level
-Lairon,Aggron,42,null,,level
-Meditite,Medicham,37,null,,level
-Electrike,Manectric,26,null,,level
-Gulpin,Swalot,26,null,,level
-Carvanha,Sharpedo,30,null,,level
-Wailmer,Wailord,40,null,,level
-Numel,Camerupt,33,null,,level
-Spoink,Grumpig,32,null,,level
-Trapinch,Vibrava,35,null,,level
-Vibrava,Flygon,45,null,,level
-Cacnea,Cacturne,32,null,,level
-Swablu,Altaria,35,null,,level
-Barboach,Whiscash,30,null,,level
-Corphish,Crawdaunt,30,null,,level
-Baltoy,Claydol,36,null,,level
-Lileep,Cradily,40,null,,level
-Anorith,Armaldo,40,null,,level
-Shuppet,Banette,37,null,,level
-Duskull,Dusclops,37,null,,level
-Snorunt,Glalie,42,null,,level
-Spheal,Sealeo,32,null,,level
-Sealeo,Walrein,44,null,,level
-Bagon,Shelgon,30,null,,level
-Shelgon,Salamence,50,null,,level
-Beldum,Metang,20,null,,level
-Metang,Metagross,45,null,,level
-Turtwig,Grotle,18,null,,level
-Grotle,Torterra,32,null,,level
-Chimchar,Monferno,14,null,,level
-Monferno,Infernape,36,null,,level
-Piplup,Prinplup,16,null,,level
-Prinplup,Empoleon,36,null,,level
-Starly,Staravia,14,null,,level
-Staravia,Staraptor,34,null,,level
-Bidoof,Bibarel,15,null,,level
-Kricketot,Kricketune,10,null,,level
-Shinx,Luxio,15,null,,level
-Luxio,Luxray,30,null,,level
-Cranidos,Rampardos,30,null,,level
-Shieldon,Bastiodon,30,null,,level
-Burmy,Mothim,20,null,Male,level
-Burmy,Wormadam,20,null,"Female, in grass",level
-Burmy,Wormadam,20,null,"Female, in caves",level
-Burmy,Wormadam,20,null,"Female, in buildings",level
-Combee,Vespiquen,21,null,Female,level
-Buizel,Floatzel,26,null,,level
-Cherubi,Cherrim,25,null,,level
-Shellos,Gastrodon,30,null,,level
-Drifloon,Drifblim,28,null,,level
-Glameow,Purugly,38,null,,level
-Stunky,Skuntank,34,null,,level
-Bronzor,Bronzong,33,null,,level
-Gible,Gabite,24,null,,level
-Gabite,Garchomp,48,null,,level
-Hippopotas,Hippowdon,34,null,,level
-Skorupi,Drapion,40,null,,level
-Croagunk,Toxicroak,37,null,,level
-Finneon,Lumineon,31,null,,level
-Snover,Abomasnow,40,null,,level
-Snivy,Servine,17,null,,level
-Servine,Serperior,36,null,,level
-Tepig,Pignite,17,null,,level
-Pignite,Emboar,36,null,,level
-Oshawott,Dewott,17,null,,level
-Dewott,Samurott,36,null,,level
-Dewott,Samurott,36,null,in Legends: Arceus,level
-Patrat,Watchog,20,null,,level
-Lillipup,Herdier,16,null,,level
-Herdier,Stoutland,32,null,,level
-Purrloin,Liepard,20,null,,level
-Pidove,Tranquill,21,null,,level
-Tranquill,Unfezant,32,null,,level
-Blitzle,Zebstrika,27,null,,level
-Roggenrola,Boldore,25,null,,level
-Drilbur,Excadrill,31,null,,level
-Timburr,Gurdurr,25,null,,level
-Tympole,Palpitoad,25,null,,level
-Palpitoad,Seismitoad,36,null,,level
-Sewaddle,Swadloon,20,null,,level
-Venipede,Whirlipede,22,null,,level
-Whirlipede,Scolipede,30,null,,level
-Sandile,Krokorok,29,null,,level
-Krokorok,Krookodile,40,null,,level
-Darumaka,Darmanitan,35,null,,level
-Dwebble,Crustle,34,null,,level
-Scraggy,Scrafty,39,null,,level
-Yamask,Cofagrigus,34,null,,level
-Tirtouga,Carracosta,37,null,,level
-Archen,Archeops,37,null,,level
-Trubbish,Garbodor,36,null,,level
-Zorua,Zoroark,30,null,,level
-Zorua,Zoroark,30,null,in Legends: Arceus,level
-Gothita,Gothorita,32,null,,level
-Gothorita,Gothitelle,41,null,,level
-Solosis,Duosion,32,null,,level
-Duosion,Reuniclus,41,null,,level
-Ducklett,Swanna,35,null,,level
-Vanillite,Vanillish,35,null,,level
-Vanillish,Vanilluxe,47,null,,level
-Deerling,Sawsbuck,34,null,,level
-Foongus,Amoonguss,39,null,,level
-Frillish,Jellicent,40,null,,level
-Joltik,Galvantula,36,null,,level
-Ferroseed,Ferrothorn,40,null,,level
-Klink,Klang,38,null,,level
-Klang,Klinklang,49,null,,level
-Tynamo,Eelektrik,39,null,,level
-Elgyem,Beheeyem,42,null,,level
-Litwick,Lampent,41,null,,level
-Axew,Fraxure,38,null,,level
-Fraxure,Haxorus,48,null,,level
-Cubchoo,Beartic,37,null,,level
-Mienfoo,Mienshao,50,null,,level
-Golett,Golurk,43,null,,level
-Pawniard,Bisharp,52,null,,level
-Rufflet,Braviary,54,null,,level
-Rufflet,Braviary,54,null,in Legends: Arceus,level
-Vullaby,Mandibuzz,54,null,,level
-Deino,Zweilous,50,null,,level
-Zweilous,Hydreigon,64,null,,level
-Larvesta,Volcarona,59,null,,level
-Chespin,Quilladin,16,null,,level
-Quilladin,Chesnaught,36,null,,level
-Fennekin,Braixen,16,null,,level
-Braixen,Delphox,36,null,,level
-Froakie,Frogadier,16,null,,level
-Frogadier,Greninja,36,null,,level
-Bunnelby,Diggersby,20,null,,level
-Fletchling,Fletchinder,17,null,,level
-Fletchinder,Talonflame,35,null,,level
-Scatterbug,Spewpa,9,null,,level
-Spewpa,Vivillon,12,null,,level
-Litleo,Pyroar,35,null,,level
-Flabébé,Floette,19,null,,level
-Skiddo,Gogoat,32,null,,level
-Pancham,Pangoro,32,null,Dark type Pokémon in party,level
-Espurr,Meowstic,25,null,Male,level
-Espurr,Meowstic,25,null,Female,level
-Honedge,Doublade,35,null,,level
-Inkay,Malamar,30,null,holding console upside down,level
-Binacle,Barbaracle,39,null,,level
-Skrelp,Dragalge,48,null,,level
-Clauncher,Clawitzer,37,null,,level
-Tyrunt,Tyrantrum,39,null,Daytime,level
-Amaura,Aurorus,39,null,Nighttime,level
-Goomy,Sliggoo,40,null,,level
-Sliggoo,Goodra,50,null,during rain,level
-Goomy,Sliggoo,40,null,in Legends: Arceus,level
-Sliggoo,Goodra,50,null,"during rain, in Legends: Arceus",level
-Bergmite,Avalugg,37,null,,level
-Bergmite,Avalugg,37,null,in Legends: Arceus,level
-Noibat,Noivern,48,null,,level
-Rowlet,Dartrix,17,null,,level
-Dartrix,Decidueye,34,null,,level
-Dartrix,Decidueye,36,null,in Legends: Arceus,level
-Litten,Torracat,17,null,,level
-Torracat,Incineroar,34,null,,level
-Popplio,Brionne,17,null,,level
-Brionne,Primarina,34,null,,level
-Pikipek,Trumbeak,14,null,,level
-Trumbeak,Toucannon,28,null,,level
-Yungoos,Gumshoos,20,null,Daytime,level
-Grubbin,Charjabug,20,null,,level
-Cutiefly,Ribombee,25,null,,level
-Rockruff,Lycanroc,25,null,Daytime,level
-Rockruff,Lycanroc,25,null,Nighttime,level
-Rockruff,Lycanroc,25,null,Dusk,level
-Mareanie,Toxapex,38,null,,level
-Mudbray,Mudsdale,30,null,,level
-Dewpider,Araquanid,22,null,,level
-Fomantis,Lurantis,34,null,Daytime,level
-Morelull,Shiinotic,24,null,,level
-Salandit,Salazzle,33,null,Female,level
-Stufful,Bewear,27,null,,level
-Bounsweet,Steenee,18,null,,level
-Wimpod,Golisopod,30,null,,level
-Sandygast,Palossand,42,null,,level
-Jangmo-o,Hakamo-o,35,null,,level
-Hakamo-o,Kommo-o,45,null,,level
-Cosmog,Cosmoem,43,null,,level
-Cosmoem,Solgaleo,53,null,in Pokémon Sun or Ultra Sun,level
-Cosmoem,Lunala,53,null,in Pokémon Moon or Ultra Moon,level
-Grookey,Thwackey,16,null,,level
-Thwackey,Rillaboom,35,null,,level
-Scorbunny,Raboot,16,null,,level
-Raboot,Cinderace,35,null,,level
-Sobble,Drizzile,16,null,,level
-Drizzile,Inteleon,35,null,,level
-Blipbug,Dottler,10,null,,level
-Dottler,Orbeetle,30,null,,level
-Rookidee,Corvisquire,18,null,,level
-Corvisquire,Corviknight,38,null,,level
-Skwovet,Greedent,24,null,,level
-Nickit,Thievul,18,null,,level
-Wooloo,Dubwool,24,null,,level
-Chewtle,Drednaw,22,null,,level
-Yamper,Boltund,25,null,,level
-Gossifleur,Eldegoss,20,null,,level
-Sizzlipede,Centiskorch,28,null,,level
-Rolycoly,Carkol,18,null,,level
-Carkol,Coalossal,34,null,,level
-Arrokuda,Barraskewda,26,null,,level
-Corsola,Cursola,38,null,,level
-Impidimp,Morgrem,32,null,,level
-Morgrem,Grimmsnarl,42,null,,level
-Hatenna,Hattrem,32,null,,level
-Hattrem,Hatterene,42,null,,level
-Cufant,Copperajah,34,null,,level
-Toxel,Toxtricity,30,null,with an amped Nature,level
-Toxel,Toxtricity,30,null,with a low key Nature,level
-Silicobra,Sandaconda,36,null,,level
-Dreepy,Drakloak,50,null,,level
-Drakloak,Dragapult,60,null,,level
-Sprigatito,Floragato,16,null,,level
-Floragato,Meowscarada,36,null,,level
-Fuecoco,Crocalor,16,null,,level
-Crocalor,Skeledirge,36,null,,level
-Quaxly,Quaxwell,16,null,,level
-Quaxwell,Quaquaval,36,null,,level
-Lechonk,Oinkologne,18,null,Male,level
-Lechonk,Oinkologne,18,null,Female,level
-Tarountula,Spidops,15,null,,level
-Nymble,Lokix,24,null,,level
-Greavard,Houndstone,30,null,Nighttime,level
-Flittle,Espathra,35,null,,level
-Wiglett,Wugtrio,26,null,,level
-Finizen,Palafin,38,null,while in multiplayer,level
-Smoliv,Dolliv,25,null,,level
-Dolliv,Arboliva,35,null,,level
-Varoom,Revavroom,40,null,,level
-Tandemaus,Maushold,25,null,rare,level
-Tandemaus,Maushold,25,null,,level
-Frigibax,Arctibax,35,null,,level
-Arctibax,Baxcalibur,54,null,,level
-Pawmi,Pawmo,18,null,,level
-Wattrel,Kilowattrel,25,null,,level
-Nacli,Naclstack,24,null,,level
-Naclstack,Garganacl,38,null,,level
-Glimmet,Glimmora,35,null,,level
-Shroodle,Grafaiai,28,null,,level
-Fidough,Dachsbun,26,null,,level
-Maschiff,Mabosstiff,30,null,,level
-Tinkatink,Tinkatuff,24,null,,level
-Tinkatuff,Tinkaton,38,null,,level
-Toedscool,Toedscruel,30,null,,level
+Bulbasaur,Ivysaur,16,nulo,,level
+Ivysaur,Venusaur,32,nulo,,level
+Charmander,Charmeleon,16,nulo,,level
+Charmeleon,Charizard,36,nulo,,level
+Squirtle,Wartortle,16,nulo,,level
+Wartortle,Blastoise,36,nulo,,level
+Caterpie,Metapod,7,nulo,,level
+Metapod,Butterfree,10,nulo,,level
+Weedle,Kakuna,7,nulo,,level
+Kakuna,Beedrill,10,nulo,,level
+Pidgey,Pidgeotto,18,nulo,,level
+Pidgeotto,Pidgeot,36,nulo,,level
+Rattata,Raticate,20,nulo,,level
+Rattata,Raticate,20,nulo,Nighttime,level
+Spearow,Fearow,20,nulo,,level
+Ekans,Arbok,22,nulo,,level
+Sandshrew,Sandslash,22,nulo,,level
+Nidoran♀,Nidorina,16,nulo,,level
+Nidoran♂,Nidorino,16,nulo,,level
+Zubat,Golbat,22,nulo,,level
+Oddish,Gloom,21,nulo,,level
+Paras,Parasect,24,nulo,,level
+Venonat,Venomoth,31,nulo,,level
+Diglett,Dugtrio,26,nulo,,level
+Diglett,Dugtrio,26,nulo,,level
+Meowth,Persian,28,nulo,,level
+Meowth,Perrserker,28,nulo,,level
+Psyduck,Golduck,33,nulo,,level
+Mankey,Primeape,28,nulo,,level
+Poliwag,Poliwhirl,25,nulo,,level
+Abra,Kadabra,16,nulo,,level
+Machop,Machoke,28,nulo,,level
+Bellsprout,Weepinbell,21,nulo,,level
+Tentacool,Tentacruel,30,nulo,,level
+Geodude,Graveler,25,nulo,,level
+Geodude,Graveler,25,nulo,,level
+Ponyta,Rapidash,40,nulo,,level
+Ponyta,Rapidash,40,nulo,,level
+Slowpoke,Slowbro,37,nulo,,level
+Magnemite,Magneton,30,nulo,,level
+Doduo,Dodrio,31,nulo,,level
+Seel,Dewgong,34,nulo,,level
+Grimer,Muk,38,nulo,,level
+Grimer,Muk,38,nulo,,level
+Gastly,Haunter,25,nulo,,level
+Drowzee,Hypno,26,nulo,,level
+Krabby,Kingler,28,nulo,,level
+Voltorb,Electrode,30,nulo,,level
+Cubone,Marowak,28,nulo,outside Alola,level
+Cubone,Marowak,28,nulo,"Nighttime, in Alola",level
+Tyrogue,Hitmonlee,20,nulo,Attack > Defense,level
+Tyrogue,Hitmonchan,20,nulo,Attack < Defense,level
+Tyrogue,Hitmontop,20,nulo,Attack = Defense,level
+Koffing,Weezing,35,nulo,outside Galar,level
+Koffing,Weezing,35,nulo,in Galar,level
+Rhyhorn,Rhydon,42,nulo,,level
+Horsea,Seadra,32,nulo,,level
+Goldeen,Seaking,33,nulo,,level
+Mr. Mime,Mr. Rime,42,nulo,,level
+Smoochum,Jynx,30,nulo,,level
+Elekid,Electabuzz,30,nulo,,level
+Magby,Magmar,30,nulo,,level
+Magikarp,Gyarados,20,nulo,,level
+Omanyte,Omastar,40,nulo,,level
+Kabuto,Kabutops,40,nulo,,level
+Dratini,Dragonair,30,nulo,,level
+Dragonair,Dragonite,55,nulo,,level
+Chikorita,Bayleef,16,nulo,,level
+Bayleef,Meganium,32,nulo,,level
+Cyndaquil,Quilava,14,nulo,or Level 17 in Legends: Arceus,level
+Quilava,Typhlosion,36,nulo,,level
+Quilava,Typhlosion,36,nulo,in Legends: Arceus,level
+Totodile,Croconaw,18,nulo,,level
+Croconaw,Feraligatr,30,nulo,,level
+Sentret,Furret,15,nulo,,level
+Hoothoot,Noctowl,20,nulo,,level
+Ledyba,Ledian,18,nulo,,level
+Spinarak,Ariados,22,nulo,,level
+Chinchou,Lanturn,27,nulo,,level
+Natu,Xatu,25,nulo,,level
+Mareep,Flaaffy,15,nulo,,level
+Flaaffy,Ampharos,30,nulo,,level
+Marill,Azumarill,18,nulo,,level
+Hoppip,Skiploom,18,nulo,,level
+Skiploom,Jumpluff,27,nulo,,level
+Wooper,Quagsire,20,nulo,,level
+Wooper,Clodsire,20,nulo,,level
+Wynaut,Wobbuffet,15,nulo,,level
+Pineco,Forretress,31,nulo,,level
+Snubbull,Granbull,23,nulo,,level
+Teddiursa,Ursaring,30,nulo,,level
+Slugma,Magcargo,38,nulo,,level
+Swinub,Piloswine,33,nulo,,level
+Remoraid,Octillery,25,nulo,,level
+Houndour,Houndoom,24,nulo,,level
+Phanpy,Donphan,25,nulo,,level
+Larvitar,Pupitar,30,nulo,,level
+Pupitar,Tyranitar,55,nulo,,level
+Treecko,Grovyle,16,nulo,,level
+Grovyle,Sceptile,36,nulo,,level
+Torchic,Combusken,16,nulo,,level
+Combusken,Blaziken,36,nulo,,level
+Mudkip,Marshtomp,16,nulo,,level
+Marshtomp,Swampert,36,nulo,,level
+Poochyena,Mightyena,18,nulo,,level
+Zigzagoon,Linoone,20,nulo,,level
+Zigzagoon,Linoone,20,nulo,,level
+Linoone,Obstagoon,35,nulo,Nighttime,level
+Wurmple,Silcoon,7,nulo,random based on personality,level
+Silcoon,Beautifly,10,nulo,,level
+Wurmple,Cascoon,7,nulo,random based on personality,level
+Cascoon,Dustox,10,nulo,,level
+Lotad,Lombre,14,nulo,,level
+Seedot,Nuzleaf,14,nulo,,level
+Taillow,Swellow,22,nulo,,level
+Wingull,Pelipper,25,nulo,,level
+Ralts,Kirlia,20,nulo,,level
+Kirlia,Gardevoir,30,nulo,,level
+Surskit,Masquerain,22,nulo,,level
+Shroomish,Breloom,23,nulo,,level
+Slakoth,Vigoroth,18,nulo,,level
+Vigoroth,Slaking,36,nulo,,level
+Nincada,Ninjask,20,nulo,,level
+Nincada,Shedinja,20,nulo,"empty spot in party, Pokéball in bag",level
+Whismur,Loudred,20,nulo,,level
+Loudred,Exploud,40,nulo,,level
+Makuhita,Hariyama,24,nulo,,level
+Aron,Lairon,32,nulo,,level
+Lairon,Aggron,42,nulo,,level
+Meditite,Medicham,37,nulo,,level
+Electrike,Manectric,26,nulo,,level
+Gulpin,Swalot,26,nulo,,level
+Carvanha,Sharpedo,30,nulo,,level
+Wailmer,Wailord,40,nulo,,level
+Numel,Camerupt,33,nulo,,level
+Spoink,Grumpig,32,nulo,,level
+Trapinch,Vibrava,35,nulo,,level
+Vibrava,Flygon,45,nulo,,level
+Cacnea,Cacturne,32,nulo,,level
+Swablu,Altaria,35,nulo,,level
+Barboach,Whiscash,30,nulo,,level
+Corphish,Crawdaunt,30,nulo,,level
+Baltoy,Claydol,36,nulo,,level
+Lileep,Cradily,40,nulo,,level
+Anorith,Armaldo,40,nulo,,level
+Shuppet,Banette,37,nulo,,level
+Duskull,Dusclops,37,nulo,,level
+Snorunt,Glalie,42,nulo,,level
+Spheal,Sealeo,32,nulo,,level
+Sealeo,Walrein,44,nulo,,level
+Bagon,Shelgon,30,nulo,,level
+Shelgon,Salamence,50,nulo,,level
+Beldum,Metang,20,nulo,,level
+Metang,Metagross,45,nulo,,level
+Turtwig,Grotle,18,nulo,,level
+Grotle,Torterra,32,nulo,,level
+Chimchar,Monferno,14,nulo,,level
+Monferno,Infernape,36,nulo,,level
+Piplup,Prinplup,16,nulo,,level
+Prinplup,Empoleon,36,nulo,,level
+Starly,Staravia,14,nulo,,level
+Staravia,Staraptor,34,nulo,,level
+Bidoof,Bibarel,15,nulo,,level
+Kricketot,Kricketune,10,nulo,,level
+Shinx,Luxio,15,nulo,,level
+Luxio,Luxray,30,nulo,,level
+Cranidos,Rampardos,30,nulo,,level
+Shieldon,Bastiodon,30,nulo,,level
+Burmy,Mothim,20,nulo,Male,level
+Burmy,Wormadam,20,nulo,"Female, in grass",level
+Burmy,Wormadam,20,nulo,"Female, in caves",level
+Burmy,Wormadam,20,nulo,"Female, in buildings",level
+Combee,Vespiquen,21,nulo,Female,level
+Buizel,Floatzel,26,nulo,,level
+Cherubi,Cherrim,25,nulo,,level
+Shellos,Gastrodon,30,nulo,,level
+Drifloon,Drifblim,28,nulo,,level
+Glameow,Purugly,38,nulo,,level
+Stunky,Skuntank,34,nulo,,level
+Bronzor,Bronzong,33,nulo,,level
+Gible,Gabite,24,nulo,,level
+Gabite,Garchomp,48,nulo,,level
+Hippopotas,Hippowdon,34,nulo,,level
+Skorupi,Drapion,40,nulo,,level
+Croagunk,Toxicroak,37,nulo,,level
+Finneon,Lumineon,31,nulo,,level
+Snover,Abomasnow,40,nulo,,level
+Snivy,Servine,17,nulo,,level
+Servine,Serperior,36,nulo,,level
+Tepig,Pignite,17,nulo,,level
+Pignite,Emboar,36,nulo,,level
+Oshawott,Dewott,17,nulo,,level
+Dewott,Samurott,36,nulo,,level
+Dewott,Samurott,36,nulo,in Legends: Arceus,level
+Patrat,Watchog,20,nulo,,level
+Lillipup,Herdier,16,nulo,,level
+Herdier,Stoutland,32,nulo,,level
+Purrloin,Liepard,20,nulo,,level
+Pidove,Tranquill,21,nulo,,level
+Tranquill,Unfezant,32,nulo,,level
+Blitzle,Zebstrika,27,nulo,,level
+Roggenrola,Boldore,25,nulo,,level
+Drilbur,Excadrill,31,nulo,,level
+Timburr,Gurdurr,25,nulo,,level
+Tympole,Palpitoad,25,nulo,,level
+Palpitoad,Seismitoad,36,nulo,,level
+Sewaddle,Swadloon,20,nulo,,level
+Venipede,Whirlipede,22,nulo,,level
+Whirlipede,Scolipede,30,nulo,,level
+Sandile,Krokorok,29,nulo,,level
+Krokorok,Krookodile,40,nulo,,level
+Darumaka,Darmanitan,35,nulo,,level
+Dwebble,Crustle,34,nulo,,level
+Scraggy,Scrafty,39,nulo,,level
+Yamask,Cofagrigus,34,nulo,,level
+Tirtouga,Carracosta,37,nulo,,level
+Archen,Archeops,37,nulo,,level
+Trubbish,Garbodor,36,nulo,,level
+Zorua,Zoroark,30,nulo,,level
+Zorua,Zoroark,30,nulo,in Legends: Arceus,level
+Gothita,Gothorita,32,nulo,,level
+Gothorita,Gothitelle,41,nulo,,level
+Solosis,Duosion,32,nulo,,level
+Duosion,Reuniclus,41,nulo,,level
+Ducklett,Swanna,35,nulo,,level
+Vanillite,Vanillish,35,nulo,,level
+Vanillish,Vanilluxe,47,nulo,,level
+Deerling,Sawsbuck,34,nulo,,level
+Foongus,Amoonguss,39,nulo,,level
+Frillish,Jellicent,40,nulo,,level
+Joltik,Galvantula,36,nulo,,level
+Ferroseed,Ferrothorn,40,nulo,,level
+Klink,Klang,38,nulo,,level
+Klang,Klinklang,49,nulo,,level
+Tynamo,Eelektrik,39,nulo,,level
+Elgyem,Beheeyem,42,nulo,,level
+Litwick,Lampent,41,nulo,,level
+Axew,Fraxure,38,nulo,,level
+Fraxure,Haxorus,48,nulo,,level
+Cubchoo,Beartic,37,nulo,,level
+Mienfoo,Mienshao,50,nulo,,level
+Golett,Golurk,43,nulo,,level
+Pawniard,Bisharp,52,nulo,,level
+Rufflet,Braviary,54,nulo,,level
+Rufflet,Braviary,54,nulo,in Legends: Arceus,level
+Vullaby,Mandibuzz,54,nulo,,level
+Deino,Zweilous,50,nulo,,level
+Zweilous,Hydreigon,64,nulo,,level
+Larvesta,Volcarona,59,nulo,,level
+Chespin,Quilladin,16,nulo,,level
+Quilladin,Chesnaught,36,nulo,,level
+Fennekin,Braixen,16,nulo,,level
+Braixen,Delphox,36,nulo,,level
+Froakie,Frogadier,16,nulo,,level
+Frogadier,Greninja,36,nulo,,level
+Bunnelby,Diggersby,20,nulo,,level
+Fletchling,Fletchinder,17,nulo,,level
+Fletchinder,Talonflame,35,nulo,,level
+Scatterbug,Spewpa,9,nulo,,level
+Spewpa,Vivillon,12,nulo,,level
+Litleo,Pyroar,35,nulo,,level
+Flabébé,Floette,19,nulo,,level
+Skiddo,Gogoat,32,nulo,,level
+Pancham,Pangoro,32,nulo,Dark type Pokémon in party,level
+Espurr,Meowstic,25,nulo,Male,level
+Espurr,Meowstic,25,nulo,Female,level
+Honedge,Doublade,35,nulo,,level
+Inkay,Malamar,30,nulo,holding console upside down,level
+Binacle,Barbaracle,39,nulo,,level
+Skrelp,Dragalge,48,nulo,,level
+Clauncher,Clawitzer,37,nulo,,level
+Tyrunt,Tyrantrum,39,nulo,Daytime,level
+Amaura,Aurorus,39,nulo,Nighttime,level
+Goomy,Sliggoo,40,nulo,,level
+Sliggoo,Goodra,50,nulo,during rain,level
+Goomy,Sliggoo,40,nulo,in Legends: Arceus,level
+Sliggoo,Goodra,50,nulo,"during rain, in Legends: Arceus",level
+Bergmite,Avalugg,37,nulo,,level
+Bergmite,Avalugg,37,nulo,in Legends: Arceus,level
+Noibat,Noivern,48,nulo,,level
+Rowlet,Dartrix,17,nulo,,level
+Dartrix,Decidueye,34,nulo,,level
+Dartrix,Decidueye,36,nulo,in Legends: Arceus,level
+Litten,Torracat,17,nulo,,level
+Torracat,Incineroar,34,nulo,,level
+Popplio,Brionne,17,nulo,,level
+Brionne,Primarina,34,nulo,,level
+Pikipek,Trumbeak,14,nulo,,level
+Trumbeak,Toucannon,28,nulo,,level
+Yungoos,Gumshoos,20,nulo,Daytime,level
+Grubbin,Charjabug,20,nulo,,level
+Cutiefly,Ribombee,25,nulo,,level
+Rockruff,Lycanroc,25,nulo,Daytime,level
+Rockruff,Lycanroc,25,nulo,Nighttime,level
+Rockruff,Lycanroc,25,nulo,Dusk,level
+Mareanie,Toxapex,38,nulo,,level
+Mudbray,Mudsdale,30,nulo,,level
+Dewpider,Araquanid,22,nulo,,level
+Fomantis,Lurantis,34,nulo,Daytime,level
+Morelull,Shiinotic,24,nulo,,level
+Salandit,Salazzle,33,nulo,Female,level
+Stufful,Bewear,27,nulo,,level
+Bounsweet,Steenee,18,nulo,,level
+Wimpod,Golisopod,30,nulo,,level
+Sandygast,Palossand,42,nulo,,level
+Jangmo-o,Hakamo-o,35,nulo,,level
+Hakamo-o,Kommo-o,45,nulo,,level
+Cosmog,Cosmoem,43,nulo,,level
+Cosmoem,Solgaleo,53,nulo,in Pokémon Sun or Ultra Sun,level
+Cosmoem,Lunala,53,nulo,in Pokémon Moon or Ultra Moon,level
+Grookey,Thwackey,16,nulo,,level
+Thwackey,Rillaboom,35,nulo,,level
+Scorbunny,Raboot,16,nulo,,level
+Raboot,Cinderace,35,nulo,,level
+Sobble,Drizzile,16,nulo,,level
+Drizzile,Inteleon,35,nulo,,level
+Blipbug,Dottler,10,nulo,,level
+Dottler,Orbeetle,30,nulo,,level
+Rookidee,Corvisquire,18,nulo,,level
+Corvisquire,Corviknight,38,nulo,,level
+Skwovet,Greedent,24,nulo,,level
+Nickit,Thievul,18,nulo,,level
+Wooloo,Dubwool,24,nulo,,level
+Chewtle,Drednaw,22,nulo,,level
+Yamper,Boltund,25,nulo,,level
+Gossifleur,Eldegoss,20,nulo,,level
+Sizzlipede,Centiskorch,28,nulo,,level
+Rolycoly,Carkol,18,nulo,,level
+Carkol,Coalossal,34,nulo,,level
+Arrokuda,Barraskewda,26,nulo,,level
+Corsola,Cursola,38,nulo,,level
+Impidimp,Morgrem,32,nulo,,level
+Morgrem,Grimmsnarl,42,nulo,,level
+Hatenna,Hattrem,32,nulo,,level
+Hattrem,Hatterene,42,nulo,,level
+Cufant,Copperajah,34,nulo,,level
+Toxel,Toxtricity,30,nulo,with an amped Nature,level
+Toxel,Toxtricity,30,nulo,with a low key Nature,level
+Silicobra,Sandaconda,36,nulo,,level
+Dreepy,Drakloak,50,nulo,,level
+Drakloak,Dragapult,60,nulo,,level
+Sprigatito,Floragato,16,nulo,,level
+Floragato,Meowscarada,36,nulo,,level
+Fuecoco,Crocalor,16,nulo,,level
+Crocalor,Skeledirge,36,nulo,,level
+Quaxly,Quaxwell,16,nulo,,level
+Quaxwell,Quaquaval,36,nulo,,level
+Lechonk,Oinkologne,18,nulo,Male,level
+Lechonk,Oinkologne,18,nulo,Female,level
+Tarountula,Spidops,15,nulo,,level
+Nymble,Lokix,24,nulo,,level
+Greavard,Houndstone,30,nulo,Nighttime,level
+Flittle,Espathra,35,nulo,,level
+Wiglett,Wugtrio,26,nulo,,level
+Finizen,Palafin,38,nulo,while in multiplayer,level
+Smoliv,Dolliv,25,nulo,,level
+Dolliv,Arboliva,35,nulo,,level
+Varoom,Revavroom,40,nulo,,level
+Tandemaus,Maushold,25,nulo,rare,level
+Tandemaus,Maushold,25,nulo,,level
+Frigibax,Arctibax,35,nulo,,level
+Arctibax,Baxcalibur,54,nulo,,level
+Pawmi,Pawmo,18,nulo,,level
+Wattrel,Kilowattrel,25,nulo,,level
+Nacli,Naclstack,24,nulo,,level
+Naclstack,Garganacl,38,nulo,,level
+Glimmet,Glimmora,35,nulo,,level
+Shroodle,Grafaiai,28,nulo,,level
+Fidough,Dachsbun,26,nulo,,level
+Maschiff,Mabosstiff,30,nulo,,level
+Tinkatink,Tinkatuff,24,nulo,,level
+Tinkatuff,Tinkaton,38,nulo,,level
+Toedscool,Toedscruel,30,nulo,,level
 Pikachu,Raichu,0,Thunder Stone,"Thunder Stone, outside Alola",stone
 Pikachu,Raichu,0,Thunder Stone,"Thunder Stone, in Alola",stone
 Sandshrew,Sandslash,0,Ice Stone,Ice Stone,stone
@@ -443,12 +443,12 @@ Charcadet,Ceruledge,0,Malicious Armor,Malicious Armor,stone
 Poltchageist,Sinistcha,0,Unremarkable Teacup,Unremarkable Teacup,stone
 Duraludon,Archaludon,0,Metal Alloy,Metal Alloy,stone
 Poliwhirl,Politoed,0,Kings Rock, Kings Rock,trade
-Kadabra,Alakazam,0,null,,trade
-Machoke,Machamp,0,null,,trade
-Graveler,Golem,0,null,,trade
-Graveler,Golem,0,null,,trade
+Kadabra,Alakazam,0,nulo,,trade
+Machoke,Machamp,0,nulo,,trade
+Graveler,Golem,0,nulo,,trade
+Graveler,Golem,0,nulo,,trade
 Slowpoke,Slowking,0,Kings Rock, Kings Rock,trade
-Haunter,Gengar,0,null,,trade
+Haunter,Gengar,0,nulo,,trade
 Onix,Steelix,0,Metal Coat, Metal Coat,trade
 Rhydon,Rhyperior,0,Protector, Protector,trade
 Seadra,Kingdra,0,Dragon Scale, Dragon Scale,trade
@@ -461,35 +461,35 @@ Feebas,Milotic,0,Prism Scale," Prism Scale, or level up with max Beauty",trade
 Dusclops,Dusknoir,0,Reaper Cloth, Reaper Cloth,trade
 Clamperl,Huntail,0,Deep Sea Tooth, Deep Sea Tooth,trade
 Clamperl,Gorebyss,0,Deep Sea Scale, Deep Sea Scale,trade
-Boldore,Gigalith,0,null,,trade
-Gurdurr,Conkeldurr,0,null,,trade
+Boldore,Gigalith,0,nulo,,trade
+Gurdurr,Conkeldurr,0,nulo,,trade
 Karrablast,Escavalier,0,Shelmet,Trade with Shelmet,trade
 Shelmet,Accelgor,0,Karrablast,Trade with Karrablast,trade
 Spritzee,Aromatisse,0,Sachet, Sachet,trade
 Swirlix,Slurpuff,0,Whipped Dream, Whipped Dream,trade
-Phantump,Trevenant,0,null,,trade
-Pumpkaboo,Gourgeist,0,null,,trade
-Pichu,Pikachu,0,null,,friendship
-Cleffa,Clefairy,0,null,,friendship
-Igglybuff,Jigglypuff,0,null,,friendship
-Golbat,Crobat,0,null,,friendship
-Meowth,Persian,0,null,,friendship
-Chansey,Blissey,0,null,,friendship
-Eevee,Espeon,0,null,Daytime,friendship
-Eevee,Umbreon,0,null,Nighttime,friendship
-Eevee,Sylveon,0,null,after Fairy-type move learnedand either ♥♥ Affection in Gen 6-7 or high friendship in Gen 8+,friendship
-Munchlax,Snorlax,0,null,,friendship
-Togepi,Togetic,0,null,,friendship
-Azurill,Marill,0,null,,friendship
-Budew,Roselia,0,null,Daytime,friendship
-Chingling,Chimecho,0,null,Nighttime,friendship
-Buneary,Lopunny,0,null,,friendship
-Riolu,Lucario,0,null,Daytime,friendship
-Woobat,Swoobat,0,null,,friendship
-Swadloon,Leavanny,0,null,,friendship
-Type: Null,Silvally,0,null,,friendship
-Snom,Frosmoth,0,null,Nighttime,friendship
-Primeape,Annihilape,0,null,Use Rage Fist 20 times,status
+Phantump,Trevenant,0,nulo,,trade
+Pumpkaboo,Gourgeist,0,nulo,,trade
+Pichu,Pikachu,0,nulo,,friendship
+Cleffa,Clefairy,0,nulo,,friendship
+Igglybuff,Jigglypuff,0,nulo,,friendship
+Golbat,Crobat,0,nulo,,friendship
+Meowth,Persian,0,nulo,,friendship
+Chansey,Blissey,0,nulo,,friendship
+Eevee,Espeon,0,nulo,Daytime,friendship
+Eevee,Umbreon,0,nulo,Nighttime,friendship
+Eevee,Sylveon,0,nulo,after Fairy-type move learnedand either ♥♥ Affection in Gen 6-7 or high friendship in Gen 8+,friendship
+Munchlax,Snorlax,0,nulo,,friendship
+Togepi,Togetic,0,nulo,,friendship
+Azurill,Marill,0,nulo,,friendship
+Budew,Roselia,0,nulo,Daytime,friendship
+Chingling,Chimecho,0,nulo,Nighttime,friendship
+Buneary,Lopunny,0,nulo,,friendship
+Riolu,Lucario,0,nulo,Daytime,friendship
+Woobat,Swoobat,0,nulo,,friendship
+Swadloon,Leavanny,0,nulo,,friendship
+Type: nulo,Silvally,0,nulo,,friendship
+Snom,Frosmoth,0,nulo,Nighttime,friendship
+Primeape,Annihilape,0,nulo,Use Rage Fist 20 times,status
 Lickitung,Lickilicky,0,Rollout,after Rollout learned,status
 Happiny,Chansey,0,Oval Stone,"hold Oval Stone, Daytime",status
 Tangela,Tangrowth,0,Ancient Power,after Ancient Power learned,status
@@ -503,23 +503,23 @@ Sneasel,Weavile,0,Razor Claw,"hold Razor Claw, Nighttime",status
 Piloswine,Mamoswine,0,Ancient Power,after Ancient Power learned,status
 Mantyke,Mantine,0,Remoraid,with Remoraid in party,status
 Nosepass,Probopass,0,Magnetic Field,level up in a Magnetic Field area,status
-Yamask,Runerigus,0,null,near Dusty Bowl,status
-Bisharp,Kingambit,0,null,defeat 3 Bisharp that are holding Leader's Crest,status
+Yamask,Runerigus,0,nulo,near Dusty Bowl,status
+Bisharp,Kingambit,0,nulo,defeat 3 Bisharp that are holding Leader's Crest,status
 Steenee,Tsareena,0,Stomp,after Stomp learned,status
 Poipole,Naganadel,0,Dragon Pulse,after Dragon Pulse learned,status
-Meltan,Melmetal,0,null,"Pokémon GO only, 400 Meltan Candies",status
-Milcery,Alcremie,0,null,spin around holding Sweet,status
+Meltan,Melmetal,0,nulo,"Pokémon GO only, 400 Meltan Candies",status
+Milcery,Alcremie,0,nulo,spin around holding Sweet,status
 Dipplin,Hydrapple,0,Dragon Cheer,after Dragon Cheer learned,status
-Farfetch'd,Sirfetch'd,0,null,achieve 3 critical hits in one battle,status
+Farfetch'd,Sirfetch'd,0,nulo,achieve 3 critical hits in one battle,status
 Clobbopus,Grapploct,0,Taunt,after Taunt learned,status
-Stantler,Wyrdeer,0,null,use Psyshield Bash 20 times in Agile Style,status
-Basculin,Basculegion,0,null,"Male, receive 294 recoil damage in battle",status
-Basculin,Basculegion,0,null,"Female, receive 294 recoil damage in battle",status
-Qwilfish,Overqwil,0,null,use Barb Barrage 20 times in Strong Style,status
+Stantler,Wyrdeer,0,nulo,use Psyshield Bash 20 times in Agile Style,status
+Basculin,Basculegion,0,nulo,"Male, receive 294 recoil damage in battle",status
+Basculin,Basculegion,0,nulo,"Female, receive 294 recoil damage in battle",status
+Qwilfish,Overqwil,0,nulo,use Barb Barrage 20 times in Strong Style,status
 Girafarig,Farigiraf,0,Twin Beam,after Twin Beam learned,status
 Dunsparce,Dudunsparce,0,Hyper Drill,after Hyper Drill learned,status
 Dunsparce,Dudunsparce,0,Hyper Drill,"after Hyper Drill learned, rare",status
-Rellor,Rabsca,0,null,"walk 1,000 steps in Let's Go mode",status
-Pawmo,Pawmot,0,null,"walk 1,000 steps in Let's Go mode",status
-Bramblin,Brambleghast,0,null,"walk 1,000 steps in Let's Go mode",status
-Gimmighoul,Gholdengo,0,null,collect 999 Coins from Roaming Form,status
+Rellor,Rabsca,0,nulo,"walk 1,000 steps in Let's Go mode",status
+Pawmo,Pawmot,0,nulo,"walk 1,000 steps in Let's Go mode",status
+Bramblin,Brambleghast,0,nulo,"walk 1,000 steps in Let's Go mode",status
+Gimmighoul,Gholdengo,0,nulo,collect 999 Coins from Roaming Form,status

@@ -158,7 +158,7 @@ create table move_des_gen_games(
     id integer auto_increment primary key ,
     gen_game_id integer,
     move_id integer,
-    description varchar(100),
+    description varchar(250),
     foreign key (gen_game_id) references gen_games(id),
     foreign key (move_id) references move(id)
 );
@@ -171,7 +171,7 @@ create table pokemon_location(
     foreign key (location_id) references location(id)
 );
 
-create table pokemon_hability(
+create table pokemon_ability(
     id integer auto_increment primary key ,
     pokemon_id integer,
     ability_id integer,
@@ -216,3 +216,114 @@ create table special_forms(
     foreign key (item_id) references  item(id),
     foreign key  (move_id) references  move(id)
 );
+
+WITH RECURSIVE cadena_evolutiva (
+  pokemon_id,
+  name,
+  pokemon_evolution_id,
+  nivel_evolucion
+) AS (
+  -- Seleccionamos el Pokémon inicial
+  SELECT
+    p.pokemon_id,
+    p.name,
+    e.pokemon_evolution_id,
+    1 AS nivel_evolucion
+  FROM pokemon p
+  LEFT JOIN evolution_chart e ON p.pokemon_id = e.pokemon_id
+  WHERE p.pokemon_id = @pokemon_id
+
+  UNION ALL
+
+  -- Seleccionamos los Pokémon siguientes
+  SELECT
+    e.pokemon_evolution_id,
+    p.name,
+    e2.pokemon_evolution_id,
+    nivel_evolucion + 1
+  FROM cadena_evolutiva ce
+  INNER JOIN pokemon p ON ce.pokemon_evolution_id = p.id
+  LEFT JOIN evolution_chart e ON p.id = e.pokemon_id
+  LEFT JOIN evolution_chart e2 ON e.pokemon_evolution_id = e2.pokemon_id
+  WHERE ce.pokemon_evolution_id IS NOT NULL
+)
+SELECT name
+FROM cadena_evolutiva
+ORDER BY nivel_evolucion ASC;
+
+WITH RECURSIVE cadena_evolutiva (
+	  pokemon_id,
+	  nameA,
+	  nameE,
+	  description,
+	  pokemon_evolution_id,
+	  nivel_evolucion
+	) AS (
+	  -- Seleccionamos el Pokémon inicial
+	  SELECT
+		e.pokemon_id,
+		p.name,
+		p2.name,
+		e.description,
+		e.pokemon_evolution_id,
+		1 AS nivel_evolucion
+	  FROM evolution_chart e 
+	  JOIN pokemon p on p.id = e.pokemon_id
+	  JOIN pokemon p2 on p2.id = e.pokemon_evolution_id 
+	  WHERE e.pokemon_id = 33 
+
+	  UNION ALL
+
+	  -- Seleccionamos los Pokémon siguientes
+	  SELECT
+		e.pokemon_evolution_id,
+		p.name,
+		p2.name,
+		e.description,
+		e.pokemon_evolution_id,
+		ce.nivel_evolucion + 1
+	  FROM cadena_evolutiva ce
+      LEFT JOIN evolution_chart e ON e.pokemon_id = ce.pokemon_evolution_id
+      LEFT JOIN pokemon p on p.id = e.pokemon_id
+      LEFT JOIN pokemon p2 on p2.id = e.pokemon_evolution_id 
+	  WHERE ce.pokemon_evolution_id IS NOT NULL
+	), cadena_involutiva (
+	  pokemon_id,
+	  nameA,
+	  nameE,
+	  description,
+	  pokemon_evolution_id,
+	  nivel_evolucion
+	) AS (
+	  -- Seleccionamos el Pokémon inicial
+	  SELECT
+		e.pokemon_id,
+		p.name,
+		p2.name,
+		e.description,
+		e.pokemon_evolution_id,
+		1 AS nivel_evolucion
+	  FROM evolution_chart e 
+	  JOIN pokemon p on p.id = e.pokemon_id
+	  JOIN pokemon p2 on p2.id = e.pokemon_evolution_id 
+	  WHERE e.pokemon_evolution_id = 33 
+
+	  UNION ALL
+
+	  -- Seleccionamos los Pokémon anteriores
+	  SELECT
+		e.pokemon_id,
+		p.name,
+		p2.name,
+		e.description,
+		e.pokemon_id,
+		ce.nivel_evolucion - 1
+	  FROM cadena_involutiva ce
+      LEFT JOIN evolution_chart e ON e.pokemon_evolution_id = ce.pokemon_evolution_id
+      LEFT JOIN pokemon p on p.id = e.pokemon_id
+      LEFT JOIN pokemon p2 on p2.id = e.pokemon_evolution_id 
+	  WHERE ce.pokemon_evolution_id IS NOT NULL
+	)
+	SELECT DISTINCT  ce.nameE as siguiente,ci.nameA as Anteriores
+	FROM cadena_evolutiva as ce,cadena_involutiva as ci
+	WHERE ce.pokemon_evolution_id IS NOT NULL and  ci.pokemon_evolution_id IS NOT NULL

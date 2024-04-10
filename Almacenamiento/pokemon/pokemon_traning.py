@@ -20,4 +20,4 @@ for i in range(len(pokedex_id)):
     (pokemon_id, ev_yield, catch_rate, base_friendship, base_exp, growth_rate)
     VALUES((SELECT id FROM poke_g3.pokemon WHERE  pokedex_id = %s LIMIT 1),%s,%s,%s,%s,%s);""", 
     (int(pokedex_id.iloc[i]),EV_yield.iloc[i],catch[0],'-1',-1,growth_rate.iloc[i]))
-    
+
