@@ -65,6 +65,13 @@ BEGIN
         DROP TEMPORARY TABLE IF EXISTS temp_info_pokemon;
        
        SELECT DISTINCT 
+      		t.name 
+      	FROM  pokemon_type pt   
+      	LEFT JOIN types t   on pt.type_id  =t.id  
+      WHERE pt.pokemon_id =pokemon_id_var;
+     
+       
+       SELECT DISTINCT 
       		p1.name,
       		l.name As Language
       	FROM  pokemon_language p1
@@ -93,6 +100,20 @@ BEGIN
       WHERE pmb.pokemon_id =pokemon_id_var;
      
      SELECT DISTINCT 
+      		m.*
+      	FROM  pokemon_moves_byegg pmb    
+      	LEFT JOIN move m  on pmb.move_id  = m.id 
+   
+      WHERE pmb.pokemon_id =pokemon_id_var;
+     
+     SELECT DISTINCT 
+      		m.*
+      	FROM  pokemon_moves_byTM pmb    
+      	LEFT JOIN move m  on pmb.move_id  = m.id 
+   
+      WHERE pmb.pokemon_id =pokemon_id_var;
+     
+     SELECT DISTINCT 
      		gg.name as Juego,
       		l.location 
       	FROM  pokemon_location pl     
@@ -109,8 +130,9 @@ END //
 DELIMITER ;
 CALL ObtenerInfoPokemon('0001');
 CALL ObtenerInfoPokemon('0006');
-CALL ObtenerInfoPokemon('0008');
+CALL ObtenerInfoPokemon('0479');
 CALL ObtenerInfoPokemon('0133');
+CALL ObtenerInfoPokemon('0487');
 
 CREATE PROCEDURE ObtenerLocationPokemon(IN pokedex_id_param VARCHAR(5))
 BEGIN
@@ -247,10 +269,11 @@ END //
 
 DELIMITER ;
 
-CALL ObtenerCadenaEvolutiva('0001');
+CALL ObtenerCadenaEvolutiva('0487');
 CALL ObtenerCadenaEvolutiva('0006');
 CALL ObtenerCadenaEvolutiva('0008');
 CALL ObtenerCadenaEvolutiva('0133');
+CALL ObtenerCadenaEvolutiva('0479');
 
 DROP PROCEDURE ObtenerItemPokemon
 CREATE PROCEDURE ObtenerItemPokemon(IN pokedex_id_param VARCHAR(5))
@@ -269,14 +292,14 @@ BEGIN
      		ec.description 
       	FROM  evolution_chart ec      
       	LEFT JOIN item i   on ec.item_id  = i.id 
-      WHERE ec.pokemon_id  =pokemon_id_var or ec.pokemon_evolution_id = pokemon_id_var;
+      WHERE (ec.pokemon_id  =pokemon_id_var or ec.pokemon_evolution_id = pokemon_id_var) and i.name <> "nulo";
     ELSE
         SELECT 'No se encontró ningún Pokémon con el número de Pokédex proporcionado';
     END IF;
 
 END
 
-CALL ObtenerItemPokemon('0199');
+CALL ObtenerItemPokemon('0483');
 CALL ObtenerItemPokemon('0006');
 CALL ObtenerItemPokemon('0008');
 CALL ObtenerItemPokemon('0133');

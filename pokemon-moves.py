@@ -13,10 +13,10 @@ response =requests.get(url)
 soup= BeautifulSoup(response.text,'html.parser')
 
 # CSV FILE
-csv_file=open('./pokemons/pokemon_move_byegg.csv','w',newline='',encoding='utf-8')
+csv_file=open('./pokemons/pokemon_move_bytm.csv','w',newline='',encoding='utf-8')
 csv_writter=csv.writer(csv_file)
 csv_writter.writerow(['pokedex_id','move_name'])
-
+atacantes=[]
 # find all pokemons
 pokemons_table=soup.find('table',class_='data-table sticky-header block-wide')
 pokemons=pokemons_table.find_all('tr')
@@ -27,7 +27,8 @@ for pokemon in pokemons:
   if cells:
     pokedex_number=cells[0].find('span',class_='infocard-cell-data').text
     href=cells[1].find('a',class_='ent-name')["href"]
-        
+    if pokedex_number in atacantes:
+      continue
     url='https://pokemondb.net'+href
 
     # HTTP request
@@ -36,13 +37,15 @@ for pokemon in pokemons:
     soup= BeautifulSoup(response.text,'html.parser')
     info_table=soup.find_all('table',class_='data-table')
     #print(info_table[0])
-    if len(info_table)>6:
-      info=info_table[1].find_all('tr')
-    
-      for i in info[1:]:
-        datos = i.find_all('td')
-        mov =datos[0].find('a').text
-        csv_writter.writerow([pokedex_number,mov])
+    for k in range(len(info_table)):
+      info=info_table[k].find_all('tr')
+      info2=info_table[k].find('th')
+      if info2 and info2.text=="TM":
+        for i in info[1:]:
+          datos = i.find_all('td')
+          mov =datos[1].find('a').text
+          csv_writter.writerow([pokedex_number,mov])
+        break
 
 
     

@@ -4,13 +4,14 @@ import ast
 
 
 # Leer el archivo CSV usando pandas
-data = pd.read_csv('J:/universidad/bases 2/P1_BD2_G3/evoluciones/evos2.csv')
+data = pd.read_csv('J:/universidad/bases 2/P1_BD2_G3/evoluciones/evos3.csv')
+data2 = pd.read_csv('J:/universidad/bases 2/P1_BD2_G3/evoluciones/evos2.csv')
 
 # Evolving_from,Evolving_to,level,item,description,type
 Evolving_from = data['Evolving_from']
 Evolving_to = data['Evolving_to']
 level = data['level']
-item = data['item']
+item = data2['item']
 description = data['description']
 type = data['type']
 for i in range(len(Evolving_from)):

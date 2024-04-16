@@ -5,7 +5,7 @@ import csv
 
 # web scrapping page url
 # CSV FILE
-csv_file=open('./evoluciones/evos2.csv','w',newline='',encoding='utf-8')
+csv_file=open('./evoluciones/evos3.csv','w',newline='',encoding='utf-8')
 csv_writter=csv.writer(csv_file)
 csv_writter.writerow(['Evolving_from','Evolving_to','level','item','description','type'])
 enlistados=[]
@@ -45,7 +45,7 @@ for item in items:
     # Write item data on csv file
     enlistados.append({actual,evolucion})
     csv_writter.writerow([
-      actual,evolucion,nivel,"null",desc,"level"
+      actual,evolucion,nivel,"null",f'Evolves at level {nivel} {desc}',"level"
     ])
 
 url='https://pokemondb.net/evolution/stone'
@@ -82,7 +82,7 @@ for item in items:
     # Write item data on csv file
     enlistados.append({actual,evolucion})
     csv_writter.writerow([
-      actual,evolucion,0,item,desc,"stone"
+      actual,evolucion,0,item,f'Evolves with {desc}',"stone"
     ])
     
 url='https://pokemondb.net/evolution/trade'
@@ -122,7 +122,7 @@ for item in items:
     # Write item data on csv file
     enlistados.append({actual,evolucion})
     csv_writter.writerow([
-      actual,evolucion,0,item,desc,"trade"
+      actual,evolucion,0,item,f'Evolves being traded, {desc}',"trade"
     ])
     
 
@@ -159,7 +159,7 @@ for item in items:
     # Write item data on csv file
     enlistados.append({actual,evolucion})
     csv_writter.writerow([
-      actual,evolucion,0,"null",desc,"friendship"
+      actual,evolucion,0,"null",f'evolves through friendship {desc}',"friendship"
     ])
     
 

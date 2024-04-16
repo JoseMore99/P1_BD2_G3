@@ -3,6 +3,18 @@ pokedex_id,move_name
 0001,Ingrain
 0001,Petal Dance
 0001,Toxic
+0002,Amnesia
+0002,Charm
+0002,Curse
+0002,Grassy Terrain
+0002,Ingrain
+0002,Leaf Storm
+0002,Magical Leaf
+0002,Nature Power
+0002,Petal Dance
+0002,Power Whip
+0002,Skull Bash
+0002,Sludge
 0003,Petal Blizzard
 0003,Petal Blizzard
 0004,Ancient Power
@@ -33,12 +45,41 @@ pokedex_id,move_name
 0007,Mist
 0007,Water Spout
 0007,Yawn
+0008,Aqua Jet
+0008,Aqua Ring
+0008,Aura Sphere
+0008,Fake Out
+0008,Flail
+0008,Haze
+0008,Life Dew
+0008,Mirror Coat
+0008,Mist
+0008,Muddy Water
+0008,Water Spout
+0008,Yawn
 0009,Flash Cannon
 0009,Flash Cannon
 0011,Harden
 0012,Gust
+0014,Harden
 0015,Fury Attack
 0015,Fury Attack
+0016,Air Cutter
+0016,Air Slash
+0016,Brave Bird
+0016,Uproar
+0017,Air Cutter
+0017,Air Slash
+0017,Brave Bird
+0017,Uproar
+0018,Air Cutter
+0018,Air Slash
+0018,Brave Bird
+0018,Uproar
+0018,Air Cutter
+0018,Air Slash
+0018,Brave Bird
+0018,Uproar
 0019,Bite
 0019,Counter
 0019,Final Gambit
@@ -61,6 +102,22 @@ pokedex_id,move_name
 0019,Uproar
 0020,Scary Face
 0020,Scary Face
+0021,Astonish
+0021,Feather Dance
+0021,Quick Attack
+0021,Scary Face
+0021,Sky Attack
+0021,Tri Attack
+0021,Uproar
+0021,Whirlwind
+0022,Astonish
+0022,Feather Dance
+0022,Quick Attack
+0022,Scary Face
+0022,Sky Attack
+0022,Tri Attack
+0022,Uproar
+0022,Whirlwind
 0023,Poison Fang
 0023,Poison Tail
 0023,Scary Face
@@ -68,5 +125,5614 @@ pokedex_id,move_name
 0023,Sucker Punch
 0023,Switcheroo
 0024,Crunch
+0025,Charge
+0025,Disarming Voice
+0025,Fake Out
+0025,Flail
+0025,Present
+0025,Tickle
+0025,Wish
+0025,Charge
+0025,Disarming Voice
+0025,Fake Out
+0025,Flail
+0025,Present
+0025,Tickle
+0025,Wish
 0026,Thunder Punch
 0026,Thunder Punch
+0027,Counter
+0027,Flail
+0027,Hone Claws
+0027,Metal Claw
+0027,Mud-Slap
+0027,Night Slash
+0027,Counter
+0027,Flail
+0027,Hone Claws
+0027,Metal Claw
+0027,Mud-Slap
+0027,Night Slash
+0028,Icicle Spear
+0028,Icicle Spear
+0029,Beat Up
+0029,Charm
+0029,Counter
+0029,Disable
+0029,Focus Energy
+0029,Poison Fang
+0029,Poison Tail
+0029,Skull Bash
+0029,Supersonic
+0029,Take Down
+0029,Venom Drench
+0030,Beat Up
+0030,Charm
+0030,Counter
+0030,Disable
+0030,Focus Energy
+0030,Poison Fang
+0030,Poison Tail
+0030,Skull Bash
+0030,Supersonic
+0030,Take Down
+0030,Venom Drench
+0031,Superpower
+0032,Amnesia
+0032,Beat Up
+0032,Confusion
+0032,Counter
+0032,Disable
+0032,Head Smash
+0032,Horn Drill
+0032,Poison Tail
+0032,Sucker Punch
+0032,Supersonic
+0032,Take Down
+0032,Thrash
+0032,Venom Drench
+0033,Amnesia
+0033,Beat Up
+0033,Confusion
+0033,Counter
+0033,Disable
+0033,Head Smash
+0033,Horn Drill
+0033,Poison Tail
+0033,Sucker Punch
+0033,Supersonic
+0033,Take Down
+0033,Thrash
+0033,Venom Drench
+0034,Megahorn
+0035,Baby-Doll Eyes
+0035,Calm Mind
+0035,Charge Beam
+0035,Dazzling Gleam
+0035,Drain Punch
+0035,Fire Punch
+0035,Flamethrower
+0035,Ice Beam
+0035,Ice Punch
+0035,Icy Wind
+0035,Iron Tail
+0035,Magical Leaf
+0035,Mystical Fire
+0035,Play Rough
+0035,Psychic
+0035,Rest
+0035,Rock Smash
+0035,Shadow Ball
+0035,Stealth Rock
+0035,Swift
+0035,Thunder Punch
+0035,Thunderbolt
+0035,Tri Attack
+0035,Water Pulse
+0035,Zen Headbutt
+0036,After You
+0036,Charm
+0036,Copycat
+0036,Cosmic Power
+0036,Defense Curl
+0036,Disarming Voice
+0036,Encore
+0036,Follow Me
+0036,Gravity
+0036,Growl
+0036,Healing Wish
+0036,Moonlight
+0036,Pound
+0036,Sing
+0036,Splash
+0036,Stored Power
+0036,Sweet Kiss
+0037,Baby-Doll Eyes
+0037,Flail
+0037,Flame Charge
+0037,Healing Wish
+0037,Howl
+0037,Hypnosis
+0037,Memento
+0037,Roar
+0037,Baby-Doll Eyes
+0037,Flail
+0037,Flame Charge
+0037,Healing Wish
+0037,Howl
+0037,Hypnosis
+0037,Memento
+0037,Roar
+0038,Dazzling Gleam
+0038,Dazzling Gleam
+0039,Covet
+0039,Gravity
+0039,Heal Pulse
+0039,Last Resort
+0039,Perish Song
+0039,Present
+0039,Rollout
+0039,Wish
+0040,Covet
+0040,Gravity
+0040,Heal Pulse
+0040,Last Resort
+0040,Perish Song
+0040,Present
+0040,Rollout
+0040,Wish
+0041,Brave Bird
+0041,Curse
+0041,Gust
+0041,Hypnosis
+0041,Quick Attack
+0041,Venom Drench
+0041,Whirlwind
+0041,Wing Attack
+0041,Zen Headbutt
+0042,Brave Bird
+0042,Curse
+0042,Gust
+0042,Hypnosis
+0042,Quick Attack
+0042,Venom Drench
+0042,Whirlwind
+0042,Wing Attack
+0042,Zen Headbutt
+0043,After You
+0043,Flail
+0043,Ingrain
+0043,Leech Seed
+0043,Razor Leaf
+0043,Strength Sap
+0043,Synthesis
+0043,Teeter Dance
+0043,Tickle
+0044,After You
+0044,Charm
+0044,Flail
+0044,Ingrain
+0044,Leech Seed
+0044,Nature Power
+0044,Razor Leaf
+0044,Strength Sap
+0044,Synthesis
+0044,Teeter Dance
+0044,Tickle
+0045,Petal Blizzard
+0046,Agility
+0046,Bug Bite
+0046,Counter
+0046,Cross Poison
+0046,Fell Stinger
+0046,Flail
+0046,Grassy Terrain
+0046,Leech Seed
+0046,Metal Claw
+0046,Psybeam
+0046,Screech
+0046,Sweet Scent
+0046,Wide Guard
+0047,Agility
+0047,Bug Bite
+0047,Counter
+0047,Cross Poison
+0047,Fell Stinger
+0047,Flail
+0047,Grassy Terrain
+0047,Leech Seed
+0047,Metal Claw
+0047,Psybeam
+0047,Screech
+0047,Sweet Scent
+0047,Wide Guard
+0048,Agility
+0048,Baton Pass
+0048,Bug Bite
+0048,Morning Sun
+0048,Rage Powder
+0048,Screech
+0048,Toxic Spikes
+0048,Venoshock
+0049,Air Slash
+0050,Ancient Power
+0050,Final Gambit
+0050,Headbutt
+0050,Hone Claws
+0050,Memento
+0050,Ancient Power
+0050,Final Gambit
+0050,Headbutt
+0050,Hone Claws
+0050,Memento
+0051,Sand Tomb
+0051,Sand Tomb
+0052,Covet
+0052,Flail
+0052,Hypnosis
+0052,Last Resort
+0052,Spite
+0052,Tail Whip
+0052,Covet
+0052,Flail
+0052,Hypnosis
+0052,Last Resort
+0052,Spite
+0052,Tail Whip
+0052,Covet
+0052,Flail
+0052,Hypnosis
+0052,Last Resort
+0052,Spite
+0052,Tail Whip
+0053,Power Gem
+0053,Power Gem
+0054,Clear Smog
+0054,Confuse Ray
+0054,Cross Chop
+0054,Hypnosis
+0054,Psybeam
+0054,Simple Beam
+0054,Yawn
+0055,Clear Smog
+0055,Confuse Ray
+0055,Cross Chop
+0055,Hypnosis
+0055,Psybeam
+0055,Simple Beam
+0055,Yawn
+0056,Beat Up
+0056,Counter
+0056,Curse
+0056,Encore
+0056,Night Slash
+0056,Spite
+0057,Beat Up
+0057,Counter
+0057,Curse
+0057,Encore
+0057,Night Slash
+0057,Spite
+0058,Covet
+0058,Double-Edge
+0058,Double Kick
+0058,Morning Sun
+0058,Raging Fury
+0058,Thrash
+0058,Covet
+0058,Double-Edge
+0058,Double Kick
+0058,Morning Sun
+0058,Raging Fury
+0058,Thrash
+0059,Extreme Speed
+0059,Extreme Speed
+0060,Endeavor
+0060,Mist
+0060,Muddy Water
+0060,Splash
+0060,Water Pulse
+0061,Bubble Beam
+0061,Encore
+0061,Endeavor
+0061,Haze
+0061,Mind Reader
+0061,Mist
+0061,Mud Shot
+0061,Splash
+0062,Dynamic Punch
+0063,Ally Switch
+0063,Confusion
+0063,Encore
+0063,Fire Punch
+0063,Guard Split
+0063,Guard Swap
+0063,Ice Punch
+0063,Knock Off
+0063,Magic Coat
+0063,Power Trick
+0063,Psycho Shift
+0063,Thunder Punch
+0064,Confusion
+0065,Ally Switch
+0065,Confusion
+0065,Encore
+0065,Fire Punch
+0065,Guard Split
+0065,Guard Swap
+0065,Ice Punch
+0065,Knock Off
+0065,Magic Coat
+0065,Power Trick
+0065,Psycho Shift
+0065,Thunder Punch
+0065,Ally Switch
+0065,Confusion
+0065,Encore
+0065,Fire Punch
+0065,Guard Split
+0065,Guard Swap
+0065,Ice Punch
+0065,Knock Off
+0065,Magic Coat
+0065,Power Trick
+0065,Psycho Shift
+0065,Thunder Punch
+0066,Bullet Punch
+0066,Close Combat
+0066,Counter
+0066,Encore
+0066,Fire Punch
+0066,Heavy Slam
+0066,Ice Punch
+0066,Knock Off
+0066,Power Trick
+0066,Quick Guard
+0066,Submission
+0066,Thunder Punch
+0066,Tickle
+0067,Bullet Punch
+0067,Close Combat
+0067,Counter
+0067,Encore
+0067,Fire Punch
+0067,Heavy Slam
+0067,Ice Punch
+0067,Knock Off
+0067,Power Trick
+0067,Quick Guard
+0067,Submission
+0067,Thunder Punch
+0067,Tickle
+0068,Bullet Punch
+0068,Close Combat
+0068,Counter
+0068,Encore
+0068,Fire Punch
+0068,Heavy Slam
+0068,Ice Punch
+0068,Knock Off
+0068,Power Trick
+0068,Quick Guard
+0068,Submission
+0068,Thunder Punch
+0068,Tickle
+0069,Clear Smog
+0069,Ingrain
+0069,Strength Sap
+0069,Sucker Punch
+0069,Synthesis
+0069,Tickle
+0069,Worry Seed
+0070,Acid Spray
+0070,Belch
+0070,Clear Smog
+0070,Encore
+0070,Ingrain
+0070,Leech Life
+0070,Magical Leaf
+0070,Power Whip
+0070,Strength Sap
+0070,Synthesis
+0070,Tickle
+0070,Weather Ball
+0070,Worry Seed
+0071,Leaf Storm
+0072,Acupressure
+0072,Aqua Ring
+0072,Aurora Beam
+0072,Confuse Ray
+0072,Haze
+0072,Knock Off
+0072,Mirror Coat
+0072,Rapid Spin
+0072,Tickle
+0073,Dazzling Gleam
+0073,Giga Impact
+0073,Hyper Beam
+0073,Ice Beam
+0073,Icy Wind
+0073,Poison Jab
+0073,Rest
+0073,Sludge Bomb
+0073,Water Pulse
+0074,Block
+0074,Curse
+0074,Dynamic Punch
+0074,Flail
+0074,Hammer Arm
+0074,Mega Punch
+0074,Wide Guard
+0074,Block
+0074,Curse
+0074,Dynamic Punch
+0074,Flail
+0074,Hammer Arm
+0074,Mega Punch
+0074,Wide Guard
+0075,Bulldoze
+0075,Earth Power
+0075,Fire Punch
+0075,Flamethrower
+0075,Rest
+0075,Rock Slide
+0075,Rock Smash
+0075,Stealth Rock
+0075,Stone Edge
+0075,Thunder Punch
+0075,Bulldoze
+0075,Earth Power
+0075,Fire Punch
+0075,Flamethrower
+0075,Rest
+0075,Rock Slide
+0075,Rock Smash
+0075,Stealth Rock
+0075,Stone Edge
+0075,Thunder Punch
+0076,Bulldoze
+0076,Earth Power
+0076,Fire Punch
+0076,Flamethrower
+0076,Giga Impact
+0076,Hyper Beam
+0076,Iron Head
+0076,Rest
+0076,Rock Slide
+0076,Rock Smash
+0076,Stealth Rock
+0076,Stone Edge
+0076,Thunder Punch
+0076,Bulldoze
+0076,Earth Power
+0076,Fire Punch
+0076,Flamethrower
+0076,Giga Impact
+0076,Hyper Beam
+0076,Iron Head
+0076,Rest
+0076,Rock Slide
+0076,Rock Smash
+0076,Stealth Rock
+0076,Stone Edge
+0076,Thunder Punch
+0077,Ally Switch
+0077,Charm
+0077,Double-Edge
+0077,Double Kick
+0077,Flame Wheel
+0077,High Horsepower
+0077,Horn Drill
+0077,Hypnosis
+0077,Low Kick
+0077,Morning Sun
+0077,Thrash
+0077,Ally Switch
+0077,Charm
+0077,Double-Edge
+0077,Double Kick
+0077,Flame Wheel
+0077,High Horsepower
+0077,Horn Drill
+0077,Hypnosis
+0077,Low Kick
+0077,Morning Sun
+0077,Thrash
+0078,Smart Strike
+0078,Smart Strike
+0079,Belch
+0079,Belly Drum
+0079,Block
+0079,Stomp
+0079,Belch
+0079,Belly Drum
+0079,Block
+0079,Stomp
+0080,Shell Side Arm
+0080,Shell Side Arm
+0080,Shell Side Arm
+0081,Electroweb
+0081,Explosion
+0082,Tri Attack
+0083,Covet
+0083,Curse
+0083,Feather Dance
+0083,Feint
+0083,Final Gambit
+0083,Flail
+0083,Gust
+0083,Leaf Blade
+0083,Mud-Slap
+0083,Night Slash
+0083,Quick Attack
+0083,Revenge
+0083,Simple Beam
+0083,Sky Attack
+0083,Covet
+0083,Curse
+0083,Feather Dance
+0083,Feint
+0083,Final Gambit
+0083,Flail
+0083,Gust
+0083,Leaf Blade
+0083,Mud-Slap
+0083,Night Slash
+0083,Quick Attack
+0083,Revenge
+0083,Simple Beam
+0083,Sky Attack
+0084,Assurance
+0084,Flail
+0084,Sky Attack
+0084,Whirlwind
+0085,Tri Attack
+0086,Belch
+0086,Disable
+0086,Entrainment
+0086,Fake Out
+0086,Horn Drill
+0086,Lick
+0086,Perish Song
+0086,Spit Up
+0086,Stockpile
+0086,Swallow
+0087,Sheer Cold
+0088,Acid Spray
+0088,Curse
+0088,Haze
+0088,Mean Look
+0088,Shadow Punch
+0088,Shadow Sneak
+0088,Spit Up
+0088,Stockpile
+0088,Swallow
+0088,Acid Spray
+0088,Curse
+0088,Haze
+0088,Mean Look
+0088,Shadow Punch
+0088,Shadow Sneak
+0088,Spit Up
+0088,Stockpile
+0088,Swallow
+0089,Acid Spray
+0089,Curse
+0089,Haze
+0089,Mean Look
+0089,Shadow Punch
+0089,Shadow Sneak
+0089,Spit Up
+0089,Stockpile
+0089,Swallow
+0089,Acid Spray
+0089,Curse
+0089,Haze
+0089,Mean Look
+0089,Shadow Punch
+0089,Shadow Sneak
+0089,Spit Up
+0089,Stockpile
+0089,Swallow
+0090,Aqua Ring
+0090,Bubble Beam
+0090,Life Dew
+0090,Water Pulse
+0091,Icicle Spear
+0092,Astonish
+0092,Clear Smog
+0092,Disable
+0092,Haze
+0092,Perish Song
+0092,Reflect Type
+0092,Smog
+0092,Toxic
+0093,Shadow Punch
+0094,Astonish
+0094,Clear Smog
+0094,Disable
+0094,Haze
+0094,Perish Song
+0094,Reflect Type
+0094,Smog
+0094,Toxic
+0094,Astonish
+0094,Clear Smog
+0094,Disable
+0094,Haze
+0094,Perish Song
+0094,Reflect Type
+0094,Smog
+0094,Toxic
+0095,Block
+0095,Defense Curl
+0095,Dragon Tail
+0095,Flail
+0095,Head Smash
+0095,Heavy Slam
+0095,Rock Blast
+0095,Rollout
+0095,Wide Guard
+0096,Fire Punch
+0096,Flatter
+0096,Guard Swap
+0096,Ice Punch
+0096,Power Split
+0096,Psycho Cut
+0096,Role Play
+0096,Thunder Punch
+0097,Fire Punch
+0097,Flatter
+0097,Guard Swap
+0097,Ice Punch
+0097,Power Split
+0097,Psycho Cut
+0097,Role Play
+0097,Thunder Punch
+0098,Agility
+0098,Ally Switch
+0098,Amnesia
+0098,Ancient Power
+0098,Flail
+0098,Hammer Arm
+0098,Haze
+0098,Knock Off
+0098,Night Slash
+0098,Slam
+0098,Slash
+0098,Tickle
+0099,Agility
+0099,Ally Switch
+0099,Amnesia
+0099,Ancient Power
+0099,Flail
+0099,Hammer Arm
+0099,Haze
+0099,Knock Off
+0099,Night Slash
+0099,Slam
+0099,Slash
+0099,Tickle
+0100,Metal Sound
+0100,Recycle
+0100,Metal Sound
+0100,Recycle
+0101,Chloroblast
+0101,Chloroblast
+0102,Ancient Power
+0102,Block
+0102,Curse
+0102,Ingrain
+0102,Moonlight
+0102,Poison Powder
+0102,Sleep Powder
+0102,Stun Spore
+0103,Stomp
+0103,Stomp
+0104,Ancient Power
+0104,Belly Drum
+0104,Curse
+0104,Detect
+0104,Double Kick
+0104,Iron Head
+0104,Leer
+0104,Perish Song
+0104,Screech
+0104,Skull Bash
+0105,Ancient Power
+0105,Belly Drum
+0105,Curse
+0105,Detect
+0105,Double Kick
+0105,Iron Head
+0105,Leer
+0105,Perish Song
+0105,Screech
+0105,Skull Bash
+0105,Ancient Power
+0105,Belly Drum
+0105,Curse
+0105,Detect
+0105,Double Kick
+0105,Iron Head
+0105,Leer
+0105,Perish Song
+0105,Screech
+0105,Skull Bash
+0106,Brick Break
+0107,Drain Punch
+0108,Amnesia
+0108,Belch
+0108,Belly Drum
+0108,Body Slam
+0108,Curse
+0108,Hammer Arm
+0108,Muddy Water
+0108,Snore
+0108,Thrash
+0108,Zen Headbutt
+0109,Curse
+0109,Pain Split
+0109,Spit Up
+0109,Spite
+0109,Stockpile
+0109,Swallow
+0110,Double Hit
+0110,Double Hit
+0111,Counter
+0111,Curse
+0111,Dragon Rush
+0111,Guard Split
+0111,Metal Burst
+0111,Rock Polish
+0112,Hammer Arm
+0113,Gravity
+0113,Heal Bell
+0113,Present
+0113,Seismic Toss
+0114,Amnesia
+0114,Confusion
+0114,Endeavor
+0114,Flail
+0114,Leaf Storm
+0114,Leech Seed
+0114,Mega Drain
+0114,Nature Power
+0114,Power Swap
+0114,Rage Powder
+0115,Circle Throw
+0115,Counter
+0115,Crush Claw
+0115,Disable
+0115,Double-Edge
+0115,Endeavor
+0115,Focus Energy
+0115,Hammer Arm
+0115,Stomp
+0115,Uproar
+0115,Circle Throw
+0115,Counter
+0115,Crush Claw
+0115,Disable
+0115,Double-Edge
+0115,Endeavor
+0115,Focus Energy
+0115,Hammer Arm
+0115,Stomp
+0115,Uproar
+0116,Aurora Beam
+0116,Clear Smog
+0116,Disable
+0116,Flail
+0116,Splash
+0117,Aurora Beam
+0117,Clear Smog
+0117,Disable
+0117,Dragon Breath
+0117,Flail
+0117,Muddy Water
+0117,Octazooka
+0117,Outrage
+0117,Splash
+0118,Acupressure
+0118,Aqua Tail
+0118,Body Slam
+0118,Haze
+0118,Hydro Pump
+0118,Mud Shot
+0118,Mud-Slap
+0118,Psybeam
+0118,Skull Bash
+0119,Acupressure
+0119,Aqua Tail
+0119,Body Slam
+0119,Haze
+0119,Hydro Pump
+0119,Mud Shot
+0119,Mud-Slap
+0119,Psybeam
+0119,Skull Bash
+0120,Flip Turn
+0121,Expanding Force
+0121,Flip Turn
+0121,Meteor Beam
+0122,Confuse Ray
+0122,Fake Out
+0122,Future Sight
+0122,Hypnosis
+0122,Icy Wind
+0122,Magic Room
+0122,Mimic
+0122,Power Split
+0122,Teeter Dance
+0122,Tickle
+0122,Trick
+0122,Confuse Ray
+0122,Fake Out
+0122,Future Sight
+0122,Hypnosis
+0122,Icy Wind
+0122,Magic Room
+0122,Mimic
+0122,Power Split
+0122,Teeter Dance
+0122,Tickle
+0122,Trick
+0123,Counter
+0123,Defog
+0123,Feint
+0123,Night Slash
+0123,Quick Guard
+0124,Fake Out
+0124,Ice Punch
+0124,Role Play
+0124,Wish
+0125,Charge Beam
+0125,Fire Punch
+0125,Giga Impact
+0125,Hyper Beam
+0125,Ice Punch
+0125,Iron Tail
+0125,Psychic
+0125,Rest
+0125,Rock Smash
+0125,Swift
+0125,Thunder Punch
+0125,Thunderbolt
+0125,Wild Charge
+0126,Fire Punch
+0126,Flamethrower
+0126,Focus Energy
+0126,Giga Impact
+0126,Hyper Beam
+0126,Iron Tail
+0126,Psychic
+0126,Rest
+0126,Rock Smash
+0126,Thunder Punch
+0127,Bug Bite
+0127,Close Combat
+0127,Feint
+0127,Flail
+0127,Fury Attack
+0127,Quick Attack
+0127,Superpower
+0127,Thrash
+0127,Bug Bite
+0127,Close Combat
+0127,Feint
+0127,Flail
+0127,Fury Attack
+0127,Quick Attack
+0127,Superpower
+0127,Thrash
+0128,Curse
+0128,Endeavor
+0128,Curse
+0128,Endeavor
+0128,Curse
+0128,Endeavor
+0128,Curse
+0128,Endeavor
+0130,Bite
+0130,Bite
+0131,Ancient Power
+0131,Curse
+0131,Fissure
+0131,Freeze-Dry
+0131,Horn Drill
+0131,Sparkling Aria
+0131,Tickle
+0133,Curse
+0133,Detect
+0133,Double Kick
+0133,Flail
+0133,Mud-Slap
+0133,Tickle
+0133,Wish
+0133,Yawn
+0133,Curse
+0133,Detect
+0133,Double Kick
+0133,Flail
+0133,Mud-Slap
+0133,Tickle
+0133,Wish
+0133,Yawn
+0134,Water Gun
+0135,Thunder Shock
+0136,Ember
+0137,Aerial Ace
+0137,Giga Impact
+0137,Hyper Beam
+0137,Ice Beam
+0137,Icy Wind
+0137,Iron Tail
+0137,Psychic
+0137,Rest
+0137,Shadow Ball
+0137,Swift
+0137,Thunderbolt
+0137,Tri Attack
+0137,Zen Headbutt
+0138,Aurora Beam
+0138,Bite
+0138,Bubble Beam
+0138,Haze
+0138,Knock Off
+0138,Muddy Water
+0138,Reflect Type
+0138,Slam
+0138,Spikes
+0138,Supersonic
+0138,Tickle
+0138,Toxic Spikes
+0138,Whirlpool
+0139,Crunch
+0140,Aurora Beam
+0140,Bubble Beam
+0140,Confuse Ray
+0140,Flail
+0140,Icy Wind
+0140,Knock Off
+0140,Mega Drain
+0140,Mud Shot
+0140,Rapid Spin
+0140,Screech
+0140,Take Down
+0141,Slash
+0142,Assurance
+0142,Curse
+0142,Dragon Breath
+0142,Tailwind
+0142,Whirlwind
+0142,Wide Guard
+0142,Assurance
+0142,Curse
+0142,Dragon Breath
+0142,Tailwind
+0142,Whirlwind
+0142,Wide Guard
+0143,Bulldoze
+0143,Fire Punch
+0143,Flamethrower
+0143,Giga Impact
+0143,High Horsepower
+0143,Hyper Beam
+0143,Ice Ball
+0143,Ice Beam
+0143,Ice Punch
+0143,Icy Wind
+0143,Iron Head
+0143,Outrage
+0143,Psychic
+0143,Rest
+0143,Rock Slide
+0143,Rock Smash
+0143,Shadow Ball
+0143,Thunder Punch
+0143,Thunderbolt
+0143,Water Pulse
+0143,Wild Charge
+0143,Zen Headbutt
+0147,Aqua Jet
+0147,Dragon Breath
+0147,Extreme Speed
+0147,Mist
+0147,Supersonic
+0147,Water Pulse
+0148,Aqua Jet
+0148,Dragon Breath
+0148,Extreme Speed
+0148,Mist
+0148,Supersonic
+0148,Water Pulse
+0149,Hurricane
+0152,Ancient Power
+0152,Counter
+0152,Flail
+0152,Heal Pulse
+0152,Ingrain
+0152,Vine Whip
+0153,Ancient Power
+0153,Aromatherapy
+0153,Body Slam
+0153,Counter
+0153,Flail
+0153,Grassy Terrain
+0153,Heal Pulse
+0153,Ingrain
+0153,Leaf Storm
+0153,Leech Seed
+0153,Nature Power
+0153,Vine Whip
+0154,Petal Dance
+0155,Covet
+0155,Curse
+0155,Double Kick
+0155,Extrasensory
+0155,Howl
+0155,Reversal
+0156,Covet
+0156,Curse
+0156,Double Kick
+0156,Extrasensory
+0156,Howl
+0156,Reversal
+0157,Infernal Parade
+0157,Infernal Parade
+0158,Ancient Power
+0158,Aqua Jet
+0158,Block
+0158,Counter
+0158,Flatter
+0159,Ancient Power
+0159,Aqua Jet
+0159,Block
+0159,Crunch
+0159,Dragon Dance
+0159,Fake Tears
+0159,Flatter
+0159,Hydro Pump
+0159,Ice Punch
+0159,Metal Claw
+0159,Thrash
+0160,Ancient Power
+0160,Aqua Jet
+0160,Block
+0160,Crunch
+0160,Dragon Dance
+0160,Fake Tears
+0160,Flatter
+0160,Hydro Pump
+0160,Ice Punch
+0160,Metal Claw
+0160,Thrash
+0161,Baby-Doll Eyes
+0161,Focus Energy
+0161,Last Resort
+0161,Reversal
+0161,Slash
+0161,Tidy Up
+0162,Agility
+0163,Feather Dance
+0163,Night Shade
+0163,Supersonic
+0163,Whirlwind
+0163,Wing Attack
+0164,Agility
+0164,Feather Dance
+0164,Hurricane
+0164,Mean Look
+0164,Night Shade
+0164,Sky Attack
+0164,Supersonic
+0164,Whirlwind
+0164,Wing Attack
+0165,Bug Bite
+0165,Counter
+0165,Encore
+0165,Knock Off
+0165,Psybeam
+0165,Screech
+0165,Tailwind
+0166,Bug Bite
+0166,Counter
+0166,Encore
+0166,Knock Off
+0166,Psybeam
+0166,Screech
+0166,Tailwind
+0167,Disable
+0167,Lunge
+0167,Megahorn
+0167,Night Slash
+0167,Rage Powder
+0168,Swords Dance
+0169,Cross Poison
+0170,Mist
+0170,Psybeam
+0170,Soak
+0170,Sucker Punch
+0170,Water Pulse
+0171,Spit Up
+0171,Stockpile
+0171,Swallow
+0172,Charge
+0172,Disarming Voice
+0172,Fake Out
+0172,Flail
+0172,Present
+0172,Tickle
+0172,Wish
+0173,Heal Pulse
+0173,Present
+0173,Tickle
+0173,Wish
+0174,Covet
+0174,Gravity
+0174,Heal Pulse
+0174,Last Resort
+0174,Perish Song
+0174,Present
+0174,Rollout
+0174,Wish
+0175,Extrasensory
+0175,Future Sight
+0175,Morning Sun
+0175,Peck
+0175,Present
+0175,Psycho Shift
+0175,Stored Power
+0176,Fairy Wind
+0177,Ally Switch
+0177,Drill Peck
+0177,Feather Dance
+0177,Haze
+0177,Quick Attack
+0177,Simple Beam
+0177,Sucker Punch
+0177,Zen Headbutt
+0178,Air Slash
+0179,After You
+0179,Agility
+0179,Eerie Impulse
+0179,Electric Terrain
+0179,Electroweb
+0179,Flatter
+0180,After You
+0180,Agility
+0180,Eerie Impulse
+0180,Electric Terrain
+0180,Electroweb
+0180,Flatter
+0181,Thunder Punch
+0181,Thunder Punch
+0182,Petal Blizzard
+0183,Aqua Jet
+0183,Belly Drum
+0183,Copycat
+0183,Perish Song
+0183,Present
+0183,Sing
+0183,Soak
+0183,Supersonic
+0183,Tickle
+0184,Aqua Jet
+0184,Belly Drum
+0184,Copycat
+0184,Perish Song
+0184,Present
+0184,Sing
+0184,Soak
+0184,Supersonic
+0184,Tickle
+0185,Slam
+0186,Bounce
+0187,Cotton Guard
+0187,Encore
+0187,Grassy Terrain
+0187,Rage Powder
+0187,Seed Bomb
+0187,Strength Sap
+0187,Switcheroo
+0187,Worry Seed
+0188,Cotton Guard
+0188,Encore
+0188,Grassy Terrain
+0188,Rage Powder
+0188,Seed Bomb
+0188,Strength Sap
+0188,Switcheroo
+0188,Worry Seed
+0189,Cotton Guard
+0189,Encore
+0189,Grassy Terrain
+0189,Rage Powder
+0189,Seed Bomb
+0189,Strength Sap
+0189,Switcheroo
+0189,Worry Seed
+0190,Beat Up
+0190,Bounce
+0190,Counter
+0190,Covet
+0190,Fake Out
+0190,Iron Tail
+0190,Quick Guard
+0190,Slam
+0190,Switcheroo
+0191,Curse
+0191,Encore
+0191,Grassy Terrain
+0191,Ingrain
+0191,Leech Seed
+0191,Morning Sun
+0192,Curse
+0192,Encore
+0192,Grassy Terrain
+0192,Ingrain
+0192,Leech Seed
+0192,Morning Sun
+0193,Double-Edge
+0193,Feint
+0193,Whirlwind
+0194,Acid Spray
+0194,After You
+0194,Ancient Power
+0194,Counter
+0194,Curse
+0194,Double Kick
+0194,Recover
+0194,Spit Up
+0194,Stockpile
+0194,Swallow
+0194,Acid Spray
+0194,After You
+0194,Ancient Power
+0194,Counter
+0194,Curse
+0194,Double Kick
+0194,Recover
+0194,Spit Up
+0194,Stockpile
+0194,Swallow
+0195,Acid Spray
+0195,After You
+0195,Ancient Power
+0195,Counter
+0195,Curse
+0195,Double Kick
+0195,Recover
+0195,Spit Up
+0195,Stockpile
+0195,Swallow
+0196,Confusion
+0197,Snarl
+0198,Brave Bird
+0198,Confuse Ray
+0198,Drill Peck
+0198,Feather Dance
+0198,Flatter
+0198,Perish Song
+0198,Screech
+0198,Sky Attack
+0198,Whirlwind
+0199,Eerie Spell
+0199,Eerie Spell
+0200,Curse
+0200,Destiny Bond
+0200,Imprison
+0200,Memento
+0200,Screech
+0200,Shadow Sneak
+0200,Spite
+0200,Sucker Punch
+0200,Wonder Room
+0202,Counter
+0202,Destiny Bond
+0202,Mirror Coat
+0202,Safeguard
+0203,Ally Switch
+0203,Beat Up
+0203,Double Kick
+0203,Future Sight
+0203,Mean Look
+0203,Mirror Coat
+0203,Take Down
+0203,Uproar
+0203,Wish
+0204,Counter
+0204,Flail
+0204,Pin Missile
+0204,Power Trick
+0204,Sand Tomb
+0204,Swift
+0204,Toxic Spikes
+0205,Heavy Slam
+0206,Aqua Tail
+0206,Astonish
+0206,Bite
+0206,Curse
+0206,Headbutt
+0206,Last Resort
+0207,Counter
+0207,Cross Poison
+0207,Double-Edge
+0207,Feint
+0207,Night Slash
+0207,Wing Attack
+0208,Block
+0208,Defense Curl
+0208,Dragon Tail
+0208,Flail
+0208,Head Smash
+0208,Heavy Slam
+0208,Rock Blast
+0208,Rollout
+0208,Wide Guard
+0208,Block
+0208,Defense Curl
+0208,Dragon Tail
+0208,Flail
+0208,Head Smash
+0208,Heavy Slam
+0208,Rock Blast
+0208,Rollout
+0208,Wide Guard
+0209,Counter
+0209,Mimic
+0209,Present
+0209,Retaliate
+0209,Snore
+0210,Close Combat
+0210,Crunch
+0210,Double-Edge
+0210,Fake Tears
+0210,Fire Fang
+0210,Heal Bell
+0210,Ice Fang
+0210,Metronome
+0210,Mimic
+0210,Present
+0210,Snore
+0210,Thunder Fang
+0211,Acid Spray
+0211,Aqua Jet
+0211,Astonish
+0211,Barb Barrage
+0211,Bubble Beam
+0211,Flail
+0211,Haze
+0211,Self-Destruct
+0211,Supersonic
+0211,Water Pulse
+0211,Acid Spray
+0211,Aqua Jet
+0211,Astonish
+0211,Barb Barrage
+0211,Bubble Beam
+0211,Flail
+0211,Haze
+0211,Self-Destruct
+0211,Supersonic
+0211,Water Pulse
+0212,Bullet Punch
+0212,Bullet Punch
+0213,Acid
+0213,Acupressure
+0213,Covet
+0213,Defense Curl
+0213,Final Gambit
+0213,Helping Hand
+0213,Infestation
+0213,Knock Off
+0213,Mud-Slap
+0213,Rock Blast
+0213,Sand Tomb
+0213,Sweet Scent
+0214,Double-Edge
+0214,Feint
+0214,Flail
+0214,Harden
+0214,Night Slash
+0214,Seismic Toss
+0214,Double-Edge
+0214,Feint
+0214,Flail
+0214,Harden
+0214,Night Slash
+0214,Seismic Toss
+0215,Bite
+0215,Counter
+0215,Double Hit
+0215,Fake Out
+0215,Feint
+0215,Ice Shard
+0215,Icicle Crash
+0215,Spite
+0215,Bite
+0215,Counter
+0215,Double Hit
+0215,Fake Out
+0215,Feint
+0215,Ice Shard
+0215,Icicle Crash
+0215,Spite
+0216,Belly Drum
+0216,Close Combat
+0216,Counter
+0216,Cross Chop
+0216,Crunch
+0216,Double-Edge
+0216,Fake Tears
+0216,Fury Cutter
+0216,Metal Claw
+0216,Night Slash
+0216,Seismic Toss
+0216,Yawn
+0217,Belly Drum
+0217,Close Combat
+0217,Counter
+0217,Cross Chop
+0217,Crunch
+0217,Double-Edge
+0217,Fake Tears
+0217,Fury Cutter
+0217,Metal Claw
+0217,Night Slash
+0217,Seismic Toss
+0217,Yawn
+0218,Acid Armor
+0218,Curse
+0218,Guard Swap
+0218,Inferno
+0218,Memento
+0218,Rollout
+0218,Smokescreen
+0218,Stockpile
+0219,Shell Smash
+0220,Ancient Power
+0220,Bite
+0220,Curse
+0220,Double-Edge
+0220,Fissure
+0220,Freeze-Dry
+0220,Icicle Crash
+0221,Ice Fang
+0222,Amnesia
+0222,Aqua Ring
+0222,Confuse Ray
+0222,Curse
+0222,Head Smash
+0222,Icicle Spear
+0222,Ingrain
+0222,Liquidation
+0222,Mist
+0222,Nature Power
+0222,Screech
+0222,Amnesia
+0222,Aqua Ring
+0222,Confuse Ray
+0222,Curse
+0222,Head Smash
+0222,Icicle Spear
+0222,Ingrain
+0222,Liquidation
+0222,Mist
+0222,Nature Power
+0222,Screech
+0223,Acid Spray
+0223,Aurora Beam
+0223,Entrainment
+0223,Flail
+0223,Haze
+0223,Mud Shot
+0223,Octazooka
+0223,Rock Blast
+0223,Screech
+0223,Snore
+0223,Supersonic
+0223,Swift
+0223,Water Spout
+0224,Octazooka
+0225,Aurora Beam
+0225,Aurora Veil
+0225,Counter
+0225,Destiny Bond
+0225,Fake Out
+0225,Freeze-Dry
+0225,Ice Shard
+0225,Memento
+0225,Quick Attack
+0225,Rapid Spin
+0225,Splash
+0226,Amnesia
+0226,Confuse Ray
+0226,Haze
+0226,Hydro Pump
+0226,Mirror Coat
+0226,Slam
+0226,Splash
+0226,Tailwind
+0226,Twister
+0226,Wide Guard
+0227,Air Cutter
+0227,Curse
+0227,Feint
+0227,Night Slash
+0227,Roost
+0227,Sky Attack
+0227,Whirlwind
+0228,Counter
+0228,Destiny Bond
+0228,Feint
+0228,Fire Spin
+0228,Reversal
+0228,Spite
+0228,Sucker Punch
+0228,Thunder Fang
+0229,Counter
+0229,Destiny Bond
+0229,Feint
+0229,Fire Spin
+0229,Reversal
+0229,Spite
+0229,Sucker Punch
+0229,Thunder Fang
+0229,Counter
+0229,Destiny Bond
+0229,Feint
+0229,Fire Spin
+0229,Reversal
+0229,Spite
+0229,Sucker Punch
+0229,Thunder Fang
+0230,Aurora Beam
+0230,Clear Smog
+0230,Disable
+0230,Dragon Breath
+0230,Flail
+0230,Muddy Water
+0230,Octazooka
+0230,Outrage
+0230,Splash
+0231,Ancient Power
+0231,Body Slam
+0231,Counter
+0231,Endeavor
+0231,Fissure
+0231,Focus Energy
+0231,Head Smash
+0231,Heavy Slam
+0231,High Horsepower
+0231,Ice Shard
+0231,Play Rough
+0231,Snore
+0232,Fury Attack
+0233,Aerial Ace
+0233,Charge Beam
+0233,Giga Impact
+0233,Hyper Beam
+0233,Ice Beam
+0233,Icy Wind
+0233,Iron Tail
+0233,Psychic
+0233,Rest
+0233,Shadow Ball
+0233,Swift
+0233,Thunderbolt
+0233,Tri Attack
+0233,Zen Headbutt
+0234,Bite
+0234,Disable
+0234,Double Kick
+0234,Extrasensory
+0234,Megahorn
+0234,Psyshield Bash
+0234,Spite
+0234,Thrash
+0236,Bullet Punch
+0236,Counter
+0236,Feint
+0236,High Jump Kick
+0236,Mach Punch
+0236,Rapid Spin
+0236,Vacuum Wave
+0237,Triple Kick
+0238,Fake Out
+0238,Ice Punch
+0238,Role Play
+0238,Wish
+0239,Cross Chop
+0239,Dynamic Punch
+0239,Feint
+0239,Focus Punch
+0239,Follow Me
+0239,Hammer Arm
+0240,Belch
+0240,Belly Drum
+0240,Cross Chop
+0240,Dynamic Punch
+0240,Focus Punch
+0240,Follow Me
+0240,Mach Punch
+0241,Belch
+0241,Curse
+0241,Double-Edge
+0241,Hammer Arm
+0241,Helping Hand
+0241,Present
+0241,Reversal
+0241,Seismic Toss
+0242,Gravity
+0242,Heal Bell
+0242,Present
+0242,Seismic Toss
+0244,Extreme Speed
+0244,Sacred Fire
+0245,Extreme Speed
+0245,Sheer Cold
+0246,Ancient Power
+0246,Assurance
+0246,Curse
+0246,Dragon Dance
+0246,Focus Energy
+0246,Iron Defense
+0246,Iron Head
+0246,Outrage
+0246,Stomp
+0247,Iron Defense
+0248,Ancient Power
+0248,Assurance
+0248,Curse
+0248,Dragon Dance
+0248,Focus Energy
+0248,Iron Defense
+0248,Iron Head
+0248,Outrage
+0248,Stomp
+0248,Ancient Power
+0248,Assurance
+0248,Curse
+0248,Dragon Dance
+0248,Focus Energy
+0248,Iron Defense
+0248,Iron Head
+0248,Outrage
+0248,Stomp
+0249,Dragon Rush
+0251,Dual Wingbeat
+0251,Expanding Force
+0251,Grassy Glide
+0252,Absorb
+0252,Double Kick
+0252,Dragon Breath
+0252,Leech Seed
+0252,Night Slash
+0252,Slash
+0252,Synthesis
+0252,Worry Seed
+0253,Energy Ball
+0253,False Swipe
+0253,Fury Cutter
+0253,X-Scissor
+0254,Leaf Blade
+0254,Leaf Blade
+0255,Counter
+0255,Crush Claw
+0255,Feint
+0255,Last Resort
+0255,Night Slash
+0255,Peck
+0256,Double Kick
+0257,Blaze Kick
+0257,Blaze Kick
+0258,Ancient Power
+0258,Bite
+0258,Counter
+0258,Curse
+0258,Double-Edge
+0258,Mirror Coat
+0258,Mud-Slap
+0258,Sludge
+0258,Stomp
+0258,Wide Guard
+0258,Yawn
+0259,Mud Shot
+0260,Earthquake
+0260,Hammer Arm
+0260,Rock Smash
+0260,Surf
+0260,Earthquake
+0260,Hammer Arm
+0260,Rock Smash
+0260,Surf
+0261,Astonish
+0261,Covet
+0261,Poison Fang
+0262,Snarl
+0263,Charm
+0263,Extreme Speed
+0263,Helping Hand
+0263,Mud-Slap
+0263,Simple Beam
+0263,Tickle
+0263,Trick
+0263,Charm
+0263,Extreme Speed
+0263,Helping Hand
+0263,Mud-Slap
+0263,Simple Beam
+0263,Tickle
+0263,Trick
+0264,Slash
+0264,Slash
+0266,Harden
+0267,Gust
+0268,Harden
+0269,Gust
+0270,Counter
+0270,Razor Leaf
+0270,Sweet Scent
+0270,Synthesis
+0270,Teeter Dance
+0270,Tickle
+0271,Counter
+0271,Flail
+0271,Leech Seed
+0271,Razor Leaf
+0271,Sweet Scent
+0271,Synthesis
+0271,Teeter Dance
+0271,Tickle
+0271,Water Gun
+0272,Absorb
+0272,Astonish
+0272,Energy Ball
+0272,Flail
+0272,Fury Swipes
+0272,Growl
+0272,Hydro Pump
+0272,Knock Off
+0272,Mega Drain
+0272,Mist
+0272,Teeter Dance
+0272,Water Gun
+0272,Zen Headbutt
+0273,Defog
+0273,Leech Seed
+0273,Night Slash
+0273,Quick Attack
+0273,Take Down
+0273,Worry Seed
+0274,Razor Leaf
+0275,Leaf Blade
+0276,Boomburst
+0276,Brave Bird
+0276,Hurricane
+0276,Sky Attack
+0276,Supersonic
+0276,Whirlwind
+0277,Boomburst
+0277,Brave Bird
+0277,Hurricane
+0277,Sky Attack
+0277,Supersonic
+0277,Whirlwind
+0278,Aerial Ace
+0278,Air Cutter
+0278,Aqua Ring
+0278,Gust
+0278,Knock Off
+0278,Soak
+0278,Twister
+0278,Wide Guard
+0279,Aerial Ace
+0279,Air Cutter
+0279,Aqua Ring
+0279,Gust
+0279,Knock Off
+0279,Soak
+0279,Twister
+0279,Wide Guard
+0280,Confuse Ray
+0280,Destiny Bond
+0280,Disable
+0280,Knock Off
+0280,Mean Look
+0280,Memento
+0280,Mystical Fire
+0280,Shadow Sneak
+0281,Confuse Ray
+0281,Destiny Bond
+0281,Disable
+0281,Knock Off
+0281,Mean Look
+0281,Memento
+0281,Mystical Fire
+0281,Shadow Sneak
+0282,Dazzling Gleam
+0282,Dazzling Gleam
+0283,Aqua Jet
+0283,Bug Bite
+0283,Fell Stinger
+0283,Hydro Pump
+0283,Lunge
+0283,Mud Shot
+0283,Power Split
+0283,Psybeam
+0284,Aqua Jet
+0284,Bug Bite
+0284,Fell Stinger
+0284,Hydro Pump
+0284,Lunge
+0284,Mud Shot
+0284,Power Split
+0284,Psybeam
+0285,Charm
+0285,Fake Tears
+0285,Helping Hand
+0285,Worry Seed
+0286,Mach Punch
+0287,After You
+0287,Body Slam
+0287,Crush Claw
+0287,Curse
+0287,Hammer Arm
+0287,Night Slash
+0287,Slash
+0287,Snore
+0287,Tickle
+0288,After You
+0288,Body Slam
+0288,Crush Claw
+0288,Curse
+0288,Hammer Arm
+0288,Night Slash
+0288,Slash
+0288,Snore
+0288,Tickle
+0289,Swagger
+0290,Bug Bite
+0290,Final Gambit
+0290,Flail
+0290,Gust
+0290,Night Slash
+0291,Double Team
+0291,Fury Cutter
+0291,Screech
+0292,Bug Bite
+0292,Final Gambit
+0292,Flail
+0292,Gust
+0292,Night Slash
+0293,Circle Throw
+0293,Disarming Voice
+0293,Endeavor
+0293,Extrasensory
+0293,Fake Tears
+0293,Hammer Arm
+0293,Smokescreen
+0293,Snore
+0293,Take Down
+0293,Whirlwind
+0294,Bite
+0295,Crunch
+0296,Bullet Punch
+0296,Counter
+0296,Cross Chop
+0296,Dynamic Punch
+0296,Feint
+0296,Helping Hand
+0296,Wide Guard
+0297,Bullet Punch
+0297,Counter
+0297,Cross Chop
+0297,Dynamic Punch
+0297,Feint
+0297,Helping Hand
+0297,Wide Guard
+0298,Aqua Jet
+0298,Belly Drum
+0298,Copycat
+0298,Perish Song
+0298,Present
+0298,Sing
+0298,Soak
+0298,Supersonic
+0298,Tickle
+0299,Double-Edge
+0299,Head Smash
+0299,Rollout
+0299,Wide Guard
+0300,Baton Pass
+0300,Cosmic Power
+0300,Fake Out
+0300,Fake Tears
+0300,Helping Hand
+0300,Last Resort
+0300,Simple Beam
+0300,Sucker Punch
+0300,Tickle
+0300,Uproar
+0300,Wish
+0300,Zen Headbutt
+0301,Baton Pass
+0301,Cosmic Power
+0301,Fake Out
+0301,Fake Tears
+0301,Helping Hand
+0301,Last Resort
+0301,Simple Beam
+0301,Sucker Punch
+0301,Tickle
+0301,Uproar
+0301,Wish
+0301,Zen Headbutt
+0302,Feint
+0302,Flatter
+0302,Metal Burst
+0302,Recover
+0302,Sucker Punch
+0302,Torment
+0302,Feint
+0302,Flatter
+0302,Metal Burst
+0302,Recover
+0302,Sucker Punch
+0302,Torment
+0303,Ancient Power
+0303,Fire Fang
+0303,Guard Swap
+0303,Ice Fang
+0303,Metal Burst
+0303,Misty Terrain
+0303,Poison Fang
+0303,Power-Up Punch
+0303,Seismic Toss
+0303,Slam
+0303,Sucker Punch
+0303,Thunder Fang
+0303,Tickle
+0303,Ancient Power
+0303,Fire Fang
+0303,Guard Swap
+0303,Ice Fang
+0303,Metal Burst
+0303,Misty Terrain
+0303,Poison Fang
+0303,Power-Up Punch
+0303,Seismic Toss
+0303,Slam
+0303,Sucker Punch
+0303,Thunder Fang
+0303,Tickle
+0304,Body Slam
+0304,Curse
+0304,Dragon Rush
+0304,Endeavor
+0304,Head Smash
+0304,Iron Head
+0304,Mud-Slap
+0304,Reversal
+0304,Screech
+0304,Stomp
+0304,Superpower
+0305,Body Slam
+0305,Curse
+0305,Dragon Rush
+0305,Endeavor
+0305,Head Smash
+0305,Iron Head
+0305,Mud-Slap
+0305,Reversal
+0305,Screech
+0305,Stomp
+0305,Superpower
+0306,Body Slam
+0306,Curse
+0306,Dragon Rush
+0306,Endeavor
+0306,Head Smash
+0306,Iron Head
+0306,Mud-Slap
+0306,Reversal
+0306,Screech
+0306,Stomp
+0306,Superpower
+0306,Body Slam
+0306,Curse
+0306,Dragon Rush
+0306,Endeavor
+0306,Head Smash
+0306,Iron Head
+0306,Mud-Slap
+0306,Reversal
+0306,Screech
+0306,Stomp
+0306,Superpower
+0307,Baton Pass
+0307,Bullet Punch
+0307,Dynamic Punch
+0307,Fake Out
+0307,Fire Punch
+0307,Guard Swap
+0307,Ice Punch
+0307,Power Swap
+0307,Psycho Cut
+0307,Quick Guard
+0307,Thunder Punch
+0308,Baton Pass
+0308,Bullet Punch
+0308,Dynamic Punch
+0308,Fake Out
+0308,Fire Punch
+0308,Guard Swap
+0308,Ice Punch
+0308,Power Swap
+0308,Psycho Cut
+0308,Quick Guard
+0308,Thunder Punch
+0308,Baton Pass
+0308,Bullet Punch
+0308,Dynamic Punch
+0308,Fake Out
+0308,Fire Punch
+0308,Guard Swap
+0308,Ice Punch
+0308,Power Swap
+0308,Psycho Cut
+0308,Quick Guard
+0308,Thunder Punch
+0309,Crunch
+0309,Curse
+0309,Discharge
+0309,Eerie Impulse
+0309,Electro Ball
+0309,Fire Fang
+0309,Headbutt
+0309,Ice Fang
+0309,Spark
+0309,Swift
+0309,Switcheroo
+0309,Thunder Fang
+0309,Uproar
+0310,Crunch
+0310,Curse
+0310,Discharge
+0310,Eerie Impulse
+0310,Electro Ball
+0310,Fire Fang
+0310,Headbutt
+0310,Ice Fang
+0310,Spark
+0310,Swift
+0310,Switcheroo
+0310,Thunder Fang
+0310,Uproar
+0310,Crunch
+0310,Curse
+0310,Discharge
+0310,Eerie Impulse
+0310,Electro Ball
+0310,Fire Fang
+0310,Headbutt
+0310,Ice Fang
+0310,Spark
+0310,Swift
+0310,Switcheroo
+0310,Thunder Fang
+0310,Uproar
+0311,Nuzzle
+0312,Nuzzle
+0313,Counter
+0313,Roost
+0313,Seismic Toss
+0313,Swagger
+0314,Attract
+0314,Growth
+0314,Roost
+0315,Poison Sting
+0316,Acid Armor
+0316,Clear Smog
+0316,Curse
+0316,Destiny Bond
+0316,Mud-Slap
+0316,Smog
+0316,Stuff Cheeks
+0317,Body Slam
+0318,Ancient Power
+0318,Destiny Bond
+0318,Double-Edge
+0318,Hydro Pump
+0318,Swift
+0318,Thrash
+0319,Slash
+0319,Slash
+0320,Aqua Ring
+0320,Body Slam
+0320,Clear Smog
+0320,Curse
+0320,Defense Curl
+0320,Double-Edge
+0320,Fissure
+0320,Rollout
+0320,Snore
+0320,Soak
+0320,Thrash
+0320,Tickle
+0320,Zen Headbutt
+0321,Aqua Ring
+0321,Body Slam
+0321,Clear Smog
+0321,Curse
+0321,Defense Curl
+0321,Double-Edge
+0321,Fissure
+0321,Rollout
+0321,Snore
+0321,Soak
+0321,Thrash
+0321,Tickle
+0321,Zen Headbutt
+0322,Ancient Power
+0322,Body Slam
+0322,Defense Curl
+0322,Growth
+0322,Heat Wave
+0322,Heavy Slam
+0322,Howl
+0322,Iron Head
+0322,Rollout
+0322,Scary Face
+0322,Spit Up
+0322,Stockpile
+0322,Stomp
+0322,Swallow
+0322,Yawn
+0323,Rock Slide
+0323,Rock Slide
+0324,Ancient Power
+0324,Fissure
+0324,Flail
+0324,Yawn
+0325,Amnesia
+0325,Extrasensory
+0325,Future Sight
+0325,Mirror Coat
+0325,Simple Beam
+0325,Trick
+0325,Whirlwind
+0325,Zen Headbutt
+0326,Teeter Dance
+0327,Baton Pass
+0327,Disable
+0327,Encore
+0327,Fake Out
+0327,Fake Tears
+0327,Guard Split
+0327,Icy Wind
+0327,Psycho Cut
+0327,Psycho Shift
+0327,Rapid Spin
+0327,Role Play
+0327,Trick
+0327,Wish
+0328,Bug Bite
+0328,Feint
+0328,First Impression
+0328,Flail
+0328,Fury Cutter
+0328,Gust
+0328,Quick Attack
+0329,Dragon Breath
+0330,Dragon Claw
+0331,Acid
+0331,Belch
+0331,Block
+0331,Counter
+0331,Disable
+0331,Dynamic Punch
+0331,Fell Stinger
+0331,Low Kick
+0331,Magical Leaf
+0331,Power-Up Punch
+0331,Seed Bomb
+0331,Switcheroo
+0331,Teeter Dance
+0331,Worry Seed
+0332,Spiky Shield
+0333,Astonish
+0333,Defog
+0333,Dragon Rush
+0333,Feather Dance
+0333,Haze
+0333,Roost
+0333,Tailwind
+0334,Dragon Pulse
+0334,Dragon Pulse
+0335,Belly Drum
+0335,Counter
+0335,Curse
+0335,Disable
+0335,Double Hit
+0335,Double Kick
+0335,Feint
+0335,Final Gambit
+0335,Flail
+0335,Fury Swipes
+0335,Night Slash
+0335,Quick Guard
+0336,Assurance
+0336,Body Slam
+0336,Final Gambit
+0336,Night Slash
+0336,Scary Face
+0336,Spit Up
+0336,Stockpile
+0336,Swallow
+0336,Switcheroo
+0337,Meteor Beam
+0338,Meteor Beam
+0339,Flail
+0339,Spark
+0339,Take Down
+0339,Thrash
+0340,Thrash
+0341,Ancient Power
+0341,Aqua Jet
+0341,Double-Edge
+0341,Metal Claw
+0341,Slash
+0341,Switcheroo
+0342,Swift
+0343,Expanding Force
+0343,Scorching Sands
+0344,Hyper Beam
+0345,Bind
+0345,Curse
+0345,Mega Drain
+0345,Mirror Coat
+0345,Recover
+0345,Tickle
+0346,Bind
+0346,Curse
+0346,Mega Drain
+0346,Mirror Coat
+0346,Recover
+0346,Tickle
+0347,Aqua Jet
+0347,Cross Poison
+0347,Curse
+0347,Iron Defense
+0347,Knock Off
+0347,Rapid Spin
+0347,Sand Attack
+0347,Screech
+0348,Aqua Jet
+0348,Cross Poison
+0348,Curse
+0348,Iron Defense
+0348,Knock Off
+0348,Rapid Spin
+0348,Sand Attack
+0348,Screech
+0349,Confuse Ray
+0349,Dragon Breath
+0349,Haze
+0349,Hypnosis
+0349,Mirror Coat
+0349,Mist
+0349,Tickle
+0350,Water Pulse
+0351,Amnesia
+0351,Clear Smog
+0351,Cosmic Power
+0351,Disable
+0351,Future Sight
+0351,Guard Swap
+0351,Hex
+0351,Reflect Type
+0351,Amnesia
+0351,Clear Smog
+0351,Cosmic Power
+0351,Disable
+0351,Future Sight
+0351,Guard Swap
+0351,Hex
+0351,Reflect Type
+0351,Amnesia
+0351,Clear Smog
+0351,Cosmic Power
+0351,Disable
+0351,Future Sight
+0351,Guard Swap
+0351,Hex
+0351,Reflect Type
+0351,Amnesia
+0351,Clear Smog
+0351,Cosmic Power
+0351,Disable
+0351,Future Sight
+0351,Guard Swap
+0351,Hex
+0351,Reflect Type
+0352,Disable
+0352,Fake Out
+0352,Foul Play
+0352,Magic Coat
+0352,Power-Up Punch
+0352,Recover
+0352,Trick
+0353,Confuse Ray
+0353,Destiny Bond
+0353,Disable
+0353,Gunk Shot
+0353,Imprison
+0354,Knock Off
+0354,Knock Off
+0355,Haze
+0355,Memento
+0355,Pain Split
+0356,Shadow Punch
+0357,Curse
+0357,Dragon Dance
+0357,Headbutt
+0357,Leaf Blade
+0357,Leech Seed
+0357,Slam
+0358,Calm Mind
+0358,Charge Beam
+0358,Dazzling Gleam
+0358,Energy Ball
+0358,Icy Wind
+0358,Ominous Wind
+0358,Psychic
+0358,Rest
+0358,Shadow Ball
+0358,Swift
+0358,Zen Headbutt
+0359,Assurance
+0359,Baton Pass
+0359,Bite
+0359,Curse
+0359,Double-Edge
+0359,Feint
+0359,Hex
+0359,Magic Coat
+0359,Mean Look
+0359,Megahorn
+0359,Perish Song
+0359,Play Rough
+0359,Sucker Punch
+0359,Zen Headbutt
+0359,Assurance
+0359,Baton Pass
+0359,Bite
+0359,Curse
+0359,Double-Edge
+0359,Feint
+0359,Hex
+0359,Magic Coat
+0359,Mean Look
+0359,Megahorn
+0359,Perish Song
+0359,Play Rough
+0359,Sucker Punch
+0359,Zen Headbutt
+0361,Block
+0361,Disable
+0361,Icicle Crash
+0361,Rollout
+0361,Switcheroo
+0362,Freeze-Dry
+0362,Freeze-Dry
+0363,Aqua Ring
+0363,Belly Drum
+0363,Curse
+0363,Fissure
+0363,Rollout
+0363,Spit Up
+0363,Stockpile
+0363,Swallow
+0363,Yawn
+0364,Swagger
+0365,Aqua Ring
+0365,Belly Drum
+0365,Curse
+0365,Fissure
+0365,Rollout
+0365,Spit Up
+0365,Stockpile
+0365,Swallow
+0365,Yawn
+0366,Aqua Ring
+0366,Body Slam
+0366,Confuse Ray
+0366,Muddy Water
+0366,Supersonic
+0367,Aqua Ring
+0367,Body Slam
+0367,Confuse Ray
+0367,Muddy Water
+0367,Supersonic
+0368,Aqua Ring
+0368,Body Slam
+0368,Confuse Ray
+0368,Muddy Water
+0368,Supersonic
+0369,Amnesia
+0369,Aqua Tail
+0369,Mud Shot
+0369,Mud-Slap
+0369,Muddy Water
+0369,Skull Bash
+0369,Snore
+0369,Zen Headbutt
+0370,Aqua Jet
+0370,Aqua Ring
+0370,Entrainment
+0370,Heal Pulse
+0370,Splash
+0370,Supersonic
+0371,Defense Curl
+0371,Dragon Rush
+0371,Thrash
+0371,Twister
+0372,Protect
+0373,Fly
+0373,Fly
+0375,Confusion
+0375,Metal Claw
+0376,Hammer Arm
+0376,Hammer Arm
+0380,Draco Meteor
+0380,Draco Meteor
+0381,Draco Meteor
+0381,Draco Meteor
+0384,Draco Meteor
+0384,Draco Meteor
+0387,Double-Edge
+0387,Growth
+0387,Shell Smash
+0387,Spit Up
+0387,Stockpile
+0387,Superpower
+0387,Swallow
+0387,Thrash
+0387,Tickle
+0387,Wide Guard
+0387,Worry Seed
+0388,Bulldoze
+0388,Earth Power
+0388,Energy Ball
+0388,Iron Tail
+0388,Rest
+0388,Rock Smash
+0388,Stealth Rock
+0389,Earthquake
+0390,Counter
+0390,Double Kick
+0390,Encore
+0390,Fake Out
+0390,Fire Punch
+0390,Focus Energy
+0390,Heat Wave
+0390,Helping Hand
+0390,Switcheroo
+0390,Thunder Punch
+0391,Mach Punch
+0392,Close Combat
+0393,Aqua Ring
+0393,Feather Dance
+0393,Power Trip
+0393,Roost
+0393,Snore
+0393,Supersonic
+0393,Yawn
+0394,Metal Claw
+0395,Aqua Jet
+0396,Astonish
+0396,Double-Edge
+0396,Feather Dance
+0396,Fury Attack
+0396,Sand Attack
+0396,Uproar
+0397,Astonish
+0397,Double-Edge
+0397,Feather Dance
+0397,Fury Attack
+0397,Sand Attack
+0397,Uproar
+0398,Close Combat
+0399,Aqua Tail
+0399,Defense Curl
+0399,Double-Edge
+0399,Fury Swipes
+0399,Quick Attack
+0399,Rollout
+0399,Skull Bash
+0400,Water Gun
+0402,Fury Cutter
+0403,Baby-Doll Eyes
+0403,Double Kick
+0403,Howl
+0403,Night Slash
+0403,Quick Attack
+0403,Shock Wave
+0403,Take Down
+0404,Baby-Doll Eyes
+0404,Double Kick
+0404,Howl
+0404,Night Slash
+0404,Quick Attack
+0404,Shock Wave
+0404,Take Down
+0405,Baby-Doll Eyes
+0405,Double Kick
+0405,Howl
+0405,Night Slash
+0405,Quick Attack
+0405,Shock Wave
+0405,Take Down
+0406,Cotton Spore
+0406,Extrasensory
+0406,Leaf Storm
+0406,Life Dew
+0406,Mind Reader
+0406,Pin Missile
+0406,Razor Leaf
+0406,Seed Bomb
+0406,Sleep Powder
+0406,Spikes
+0406,Synthesis
+0407,Cotton Spore
+0407,Extrasensory
+0407,Leaf Storm
+0407,Life Dew
+0407,Mind Reader
+0407,Pin Missile
+0407,Razor Leaf
+0407,Seed Bomb
+0407,Sleep Powder
+0407,Spikes
+0407,Synthesis
+0408,Hammer Arm
+0408,Stomp
+0408,Thrash
+0408,Whirlwind
+0409,Endeavor
+0410,Counter
+0410,Fissure
+0410,Focus Energy
+0410,Guard Split
+0410,Headbutt
+0410,Screech
+0411,Block
+0413,Quiver Dance
+0413,Quiver Dance
+0413,Quiver Dance
+0414,Quiver Dance
+0415,Ominous Wind
+0415,Swift
+0416,Slash
+0417,Baby-Doll Eyes
+0417,Bite
+0417,Charge
+0417,Covet
+0417,Defense Curl
+0417,Fake Tears
+0417,Flail
+0417,Flatter
+0417,Follow Me
+0417,Rollout
+0417,Tail Whip
+0418,Aqua Ring
+0418,Baton Pass
+0418,Fury Cutter
+0418,Fury Swipes
+0418,Headbutt
+0418,Helping Hand
+0418,Mud-Slap
+0418,Slash
+0419,Aqua Ring
+0419,Baton Pass
+0419,Fury Cutter
+0419,Fury Swipes
+0419,Headbutt
+0419,Helping Hand
+0419,Mud-Slap
+0419,Slash
+0420,Aromatherapy
+0420,Defense Curl
+0420,Flower Shield
+0420,Grassy Terrain
+0420,Heal Pulse
+0420,Healing Wish
+0420,Nature Power
+0420,Razor Leaf
+0420,Rollout
+0420,Seed Bomb
+0420,Sweet Scent
+0420,Tickle
+0420,Weather Ball
+0421,Sunny Day
+0422,Acid Armor
+0422,Clear Smog
+0422,Counter
+0422,Curse
+0422,Mirror Coat
+0422,Mist
+0422,Sludge
+0422,Spit Up
+0422,Stockpile
+0422,Swallow
+0422,Yawn
+0423,Acid Armor
+0423,Clear Smog
+0423,Counter
+0423,Curse
+0423,Mirror Coat
+0423,Mist
+0423,Sludge
+0423,Spit Up
+0423,Stockpile
+0423,Swallow
+0423,Yawn
+0424,Aerial Ace
+0424,Fire Punch
+0424,Giga Impact
+0424,Hyper Beam
+0424,Ice Punch
+0424,Iron Tail
+0424,Rest
+0424,Rock Smash
+0424,Shadow Ball
+0424,Shadow Claw
+0424,Swift
+0424,Thunder Punch
+0424,Thunderbolt
+0424,Water Pulse
+0425,Clear Smog
+0425,Defog
+0425,Disable
+0425,Haze
+0425,Hypnosis
+0425,Memento
+0426,Phantom Force
+0427,Circle Throw
+0427,Copycat
+0427,Cosmic Power
+0427,Double Hit
+0427,Encore
+0427,Fake Out
+0427,Fake Tears
+0427,Fire Punch
+0427,Flail
+0427,Ice Punch
+0427,Low Kick
+0427,Power-Up Punch
+0427,Sweet Kiss
+0427,Switcheroo
+0427,Teeter Dance
+0427,Thunder Punch
+0428,Circle Throw
+0428,Copycat
+0428,Cosmic Power
+0428,Double Hit
+0428,Encore
+0428,Fake Out
+0428,Fake Tears
+0428,Fire Punch
+0428,Flail
+0428,Ice Punch
+0428,Low Kick
+0428,Power-Up Punch
+0428,Sweet Kiss
+0428,Switcheroo
+0428,Teeter Dance
+0428,Thunder Punch
+0428,Circle Throw
+0428,Copycat
+0428,Cosmic Power
+0428,Double Hit
+0428,Encore
+0428,Fake Out
+0428,Fake Tears
+0428,Fire Punch
+0428,Flail
+0428,Ice Punch
+0428,Low Kick
+0428,Power-Up Punch
+0428,Sweet Kiss
+0428,Switcheroo
+0428,Teeter Dance
+0428,Thunder Punch
+0429,Curse
+0429,Destiny Bond
+0429,Imprison
+0429,Memento
+0429,Screech
+0429,Shadow Sneak
+0429,Spite
+0429,Sucker Punch
+0429,Wonder Room
+0430,Brave Bird
+0430,Confuse Ray
+0430,Drill Peck
+0430,Feather Dance
+0430,Flatter
+0430,Perish Song
+0430,Screech
+0430,Sky Attack
+0430,Whirlwind
+0431,Assurance
+0431,Bite
+0431,Fake Tears
+0431,Flail
+0431,Last Resort
+0431,Quick Attack
+0431,Sand Attack
+0431,Tail Whip
+0432,Swagger
+0433,Ally Switch
+0433,Cosmic Power
+0433,Curse
+0433,Disable
+0433,Hypnosis
+0433,Recover
+0433,Recycle
+0433,Wish
+0434,Astonish
+0434,Double-Edge
+0434,Haze
+0434,Leer
+0434,Slash
+0434,Smog
+0435,Flamethrower
+0436,Gravity
+0436,Recycle
+0437,Block
+0438,Curse
+0438,Defense Curl
+0438,Harden
+0438,Headbutt
+0438,Rock Polish
+0438,Rollout
+0439,Charm
+0439,Confuse Ray
+0439,Fake Out
+0439,Future Sight
+0439,Healing Wish
+0439,Hypnosis
+0439,Icy Wind
+0439,Magic Room
+0439,Mimic
+0439,Power Split
+0439,Teeter Dance
+0439,Tickle
+0439,Trick
+0440,Gravity
+0440,Heal Bell
+0440,Present
+0440,Seismic Toss
+0441,Agility
+0441,Air Cutter
+0441,Boomburst
+0441,Encore
+0441,Night Shade
+0441,Supersonic
+0442,Ally Switch
+0442,Destiny Bond
+0442,Disable
+0442,Pain Split
+0442,Smokescreen
+0443,Double-Edge
+0443,Metal Claw
+0443,Thrash
+0443,Twister
+0444,Double-Edge
+0444,Metal Claw
+0444,Thrash
+0444,Twister
+0445,Crunch
+0445,Crunch
+0446,Belch
+0446,Counter
+0446,Curse
+0446,Double-Edge
+0446,Fissure
+0447,Bite
+0447,Bullet Punch
+0447,Circle Throw
+0447,Cross Chop
+0447,Detect
+0447,High Jump Kick
+0447,Howl
+0448,Aura Sphere
+0448,Aura Sphere
+0449,Curse
+0449,Spit Up
+0449,Stockpile
+0449,Swallow
+0449,Whirlwind
+0450,Curse
+0450,Spit Up
+0450,Stockpile
+0450,Swallow
+0450,Whirlwind
+0451,Agility
+0451,Confuse Ray
+0451,Night Slash
+0451,Poison Tail
+0451,Sand Attack
+0451,Screech
+0451,Slash
+0451,Whirlwind
+0452,Agility
+0452,Confuse Ray
+0452,Night Slash
+0452,Poison Tail
+0452,Sand Attack
+0452,Screech
+0452,Slash
+0452,Whirlwind
+0453,Bullet Punch
+0453,Counter
+0453,Cross Chop
+0453,Dynamic Punch
+0453,Fake Out
+0453,Feint
+0453,Headbutt
+0453,Quick Guard
+0453,Vacuum Wave
+0454,Bullet Punch
+0454,Counter
+0454,Cross Chop
+0454,Dynamic Punch
+0454,Fake Out
+0454,Feint
+0454,Headbutt
+0454,Quick Guard
+0454,Vacuum Wave
+0455,Acid Spray
+0455,Leech Seed
+0455,Magical Leaf
+0455,Rage Powder
+0455,Razor Leaf
+0455,Slam
+0455,Sleep Powder
+0455,Stun Spore
+0455,Synthesis
+0455,Worry Seed
+0456,Agility
+0456,Aqua Tail
+0456,Aurora Beam
+0456,Charm
+0456,Confuse Ray
+0456,Flail
+0456,Psybeam
+0456,Sweet Kiss
+0456,Tickle
+0457,Agility
+0457,Aqua Tail
+0457,Aurora Beam
+0457,Charm
+0457,Confuse Ray
+0457,Flail
+0457,Psybeam
+0457,Sweet Kiss
+0457,Tickle
+0458,Amnesia
+0458,Confuse Ray
+0458,Haze
+0458,Hydro Pump
+0458,Mirror Coat
+0458,Slam
+0458,Splash
+0458,Tailwind
+0458,Twister
+0458,Wide Guard
+0459,Double-Edge
+0459,Growth
+0459,Leech Seed
+0459,Stomp
+0459,Weather Ball
+0460,Ice Punch
+0460,Ice Punch
+0461,Bite
+0461,Counter
+0461,Double Hit
+0461,Fake Out
+0461,Feint
+0461,Ice Shard
+0461,Icicle Crash
+0461,Spite
+0462,Electroweb
+0462,Explosion
+0463,Amnesia
+0463,Belch
+0463,Belly Drum
+0463,Body Slam
+0463,Curse
+0463,Hammer Arm
+0463,Muddy Water
+0463,Snore
+0463,Thrash
+0463,Zen Headbutt
+0464,Aqua Tail
+0464,Bulldoze
+0464,Earth Power
+0464,Fire Fang
+0464,Fire Punch
+0464,Flamethrower
+0464,Flash Cannon
+0464,Giga Impact
+0464,High Horsepower
+0464,Hyper Beam
+0464,Ice Beam
+0464,Ice Fang
+0464,Ice Punch
+0464,Icy Wind
+0464,Iron Head
+0464,Iron Tail
+0464,Megahorn
+0464,Outrage
+0464,Poison Jab
+0464,Rest
+0464,Rock Slide
+0464,Rock Smash
+0464,Shadow Claw
+0464,Stealth Rock
+0464,Stone Edge
+0464,Thunder Fang
+0464,Thunder Punch
+0464,Thunderbolt
+0465,Amnesia
+0465,Confusion
+0465,Endeavor
+0465,Flail
+0465,Leaf Storm
+0465,Leech Seed
+0465,Mega Drain
+0465,Nature Power
+0465,Power Swap
+0465,Rage Powder
+0466,Bulldoze
+0466,Charge Beam
+0466,Fire Punch
+0466,Flamethrower
+0466,Giga Impact
+0466,Hyper Beam
+0466,Ice Punch
+0466,Iron Tail
+0466,Psychic
+0466,Rest
+0466,Rock Slide
+0466,Rock Smash
+0466,Swift
+0466,Thunder Punch
+0466,Thunderbolt
+0466,Wild Charge
+0467,Bulldoze
+0467,Fire Punch
+0467,Flamethrower
+0467,Focus Energy
+0467,Giga Impact
+0467,Hyper Beam
+0467,Iron Tail
+0467,Mystical Fire
+0467,Psychic
+0467,Rest
+0467,Rock Slide
+0467,Rock Smash
+0467,Thunder Punch
+0467,Thunderbolt
+0468,Air Slash
+0469,Aerial Ace
+0469,Giga Impact
+0469,Hyper Beam
+0469,Leech Life
+0469,Ominous Wind
+0469,Psychic
+0469,Rest
+0469,Shadow Ball
+0469,Swift
+0470,Razor Leaf
+0471,Icy Wind
+0472,Aerial Ace
+0472,Aqua Tail
+0472,Bulldoze
+0472,Dark Pulse
+0472,Earth Power
+0472,False Swipe
+0472,Fire Fang
+0472,Giga Impact
+0472,Hyper Beam
+0472,Ice Fang
+0472,Iron Tail
+0472,Poison Jab
+0472,Power Shift
+0472,Rest
+0472,Rock Slide
+0472,Rock Smash
+0472,Sludge Bomb
+0472,Spikes
+0472,Stealth Rock
+0472,Stone Edge
+0472,Swift
+0472,Thunder Fang
+0472,X-Scissor
+0473,Double Hit
+0474,Aerial Ace
+0474,Charge Beam
+0474,Dark Pulse
+0474,Giga Impact
+0474,Hyper Beam
+0474,Ice Beam
+0474,Icy Wind
+0474,Iron Tail
+0474,Power Shift
+0474,Psychic
+0474,Rest
+0474,Shadow Ball
+0474,Swift
+0474,Thunderbolt
+0474,Tri Attack
+0474,Zen Headbutt
+0475,Slash
+0475,Slash
+0476,Tri Attack
+0477,Bulldoze
+0477,Calm Mind
+0477,Charge Beam
+0477,Dark Pulse
+0477,Fire Punch
+0477,Giga Impact
+0477,Hyper Beam
+0477,Ice Beam
+0477,Ice Punch
+0477,Icy Wind
+0477,Leech Life
+0477,Ominous Wind
+0477,Power Shift
+0477,Psychic
+0477,Rest
+0477,Rock Slide
+0477,Rock Smash
+0477,Shadow Ball
+0477,Thunder Punch
+0478,Hex
+0479,Charge Beam
+0479,Dark Pulse
+0479,Ominous Wind
+0479,Rest
+0479,Shadow Ball
+0479,Swift
+0479,Thunderbolt
+0479,Charge Beam
+0479,Dark Pulse
+0479,Ominous Wind
+0479,Rest
+0479,Shadow Ball
+0479,Swift
+0479,Thunderbolt
+0479,Charge Beam
+0479,Dark Pulse
+0479,Ominous Wind
+0479,Rest
+0479,Shadow Ball
+0479,Swift
+0479,Thunderbolt
+0479,Charge Beam
+0479,Dark Pulse
+0479,Ominous Wind
+0479,Rest
+0479,Shadow Ball
+0479,Swift
+0479,Thunderbolt
+0479,Charge Beam
+0479,Dark Pulse
+0479,Ominous Wind
+0479,Rest
+0479,Shadow Ball
+0479,Swift
+0479,Thunderbolt
+0479,Charge Beam
+0479,Dark Pulse
+0479,Ominous Wind
+0479,Rest
+0479,Shadow Ball
+0479,Swift
+0479,Thunderbolt
+0480,Calm Mind
+0480,Charge Beam
+0480,Dazzling Gleam
+0480,Drain Punch
+0480,Energy Ball
+0480,Fire Punch
+0480,Giga Impact
+0480,Hyper Beam
+0480,Ice Punch
+0480,Iron Tail
+0480,Play Rough
+0480,Power Shift
+0480,Psychic
+0480,Psycho Cut
+0480,Rest
+0480,Shadow Ball
+0480,Stealth Rock
+0480,Swift
+0480,Thunder Punch
+0480,Thunderbolt
+0480,Tri Attack
+0480,Water Pulse
+0480,Zen Headbutt
+0481,Calm Mind
+0481,Charge Beam
+0481,Dazzling Gleam
+0481,Drain Punch
+0481,Energy Ball
+0481,Fire Punch
+0481,Giga Impact
+0481,Hyper Beam
+0481,Ice Beam
+0481,Ice Punch
+0481,Iron Tail
+0481,Play Rough
+0481,Psychic
+0481,Psycho Cut
+0481,Rest
+0481,Shadow Ball
+0481,Stealth Rock
+0481,Swift
+0481,Thunder Punch
+0481,Thunderbolt
+0481,Tri Attack
+0481,Water Pulse
+0481,Zen Headbutt
+0482,Calm Mind
+0482,Charge Beam
+0482,Dazzling Gleam
+0482,Drain Punch
+0482,Energy Ball
+0482,Fire Punch
+0482,Flamethrower
+0482,Giga Impact
+0482,Hyper Beam
+0482,Ice Punch
+0482,Iron Tail
+0482,Play Rough
+0482,Power Shift
+0482,Psychic
+0482,Psycho Cut
+0482,Rest
+0482,Shadow Ball
+0482,Stealth Rock
+0482,Swift
+0482,Thunder Punch
+0482,Thunderbolt
+0482,Tri Attack
+0482,Water Pulse
+0482,Zen Headbutt
+0483,Aerial Ace
+0483,Bulk Up
+0483,Bulldoze
+0483,Draco Meteor
+0483,Earth Power
+0483,Flamethrower
+0483,Flash Cannon
+0483,Giga Impact
+0483,Hyper Beam
+0483,Ice Beam
+0483,Iron Head
+0483,Iron Tail
+0483,Outrage
+0483,Rest
+0483,Rock Slide
+0483,Rock Smash
+0483,Shadow Claw
+0483,Stealth Rock
+0483,Steel Beam
+0483,Stone Edge
+0483,Swift
+0483,Thunderbolt
+0483,Aerial Ace
+0483,Bulk Up
+0483,Bulldoze
+0483,Draco Meteor
+0483,Earth Power
+0483,Flamethrower
+0483,Flash Cannon
+0483,Giga Impact
+0483,Hyper Beam
+0483,Ice Beam
+0483,Iron Head
+0483,Iron Tail
+0483,Outrage
+0483,Rest
+0483,Rock Slide
+0483,Rock Smash
+0483,Shadow Claw
+0483,Stealth Rock
+0483,Steel Beam
+0483,Stone Edge
+0483,Swift
+0483,Thunderbolt
+0484,Aerial Ace
+0484,Aqua Tail
+0484,Bulk Up
+0484,Bulldoze
+0484,Draco Meteor
+0484,Earth Power
+0484,Flamethrower
+0484,Giga Impact
+0484,Hyper Beam
+0484,Ice Beam
+0484,Outrage
+0484,Rest
+0484,Rock Slide
+0484,Rock Smash
+0484,Shadow Claw
+0484,Stone Edge
+0484,Swift
+0484,Thunderbolt
+0484,Water Pulse
+0484,Aerial Ace
+0484,Aqua Tail
+0484,Bulk Up
+0484,Bulldoze
+0484,Draco Meteor
+0484,Earth Power
+0484,Flamethrower
+0484,Giga Impact
+0484,Hyper Beam
+0484,Ice Beam
+0484,Outrage
+0484,Rest
+0484,Rock Slide
+0484,Rock Smash
+0484,Shadow Claw
+0484,Stone Edge
+0484,Swift
+0484,Thunderbolt
+0484,Water Pulse
+0485,Bulldoze
+0485,Dark Pulse
+0485,Earth Power
+0485,Fire Fang
+0485,Flamethrower
+0485,Flash Cannon
+0485,Giga Impact
+0485,Hyper Beam
+0485,Iron Head
+0485,Rest
+0485,Rock Slide
+0485,Rock Smash
+0485,Stealth Rock
+0485,Steel Beam
+0485,Stone Edge
+0486,Aerial Ace
+0486,Bulldoze
+0486,Drain Punch
+0486,Earth Power
+0486,Fire Punch
+0486,Giga Impact
+0486,High Horsepower
+0486,Hyper Beam
+0486,Ice Punch
+0486,Icy Wind
+0486,Iron Head
+0486,Power Shift
+0486,Rest
+0486,Rock Slide
+0486,Rock Smash
+0486,Stone Edge
+0486,Thunder Punch
+0486,Thunderbolt
+0486,Zen Headbutt
+0487,Aerial Ace
+0487,Aqua Tail
+0487,Bulldoze
+0487,Calm Mind
+0487,Charge Beam
+0487,Dark Pulse
+0487,Draco Meteor
+0487,Earth Power
+0487,Energy Ball
+0487,Giga Impact
+0487,Hyper Beam
+0487,Icy Wind
+0487,Iron Head
+0487,Iron Tail
+0487,Ominous Wind
+0487,Outrage
+0487,Psychic
+0487,Rest
+0487,Rock Smash
+0487,Shadow Ball
+0487,Shadow Claw
+0487,Stone Edge
+0487,Swift
+0487,Thunderbolt
+0487,Aerial Ace
+0487,Aqua Tail
+0487,Bulldoze
+0487,Calm Mind
+0487,Charge Beam
+0487,Dark Pulse
+0487,Draco Meteor
+0487,Earth Power
+0487,Energy Ball
+0487,Giga Impact
+0487,Hyper Beam
+0487,Icy Wind
+0487,Iron Head
+0487,Iron Tail
+0487,Ominous Wind
+0487,Outrage
+0487,Psychic
+0487,Rest
+0487,Rock Smash
+0487,Shadow Ball
+0487,Shadow Claw
+0487,Stone Edge
+0487,Swift
+0487,Thunderbolt
+0488,Calm Mind
+0488,Charge Beam
+0488,Energy Ball
+0488,Giga Impact
+0488,Hyper Beam
+0488,Ice Beam
+0488,Icy Wind
+0488,Power Shift
+0488,Psychic
+0488,Psycho Cut
+0488,Rest
+0488,Shadow Ball
+0488,Swift
+0488,Zen Headbutt
+0489,Calm Mind
+0489,Dazzling Gleam
+0489,Ice Beam
+0489,Icy Wind
+0489,Rest
+0489,Swift
+0489,Water Pulse
+0489,Zen Headbutt
+0490,Calm Mind
+0490,Dazzling Gleam
+0490,Energy Ball
+0490,Giga Impact
+0490,Hyper Beam
+0490,Ice Beam
+0490,Icy Wind
+0490,Psychic
+0490,Rest
+0490,Shadow Ball
+0490,Swift
+0490,Water Pulse
+0490,Zen Headbutt
+0491,Aerial Ace
+0491,Calm Mind
+0491,Charge Beam
+0491,Dark Pulse
+0491,Drain Punch
+0491,Giga Impact
+0491,Hyper Beam
+0491,Ice Beam
+0491,Icy Wind
+0491,Ominous Wind
+0491,Poison Jab
+0491,Psychic
+0491,Rest
+0491,Rock Slide
+0491,Rock Smash
+0491,Shadow Ball
+0491,Shadow Claw
+0491,Sludge Bomb
+0491,Snarl
+0491,Swift
+0491,Thunderbolt
+0491,X-Scissor
+0492,Aerial Ace
+0492,Baby-Doll Eyes
+0492,Dazzling Gleam
+0492,Earth Power
+0492,Energy Ball
+0492,Giga Impact
+0492,Hyper Beam
+0492,Magical Leaf
+0492,Ominous Wind
+0492,Play Rough
+0492,Psychic
+0492,Rest
+0492,Swift
+0492,Zen Headbutt
+0492,Aerial Ace
+0492,Baby-Doll Eyes
+0492,Dazzling Gleam
+0492,Earth Power
+0492,Energy Ball
+0492,Giga Impact
+0492,Hyper Beam
+0492,Magical Leaf
+0492,Ominous Wind
+0492,Play Rough
+0492,Psychic
+0492,Rest
+0492,Swift
+0492,Zen Headbutt
+0493,Aerial Ace
+0493,Aqua Tail
+0493,Bulldoze
+0493,Calm Mind
+0493,Charge Beam
+0493,Dark Pulse
+0493,Dazzling Gleam
+0493,Draco Meteor
+0493,Earth Power
+0493,Energy Ball
+0493,Flamethrower
+0493,Flash Cannon
+0493,Giga Impact
+0493,Hyper Beam
+0493,Ice Beam
+0493,Icy Wind
+0493,Iron Head
+0493,Iron Tail
+0493,Mystical Fire
+0493,Ominous Wind
+0493,Outrage
+0493,Poison Jab
+0493,Psychic
+0493,Rest
+0493,Rock Slide
+0493,Rock Smash
+0493,Shadow Ball
+0493,Shadow Claw
+0493,Sludge Bomb
+0493,Snarl
+0493,Stealth Rock
+0493,Steel Beam
+0493,Stone Edge
+0493,Swift
+0493,Thunderbolt
+0493,Water Pulse
+0493,X-Scissor
+0493,Zen Headbutt
+0494,Expanding Force
+0494,Scorching Sands
+0495,Glare
+0495,Iron Tail
+0495,Mean Look
+0495,Mirror Coat
+0495,Sweet Scent
+0495,Synthesis
+0495,Twister
+0496,Captivate
+0496,Glare
+0496,Grassy Terrain
+0496,Iron Tail
+0496,Magical Leaf
+0496,Mean Look
+0496,Mirror Coat
+0496,Natural Gift
+0496,Pursuit
+0496,Sweet Scent
+0496,Twister
+0497,Captivate
+0497,Glare
+0497,Grassy Terrain
+0497,Iron Tail
+0497,Magical Leaf
+0497,Mean Look
+0497,Mirror Coat
+0497,Natural Gift
+0497,Pursuit
+0497,Sweet Scent
+0497,Twister
+0498,Sucker Punch
+0498,Superpower
+0498,Thrash
+0498,Yawn
+0499,Arm Thrust
+0500,Endure
+0500,Hammer Arm
+0501,Air Slash
+0501,Aqua Cutter
+0501,Copycat
+0501,Detect
+0501,Knock Off
+0501,Night Slash
+0501,Sacred Sword
+0501,Screech
+0502,Air Slash
+0502,Aqua Cutter
+0502,Copycat
+0502,Detect
+0502,Knock Off
+0502,Night Slash
+0502,Sacred Sword
+0502,Screech
+0503,Slash
+0503,Slash
+0504,Assurance
+0504,Bullet Seed
+0504,Flail
+0504,Foresight
+0504,Iron Tail
+0504,Pursuit
+0504,Revenge
+0504,Screech
+0504,Tearful Look
+0505,Confuse Ray
+0506,After You
+0506,Covet
+0506,Howl
+0506,Lick
+0506,Mud-Slap
+0506,Yawn
+0507,After You
+0507,Covet
+0507,Howl
+0507,Lick
+0507,Mud-Slap
+0507,Yawn
+0508,After You
+0508,Covet
+0508,Howl
+0508,Lick
+0508,Mud-Slap
+0508,Yawn
+0509,Copycat
+0509,Covet
+0509,Double Team
+0509,Quick Attack
+0509,Slash
+0509,Yawn
+0510,Copycat
+0510,Covet
+0510,Double Team
+0510,Quick Attack
+0510,Slash
+0510,Yawn
+0511,Astonish
+0511,Bullet Seed
+0511,Covet
+0511,Disarming Voice
+0511,Grass Whistle
+0511,Leaf Storm
+0511,Low Kick
+0511,Magical Leaf
+0511,Nasty Plot
+0511,Role Play
+0511,Spiky Shield
+0511,Tickle
+0512,Astonish
+0512,Bullet Seed
+0512,Covet
+0512,Disarming Voice
+0512,Grass Whistle
+0512,Leaf Storm
+0512,Low Kick
+0512,Magical Leaf
+0512,Nasty Plot
+0512,Role Play
+0512,Spiky Shield
+0512,Tickle
+0513,Astonish
+0513,Belch
+0513,Covet
+0513,Disarming Voice
+0513,Fire Punch
+0513,Fire Spin
+0513,Flare Blitz
+0513,Heat Wave
+0513,Low Kick
+0513,Nasty Plot
+0513,Role Play
+0513,Sleep Talk
+0513,Tickle
+0514,Astonish
+0514,Belch
+0514,Covet
+0514,Disarming Voice
+0514,Fire Punch
+0514,Fire Spin
+0514,Flare Blitz
+0514,Heat Wave
+0514,Low Kick
+0514,Nasty Plot
+0514,Role Play
+0514,Sleep Talk
+0514,Tickle
+0515,Aqua Ring
+0515,Aqua Tail
+0515,Astonish
+0515,Covet
+0515,Disarming Voice
+0515,Hydro Pump
+0515,Low Kick
+0515,Mud Sport
+0515,Nasty Plot
+0515,Role Play
+0515,Tickle
+0516,Aqua Ring
+0516,Aqua Tail
+0516,Astonish
+0516,Covet
+0516,Disarming Voice
+0516,Hydro Pump
+0516,Low Kick
+0516,Mud Sport
+0516,Nasty Plot
+0516,Role Play
+0516,Tickle
+0517,Curse
+0517,Healing Wish
+0518,Curse
+0518,Healing Wish
+0519,Defog
+0519,Hypnosis
+0519,Morning Sun
+0519,Night Slash
+0519,Wish
+0520,Defog
+0520,Hypnosis
+0520,Morning Sun
+0520,Night Slash
+0520,Wish
+0521,Defog
+0521,Hypnosis
+0521,Morning Sun
+0521,Night Slash
+0521,Wish
+0522,Double Kick
+0522,Feint
+0522,Sand Attack
+0522,Screech
+0523,Double-Edge
+0523,Double Kick
+0523,Endure
+0523,Feint
+0523,Me First
+0523,Rage
+0523,Sand Attack
+0523,Screech
+0523,Shock Wave
+0523,Snatch
+0523,Take Down
+0524,Autotomize
+0524,Curse
+0524,Gravity
+0524,Take Down
+0524,Wide Guard
+0525,Power Gem
+0526,Autotomize
+0526,Curse
+0526,Gravity
+0526,Take Down
+0526,Wide Guard
+0527,Flatter
+0527,Knock Off
+0527,Psycho Shift
+0527,Roost
+0527,Supersonic
+0528,Flatter
+0528,Knock Off
+0528,Psycho Shift
+0528,Roost
+0528,Supersonic
+0529,Metal Sound
+0529,Slash
+0530,Horn Drill
+0531,Healing Wish
+0531,Sweet Kiss
+0531,Wish
+0531,Yawn
+0531,Healing Wish
+0531,Sweet Kiss
+0531,Wish
+0531,Yawn
+0532,Counter
+0532,Defog
+0532,Detect
+0532,Mach Punch
+0532,Wide Guard
+0533,Counter
+0533,Defog
+0533,Detect
+0533,Mach Punch
+0533,Power-Up Punch
+0533,Wide Guard
+0534,Counter
+0534,Defog
+0534,Detect
+0534,Mach Punch
+0534,Power-Up Punch
+0534,Wide Guard
+0535,Mist
+0535,Mud-Slap
+0535,Toxic
+0535,Water Pulse
+0536,Mist
+0536,Mud-Slap
+0536,Toxic
+0536,Water Pulse
+0537,Drain Punch
+0538,Coaching
+0539,Coaching
+0540,Screech
+0540,Snore
+0540,Switcheroo
+0540,Synthesis
+0540,Worry Seed
+0541,Protect
+0542,Slash
+0543,Bite
+0543,Fury Cutter
+0544,Iron Defense
+0545,Bite
+0545,Fury Cutter
+0546,Beat Up
+0546,Memento
+0546,Switcheroo
+0546,Tickle
+0546,Worry Seed
+0547,Memento
+0547,Nature Power
+0547,Switcheroo
+0547,Tickle
+0547,Worry Seed
+0548,Healing Wish
+0548,Ingrain
+0548,Sweet Scent
+0548,Worry Seed
+0549,Petal Dance
+0549,Petal Dance
+0550,Bubble Beam
+0550,Endeavor
+0550,Bubble Beam
+0550,Endeavor
+0550,Bubble Beam
+0550,Endeavor
+0551,Aqua Tail
+0551,Counter
+0551,Double-Edge
+0551,Spite
+0552,Aqua Tail
+0552,Counter
+0552,Double-Edge
+0552,Spite
+0553,Aqua Tail
+0553,Counter
+0553,Double-Edge
+0553,Spite
+0554,Extrasensory
+0554,Flame Wheel
+0554,Focus Punch
+0554,Hammer Arm
+0554,Take Down
+0554,Yawn
+0554,Extrasensory
+0554,Flame Wheel
+0554,Focus Punch
+0554,Hammer Arm
+0554,Take Down
+0554,Yawn
+0555,Hammer Arm
+0555,Hammer Arm
+0555,Hammer Arm
+0555,Hammer Arm
+0556,Wood Hammer
+0556,Worry Seed
+0557,Block
+0557,Counter
+0557,Curse
+0557,Knock Off
+0557,Night Slash
+0557,Wide Guard
+0558,Block
+0558,Counter
+0558,Curse
+0558,Knock Off
+0558,Night Slash
+0558,Wide Guard
+0559,Counter
+0559,Detect
+0559,Fake Out
+0559,Quick Guard
+0560,Acid Spray
+0560,Counter
+0560,Detect
+0560,Fake Out
+0560,Power-Up Punch
+0560,Quick Guard
+0561,Ancient Power
+0561,Psycho Shift
+0561,Roost
+0562,Memento
+0562,Memento
+0563,Shadow Claw
+0564,Block
+0564,Knock Off
+0564,Rock Throw
+0564,Rollout
+0564,Slam
+0564,Water Pulse
+0565,Meteor Beam
+0566,Bite
+0566,Defog
+0566,Double Team
+0566,Head Smash
+0566,Knock Off
+0566,Switcheroo
+0567,Dual Wingbeat
+0567,Lash Out
+0567,Meteor Beam
+0568,Autotomize
+0568,Curse
+0568,Haze
+0568,Rollout
+0568,Sand Attack
+0569,Autotomize
+0569,Curse
+0569,Haze
+0569,Rollout
+0569,Sand Attack
+0570,Copycat
+0570,Counter
+0570,Detect
+0570,Extrasensory
+0570,Memento
+0570,Sucker Punch
+0570,Copycat
+0570,Counter
+0570,Detect
+0570,Extrasensory
+0570,Memento
+0570,Sucker Punch
+0571,Night Slash
+0571,Night Slash
+0572,Aqua Tail
+0572,Flail
+0572,Knock Off
+0572,Tail Whip
+0572,Tidy Up
+0573,Tail Slap
+0574,Fake Out
+0574,Heal Pulse
+0574,Mean Look
+0574,Mirror Coat
+0574,Torment
+0575,Fake Out
+0575,Heal Pulse
+0575,Mean Look
+0575,Mirror Coat
+0575,Torment
+0576,Fake Out
+0576,Heal Pulse
+0576,Mean Look
+0576,Mirror Coat
+0576,Torment
+0577,Acid Armor
+0577,Astonish
+0577,Confuse Ray
+0578,Acid Armor
+0578,Astonish
+0578,Confuse Ray
+0579,Hammer Arm
+0580,Aqua Jet
+0580,Brine
+0580,Dive
+0580,Endeavor
+0580,Gust
+0580,Steel Wing
+0581,Air Cutter
+0581,Aqua Jet
+0581,Brine
+0581,Gust
+0581,Lucky Chant
+0581,Me First
+0581,Mirror Move
+0581,Mud Sport
+0581,Steel Wing
+0582,Aurora Veil
+0582,Autotomize
+0582,Explosion
+0582,Ice Shard
+0582,Icicle Crash
+0582,Magnet Rise
+0583,Aurora Veil
+0583,Autotomize
+0583,Explosion
+0583,Ice Shard
+0583,Icicle Crash
+0583,Magnet Rise
+0584,Aurora Veil
+0584,Autotomize
+0584,Explosion
+0584,Ice Shard
+0584,Icicle Crash
+0584,Magnet Rise
+0585,Agility
+0585,Baton Pass
+0585,Fake Tears
+0585,Headbutt
+0585,Sleep Talk
+0585,Synthesis
+0585,Worry Seed
+0586,Horn Leech
+0587,Astonish
+0587,Covet
+0587,Defog
+0587,Roost
+0587,Shock Wave
+0587,Tickle
+0588,Bug Bite
+0588,Counter
+0588,Knock Off
+0588,Night Slash
+0588,Slash
+0589,Bug Bite
+0589,Counter
+0589,Knock Off
+0589,Night Slash
+0589,Slash
+0590,Defense Curl
+0590,Poison Powder
+0590,Rollout
+0590,Worry Seed
+0591,Defense Curl
+0591,Poison Powder
+0591,Rollout
+0591,Worry Seed
+0592,Acid Armor
+0592,Bubble Beam
+0592,Confuse Ray
+0592,Mist
+0592,Pain Split
+0592,Strength Sap
+0593,Acid Armor
+0593,Bubble Beam
+0593,Confuse Ray
+0593,Mist
+0593,Pain Split
+0593,Strength Sap
+0594,Bounce
+0594,Endure
+0594,Mirror Coat
+0594,Mist
+0594,Pain Split
+0594,Tickle
+0595,Double Team
+0595,Infestation
+0595,Lunge
+0595,Poison Sting
+0595,Struggle Bug
+0596,Sticky Web
+0597,Acid Spray
+0597,Gravity
+0597,Knock Off
+0597,Leech Seed
+0597,Toxic
+0598,Power Whip
+0599,Rising Voltage
+0599,Steel Roller
+0600,Rising Voltage
+0600,Steel Roller
+0601,Rising Voltage
+0601,Steel Roller
+0602,Magnet Rise
+0603,Crunch
+0604,Aqua Tail
+0604,Bind
+0604,Bounce
+0604,Dragon Pulse
+0604,Drain Punch
+0604,Fire Punch
+0604,Focus Punch
+0604,Gastro Acid
+0604,Giga Drain
+0604,Iron Tail
+0604,Knock Off
+0604,Magnet Rise
+0604,Outrage
+0604,Shock Wave
+0604,Signal Beam
+0604,Snore
+0604,Super Fang
+0604,Superpower
+0604,Throat Chop
+0604,Thunder Punch
+0605,Astonish
+0605,Destiny Bond
+0605,Disable
+0605,Psych Up
+0606,Astonish
+0606,Destiny Bond
+0606,Disable
+0606,Psych Up
+0607,Acid Armor
+0607,Clear Smog
+0607,Haze
+0607,Power Split
+0608,Acid Armor
+0608,Clear Smog
+0608,Haze
+0608,Power Split
+0609,Acid Armor
+0609,Clear Smog
+0609,Haze
+0609,Power Split
+0610,Aqua Tail
+0610,Counter
+0610,Endeavor
+0610,First Impression
+0610,Iron Tail
+0610,Night Slash
+0611,Aqua Tail
+0611,Counter
+0611,Endeavor
+0611,First Impression
+0611,Iron Tail
+0611,Night Slash
+0612,Aqua Tail
+0612,Counter
+0612,Endeavor
+0612,First Impression
+0612,Iron Tail
+0612,Night Slash
+0613,Focus Punch
+0613,Night Slash
+0613,Yawn
+0614,Icicle Crash
+0615,Aurora Veil
+0615,Explosion
+0615,Frost Breath
+0616,Double-Edge
+0616,Feint
+0616,Guard Split
+0616,Mind Reader
+0617,Double-Edge
+0617,Feint
+0617,Guard Split
+0617,Mind Reader
+0618,Astonish
+0618,Curse
+0618,Pain Split
+0618,Reflect Type
+0618,Spark
+0618,Spite
+0618,Yawn
+0618,Astonish
+0618,Curse
+0618,Pain Split
+0618,Reflect Type
+0618,Spark
+0618,Spite
+0618,Yawn
+0619,Feint
+0619,Focus Punch
+0619,Knock Off
+0620,Feint
+0620,Focus Punch
+0620,Knock Off
+0620,Vital Throw
+0621,Glare
+0621,Night Slash
+0621,Poison Tail
+0621,Sucker Punch
+0622,Poltergeist
+0622,Scorching Sands
+0623,Focus Punch
+0623,Mud-Slap
+0624,Headbutt
+0624,Mean Look
+0624,Quick Guard
+0624,Sucker Punch
+0625,Headbutt
+0625,Mean Look
+0625,Quick Guard
+0625,Sucker Punch
+0626,Belch
+0626,Cotton Guard
+0626,Endeavor
+0626,Headbutt
+0626,Mud-Slap
+0626,Skull Bash
+0626,Stomp
+0627,Rock Smash
+0627,Roost
+0628,Superpower
+0628,Superpower
+0629,Mean Look
+0629,Roost
+0629,Toxic
+0630,Bone Rush
+0631,Belch
+0631,Curse
+0631,Night Slash
+0631,Sucker Punch
+0631,Tickle
+0632,First Impression
+0632,Flail
+0632,Infestation
+0632,Metal Burst
+0632,Struggle Bug
+0633,Astonish
+0633,Belch
+0633,Double Hit
+0633,Head Smash
+0634,Astonish
+0634,Belch
+0634,Double Hit
+0634,Head Smash
+0635,Astonish
+0635,Belch
+0635,Double Hit
+0635,Head Smash
+0636,Absorb
+0636,Harden
+0636,Morning Sun
+0636,Thrash
+0637,Quiver Dance
+0638,Coaching
+0639,Coaching
+0640,Take Down
+0641,Aerial Ace
+0641,Bulk Up
+0641,Dark Pulse
+0641,Giga Impact
+0641,Hyper Beam
+0641,Icy Wind
+0641,Iron Tail
+0641,Psychic
+0641,Rest
+0641,Rock Smash
+0641,Sludge Bomb
+0641,Aerial Ace
+0641,Bulk Up
+0641,Dark Pulse
+0641,Giga Impact
+0641,Hyper Beam
+0641,Icy Wind
+0641,Iron Tail
+0641,Psychic
+0641,Rest
+0641,Rock Smash
+0641,Sludge Bomb
+0642,Bulk Up
+0642,Charge Beam
+0642,Dark Pulse
+0642,Flash Cannon
+0642,Giga Impact
+0642,Hyper Beam
+0642,Iron Tail
+0642,Power Shift
+0642,Psychic
+0642,Rest
+0642,Rock Smash
+0642,Sludge Bomb
+0642,Thunder Punch
+0642,Thunderbolt
+0642,Wild Charge
+0642,Bulk Up
+0642,Charge Beam
+0642,Dark Pulse
+0642,Flash Cannon
+0642,Giga Impact
+0642,Hyper Beam
+0642,Iron Tail
+0642,Power Shift
+0642,Psychic
+0642,Rest
+0642,Rock Smash
+0642,Sludge Bomb
+0642,Thunder Punch
+0642,Thunderbolt
+0642,Wild Charge
+0643,Dual Wingbeat
+0643,Scale Shot
+0643,Scorching Sands
+0644,Dual Wingbeat
+0644,Rising Voltage
+0644,Scale Shot
+0645,Bulk Up
+0645,Bulldoze
+0645,Calm Mind
+0645,Earth Power
+0645,Giga Impact
+0645,Hyper Beam
+0645,Iron Tail
+0645,Outrage
+0645,Psychic
+0645,Rest
+0645,Rock Slide
+0645,Rock Smash
+0645,Sludge Bomb
+0645,Stealth Rock
+0645,Stone Edge
+0645,Bulk Up
+0645,Bulldoze
+0645,Calm Mind
+0645,Earth Power
+0645,Giga Impact
+0645,Hyper Beam
+0645,Iron Tail
+0645,Outrage
+0645,Psychic
+0645,Rest
+0645,Rock Slide
+0645,Rock Smash
+0645,Sludge Bomb
+0645,Stealth Rock
+0645,Stone Edge
+0646,Dual Wingbeat
+0646,Scale Shot
+0646,Dual Wingbeat
+0646,Scale Shot
+0646,Dual Wingbeat
+0646,Scale Shot
+0647,Coaching
+0647,Flip Turn
+0647,Coaching
+0647,Flip Turn
+0648,Ally Switch
+0648,Covet
+0648,Drain Punch
+0648,Dual Chop
+0648,Fire Punch
+0648,Focus Punch
+0648,Gravity
+0648,Heal Bell
+0648,Helping Hand
+0648,Hyper Voice
+0648,Ice Punch
+0648,Knock Off
+0648,Laser Focus
+0648,Last Resort
+0648,Low Kick
+0648,Magic Coat
+0648,Magic Room
+0648,Recycle
+0648,Relic Song
+0648,Role Play
+0648,Shock Wave
+0648,Signal Beam
+0648,Skill Swap
+0648,Snatch
+0648,Snore
+0648,Telekinesis
+0648,Thunder Punch
+0648,Trick
+0648,Uproar
+0648,Wonder Room
+0648,Zen Headbutt
+0648,Ally Switch
+0648,Covet
+0648,Drain Punch
+0648,Dual Chop
+0648,Fire Punch
+0648,Focus Punch
+0648,Gravity
+0648,Heal Bell
+0648,Helping Hand
+0648,Hyper Voice
+0648,Ice Punch
+0648,Knock Off
+0648,Laser Focus
+0648,Last Resort
+0648,Low Kick
+0648,Magic Coat
+0648,Magic Room
+0648,Recycle
+0648,Relic Song
+0648,Role Play
+0648,Shock Wave
+0648,Signal Beam
+0648,Skill Swap
+0648,Snatch
+0648,Snore
+0648,Telekinesis
+0648,Thunder Punch
+0648,Trick
+0648,Uproar
+0648,Wonder Room
+0648,Zen Headbutt
+0649,Ally Switch
+0649,Bug Bite
+0649,Electroweb
+0649,Giga Drain
+0649,Gravity
+0649,Gunk Shot
+0649,Iron Defense
+0649,Iron Head
+0649,Last Resort
+0649,Magic Coat
+0649,Magnet Rise
+0649,Recycle
+0649,Shock Wave
+0649,Signal Beam
+0649,Snore
+0649,Telekinesis
+0649,Zen Headbutt
+0650,Belly Drum
+0650,Curse
+0650,Quick Guard
+0650,Spikes
+0650,Super Fang
+0650,Synthesis
+0650,Wide Guard
+0651,Belly Drum
+0651,Curse
+0651,Quick Guard
+0651,Spikes
+0651,Super Fang
+0651,Synthesis
+0651,Wide Guard
+0652,Spiky Shield
+0653,Copycat
+0653,Heat Wave
+0653,Hypnosis
+0653,Magic Room
+0653,Wish
+0654,Copycat
+0654,Heat Wave
+0654,Hypnosis
+0654,Magic Room
+0654,Wish
+0655,Mystical Fire
+0656,Counter
+0656,Retaliate
+0656,Spikes
+0656,Switcheroo
+0656,Toxic Spikes
+0657,Counter
+0657,Retaliate
+0657,Spikes
+0657,Switcheroo
+0657,Toxic Spikes
+0658,Water Shuriken
+0658,Water Shuriken
+0659,Defense Curl
+0659,Rollout
+0660,Defense Curl
+0660,Rollout
+0661,Defog
+0661,Flame Charge
+0661,Quick Guard
+0662,Flame Charge
+0663,Defog
+0663,Flame Charge
+0663,Quick Guard
+0664,Poison Powder
+0664,Rage Powder
+0665,Protect
+0666,Gust
+0667,Entrainment
+0667,Fire Spin
+0667,Flare Blitz
+0667,Yawn
+0668,Entrainment
+0668,Fire Spin
+0668,Flare Blitz
+0668,Yawn
+0669,Copycat
+0669,Endeavor
+0669,Tearful Look
+0670,Copycat
+0670,Endeavor
+0670,Tearful Look
+0671,Copycat
+0671,Endeavor
+0671,Tearful Look
+0672,Defense Curl
+0672,Grassy Terrain
+0672,Milk Drink
+0672,Rollout
+0673,Aerial Ace
+0674,Power Trip
+0674,Quash
+0674,Quick Guard
+0674,Seismic Toss
+0674,Storm Throw
+0675,Night Slash
+0676,Captivate
+0676,Mimic
+0676,Refresh
+0676,Role Play
+0676,Work Up
+0677,Tickle
+0677,Yawn
+0678,Tickle
+0678,Yawn
+0678,Tickle
+0678,Yawn
+0679,Block
+0679,Destiny Bond
+0679,Wide Guard
+0680,Block
+0680,Destiny Bond
+0680,Wide Guard
+0681,King's Shield
+0681,King's Shield
+0682,After You
+0682,Disable
+0682,Wish
+0683,After You
+0683,Disable
+0683,Wish
+0684,After You
+0684,Copycat
+0684,Sticky Web
+0684,Yawn
+0685,After You
+0685,Copycat
+0685,Sticky Web
+0685,Yawn
+0686,Acupressure
+0686,Destiny Bond
+0686,Disable
+0687,Acupressure
+0687,Destiny Bond
+0687,Disable
+0688,Night Slash
+0688,Sand Attack
+0688,Switcheroo
+0689,Night Slash
+0689,Sand Attack
+0689,Switcheroo
+0690,Acid Armor
+0690,Dragon Tail
+0690,Haze
+0690,Twister
+0691,Acid Armor
+0691,Dragon Tail
+0691,Haze
+0691,Twister
+0692,Aqua Tail
+0692,Bubble Beam
+0692,Entrainment
+0693,Aqua Tail
+0693,Bubble Beam
+0693,Entrainment
+0694,Dragon Rush
+0694,Dragon Tail
+0694,Glare
+0695,Dragon Rush
+0695,Dragon Tail
+0695,Glare
+0696,Curse
+0696,Poison Fang
+0696,Rock Polish
+0696,Rock Throw
+0697,Lash Out
+0697,Meteor Beam
+0697,Scale Shot
+0698,Aurora Veil
+0698,Discharge
+0698,Haze
+0698,Mirror Coat
+0698,Rock Throw
+0698,Take Down
+0699,Meteor Beam
+0700,Disarming Voice
+0701,Cross Chop
+0701,Defog
+0701,Entrainment
+0701,Feint
+0701,Mean Look
+0701,Quick Guard
+0702,Covet
+0702,Magnet Rise
+0702,Tearful Look
+0703,Meteor Beam
+0703,Misty Explosion
+0703,Terrain Pulse
+0704,Counter
+0704,Life Dew
+0705,Acid Spray
+0705,Acid Spray
+0706,Aqua Tail
+0706,Aqua Tail
+0707,Magnet Rise
+0707,Switcheroo
+0708,Ally Switch
+0708,Disable
+0708,Sucker Punch
+0709,Shadow Claw
+0710,Curse
+0710,Destiny Bond
+0710,Disable
+0710,Curse
+0710,Destiny Bond
+0710,Disable
+0710,Curse
+0710,Destiny Bond
+0710,Disable
+0710,Curse
+0710,Destiny Bond
+0710,Disable
+0711,Curse
+0711,Destiny Bond
+0711,Disable
+0711,Curse
+0711,Destiny Bond
+0711,Disable
+0711,Curse
+0711,Destiny Bond
+0711,Disable
+0711,Curse
+0711,Destiny Bond
+0711,Disable
+0712,Aurora Veil
+0712,Mirror Coat
+0712,Mist
+0713,Body Slam
+0713,Body Slam
+0714,Defog
+0714,Dragon Rush
+0715,Dragon Pulse
+0716,Misty Explosion
+0716,Terrain Pulse
+0717,Dual Wingbeat
+0717,Lash Out
+0718,Scale Shot
+0718,Scorching Sands
+0718,Skitter Smack
+0718,Scale Shot
+0718,Scorching Sands
+0718,Skitter Smack
+0718,Scale Shot
+0718,Scorching Sands
+0718,Skitter Smack
+0719,Meteor Beam
+0719,Misty Explosion
+0719,Terrain Pulse
+0719,Meteor Beam
+0719,Misty Explosion
+0719,Terrain Pulse
+0720,Ally Switch
+0720,Block
+0720,Covet
+0720,Drain Punch
+0720,Dual Chop
+0720,Fire Punch
+0720,Focus Punch
+0720,Foul Play
+0720,Gravity
+0720,Gunk Shot
+0720,Ice Punch
+0720,Knock Off
+0720,Laser Focus
+0720,Last Resort
+0720,Magic Coat
+0720,Magic Room
+0720,Recycle
+0720,Role Play
+0720,Shock Wave
+0720,Signal Beam
+0720,Skill Swap
+0720,Snatch
+0720,Snore
+0720,Telekinesis
+0720,Throat Chop
+0720,Thunder Punch
+0720,Trick
+0720,Uproar
+0720,Wonder Room
+0720,Zen Headbutt
+0720,Ally Switch
+0720,Block
+0720,Covet
+0720,Drain Punch
+0720,Dual Chop
+0720,Fire Punch
+0720,Focus Punch
+0720,Foul Play
+0720,Gravity
+0720,Gunk Shot
+0720,Ice Punch
+0720,Knock Off
+0720,Laser Focus
+0720,Last Resort
+0720,Magic Coat
+0720,Magic Room
+0720,Recycle
+0720,Role Play
+0720,Shock Wave
+0720,Signal Beam
+0720,Skill Swap
+0720,Snatch
+0720,Snore
+0720,Telekinesis
+0720,Throat Chop
+0720,Thunder Punch
+0720,Trick
+0720,Uproar
+0720,Wonder Room
+0720,Zen Headbutt
+0721,Scorching Sands
+0722,Confuse Ray
+0722,Defog
+0722,Double Team
+0722,Knock Off
+0722,Roost
+0723,Confuse Ray
+0723,Defog
+0723,Double Team
+0723,Knock Off
+0723,Roost
+0724,Spirit Shackle
+0724,Spirit Shackle
+0725,Fake Out
+0725,Parting Shot
+0725,Power Trip
+0726,Fake Out
+0726,Parting Shot
+0726,Power Trip
+0727,Darkest Lariat
+0728,Aqua Ring
+0728,Life Dew
+0728,Perish Song
+0729,Aqua Ring
+0729,Life Dew
+0729,Perish Song
+0730,Sparkling Aria
+0731,Boomburst
+0731,Gunk Shot
+0731,Sky Attack
+0732,Echoed Voice
+0733,Beak Blast
+0734,Endeavor
+0734,Fire Fang
+0734,Ice Fang
+0734,Last Resort
+0734,Thunder Fang
+0735,Endeavor
+0735,Fire Fang
+0735,Ice Fang
+0735,Last Resort
+0735,Thunder Fang
+0736,Discharge
+0736,Harden
+0737,Charge
+0738,Thunderbolt
+0739,Endeavor
+0739,Focus Punch
+0739,Superpower
+0739,Wide Guard
+0740,Ice Punch
+0741,Attract
+0741,Defog
+0741,Pluck
+0741,Quiver Dance
+0741,Safeguard
+0741,Attract
+0741,Defog
+0741,Pluck
+0741,Quiver Dance
+0741,Safeguard
+0741,Attract
+0741,Defog
+0741,Pluck
+0741,Quiver Dance
+0741,Safeguard
+0741,Attract
+0741,Defog
+0741,Pluck
+0741,Quiver Dance
+0741,Safeguard
+0742,Aromatic Mist
+0742,Moonblast
+0742,Sticky Web
+0743,Pollen Puff
+0744,Endeavor
+0744,Last Resort
+0744,Thrash
+0744,Endeavor
+0744,Last Resort
+0744,Thrash
+0745,Sucker Punch
+0745,Sucker Punch
+0745,Sucker Punch
+0746,Mist
+0746,Take Down
+0746,Water Pulse
+0746,Mist
+0746,Take Down
+0746,Water Pulse
+0747,Haze
+0747,Infestation
+0747,Spit Up
+0747,Stockpile
+0747,Swallow
+0748,Baneful Bunker
+0749,Double-Edge
+0749,Endeavor
+0749,Fissure
+0749,Roar
+0749,Smack Down
+0750,Double-Edge
+0750,Endeavor
+0750,Fissure
+0750,Roar
+0750,Smack Down
+0751,Power Split
+0751,Spit Up
+0751,Sticky Web
+0751,Stockpile
+0752,Power Split
+0752,Spit Up
+0752,Sticky Web
+0752,Stockpile
+0753,Defog
+0753,Worry Seed
+0754,Petal Blizzard
+0755,Growth
+0755,Leech Seed
+0755,Poison Powder
+0755,Stun Spore
+0756,Growth
+0756,Leech Seed
+0756,Poison Powder
+0756,Stun Spore
+0757,Belch
+0757,Fake Out
+0757,Mud-Slap
+0757,Sand Attack
+0758,Fire Lash
+0759,Defense Curl
+0759,Force Palm
+0759,Rollout
+0759,Stomp
+0760,Bind
+0761,Acupressure
+0761,Endeavor
+0761,Synthesis
+0762,Acupressure
+0762,Endeavor
+0762,Synthesis
+0763,Trop Kick
+0764,After You
+0764,Worry Seed
+0765,Dream Eater
+0765,Extrasensory
+0765,Last Resort
+0765,Yawn
+0766,Counter
+0766,Feint
+0766,Knock Off
+0766,Quick Attack
+0766,Quick Guard
+0766,Seismic Toss
+0767,Aqua Jet
+0767,Harden
+0767,Metal Claw
+0767,Rollout
+0767,Wide Guard
+0768,First Impression
+0769,Ancient Power
+0769,Curse
+0769,Destiny Bond
+0769,Spit Up
+0769,Stockpile
+0769,Swallow
+0770,Ancient Power
+0770,Curse
+0770,Destiny Bond
+0770,Spit Up
+0770,Stockpile
+0770,Swallow
+0771,Mirror Coat
+0771,Spite
+0771,Swagger
+0771,Tickle
+0772,Terrain Pulse
+0773,Multi-Attack
+0774,Endeavor
+0774,Gravity
+0774,Iron Head
+0774,Last Resort
+0774,Magnet Rise
+0774,Snore
+0774,Stealth Rock
+0774,Telekinesis
+0774,Zen Headbutt
+0774,Endeavor
+0774,Gravity
+0774,Iron Head
+0774,Last Resort
+0774,Magnet Rise
+0774,Snore
+0774,Stealth Rock
+0774,Telekinesis
+0774,Zen Headbutt
+0775,Charm
+0775,Play Rough
+0775,Sing
+0775,Superpower
+0775,Wish
+0776,Curse
+0776,Head Smash
+0776,Rapid Spin
+0776,Wide Guard
+0777,Disarming Voice
+0777,Fake Out
+0777,Flail
+0777,Present
+0777,Tickle
+0777,Wish
+0778,Curse
+0778,Destiny Bond
+0779,Ice Fang
+0779,Poison Fang
+0779,Super Fang
+0779,Water Pulse
+0780,Dragon Rush
+0780,Mist
+0780,Tickle
+0781,Grassy Glide
+0781,Poltergeist
+0781,Steel Roller
+0782,Counter
+0782,Dragon Breath
+0782,Focus Punch
+0783,Counter
+0783,Dragon Breath
+0783,Focus Punch
+0784,Clanging Scales
+0785,Defog
+0785,Electroweb
+0785,Hyper Voice
+0785,Iron Defense
+0785,Iron Head
+0785,Shock Wave
+0785,Sky Attack
+0785,Snore
+0785,Telekinesis
+0785,Thunder Punch
+0786,Ally Switch
+0786,Gravity
+0786,Iron Defense
+0786,Magic Coat
+0786,Magic Room
+0786,Skill Swap
+0786,Snore
+0786,Telekinesis
+0786,Wonder Room
+0787,Dual Chop
+0787,Focus Punch
+0787,Giga Drain
+0787,Iron Defense
+0787,Seed Bomb
+0787,Snore
+0787,Superpower
+0787,Synthesis
+0787,Telekinesis
+0787,Worry Seed
+0787,Zen Headbutt
+0788,Defog
+0788,Gravity
+0788,Ice Punch
+0788,Icy Wind
+0788,Iron Defense
+0788,Knock Off
+0788,Magic Coat
+0788,Magic Room
+0788,Snore
+0788,Telekinesis
+0788,Trick
+0788,Water Pulse
+0788,Wonder Room
+0790,Cosmic Power
+0791,Sunsteel Strike
+0792,Moongeist Beam
+0793,Corrosive Gas
+0793,Meteor Beam
+0794,Coaching
+0794,Dual Wingbeat
+0795,Coaching
+0795,Skitter Smack
+0795,Triple Axel
+0796,Rising Voltage
+0797,Meteor Beam
+0797,Steel Roller
+0798,Defog
+0798,Giga Drain
+0798,Iron Defense
+0798,Knock Off
+0798,Laser Focus
+0798,Last Resort
+0798,Snore
+0798,Synthesis
+0798,Tailwind
+0799,Corrosive Gas
+0799,Lash Out
+0799,Steel Roller
+0800,Expanding Force
+0800,Meteor Beam
+0800,Expanding Force
+0800,Meteor Beam
+0800,Expanding Force
+0800,Meteor Beam
+0800,Expanding Force
+0800,Meteor Beam
+0801,Misty Explosion
+0801,Steel Roller
+0802,Coaching
+0802,Poltergeist
+0802,Skitter Smack
+0803,Covet
+0803,Dragon Pulse
+0803,Gastro Acid
+0803,Gunk Shot
+0803,Helping Hand
+0803,Iron Tail
+0803,Signal Beam
+0803,Snatch
+0803,Snore
+0803,Uproar
+0804,Air Cutter
+0805,Meteor Beam
+0805,Steel Roller
+0806,Expanding Force
+0807,Coaching
+0807,Rising Voltage
+0809,Thunder Punch
+0810,Fake Out
+0810,Growth
+0810,Hammer Arm
+0810,Leech Seed
+0810,Strength
+0810,Worry Seed
+0811,Double Hit
+0812,Drum Beating
+0813,High Jump Kick
+0813,Sand Attack
+0813,Sucker Punch
+0813,Super Fang
+0814,High Jump Kick
+0814,Sand Attack
+0814,Sucker Punch
+0814,Super Fang
+0815,Pyro Ball
+0816,Aqua Jet
+0816,Aqua Ring
+0816,Double Team
+0816,Fell Stinger
+0816,Haze
+0816,Ice Shard
+0816,Mist
+0817,Aqua Jet
+0817,Aqua Ring
+0817,Double Team
+0817,Fell Stinger
+0817,Haze
+0817,Ice Shard
+0817,Mist
+0818,Snipe Shot
+0819,Belly Drum
+0819,Defense Curl
+0819,Last Resort
+0819,Rollout
+0820,Covet
+0821,Defog
+0821,Rock Smash
+0821,Roost
+0821,Sand Attack
+0821,Sky Attack
+0821,Spite
+0821,Tailwind
+0822,Defog
+0822,Rock Smash
+0822,Roost
+0822,Sand Attack
+0822,Sky Attack
+0822,Spite
+0822,Tailwind
+0823,Steel Wing
+0824,Infestation
+0824,Recover
+0824,Sticky Web
+0824,Supersonic
+0825,Confusion
+0825,Light Screen
+0825,Reflect
+0826,Infestation
+0826,Recover
+0826,Sticky Web
+0826,Supersonic
+0827,Howl
+0827,Knock Off
+0827,Quick Guard
+0827,Torment
+0828,Thief
+0829,Growth
+0829,Leech Seed
+0829,Poison Powder
+0829,Sleep Powder
+0829,Stun Spore
+0829,Worry Seed
+0830,Cotton Spore
+0831,Counter
+0831,Stomp
+0831,Swagger
+0832,Counter
+0832,Stomp
+0832,Swagger
+0833,Dragon Tail
+0833,Gastro Acid
+0833,Shell Smash
+0834,Rock Tomb
+0835,Discharge
+0835,Double-Edge
+0835,Flame Charge
+0835,Howl
+0835,Sand Attack
+0836,Discharge
+0836,Double-Edge
+0836,Flame Charge
+0836,Howl
+0836,Sand Attack
+0837,Block
+0837,Explosion
+0837,Mud-Slap
+0838,Flame Charge
+0839,Tar Shot
+0840,Defense Curl
+0840,Recycle
+0840,Rollout
+0840,Sucker Punch
+0841,Wing Attack
+0842,Headbutt
+0843,Belch
+0843,Dragon Rush
+0843,Last Resort
+0843,Mud-Slap
+0843,Poison Tail
+0844,Belch
+0844,Dragon Rush
+0844,Last Resort
+0844,Mud-Slap
+0844,Poison Tail
+0845,Belch
+0846,Acupressure
+0846,Night Slash
+0846,Slash
+0846,Thrash
+0847,Acupressure
+0847,Night Slash
+0847,Slash
+0847,Thrash
+0848,Endeavor
+0848,Metal Sound
+0849,Spark
+0849,Spark
+0850,Defense Curl
+0850,Knock Off
+0850,Rollout
+0850,Struggle Bug
+0851,Defense Curl
+0851,Knock Off
+0851,Rollout
+0851,Struggle Bug
+0852,Circle Throw
+0852,Pain Split
+0852,Power-Up Punch
+0852,Seismic Toss
+0852,Soak
+0852,Sucker Punch
+0853,Octolock
+0854,Ally Switch
+0855,Teatime
+0856,After You
+0856,Mystical Fire
+0856,Nuzzle
+0856,Quash
+0857,Brutal Swing
+0858,Psycho Cut
+0859,Parting Shot
+0860,False Surrender
+0861,Spirit Break
+0862,Obstruct
+0863,Iron Head
+0864,Confuse Ray
+0864,Destiny Bond
+0864,Haze
+0864,Head Smash
+0864,Nature Power
+0864,Water Pulse
+0865,Iron Defense
+0866,Confuse Ray
+0866,Fake Out
+0866,Power Split
+0866,Tickle
+0867,Shadow Claw
+0868,Baby-Doll Eyes
+0868,Last Resort
+0869,Decorate
+0870,Coaching
+0871,Memento
+0871,Sucker Punch
+0872,Bug Bite
+0872,Fairy Wind
+0872,Mirror Coat
+0873,Icy Wind
+0874,Ancient Power
+0874,Curse
+0875,Aqua Ring
+0875,Belly Drum
+0875,Double-Edge
+0875,Head Smash
+0875,Icicle Crash
+0875,Soak
+0875,Aqua Ring
+0875,Belly Drum
+0875,Double-Edge
+0875,Head Smash
+0875,Icicle Crash
+0875,Soak
+0876,Extrasensory
+0876,Fake Out
+0876,Psych Up
+0876,Extrasensory
+0876,Fake Out
+0876,Psych Up
+0877,Charge
+0877,Fake Out
+0877,Parting Shot
+0877,Quash
+0877,Rapid Spin
+0877,Super Fang
+0877,Swagger
+0877,Tickle
+0877,Charge
+0877,Fake Out
+0877,Parting Shot
+0877,Quash
+0877,Rapid Spin
+0877,Super Fang
+0877,Swagger
+0877,Tickle
+0878,Belch
+0878,Curse
+0878,Defense Curl
+0878,Double-Edge
+0878,Fissure
+0878,Slam
+0878,Swagger
+0878,Whirlwind
+0879,Heavy Slam
+0880,Meteor Beam
+0880,Rising Voltage
+0881,Meteor Beam
+0881,Rising Voltage
+0882,Meteor Beam
+0883,Meteor Beam
+0884,Mirror Coat
+0884,Night Slash
+0884,Slash
+0885,Confuse Ray
+0885,Curse
+0885,Disable
+0885,Double Team
+0885,Dragon Tail
+0885,Sucker Punch
+0886,Dragon Pulse
+0887,Dragon Darts
+0889,Coaching
+0889,Coaching
+0890,Meteor Beam
+0890,Meteor Beam
+0891,Coaching
+0892,Wicked Blow
+0892,Wicked Blow
+0893,Grassy Glide
+0893,Lash Out
+0894,Rising Voltage
+0895,Scale Shot
+0896,Lash Out
+0897,Lash Out
+0898,Expanding Force
+0898,Expanding Force
+0898,Expanding Force
+0899,Psyshield Bash
+0900,Stone Axe
+0901,Headlong Rush
+0901,Headlong Rush
+0902,Endeavor
+0902,Last Respects
+0902,Endeavor
+0902,Last Respects
+0903,Dire Claw
+0904,Acid Spray
+0904,Aqua Jet
+0904,Aqua Tail
+0904,Astonish
+0904,Bubble Beam
+0904,Flail
+0904,Haze
+0904,Self-Destruct
+0904,Supersonic
+0904,Water Pulse
+0905,Calm Mind
+0905,Dazzling Gleam
+0905,Earth Power
+0905,Giga Impact
+0905,Hyper Beam
+0905,Mystical Fire
+0905,Play Rough
+0905,Power Shift
+0905,Psychic
+0905,Rest
+0905,Rock Smash
+0905,Sludge Bomb
+0905,Zen Headbutt
+0905,Calm Mind
+0905,Dazzling Gleam
+0905,Earth Power
+0905,Giga Impact
+0905,Hyper Beam
+0905,Mystical Fire
+0905,Play Rough
+0905,Power Shift
+0905,Psychic
+0905,Rest
+0905,Rock Smash
+0905,Sludge Bomb
+0905,Zen Headbutt
+0906,Ally Switch
+0906,Copycat
+0906,Leech Seed
+0906,Petal Blizzard
+0906,Sucker Punch
+0907,Ally Switch
+0907,Copycat
+0907,Leech Seed
+0907,Petal Blizzard
+0907,Sucker Punch
+0908,Flower Trick
+0909,Belch
+0909,Curse
+0909,Encore
+0909,Slack Off
+0910,Belch
+0910,Curse
+0910,Encore
+0910,Slack Off
+0911,Torch Song
+0912,Detect
+0912,Last Resort
+0912,Rapid Spin
+0912,Roost
+0913,Detect
+0913,Last Resort
+0913,Rapid Spin
+0913,Roost
+0914,Aqua Step
+0915,Endeavor
+0915,Spit Up
+0915,Stockpile
+0915,Stuff Cheeks
+0915,Swallow
+0916,Endeavor
+0916,Spit Up
+0916,Stockpile
+0916,Stuff Cheeks
+0916,Swallow
+0916,Endeavor
+0916,Spit Up
+0916,Stockpile
+0916,Stuff Cheeks
+0916,Swallow
+0917,First Impression
+0917,Lunge
+0917,Memento
+0917,Sucker Punch
+0918,Silk Trap
+0919,Counter
+0919,Skitter Smack
+0920,Lunge
+0921,Fake Out
+0921,Mach Punch
+0921,Sweet Kiss
+0921,Wish
+0922,Arm Thrust
+0923,Revival Blessing
+0924,After You
+0924,Baton Pass
+0924,Bite
+0924,Feint
+0924,Switcheroo
+0924,Tickle
+0925,After You
+0925,Baton Pass
+0925,Bite
+0925,Feint
+0925,Switcheroo
+0925,Tickle
+0925,After You
+0925,Baton Pass
+0925,Bite
+0925,Feint
+0925,Switcheroo
+0925,Tickle
+0926,Copycat
+0926,Howl
+0926,Sweet Scent
+0926,Wish
+0926,Yawn
+0927,Copycat
+0927,Howl
+0927,Sweet Scent
+0927,Wish
+0927,Yawn
+0928,Memento
+0928,Strength Sap
+0928,Synthesis
+0928,Weather Ball
+0929,Memento
+0929,Strength Sap
+0929,Synthesis
+0929,Weather Ball
+0930,Memento
+0930,Strength Sap
+0930,Synthesis
+0930,Weather Ball
+0931,Double-Edge
+0931,Final Gambit
+0931,Flatter
+0931,Parting Shot
+0931,Double-Edge
+0931,Final Gambit
+0931,Flatter
+0931,Parting Shot
+0931,Double-Edge
+0931,Final Gambit
+0931,Flatter
+0931,Parting Shot
+0931,Double-Edge
+0931,Final Gambit
+0931,Flatter
+0931,Parting Shot
+0932,Ancient Power
+0932,Curse
+0932,Fissure
+0932,Power Gem
+0933,Salt Cure
+0934,Hammer Arm
+0935,Destiny Bond
+0935,Disable
+0935,Spite
+0936,Psyshock
+0937,Shadow Claw
+0938,Muddy Water
+0938,Parabolic Charge
+0938,Soak
+0939,Muddy Water
+0939,Parabolic Charge
+0939,Soak
+0940,Endeavor
+0940,Feather Dance
+0940,Spit Up
+0940,Stockpile
+0940,Swallow
+0940,Weather Ball
+0941,Electro Ball
+0942,Destiny Bond
+0942,Endeavor
+0942,Play Rough
+0942,Retaliate
+0943,Comeuppance
+0944,Copycat
+0944,Cross Poison
+0944,Parting Shot
+0944,Super Fang
+0944,Swagger
+0944,Toxic
+0945,Doodle
+0946,Beat Up
+0946,Block
+0946,Leech Seed
+0946,Shadow Sneak
+0946,Strength Sap
+0947,Beat Up
+0947,Block
+0947,Leech Seed
+0947,Shadow Sneak
+0947,Strength Sap
+0948,Acupressure
+0948,Knock Off
+0948,Leech Seed
+0948,Mirror Coat
+0948,Rage Powder
+0948,Rapid Spin
+0948,Tickle
+0948,Toxic
+0949,Acupressure
+0949,Knock Off
+0949,Leech Seed
+0949,Mirror Coat
+0949,Rage Powder
+0949,Rapid Spin
+0949,Tickle
+0949,Toxic
+0950,Ancient Power
+0950,Crabhammer
+0950,Endeavor
+0950,Knock Off
+0951,Ingrain
+0951,Leech Seed
+0951,Rage Powder
+0951,Rollout
+0951,Worry Seed
+0952,Flamethrower
+0952,Spicy Extract
+0953,Cosmic Power
+0953,Memento
+0953,Recover
+0953,Weather Ball
+0954,Revival Blessing
+0955,Ally Switch
+0955,Hypnosis
+0955,Roost
+0956,Lumina Crash
+0957,Feint
+0957,Ice Hammer
+0957,Quash
+0958,Feint
+0958,Ice Hammer
+0958,Quash
+0959,Gigaton Hammer
+0960,Final Gambit
+0960,Memento
+0961,Final Gambit
+0961,Memento
+0962,Feather Dance
+0962,Power Trip
+0962,Roost
+0962,Sky Attack
+0962,Sucker Punch
+0963,Boomburst
+0963,Bounce
+0963,Counter
+0963,Haze
+0963,Tickle
+0964,Flip Turn
+0964,Flip Turn
+0965,Haze
+0965,Parting Shot
+0965,Self-Destruct
+0965,Torment
+0965,Toxic
+0966,Shift Gear
+0967,Aqua Tail
+0967,Iron Tail
+0967,Knock Off
+0967,Power Whip
+0968,Coil
+0968,Curse
+0968,Metal Burst
+0969,Explosion
+0969,Memento
+0969,Toxic
+0970,Mortal Spin
+0971,Ally Switch
+0971,Destiny Bond
+0971,Disable
+0971,Howl
+0971,Memento
+0971,Shadow Sneak
+0971,Yawn
+0972,Last Respects
+0973,Double Team
+0973,Quick Guard
+0973,Sky Attack
+0974,Belly Drum
+0974,Entrainment
+0974,Icicle Crash
+0974,Superpower
+0974,Yawn
+0975,Belly Drum
+0975,Entrainment
+0975,Icicle Crash
+0975,Superpower
+0975,Yawn
+0976,Recover
+0976,Thrash
+0977,Curse
+0977,Fissure
+0977,Thrash
+0977,Yawn
+0978,Baton Pass
+0978,Counter
+0978,Rapid Spin
+0978,Baton Pass
+0978,Counter
+0978,Rapid Spin
+0978,Baton Pass
+0978,Counter
+0978,Rapid Spin
+0979,Shadow Punch
+0980,Amnesia
+0981,Ally Switch
+0981,Beat Up
+0981,Double Kick
+0981,Future Sight
+0981,Mean Look
+0981,Mirror Coat
+0981,Take Down
+0981,Uproar
+0981,Wish
+0982,Aqua Tail
+0982,Astonish
+0982,Bite
+0982,Curse
+0982,Headbutt
+0982,Last Resort
+0982,Aqua Tail
+0982,Astonish
+0982,Bite
+0982,Curse
+0982,Headbutt
+0982,Last Resort
+0983,Kowtow Cleave
+0985,Sunny Day
+0986,Sunny Day
+0987,Sunny Day
+0988,Sunny Day
+0989,Sunny Day
+0991,Electric Terrain
+0992,Electric Terrain
+0994,Electric Terrain
+0995,Electric Terrain
+0996,Aqua Tail
+0996,Dragon Rush
+0996,Freeze-Dry
+0996,Icicle Spear
+0997,Aqua Tail
+0997,Dragon Rush
+0997,Freeze-Dry
+0997,Icicle Spear
+0998,Glaive Rush
+1005,Breaking Swipe
+1005,Jaw Lock
+1005,Scale Shot
+1005,Sunny Day
+1006,Electric Terrain
+1009,Hone Claws
+1009,Sunny Day
+1010,Electric Terrain
+1010,Quash
+1011,Double Hit
+1013,Matcha Gotcha
+1017,Counter
+1017,Double Kick
+1017,Horn Leech
+1017,Retaliate
+1017,Counter
+1017,Double Kick
+1017,Horn Leech
+1017,Retaliate
+1017,Counter
+1017,Double Kick
+1017,Horn Leech
+1017,Retaliate
+1017,Counter
+1017,Double Kick
+1017,Horn Leech
+1017,Retaliate
+1018,Electro Shot
+1019,Fickle Beam
+1020,Ancient Power
+1020,Double Kick
+1020,Noble Roar
+1021,Ancient Power
+1025,Defense Curl
+1025,Mean Look
+1025,Rollout

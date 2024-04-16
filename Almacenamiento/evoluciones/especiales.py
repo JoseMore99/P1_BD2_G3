@@ -4,7 +4,7 @@ import ast
 
 
 # Leer el archivo CSV usando pandas
-data = pd.read_csv('J:/universidad/bases 2/P1_BD2_G3/evoluciones/megas.csv')
+data = pd.read_csv('J:/universidad/bases 2/P1_BD2_G3/evoluciones/pokemoneses.csv')
 
 # Evolving_from,Evolving_to,level,item,description,type
 Evolving_from = data['Evolving_from']
@@ -19,5 +19,5 @@ for i in range(len(Evolving_from)):
     (pokemon_id, pokemon_evolution_id, level, item_id, description, type_evolution)
     VALUES((SELECT id FROM poke_g3.pokemon WHERE name = %s ),(SELECT id FROM poke_g3.pokemon WHERE name = %s ),
         %s,(SELECT id FROM poke_g3.item WHERE name = %s),%s,(SELECT id FROM poke_g3.type_evolution WHERE name = %s));""",
-    (Evolving_from.iloc[i],Evolving_to.iloc[i],0,objt,description.iloc[i],"MegaEvolution"))
+    (Evolving_from.iloc[i],Evolving_to.iloc[i],0,objt,description.iloc[i],"other"))
               

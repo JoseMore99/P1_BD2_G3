@@ -1,0 +1,525 @@
+Evolving_from,Evolving_to,level,item,description,type
+Bulbasaur,Ivysaur,16,null,Evolves at level 16 ,level
+Ivysaur,Venusaur,32,null,Evolves at level 32 ,level
+Charmander,Charmeleon,16,null,Evolves at level 16 ,level
+Charmeleon,Charizard,36,null,Evolves at level 36 ,level
+Squirtle,Wartortle,16,null,Evolves at level 16 ,level
+Wartortle,Blastoise,36,null,Evolves at level 36 ,level
+Caterpie,Metapod,7,null,Evolves at level 7 ,level
+Metapod,Butterfree,10,null,Evolves at level 10 ,level
+Weedle,Kakuna,7,null,Evolves at level 7 ,level
+Kakuna,Beedrill,10,null,Evolves at level 10 ,level
+Pidgey,Pidgeotto,18,null,Evolves at level 18 ,level
+Pidgeotto,Pidgeot,36,null,Evolves at level 36 ,level
+Rattata,Raticate,20,null,Evolves at level 20 ,level
+Rattata(Alolan Rattata),Raticate(Alolan Raticate),20,null,Evolves at level 20 Nighttime,level
+Spearow,Fearow,20,null,Evolves at level 20 ,level
+Ekans,Arbok,22,null,Evolves at level 22 ,level
+Sandshrew,Sandslash,22,null,Evolves at level 22 ,level
+Nidoran♀,Nidorina,16,null,Evolves at level 16 ,level
+Nidoran♂,Nidorino,16,null,Evolves at level 16 ,level
+Zubat,Golbat,22,null,Evolves at level 22 ,level
+Oddish,Gloom,21,null,Evolves at level 21 ,level
+Paras,Parasect,24,null,Evolves at level 24 ,level
+Venonat,Venomoth,31,null,Evolves at level 31 ,level
+Diglett,Dugtrio,26,null,Evolves at level 26 ,level
+Diglett(Alolan Diglett),Dugtrio(Alolan Dugtrio),26,null,Evolves at level 26 ,level
+Meowth,Persian,28,null,Evolves at level 28 ,level
+Meowth(Galarian Meowth),Perrserker,28,null,Evolves at level 28 ,level
+Psyduck,Golduck,33,null,Evolves at level 33 ,level
+Mankey,Primeape,28,null,Evolves at level 28 ,level
+Poliwag,Poliwhirl,25,null,Evolves at level 25 ,level
+Abra,Kadabra,16,null,Evolves at level 16 ,level
+Machop,Machoke,28,null,Evolves at level 28 ,level
+Bellsprout,Weepinbell,21,null,Evolves at level 21 ,level
+Tentacool,Tentacruel,30,null,Evolves at level 30 ,level
+Geodude,Graveler,25,null,Evolves at level 25 ,level
+Geodude(Alolan Geodude),Graveler(Alolan Graveler),25,null,Evolves at level 25 ,level
+Ponyta,Rapidash,40,null,Evolves at level 40 ,level
+Ponyta(Galarian Ponyta),Rapidash(Galarian Rapidash),40,null,Evolves at level 40 ,level
+Slowpoke,Slowbro,37,null,Evolves at level 37 ,level
+Magnemite,Magneton,30,null,Evolves at level 30 ,level
+Doduo,Dodrio,31,null,Evolves at level 31 ,level
+Seel,Dewgong,34,null,Evolves at level 34 ,level
+Grimer,Muk,38,null,Evolves at level 38 ,level
+Grimer(Alolan Grimer),Muk(Alolan Muk),38,null,Evolves at level 38 ,level
+Gastly,Haunter,25,null,Evolves at level 25 ,level
+Drowzee,Hypno,26,null,Evolves at level 26 ,level
+Krabby,Kingler,28,null,Evolves at level 28 ,level
+Voltorb,Electrode,30,null,Evolves at level 30 ,level
+Cubone,Marowak,28,null,Evolves at level 28 outside Alola,level
+Cubone,Marowak(Alolan Marowak),28,null,"Evolves at level 28 Nighttime, in Alola",level
+Tyrogue,Hitmonlee,20,null,Evolves at level 20 Attack > Defense,level
+Tyrogue,Hitmonchan,20,null,Evolves at level 20 Attack < Defense,level
+Tyrogue,Hitmontop,20,null,Evolves at level 20 Attack = Defense,level
+Koffing,Weezing,35,null,Evolves at level 35 outside Galar,level
+Koffing,Weezing(Galarian Weezing),35,null,Evolves at level 35 in Galar,level
+Rhyhorn,Rhydon,42,null,Evolves at level 42 ,level
+Horsea,Seadra,32,null,Evolves at level 32 ,level
+Goldeen,Seaking,33,null,Evolves at level 33 ,level
+Mr. Mime(Galarian Mr. Mime),Mr. Rime,42,null,Evolves at level 42 ,level
+Smoochum,Jynx,30,null,Evolves at level 30 ,level
+Elekid,Electabuzz,30,null,Evolves at level 30 ,level
+Magby,Magmar,30,null,Evolves at level 30 ,level
+Magikarp,Gyarados,20,null,Evolves at level 20 ,level
+Omanyte,Omastar,40,null,Evolves at level 40 ,level
+Kabuto,Kabutops,40,null,Evolves at level 40 ,level
+Dratini,Dragonair,30,null,Evolves at level 30 ,level
+Dragonair,Dragonite,55,null,Evolves at level 55 ,level
+Chikorita,Bayleef,16,null,Evolves at level 16 ,level
+Bayleef,Meganium,32,null,Evolves at level 32 ,level
+Cyndaquil,Quilava,14,null,Evolves at level 14 or Level 17 in Legends: Arceus,level
+Quilava,Typhlosion,36,null,Evolves at level 36 ,level
+Quilava,Typhlosion(Hisuian Typhlosion),36,null,Evolves at level 36 in Legends: Arceus,level
+Totodile,Croconaw,18,null,Evolves at level 18 ,level
+Croconaw,Feraligatr,30,null,Evolves at level 30 ,level
+Sentret,Furret,15,null,Evolves at level 15 ,level
+Hoothoot,Noctowl,20,null,Evolves at level 20 ,level
+Ledyba,Ledian,18,null,Evolves at level 18 ,level
+Spinarak,Ariados,22,null,Evolves at level 22 ,level
+Chinchou,Lanturn,27,null,Evolves at level 27 ,level
+Natu,Xatu,25,null,Evolves at level 25 ,level
+Mareep,Flaaffy,15,null,Evolves at level 15 ,level
+Flaaffy,Ampharos,30,null,Evolves at level 30 ,level
+Marill,Azumarill,18,null,Evolves at level 18 ,level
+Hoppip,Skiploom,18,null,Evolves at level 18 ,level
+Skiploom,Jumpluff,27,null,Evolves at level 27 ,level
+Wooper,Quagsire,20,null,Evolves at level 20 ,level
+Wooper(Paldean Wooper),Clodsire,20,null,Evolves at level 20 ,level
+Wynaut,Wobbuffet,15,null,Evolves at level 15 ,level
+Pineco,Forretress,31,null,Evolves at level 31 ,level
+Snubbull,Granbull,23,null,Evolves at level 23 ,level
+Teddiursa,Ursaring,30,null,Evolves at level 30 ,level
+Slugma,Magcargo,38,null,Evolves at level 38 ,level
+Swinub,Piloswine,33,null,Evolves at level 33 ,level
+Remoraid,Octillery,25,null,Evolves at level 25 ,level
+Houndour,Houndoom,24,null,Evolves at level 24 ,level
+Phanpy,Donphan,25,null,Evolves at level 25 ,level
+Larvitar,Pupitar,30,null,Evolves at level 30 ,level
+Pupitar,Tyranitar,55,null,Evolves at level 55 ,level
+Treecko,Grovyle,16,null,Evolves at level 16 ,level
+Grovyle,Sceptile,36,null,Evolves at level 36 ,level
+Torchic,Combusken,16,null,Evolves at level 16 ,level
+Combusken,Blaziken,36,null,Evolves at level 36 ,level
+Mudkip,Marshtomp,16,null,Evolves at level 16 ,level
+Marshtomp,Swampert,36,null,Evolves at level 36 ,level
+Poochyena,Mightyena,18,null,Evolves at level 18 ,level
+Zigzagoon,Linoone,20,null,Evolves at level 20 ,level
+Zigzagoon(Galarian Zigzagoon),Linoone(Galarian Linoone),20,null,Evolves at level 20 ,level
+Linoone(Galarian Linoone),Obstagoon,35,null,Evolves at level 35 Nighttime,level
+Wurmple,Silcoon,7,null,Evolves at level 7 random based on personality,level
+Silcoon,Beautifly,10,null,Evolves at level 10 ,level
+Wurmple,Cascoon,7,null,Evolves at level 7 random based on personality,level
+Cascoon,Dustox,10,null,Evolves at level 10 ,level
+Lotad,Lombre,14,null,Evolves at level 14 ,level
+Seedot,Nuzleaf,14,null,Evolves at level 14 ,level
+Taillow,Swellow,22,null,Evolves at level 22 ,level
+Wingull,Pelipper,25,null,Evolves at level 25 ,level
+Ralts,Kirlia,20,null,Evolves at level 20 ,level
+Kirlia,Gardevoir,30,null,Evolves at level 30 ,level
+Surskit,Masquerain,22,null,Evolves at level 22 ,level
+Shroomish,Breloom,23,null,Evolves at level 23 ,level
+Slakoth,Vigoroth,18,null,Evolves at level 18 ,level
+Vigoroth,Slaking,36,null,Evolves at level 36 ,level
+Nincada,Ninjask,20,null,Evolves at level 20 ,level
+Nincada,Shedinja,20,null,"Evolves at level 20 empty spot in party, Pokéball in bag",level
+Whismur,Loudred,20,null,Evolves at level 20 ,level
+Loudred,Exploud,40,null,Evolves at level 40 ,level
+Makuhita,Hariyama,24,null,Evolves at level 24 ,level
+Aron,Lairon,32,null,Evolves at level 32 ,level
+Lairon,Aggron,42,null,Evolves at level 42 ,level
+Meditite,Medicham,37,null,Evolves at level 37 ,level
+Electrike,Manectric,26,null,Evolves at level 26 ,level
+Gulpin,Swalot,26,null,Evolves at level 26 ,level
+Carvanha,Sharpedo,30,null,Evolves at level 30 ,level
+Wailmer,Wailord,40,null,Evolves at level 40 ,level
+Numel,Camerupt,33,null,Evolves at level 33 ,level
+Spoink,Grumpig,32,null,Evolves at level 32 ,level
+Trapinch,Vibrava,35,null,Evolves at level 35 ,level
+Vibrava,Flygon,45,null,Evolves at level 45 ,level
+Cacnea,Cacturne,32,null,Evolves at level 32 ,level
+Swablu,Altaria,35,null,Evolves at level 35 ,level
+Barboach,Whiscash,30,null,Evolves at level 30 ,level
+Corphish,Crawdaunt,30,null,Evolves at level 30 ,level
+Baltoy,Claydol,36,null,Evolves at level 36 ,level
+Lileep,Cradily,40,null,Evolves at level 40 ,level
+Anorith,Armaldo,40,null,Evolves at level 40 ,level
+Shuppet,Banette,37,null,Evolves at level 37 ,level
+Duskull,Dusclops,37,null,Evolves at level 37 ,level
+Snorunt,Glalie,42,null,Evolves at level 42 ,level
+Spheal,Sealeo,32,null,Evolves at level 32 ,level
+Sealeo,Walrein,44,null,Evolves at level 44 ,level
+Bagon,Shelgon,30,null,Evolves at level 30 ,level
+Shelgon,Salamence,50,null,Evolves at level 50 ,level
+Beldum,Metang,20,null,Evolves at level 20 ,level
+Metang,Metagross,45,null,Evolves at level 45 ,level
+Turtwig,Grotle,18,null,Evolves at level 18 ,level
+Grotle,Torterra,32,null,Evolves at level 32 ,level
+Chimchar,Monferno,14,null,Evolves at level 14 ,level
+Monferno,Infernape,36,null,Evolves at level 36 ,level
+Piplup,Prinplup,16,null,Evolves at level 16 ,level
+Prinplup,Empoleon,36,null,Evolves at level 36 ,level
+Starly,Staravia,14,null,Evolves at level 14 ,level
+Staravia,Staraptor,34,null,Evolves at level 34 ,level
+Bidoof,Bibarel,15,null,Evolves at level 15 ,level
+Kricketot,Kricketune,10,null,Evolves at level 10 ,level
+Shinx,Luxio,15,null,Evolves at level 15 ,level
+Luxio,Luxray,30,null,Evolves at level 30 ,level
+Cranidos,Rampardos,30,null,Evolves at level 30 ,level
+Shieldon,Bastiodon,30,null,Evolves at level 30 ,level
+Burmy(Plant Cloak),Mothim,20,null,Evolves at level 20 Male,level
+Burmy(Plant Cloak),Wormadam(Plant Cloak),20,null,"Evolves at level 20 Female, in grass",level
+Burmy(Sandy Cloak),Wormadam(Sandy Cloak),20,null,"Evolves at level 20 Female, in caves",level
+Burmy(Trash Cloak),Wormadam(Trash Cloak),20,null,"Evolves at level 20 Female, in buildings",level
+Combee,Vespiquen,21,null,Evolves at level 21 Female,level
+Buizel,Floatzel,26,null,Evolves at level 26 ,level
+Cherubi,Cherrim,25,null,Evolves at level 25 ,level
+Shellos,Gastrodon,30,null,Evolves at level 30 ,level
+Drifloon,Drifblim,28,null,Evolves at level 28 ,level
+Glameow,Purugly,38,null,Evolves at level 38 ,level
+Stunky,Skuntank,34,null,Evolves at level 34 ,level
+Bronzor,Bronzong,33,null,Evolves at level 33 ,level
+Gible,Gabite,24,null,Evolves at level 24 ,level
+Gabite,Garchomp,48,null,Evolves at level 48 ,level
+Hippopotas,Hippowdon,34,null,Evolves at level 34 ,level
+Skorupi,Drapion,40,null,Evolves at level 40 ,level
+Croagunk,Toxicroak,37,null,Evolves at level 37 ,level
+Finneon,Lumineon,31,null,Evolves at level 31 ,level
+Snover,Abomasnow,40,null,Evolves at level 40 ,level
+Snivy,Servine,17,null,Evolves at level 17 ,level
+Servine,Serperior,36,null,Evolves at level 36 ,level
+Tepig,Pignite,17,null,Evolves at level 17 ,level
+Pignite,Emboar,36,null,Evolves at level 36 ,level
+Oshawott,Dewott,17,null,Evolves at level 17 ,level
+Dewott,Samurott,36,null,Evolves at level 36 ,level
+Dewott,Samurott(Hisuian Samurott),36,null,Evolves at level 36 in Legends: Arceus,level
+Patrat,Watchog,20,null,Evolves at level 20 ,level
+Lillipup,Herdier,16,null,Evolves at level 16 ,level
+Herdier,Stoutland,32,null,Evolves at level 32 ,level
+Purrloin,Liepard,20,null,Evolves at level 20 ,level
+Pidove,Tranquill,21,null,Evolves at level 21 ,level
+Tranquill,Unfezant,32,null,Evolves at level 32 ,level
+Blitzle,Zebstrika,27,null,Evolves at level 27 ,level
+Roggenrola,Boldore,25,null,Evolves at level 25 ,level
+Drilbur,Excadrill,31,null,Evolves at level 31 ,level
+Timburr,Gurdurr,25,null,Evolves at level 25 ,level
+Tympole,Palpitoad,25,null,Evolves at level 25 ,level
+Palpitoad,Seismitoad,36,null,Evolves at level 36 ,level
+Sewaddle,Swadloon,20,null,Evolves at level 20 ,level
+Venipede,Whirlipede,22,null,Evolves at level 22 ,level
+Whirlipede,Scolipede,30,null,Evolves at level 30 ,level
+Sandile,Krokorok,29,null,Evolves at level 29 ,level
+Krokorok,Krookodile,40,null,Evolves at level 40 ,level
+Darumaka,Darmanitan(Standard Mode),35,null,Evolves at level 35 ,level
+Dwebble,Crustle,34,null,Evolves at level 34 ,level
+Scraggy,Scrafty,39,null,Evolves at level 39 ,level
+Yamask,Cofagrigus,34,null,Evolves at level 34 ,level
+Tirtouga,Carracosta,37,null,Evolves at level 37 ,level
+Archen,Archeops,37,null,Evolves at level 37 ,level
+Trubbish,Garbodor,36,null,Evolves at level 36 ,level
+Zorua,Zoroark,30,null,Evolves at level 30 ,level
+Zorua(Hisuian Zorua),Zoroark(Hisuian Zoroark),30,null,Evolves at level 30 in Legends: Arceus,level
+Gothita,Gothorita,32,null,Evolves at level 32 ,level
+Gothorita,Gothitelle,41,null,Evolves at level 41 ,level
+Solosis,Duosion,32,null,Evolves at level 32 ,level
+Duosion,Reuniclus,41,null,Evolves at level 41 ,level
+Ducklett,Swanna,35,null,Evolves at level 35 ,level
+Vanillite,Vanillish,35,null,Evolves at level 35 ,level
+Vanillish,Vanilluxe,47,null,Evolves at level 47 ,level
+Deerling,Sawsbuck,34,null,Evolves at level 34 ,level
+Foongus,Amoonguss,39,null,Evolves at level 39 ,level
+Frillish,Jellicent,40,null,Evolves at level 40 ,level
+Joltik,Galvantula,36,null,Evolves at level 36 ,level
+Ferroseed,Ferrothorn,40,null,Evolves at level 40 ,level
+Klink,Klang,38,null,Evolves at level 38 ,level
+Klang,Klinklang,49,null,Evolves at level 49 ,level
+Tynamo,Eelektrik,39,null,Evolves at level 39 ,level
+Elgyem,Beheeyem,42,null,Evolves at level 42 ,level
+Litwick,Lampent,41,null,Evolves at level 41 ,level
+Axew,Fraxure,38,null,Evolves at level 38 ,level
+Fraxure,Haxorus,48,null,Evolves at level 48 ,level
+Cubchoo,Beartic,37,null,Evolves at level 37 ,level
+Mienfoo,Mienshao,50,null,Evolves at level 50 ,level
+Golett,Golurk,43,null,Evolves at level 43 ,level
+Pawniard,Bisharp,52,null,Evolves at level 52 ,level
+Rufflet,Braviary,54,null,Evolves at level 54 ,level
+Rufflet,Braviary(Hisuian Braviary),54,null,Evolves at level 54 in Legends: Arceus,level
+Vullaby,Mandibuzz,54,null,Evolves at level 54 ,level
+Deino,Zweilous,50,null,Evolves at level 50 ,level
+Zweilous,Hydreigon,64,null,Evolves at level 64 ,level
+Larvesta,Volcarona,59,null,Evolves at level 59 ,level
+Chespin,Quilladin,16,null,Evolves at level 16 ,level
+Quilladin,Chesnaught,36,null,Evolves at level 36 ,level
+Fennekin,Braixen,16,null,Evolves at level 16 ,level
+Braixen,Delphox,36,null,Evolves at level 36 ,level
+Froakie,Frogadier,16,null,Evolves at level 16 ,level
+Frogadier,Greninja,36,null,Evolves at level 36 ,level
+Bunnelby,Diggersby,20,null,Evolves at level 20 ,level
+Fletchling,Fletchinder,17,null,Evolves at level 17 ,level
+Fletchinder,Talonflame,35,null,Evolves at level 35 ,level
+Scatterbug,Spewpa,9,null,Evolves at level 9 ,level
+Spewpa,Vivillon,12,null,Evolves at level 12 ,level
+Litleo,Pyroar,35,null,Evolves at level 35 ,level
+Flabébé,Floette,19,null,Evolves at level 19 ,level
+Skiddo,Gogoat,32,null,Evolves at level 32 ,level
+Pancham,Pangoro,32,null,Evolves at level 32 Dark type Pokémon in party,level
+Espurr,Meowstic(Male),25,null,Evolves at level 25 Male,level
+Espurr,Meowstic(Female),25,null,Evolves at level 25 Female,level
+Honedge,Doublade,35,null,Evolves at level 35 ,level
+Inkay,Malamar,30,null,Evolves at level 30 holding console upside down,level
+Binacle,Barbaracle,39,null,Evolves at level 39 ,level
+Skrelp,Dragalge,48,null,Evolves at level 48 ,level
+Clauncher,Clawitzer,37,null,Evolves at level 37 ,level
+Tyrunt,Tyrantrum,39,null,Evolves at level 39 Daytime,level
+Amaura,Aurorus,39,null,Evolves at level 39 Nighttime,level
+Goomy,Sliggoo,40,null,Evolves at level 40 ,level
+Sliggoo,Goodra,50,null,Evolves at level 50 during rain,level
+Goomy,Sliggoo(Hisuian Sliggoo),40,null,Evolves at level 40 in Legends: Arceus,level
+Sliggoo(Hisuian Sliggoo),Goodra(Hisuian Goodra),50,null,"Evolves at level 50 during rain, in Legends: Arceus",level
+Bergmite,Avalugg,37,null,Evolves at level 37 ,level
+Bergmite,Avalugg(Hisuian Avalugg),37,null,Evolves at level 37 in Legends: Arceus,level
+Noibat,Noivern,48,null,Evolves at level 48 ,level
+Rowlet,Dartrix,17,null,Evolves at level 17 ,level
+Dartrix,Decidueye,34,null,Evolves at level 34 ,level
+Dartrix,Decidueye(Hisuian Decidueye),36,null,Evolves at level 36 in Legends: Arceus,level
+Litten,Torracat,17,null,Evolves at level 17 ,level
+Torracat,Incineroar,34,null,Evolves at level 34 ,level
+Popplio,Brionne,17,null,Evolves at level 17 ,level
+Brionne,Primarina,34,null,Evolves at level 34 ,level
+Pikipek,Trumbeak,14,null,Evolves at level 14 ,level
+Trumbeak,Toucannon,28,null,Evolves at level 28 ,level
+Yungoos,Gumshoos,20,null,Evolves at level 20 Daytime,level
+Grubbin,Charjabug,20,null,Evolves at level 20 ,level
+Cutiefly,Ribombee,25,null,Evolves at level 25 ,level
+Rockruff,Lycanroc(Midday Form),25,null,Evolves at level 25 Daytime,level
+Rockruff,Lycanroc(Midnight Form),25,null,Evolves at level 25 Nighttime,level
+Rockruff(Own Tempo Rockruff),Lycanroc(Dusk Form),25,null,Evolves at level 25 Dusk,level
+Mareanie,Toxapex,38,null,Evolves at level 38 ,level
+Mudbray,Mudsdale,30,null,Evolves at level 30 ,level
+Dewpider,Araquanid,22,null,Evolves at level 22 ,level
+Fomantis,Lurantis,34,null,Evolves at level 34 Daytime,level
+Morelull,Shiinotic,24,null,Evolves at level 24 ,level
+Salandit,Salazzle,33,null,Evolves at level 33 Female,level
+Stufful,Bewear,27,null,Evolves at level 27 ,level
+Bounsweet,Steenee,18,null,Evolves at level 18 ,level
+Wimpod,Golisopod,30,null,Evolves at level 30 ,level
+Sandygast,Palossand,42,null,Evolves at level 42 ,level
+Jangmo-o,Hakamo-o,35,null,Evolves at level 35 ,level
+Hakamo-o,Kommo-o,45,null,Evolves at level 45 ,level
+Cosmog,Cosmoem,43,null,Evolves at level 43 ,level
+Cosmoem,Solgaleo,53,null,Evolves at level 53 in Pokémon Sun or Ultra Sun,level
+Cosmoem,Lunala,53,null,Evolves at level 53 in Pokémon Moon or Ultra Moon,level
+Grookey,Thwackey,16,null,Evolves at level 16 ,level
+Thwackey,Rillaboom,35,null,Evolves at level 35 ,level
+Scorbunny,Raboot,16,null,Evolves at level 16 ,level
+Raboot,Cinderace,35,null,Evolves at level 35 ,level
+Sobble,Drizzile,16,null,Evolves at level 16 ,level
+Drizzile,Inteleon,35,null,Evolves at level 35 ,level
+Blipbug,Dottler,10,null,Evolves at level 10 ,level
+Dottler,Orbeetle,30,null,Evolves at level 30 ,level
+Rookidee,Corvisquire,18,null,Evolves at level 18 ,level
+Corvisquire,Corviknight,38,null,Evolves at level 38 ,level
+Skwovet,Greedent,24,null,Evolves at level 24 ,level
+Nickit,Thievul,18,null,Evolves at level 18 ,level
+Wooloo,Dubwool,24,null,Evolves at level 24 ,level
+Chewtle,Drednaw,22,null,Evolves at level 22 ,level
+Yamper,Boltund,25,null,Evolves at level 25 ,level
+Gossifleur,Eldegoss,20,null,Evolves at level 20 ,level
+Sizzlipede,Centiskorch,28,null,Evolves at level 28 ,level
+Rolycoly,Carkol,18,null,Evolves at level 18 ,level
+Carkol,Coalossal,34,null,Evolves at level 34 ,level
+Arrokuda,Barraskewda,26,null,Evolves at level 26 ,level
+Corsola(Galarian Corsola),Cursola,38,null,Evolves at level 38 ,level
+Impidimp,Morgrem,32,null,Evolves at level 32 ,level
+Morgrem,Grimmsnarl,42,null,Evolves at level 42 ,level
+Hatenna,Hattrem,32,null,Evolves at level 32 ,level
+Hattrem,Hatterene,42,null,Evolves at level 42 ,level
+Cufant,Copperajah,34,null,Evolves at level 34 ,level
+Toxel,Toxtricity(Amped Form),30,null,Evolves at level 30 with an amped Nature,level
+Toxel,Toxtricity(Low Key Form),30,null,Evolves at level 30 with a low key Nature,level
+Silicobra,Sandaconda,36,null,Evolves at level 36 ,level
+Dreepy,Drakloak,50,null,Evolves at level 50 ,level
+Drakloak,Dragapult,60,null,Evolves at level 60 ,level
+Sprigatito,Floragato,16,null,Evolves at level 16 ,level
+Floragato,Meowscarada,36,null,Evolves at level 36 ,level
+Fuecoco,Crocalor,16,null,Evolves at level 16 ,level
+Crocalor,Skeledirge,36,null,Evolves at level 36 ,level
+Quaxly,Quaxwell,16,null,Evolves at level 16 ,level
+Quaxwell,Quaquaval,36,null,Evolves at level 36 ,level
+Lechonk,Oinkologne(Male),18,null,Evolves at level 18 Male,level
+Lechonk,Oinkologne(Female),18,null,Evolves at level 18 Female,level
+Tarountula,Spidops,15,null,Evolves at level 15 ,level
+Nymble,Lokix,24,null,Evolves at level 24 ,level
+Greavard,Houndstone,30,null,Evolves at level 30 Nighttime,level
+Flittle,Espathra,35,null,Evolves at level 35 ,level
+Wiglett,Wugtrio,26,null,Evolves at level 26 ,level
+Finizen,Palafin(Zero Form),38,null,Evolves at level 38 while in multiplayer,level
+Smoliv,Dolliv,25,null,Evolves at level 25 ,level
+Dolliv,Arboliva,35,null,Evolves at level 35 ,level
+Varoom,Revavroom,40,null,Evolves at level 40 ,level
+Tandemaus,Maushold(Family of Three),25,null,Evolves at level 25 rare,level
+Tandemaus,Maushold(Family of Four),25,null,Evolves at level 25 ,level
+Frigibax,Arctibax,35,null,Evolves at level 35 ,level
+Arctibax,Baxcalibur,54,null,Evolves at level 54 ,level
+Pawmi,Pawmo,18,null,Evolves at level 18 ,level
+Wattrel,Kilowattrel,25,null,Evolves at level 25 ,level
+Nacli,Naclstack,24,null,Evolves at level 24 ,level
+Naclstack,Garganacl,38,null,Evolves at level 38 ,level
+Glimmet,Glimmora,35,null,Evolves at level 35 ,level
+Shroodle,Grafaiai,28,null,Evolves at level 28 ,level
+Fidough,Dachsbun,26,null,Evolves at level 26 ,level
+Maschiff,Mabosstiff,30,null,Evolves at level 30 ,level
+Tinkatink,Tinkatuff,24,null,Evolves at level 24 ,level
+Tinkatuff,Tinkaton,38,null,Evolves at level 38 ,level
+Toedscool,Toedscruel,30,null,Evolves at level 30 ,level
+Pikachu,Raichu,0,Thunder Stone,"Evolves with Thunder Stone, outside Alola",stone
+Pikachu,Raichu(Alolan Raichu),0,Thunder Stone,"Evolves with Thunder Stone, in Alola",stone
+Sandshrew(Alolan Sandshrew),Sandslash(Alolan Sandslash),0,Ice Stone,Evolves with Ice Stone,stone
+Nidorina,Nidoqueen,0,Moon Stone,Evolves with Moon Stone,stone
+Nidorino,Nidoking,0,Moon Stone,Evolves with Moon Stone,stone
+Clefairy,Clefable,0,Moon Stone,Evolves with Moon Stone,stone
+Vulpix,Ninetales,0,Fire Stone,Evolves with Fire Stone,stone
+Vulpix(Alolan Vulpix),Ninetales(Alolan Ninetales),0,Ice Stone,Evolves with Ice Stone,stone
+Jigglypuff,Wigglytuff,0,Moon Stone,Evolves with Moon Stone,stone
+Gloom,Vileplume,0,Leaf Stone,Evolves with Leaf Stone,stone
+Gloom,Bellossom,0,Sun Stone,Evolves with Sun Stone,stone
+Growlithe,Arcanine,0,Fire Stone,Evolves with Fire Stone,stone
+Growlithe(Hisuian Growlithe),Arcanine(Hisuian Arcanine),0,Fire Stone,Evolves with Fire Stone,stone
+Poliwhirl,Poliwrath,0,Water Stone,Evolves with Water Stone,stone
+Weepinbell,Victreebel,0,Leaf Stone,Evolves with Leaf Stone,stone
+Slowpoke(Galarian Slowpoke),Slowbro(Galarian Slowbro),0,Galarica Cuff,Evolves with Galarica Cuff,stone
+Slowpoke(Galarian Slowpoke),Slowking(Galarian Slowking),0,Galarica Wreath,Evolves with Galarica Wreath,stone
+Magneton,Magnezone,0,Thunder Stone,"Evolves with Thunder Stone, in Gen 8+, or level up in a Magnetic Field area",stone
+Shellder,Cloyster,0,Water Stone,Evolves with Water Stone,stone
+Voltorb(Hisuian Voltorb),Electrode(Hisuian Electrode),0,Leaf Stone,Evolves with Leaf Stone,stone
+Exeggcute,Exeggutor,0,Leaf Stone,"Evolves with Leaf Stone, outside Alola",stone
+Exeggcute,Exeggutor(Alolan Exeggutor),0,Leaf Stone,"Evolves with Leaf Stone, in Alola",stone
+Staryu,Starmie,0,Water Stone,Evolves with Water Stone,stone
+Scyther,Kleavor,0,Black Augurite,Evolves with Black Augurite,stone
+Eevee,Vaporeon,0,Water Stone,Evolves with Water Stone,stone
+Eevee,Jolteon,0,Thunder Stone,Evolves with Thunder Stone,stone
+Eevee,Flareon,0,Fire Stone,Evolves with Fire Stone,stone
+Eevee,Leafeon,0,Leaf Stone,"Evolves with Leaf Stone, or level up near a Mossy Rock",stone
+Eevee,Glaceon,0,Ice Stone,"Evolves with Ice Stone, or level up near an Icy Rock",stone
+Togetic,Togekiss,0,Shiny Stone,Evolves with Shiny Stone,stone
+Sunkern,Sunflora,0,Sun Stone,Evolves with Sun Stone,stone
+Murkrow,Honchkrow,0,Dusk Stone,Evolves with Dusk Stone,stone
+Misdreavus,Mismagius,0,Dusk Stone,Evolves with Dusk Stone,stone
+Sneasel(Hisuian Sneasel),Sneasler,0,Razor Claw,"Evolves with Razor Claw, Daytime",stone
+Ursaring,Ursaluna,0,Peat Block,"Evolves with Peat Block, under a full moon, in Legends: Arceus",stone
+Lombre,Ludicolo,0,Water Stone,Evolves with Water Stone,stone
+Nuzleaf,Shiftry,0,Leaf Stone,Evolves with Leaf Stone,stone
+Kirlia,Gallade,0,Dawn Stone,"Evolves with Dawn Stone, Male",stone
+Skitty,Delcatty,0,Moon Stone,Evolves with Moon Stone,stone
+Roselia,Roserade,0,Shiny Stone,Evolves with Shiny Stone,stone
+Snorunt,Froslass,0,Dawn Stone,"Evolves with Dawn Stone, Female",stone
+Pansage,Simisage,0,Leaf Stone,Evolves with Leaf Stone,stone
+Pansear,Simisear,0,Fire Stone,Evolves with Fire Stone,stone
+Panpour,Simipour,0,Water Stone,Evolves with Water Stone,stone
+Munna,Musharna,0,Moon Stone,Evolves with Moon Stone,stone
+Cottonee,Whimsicott,0,Sun Stone,Evolves with Sun Stone,stone
+Petilil,Lilligant,0,Sun Stone,Evolves with Sun Stone,stone
+Petilil,Lilligant(Hisuian Lilligant),0,Sun Stone,"Evolves with Sun Stone, in Legends: Arceus",stone
+Darumaka(Galarian Darumaka),Darmanitan(Galarian Standard Mode),0,Ice Stone,Evolves with Ice Stone,stone
+Minccino,Cinccino,0,Shiny Stone,Evolves with Shiny Stone,stone
+Eelektrik,Eelektross,0,Thunder Stone,Evolves with Thunder Stone,stone
+Lampent,Chandelure,0,Dusk Stone,Evolves with Dusk Stone,stone
+Floette,Florges,0,Shiny Stone,Evolves with Shiny Stone,stone
+Doublade,Aegislash(Shield Forme),0,Dusk Stone,Evolves with Dusk Stone,stone
+Helioptile,Heliolisk,0,Sun Stone,Evolves with Sun Stone,stone
+Charjabug,Vikavolt,0,Thunder Stone,"Evolves with Thunder Stone, in Gen 8, or level up in a Magnetic Field area",stone
+Crabrawler,Crabominable,0,Ice Stone,"Evolves with Ice Stone, or at Mount Lanakila in Alola",stone
+Applin,Flapple,0,Tart Apple,Evolves with Tart Apple,stone
+Applin,Appletun,0,Sweet Apple,Evolves with Sweet Apple,stone
+Applin,Dipplin,0,Syrupy Apple,Evolves with Syrupy Apple,stone
+Sinistea,Polteageist,0,Cracked Pot,Evolves with Cracked Pot,stone
+Kubfu,Urshifu(Single Strike Style),0,Scroll Of Darkness,"Evolves with Scroll Of Darkness, or in Tower of Darkness in Galar",stone
+Kubfu,Urshifu(Rapid Strike Style),0,Scroll Of Waters,"Evolves with Scroll Of Waters, or in Tower of Water in Galar",stone
+Capsakid,Scovillain,0,Fire Stone,Evolves with Fire Stone,stone
+Tadbulb,Bellibolt,0,Thunder Stone,Evolves with Thunder Stone,stone
+Cetoddle,Cetitan,0,Ice Stone,Evolves with Ice Stone,stone
+Charcadet,Armarouge,0,Auspicious Armor,Evolves with Auspicious Armor,stone
+Charcadet,Ceruledge,0,Malicious Armor,Evolves with Malicious Armor,stone
+Poltchageist,Sinistcha,0,Unremarkable Teacup,Evolves with Unremarkable Teacup,stone
+Duraludon,Archaludon,0,Metal Alloy,Evolves with Metal Alloy,stone
+Poliwhirl,Politoed,0,Kings Rock,"Evolves being traded,  Kings Rock",trade
+Kadabra,Alakazam,0,null,"Evolves being traded, ",trade
+Machoke,Machamp,0,null,"Evolves being traded, ",trade
+Graveler,Golem,0,null,"Evolves being traded, ",trade
+Graveler(Alolan Graveler),Golem(Alolan Golem),0,null,"Evolves being traded, ",trade
+Slowpoke,Slowking,0,Kings Rock,"Evolves being traded,  Kings Rock",trade
+Haunter,Gengar,0,null,"Evolves being traded, ",trade
+Onix,Steelix,0,Metal Coat,"Evolves being traded,  Metal Coat",trade
+Rhydon,Rhyperior,0,Protector,"Evolves being traded,  Protector",trade
+Seadra,Kingdra,0,Dragon Scale,"Evolves being traded,  Dragon Scale",trade
+Scyther,Scizor,0,Metal Coat,"Evolves being traded,  Metal Coat",trade
+Electabuzz,Electivire,0,Electirizer,"Evolves being traded,  Electirizer",trade
+Magmar,Magmortar,0,Magmarizer,"Evolves being traded,  Magmarizer",trade
+Porygon,Porygon2,0,Upgrade,"Evolves being traded,  Upgrade",trade
+Porygon2,Porygon-Z,0,Dubious Disc,"Evolves being traded,  Dubious Disc",trade
+Feebas,Milotic,0,Prism Scale,"Evolves being traded,  Prism Scale, or level up with max Beauty",trade
+Dusclops,Dusknoir,0,Reaper Cloth,"Evolves being traded,  Reaper Cloth",trade
+Clamperl,Huntail,0,Deep Sea Tooth,"Evolves being traded,  Deep Sea Tooth",trade
+Clamperl,Gorebyss,0,Deep Sea Scale,"Evolves being traded,  Deep Sea Scale",trade
+Boldore,Gigalith,0,null,"Evolves being traded, ",trade
+Gurdurr,Conkeldurr,0,null,"Evolves being traded, ",trade
+Karrablast,Escavalier,0,Shelmet,"Evolves being traded, Trade with Shelmet",trade
+Shelmet,Accelgor,0,Karrablast,"Evolves being traded, Trade with Karrablast",trade
+Spritzee,Aromatisse,0,Sachet,"Evolves being traded,  Sachet",trade
+Swirlix,Slurpuff,0,Whipped Dream,"Evolves being traded,  Whipped Dream",trade
+Phantump,Trevenant,0,null,"Evolves being traded, ",trade
+Pumpkaboo(Average Size),Gourgeist(Average Size),0,null,"Evolves being traded, ",trade
+Pichu,Pikachu,0,null,evolves through friendship ,friendship
+Cleffa,Clefairy,0,null,evolves through friendship ,friendship
+Igglybuff,Jigglypuff,0,null,evolves through friendship ,friendship
+Golbat,Crobat,0,null,evolves through friendship ,friendship
+Meowth(Alolan Meowth),Persian(Alolan Persian),0,null,evolves through friendship ,friendship
+Chansey,Blissey,0,null,evolves through friendship ,friendship
+Eevee,Espeon,0,null,evolves through friendship Daytime,friendship
+Eevee,Umbreon,0,null,evolves through friendship Nighttime,friendship
+Eevee,Sylveon,0,null,evolves through friendship after Fairy-type move learnedand either ♥♥ Affection in Gen 6-7 or high friendship in Gen 8+,friendship
+Munchlax,Snorlax,0,null,evolves through friendship ,friendship
+Togepi,Togetic,0,null,evolves through friendship ,friendship
+Azurill,Marill,0,null,evolves through friendship ,friendship
+Budew,Roselia,0,null,evolves through friendship Daytime,friendship
+Chingling,Chimecho,0,null,evolves through friendship Nighttime,friendship
+Buneary,Lopunny,0,null,evolves through friendship ,friendship
+Riolu,Lucario,0,null,evolves through friendship Daytime,friendship
+Woobat,Swoobat,0,null,evolves through friendship ,friendship
+Swadloon,Leavanny,0,null,evolves through friendship ,friendship
+Type: Null,Silvally,0,null,evolves through friendship ,friendship
+Snom,Frosmoth,0,null,evolves through friendship Nighttime,friendship
+Primeape,Annihilape,0,null,Use Rage Fist 20 times,status
+Lickitung,Lickilicky,0,Rollout,after Rollout learned,status
+Happiny,Chansey,0,Oval Stone,"hold Oval Stone, Daytime",status
+Tangela,Tangrowth,0,Ancient Power,after Ancient Power learned,status
+Mime Jr.,Mr. Mime,0,Mimic,"after Mimic learned, outside Galar",status
+Mime Jr.,Mr. Mime(Galarian Mr. Mime),0,Mimic,"after Mimic learned, in Galar",status
+Bonsly,Sudowoodo,0,Mimic,after Mimic learned,status
+Aipom,Ambipom,0,Double Hit,after Double Hit learned,status
+Yanma,Yanmega,0,Ancient Power,after Ancient Power learned,status
+Gligar,Gliscor,0,Razor Fang,"hold Razor Fang, Nighttime",status
+Sneasel,Weavile,0,Razor Claw,"hold Razor Claw, Nighttime",status
+Piloswine,Mamoswine,0,Ancient Power,after Ancient Power learned,status
+Mantyke,Mantine,0,Remoraid,with Remoraid in party,status
+Nosepass,Probopass,0,Magnetic Field,level up in a Magnetic Field area,status
+Yamask(Galarian Yamask),Runerigus,0,null,near Dusty Bowl,status
+Bisharp,Kingambit,0,null,defeat 3 Bisharp that are holding Leader's Crest,status
+Steenee,Tsareena,0,Stomp,after Stomp learned,status
+Poipole,Naganadel,0,Dragon Pulse,after Dragon Pulse learned,status
+Meltan,Melmetal,0,null,"Pokémon GO only, 400 Meltan Candies",status
+Milcery,Alcremie,0,null,spin around holding Sweet,status
+Dipplin,Hydrapple,0,Dragon Cheer,after Dragon Cheer learned,status
+Farfetch'd(Galarian Farfetch'd),Sirfetch'd,0,null,achieve 3 critical hits in one battle,status
+Clobbopus,Grapploct,0,Taunt,after Taunt learned,status
+Stantler,Wyrdeer,0,null,use Psyshield Bash 20 times in Agile Style,status
+Basculin(White-Striped Form),Basculegion(Male),0,null,"Male, receive 294 recoil damage in battle",status
+Basculin(White-Striped Form),Basculegion(Female),0,null,"Female, receive 294 recoil damage in battle",status
+Qwilfish(Hisuian Qwilfish),Overqwil,0,null,use Barb Barrage 20 times in Strong Style,status
+Girafarig,Farigiraf,0,Twin Beam,after Twin Beam learned,status
+Dunsparce,Dudunsparce(Two-Segment Form),0,Hyper Drill,after Hyper Drill learned,status
+Dunsparce,Dudunsparce(Three-Segment Form),0,Hyper Drill,"after Hyper Drill learned, rare",status
+Rellor,Rabsca,0,null,"walk 1,000 steps in Let's Go mode",status
+Pawmo,Pawmot,0,null,"walk 1,000 steps in Let's Go mode",status
+Bramblin,Brambleghast,0,null,"walk 1,000 steps in Let's Go mode",status
+Gimmighoul(Chest Form),Gholdengo,0,null,collect 999 Coins from Roaming Form,status

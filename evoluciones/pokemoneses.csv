@@ -1,57 +1,50 @@
 ﻿Evolving_from,Evolving_to,level,item,description,type
-Tauros,Tauros(Combat Breed),,,Found in the wild,other
-Tauros,Tauros(Blaze Breed),,,Found in the wild,other
-Tauros,Tauros(Aqua Breed),,,Found in the wild,other
-Castform,Castform(Sunny Form),,,Changes on sunny weather,other
-Castform,Castform(Rainy Form),,,Changes on rainy  weather,other
-Castform,Castform(Snowy Form),,,Changes in snowy weather,other
-Kyogre,Kyogre(Primal Kyogre),,,temporarily undergoes Primal Reversion if it is holding a Blue Orb in battle,other
-Groudon,Groudon(Primal Groudon),,, temporarily undergoes  Primal Reversion if it is holding a Red Orb in battle,other
-Deoxys(Normal Forme),Deoxys(Attack Forme),,,Deoxys can change forms by interacting with certain meteorites.,other
-Deoxys(Normal Forme),Deoxys(Defense Forme),,,Deoxys can change forms by interacting with certain meteorites.,other
-Deoxys(Normal Forme),Deoxys(Speed Forme),,,Deoxys can change forms by interacting with certain meteorites.,other
-Burmy,Burmy(Plant Cloak),,,Burmy can change forms depending on the environment in which it last participated in a battle.,other
-Burmy,Burmy(Sandy Cloak),,,Burmy can change forms depending on the environment in which it last participated in a battle.,other
-Burmy,Burmy(Trash Cloak),,,Burmy can change forms depending on the environment in which it last participated in a battle.,other
-Rotom,Rotom(Heat Rotom),,,Rotom can change forms based on the appliance it is possessing.,other
-Rotom,Rotom(Wash Rotom),,,Rotom can change forms based on the appliance it is possessing.,other
-Rotom,Rotom(Frost Rotom),,,Rotom can change forms based on the appliance it is possessing.,other
-Rotom,Rotom(Fan Rotom),,,Rotom can change forms based on the appliance it is possessing.,other
-Rotom,Rotom(Mow Rotom),,,Rotom can change forms based on the appliance it is possessing.,other
-Dialga,Dialga(Origin Forme),, Adamant Crystal,Dialga can change forms by being given an Adamant Crystal.,other
-Palkia,Palkia(Origin Forme),,Lustrous Globe,Palkia can change forms by being given a Lustrous Globe.,other
-Giratina,Giratina(Origin Forme),,Griseous Core,Giratina can change forms by being given a Griseous Core.,other
-Shaymin(Land Forme),Shaymin(Sky Forme),,,Shaymin can change forms by being exposed to a Gracidea.,other
-Darmanitan(Standard Mode),Darmanitan(Zen Mode),,,Darmanitan with the Ability Zen Mode can change forms in battle after dropping to below half its max HP in battle.,other
-Darmanitan(Galarian Standard Mode),Darmanitan(Galarian Zen Mode),,,Darmanitan with the Ability Zen Mode can change forms in battle after dropping to below half its max HP in battle.,other
-Tornadus(Incarnate Forme),Tornadus(Therian Forme),,,Can change forms by being exposed to the Reveal Glass.,other
-Thundurus(Incarnate Forme),Thundurus(Therian Forme),,,Can change forms by being exposed to the Reveal Glass.,other
-Landorus(Incarnate Forme),Landorus(Therian Forme),,,Can change forms by being exposed to the Reveal Glass.,other
-Enamorus(Incarnate Forme),Enamorus(Therian Forme),,,Can change forms by being exposed to the Reveal Glass.,other
-Kyurem,Kyurem(White Kyurem),,,Can change forms through the use of the DNA Splicers, which fuses it with Reshiram.,other
-Kyurem,Kyurem(Black Kyurem),,,Can change forms through the use of the DNA Splicers, which fuses it with  Zekrom.,other
-Keldeo(Ordinary Form),Keldeo(Resolute Form),,,Will change forms in Pokémon Black 2 and White 2 onwards if it knows the move Secret Sword.,other
-Meloetta(Aria Forme),Meloetta(Pirouette Forme),,,Meloetta can change forms in battle by using the move Relic Song.,other
-Greninja,Greninja(Ash-Greninja),,,Greninja with the Ability Battle Bond will transform into Ash-Greninja after it directly causes an opponent to faint without ending the battle.,other
-Aegislash(Blade Forme),Aegislash(Shield Forme),,,Aegislash can change forms in battle due to its Ability Stance Change.,other
-Aegislash(Shield Forme),Aegislash(Blade Forme),,,Aegislash can change forms in battle due to its Ability Stance Change.,other
-Zygarde,Zygarde(50% Forme),,, Zygarde can be broken down and re-assembled into a different form by using the Zygarde Cube.,other
-Zygarde,Zygarde(10% Forme),,, Zygarde can be broken down and re-assembled into a different form by using the Zygarde Cube.,other
-Zygarde,Zygarde(Complete Forme),,, Zygarde can be broken down and re-assembled into a different form by using the Zygarde Cube.,other
-Hoopa(Hoopa Confined),Hoopa(Hoopa Unbound),,,Hoopa can change forms by being exposed to the Prison Bottle.,other
-Oricorio(Baile Style),Oricorio(Pom-Pom Style),,,Oricorio can change forms by sipping Nectar.,other
-Oricorio(Baile Style),Oricorio(Pa'u Style),,,Oricorio can change forms by sipping Nectar.,other
-Oricorio(Baile Style),Oricorio(Sensu Style),,,Oricorio can change forms by sipping Nectar.,other
-Wishiwashi(Solo Form),Wishiwashi(School Form),,,Wishiwashi can change forms due to its Ability Schooling if it is at least level 20.,other
-Minior(Meteor Form),Minior(Core Form),,,Minior can change between its forms using its Ability Shields Down.,other
-Necrozma,Necrozma(Dusk Mane Necrozma),,,Necrozma can change forms through use of the N-Solarizer and N-Lunarizer and fuse with  Solgaleo,other
-Necrozma,Necrozma(Dawn Wings Necrozma),,,Necrozma can change forms through use of the N-Solarizer and N-Lunarizer and fuse with  Lunala,other
-Necrozma,Necrozma(Ultra Necrozma),,,Dusk Mane or Dawn Wings  Ultra Burst during battle to attain the Ultra Necrozma form.,other
-Eiscue(Ice Face),Eiscue(Noice Face),,,Eiscue switches between its forms with its Ability Ice Face.,other
-Morpeko(Hangry Mode),Morpeko(Full Belly Mode),,,Morpeko switches between its forms with its Ability Hunger Switch.,other
-Morpeko(Full Belly Mode),Morpeko(Hangry Mode),,,Morpeko switches between its forms with its Ability Hunger Switch.,other
-Zacian(Hero of Many Battles),Zacian(Crowned Sword),,Rusted Sword,Zacian can change forms by being exposed to the Rusted Sword.,other
-Zamazenta(Hero of Many Battles),Zamazenta(Crowned Shield),,Rusted Shield,Zamazenta can change forms by being exposed to the Rusted Shield.,other
-Calyrex,Calyrex(Ice Rider),,,Calyrex can change forms through the use of the Reins of Unity, which combines it with Glastrier.,other
-Calyrex,Calyrex(Shadow Rider),,,Calyrex can change forms through the use of the Reins of Unity, which combines it with  Spectrier.,other
-Palafin(Zero Form),Palafin(Hero Form),,,Palafin can change forms during battle due to its Ability Zero to Hero.,other
+Castform,Castform(Sunny Form),0,null,Changes on sunny weather,other
+Castform,Castform(Rainy Form),0,null,Changes on rainy  weather,other
+Castform,Castform(Snowy Form),0,null,Changes in snowy weather,other
+Kyogre,Kyogre(Primal Kyogre),0,null,temporarily undergoes Primal Reversion if it is holding a Blue Orb in battle,other
+Groudon,Groudon(Primal Groudon),0,null,temporarily undergoes  Primal Reversion if it is holding a Red Orb in battle,other
+Deoxys(Normal Forme),Deoxys(Attack Forme),0,null,Deoxys can change forms by interacting with certain meteorites.,other
+Deoxys(Normal Forme),Deoxys(Defense Forme),0,null,Deoxys can change forms by interacting with certain meteorites.,other
+Deoxys(Normal Forme),Deoxys(Speed Forme),0,null,Deoxys can change forms by interacting with certain meteorites.,other
+Rotom,Rotom(Heat Rotom),0,null,Rotom can change forms based on the appliance it is possessing.,other
+Rotom,Rotom(Wash Rotom),0,null,Rotom can change forms based on the appliance it is possessing.,other
+Rotom,Rotom(Frost Rotom),0,null,Rotom can change forms based on the appliance it is possessing.,other
+Rotom,Rotom(Fan Rotom),0,null,Rotom can change forms based on the appliance it is possessing.,other
+Rotom,Rotom(Mow Rotom),0,null,Rotom can change forms based on the appliance it is possessing.,other
+Dialga,Dialga(Origin Forme),0,Adamant Crystal,Dialga can change forms by being given an Adamant Crystal.,other
+Palkia,Palkia(Origin Forme),0,Lustrous Globe,Palkia can change forms by being given a Lustrous Globe.,other
+Giratina,Giratina(Origin Forme),0,Griseous Core,Giratina can change forms by being given a Griseous Core.,other
+Shaymin(Land Forme),Shaymin(Sky Forme),0,null,Shaymin can change forms by being exposed to a Gracidea.,other
+Darmanitan(Standard Mode),Darmanitan(Zen Mode),0,null,Darmanitan with the Ability Zen Mode can change forms in battle after dropping to below half its max HP in battle.,other
+Darmanitan(Galarian Standard Mode),Darmanitan(Galarian Zen Mode),0,null,Darmanitan with the Ability Zen Mode can change forms in battle after dropping to below half its max HP in battle.,other
+Tornadus(Incarnate Forme),Tornadus(Therian Forme),0,null,Can change forms by being exposed to the Reveal Glass.,other
+Thundurus(Incarnate Forme),Thundurus(Therian Forme),0,null,Can change forms by being exposed to the Reveal Glass.,other
+Landorus(Incarnate Forme),Landorus(Therian Forme),0,null,Can change forms by being exposed to the Reveal Glass.,other
+Enamorus(Incarnate Forme),Enamorus(Therian Forme),0,null,Can change forms by being exposed to the Reveal Glass.,other
+Kyurem,Kyurem(White Kyurem),0,null,Can change forms through the use of the DNA Splicers which fuses it with Reshiram.,other
+Kyurem,Kyurem(Black Kyurem),0,null,Can change forms through the use of the DNA Splicers which fuses it with  Zekrom.,other
+Keldeo(Ordinary Form),Keldeo(Resolute Form),0,null,Will change forms in Pokémon Black 2 and White 2 onwards if it knows the move Secret Sword.,other
+Meloetta(Aria Forme),Meloetta(Pirouette Forme),0,null,Meloetta can change forms in battle by using the move Relic Song.,other
+Greninja,Greninja(Ash-Greninja),0,null,Greninja with the Ability Battle Bond will transform into Ash-Greninja after it directly causes an opponent to faint without ending the battle.,other
+Aegislash(Blade Forme),Aegislash(Shield Forme),0,null,Aegislash can change forms in battle due to its Ability Stance Change.,other
+Aegislash(Shield Forme),Aegislash(Blade Forme),0,null,Aegislash can change forms in battle due to its Ability Stance Change.,other
+Zygarde(10% Forme),Zygarde(50% Forme),0,null,Zygarde can be broken down and re-assembled into a different form by using the Zygarde Cube.,other
+Zygarde(50% Forme),Zygarde(Complete Forme),0,null,Zygarde can be broken down and re-assembled into a different form by using the Zygarde Cube.,other
+Hoopa(Hoopa Confined),Hoopa(Hoopa Unbound),0,null,Hoopa can change forms by being exposed to the Prison Bottle.,other
+Oricorio(Baile Style),Oricorio(Pom-Pom Style),0,null,Oricorio can change forms by sipping Nectar.,other
+Oricorio(Baile Style),Oricorio(Pa'u Style),0,null,Oricorio can change forms by sipping Nectar.,other
+Oricorio(Baile Style),Oricorio(Sensu Style),0,null,Oricorio can change forms by sipping Nectar.,other
+Wishiwashi(Solo Form),Wishiwashi(School Form),0,null,Wishiwashi can change forms due to its Ability Schooling if it is at least level 20.,other
+Minior(Meteor Form),Minior(Core Form),0,null,Minior can change between its forms using its Ability Shields Down.,other
+Necrozma,Necrozma(Dusk Mane Necrozma),0,null,Necrozma can change forms through use of the N-Solarizer and N-Lunarizer and fuse with  Solgaleo,other
+Necrozma,Necrozma(Dawn Wings Necrozma),0,null,Necrozma can change forms through use of the N-Solarizer and N-Lunarizer and fuse with  Lunala,other
+Necrozma,Necrozma(Ultra Necrozma),0,null,Dusk Mane or Dawn Wings  Ultra Burst during battle to attain the Ultra Necrozma form.,other
+Eiscue(Ice Face),Eiscue(Noice Face),0,null,Eiscue switches between its forms with its Ability Ice Face.,other
+Morpeko(Hangry Mode),Morpeko(Full Belly Mode),0,null,Morpeko switches between its forms with its Ability Hunger Switch.,other
+Morpeko(Full Belly Mode),Morpeko(Hangry Mode),0,null,Morpeko switches between its forms with its Ability Hunger Switch.,other
+Zacian(Hero of Many Battles),Zacian(Crowned Sword),0,Rusted Sword,Zacian can change forms by being exposed to the Rusted Sword.,other
+Zamazenta(Hero of Many Battles),Zamazenta(Crowned Shield),0,Rusted Shield,Zamazenta can change forms by being exposed to the Rusted Shield.,other
+Calyrex,Calyrex(Ice Rider),0,null,Calyrex can change forms through the use of the Reins of Unity which combines it with Glastrier.,other
+Calyrex,Calyrex(Shadow Rider),0,null,Calyrex can change forms through the use of the Reins of Unity which combines it with  Spectrier.,other
+Palafin(Zero Form),Palafin(Hero Form),0,null,Palafin can change forms during battle due to its Ability Zero to Hero.,other
