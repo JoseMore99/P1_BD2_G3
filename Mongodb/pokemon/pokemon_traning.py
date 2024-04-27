@@ -1,9 +1,12 @@
-import db
-import pandas as pd
 import ast
+import pandas as pd
+import pymongo
 
-
-# Leer el archivo CSV usando pandas
+client = pymongo.MongoClient("mongodb://localhost:27017/")
+db = client["pokemondb"]
+collection = db["pokemons"]
+def convertir_a_cadena(numero):
+    return str(numero).zfill(4)
 data = pd.read_csv('J:/universidad/bases 2/P1_BD2_G3/pokemons/Training.csv')
 
 #pokedex_id,EV_yield,catch_rate,base_friendship,base_exp,growth_rate cles
@@ -14,10 +17,21 @@ base_friendship = data['base_friendship']
 base_exp = data['base_exp']
 growth_rate = data['growth_rate']
 for i in range(len(pokedex_id)):
-    catch=catch_rate.iloc[i].split(" ")
-    if base_friendship.iloc[i]=="—":
-        db.query("""INSERT INTO poke_g3.training
-    (pokemon_id, ev_yield, catch_rate, base_friendship, base_exp, growth_rate)
-    VALUES((SELECT id FROM poke_g3.pokemon WHERE  pokedex_id = %s LIMIT 1),%s,%s,%s,%s,%s);""", 
-    (int(pokedex_id.iloc[i]),EV_yield.iloc[i],catch[0],'-1',-1,growth_rate.iloc[i]))
+    if base_exp.iloc[i]!='—':
+
+        documento = { 
+            "EV_yield":EV_yield.iloc[i],
+            "catch_rate":str(catch_rate.iloc[i]),
+            "base_friendship":str( base_friendship.iloc[i]),
+            "base_exp":int( base_exp.iloc[i]),
+            "growth_rate":growth_rate.iloc[i]
+                        }
+    else:
+        documento = { 
+            "EV_yield":EV_yield.iloc[i],
+            "catch_rate":str(catch_rate.iloc[i]),
+            "growth_rate":growth_rate.iloc[i]
+                        }
+    filtro={"pokedex_id":convertir_a_cadena(pokedex_id.iloc[i])}
+    collection.update_many(filtro, {"$set": {"training": documento}})
 

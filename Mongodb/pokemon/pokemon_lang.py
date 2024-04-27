@@ -1,8 +1,12 @@
-import db
-import pandas as pd
 import ast
+import pandas as pd
+import pymongo
 
-
+client = pymongo.MongoClient("mongodb://localhost:27017/")
+db = client["pokemondb"]
+collection = db["pokemons"]
+def convertir_a_cadena(numero):
+    return str(numero).zfill(4)
 # Leer el archivo CSV usando pandas
 data = pd.read_csv('J:/universidad/bases 2/P1_BD2_G3/pokemons/pokemon_languages.csv')
 
@@ -11,7 +15,13 @@ pokedex_id = data['pokedex_id']
 language = data['language']
 name = data['name']
 for i in range(len(pokedex_id)):
-        db.query_con_retorno("""INSERT INTO poke_g3.pokemon_language
-(pokemon_id, language_id, name)
-VALUES((SELECT id FROM poke_g3.pokemon WHERE pokedex_id = %s LIMIT 1), (SELECT id FROM poke_g3.languages WHERE name = %s), %s);""",
-    (int(pokedex_id.iloc[i]),language.iloc[i],name.iloc[i]))
+        documento={}
+        filtro={"pokedex_id":convertir_a_cadena(pokedex_id.iloc[i])}
+        documento = collection.find_one(filtro)
+        try:
+                documento["languages"][language.iloc[i]]=str(name.iloc[i])
+        except:
+                documento["languages"]={language.iloc[i]:str(name.iloc[i])}
+        #print( documento["desc_gen_game"])
+        # a = input("jiji")
+        collection.update_many(filtro, {"$set": {"languages": documento["languages"]}})

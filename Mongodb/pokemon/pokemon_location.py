@@ -1,9 +1,12 @@
-import db
-import pandas as pd
 import ast
+import pandas as pd
+import pymongo
 
-
-# Leer el archivo CSV usando pandas
+client = pymongo.MongoClient("mongodb://localhost:27017/")
+db = client["pokemondb"]
+collection = db["pokemons"]
+def convertir_a_cadena(numero):
+    return str(numero).zfill(4)
 data = pd.read_csv('J:/universidad/bases 2/P1_BD2_G3/pokemons/pokemon_location.csv')
 
 # pokedex_id,game,location 
@@ -12,13 +15,16 @@ game = data['game']
 location = data['location']
 game= game.apply(ast.literal_eval)
 for i in range(len(pokedex_id)):
+    documento={}
+    filtro={"pokedex_id":convertir_a_cadena(pokedex_id.iloc[i])}
+    documento = collection.find_one(filtro)
     for j in game.iloc[i]:
         lugar = str(location.iloc[i]).split(", ")
-        for k in lugar:
-            place=k
-            if k.isdigit():
-                place = "Route "+place
-            db.query_con_retorno("""INSERT INTO poke_g3.pokemon_location
-    (pokemon_id, location_id)
-    VALUES((SELECT id FROM poke_g3.pokemon WHERE pokedex_id = %s LIMIT 1),
-        (SELECT id FROM poke_g3.location WHERE location = %s  AND gen_games_id = (SELECT id FROM poke_g3.gen_games WHERE name = %s) LIMIT 1));""", (int(pokedex_id.iloc[i]),place,j))
+        for k in range(len(lugar)):
+            if lugar[k].isdigit():
+                lugar[k] = "Route "+lugar[k]
+        documento["location"][j]=lugar
+    collection.update_many(filtro, {"$set": {"location": documento["location"]}})
+    #print(documento["location"])
+    #a = input("jiji")
+        #print(lugar)

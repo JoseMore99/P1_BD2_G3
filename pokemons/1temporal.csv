@@ -1,0 +1,3 @@
+pokedex_number,name,types,total,hp,attack,defense,special_attack,special_defense,speed
+0029,Nidoran♀,['Poison'],275,55,47,52,40,40,41
+0032,Nidoran♂,['Poison'],273,46,57,40,40,40,50
